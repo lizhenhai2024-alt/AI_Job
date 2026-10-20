@@ -1,7 +1,7 @@
 {
   "company": "赛轮轮胎",
-  "count": 47,
-  "updatedAt": "2026-10-20T01:21:35.973Z",
+  "count": 48,
+  "updatedAt": "2026-10-20T14:24:24.818Z",
   "jobs": [
     {
       "id": "beisen-ccaee1161b20",
@@ -1314,6 +1314,106 @@
       "source": "公司官方北森校招官网",
       "officialURL": "https://sailuntire.zhiye.com/campus/detail?jobAdId=e1f90488-0496-43a2-b4fb-fb0e9c8206fb",
       "publishedAt": "2026-08-19",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "投递简历→测评→面试沟通→发放offer→录用签约",
+      "recruitmentProcessEvidence": "E2 | 官方校招简章（大连海事大学就业网） | https://myjob.dlmu.edu.cn/campus/view/id/868435 | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | 官方校招简章 | https://myjob.dlmu.edu.cn/campus/view/id/868435 | 2026-09-17"
+    },
+    {
+      "id": "beisen-a990937cd84a",
+      "company": "赛轮轮胎",
+      "title": "高管秘书岗(J16088)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1.教育背景：本科及以上学历，工科、文科类专业均可",
+        "hardRestriction": true,
+        "hardClauses": [
+          "1.教育背景：本科及以上学历",
+          "工科、文科类专业均可"
+        ]
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "山东省·青岛市",
+      "jobDescription": "1.日程统筹：统筹高管日程、重要会议及大型活动，保障高管工作高效运转。 2.文书会务：随同出席重要会议/活动并提炼纪要；起草、审核各类综合公文（报告、信函等）。 3.督办闭环：准确传达高管指示，跨部门协调资源，督办重点工作落地形成闭环。 4.商务接待：全流程跟进集团重要商务接待，把控细节，确保各环节运转流畅。 5.辅助决策：整理分析业务数据，辅助高管决策；完成交办的其他专项工作。",
+      "jobRequirements": "1.教育背景：本科及以上学历，工科、文科类专业均可。 2.工作经验：经验不限，具备相关岗位经验者优先。 3.语言能力：具备出色的外语沟通及跨文化交流能力（英语或其他小语种可作为工作语言）。 4.专业技能：具备出色的公文写作能力；熟练使用办公软件，逻辑清晰，具备一定的数据分析能力。 5.综合素质：具备极强的统筹应变、抗压执行能力与高自驱力，能独立解决复杂问题，且原则性强、保密意识极高。",
+      "JD": "1.日程统筹：统筹高管日程、重要会议及大型活动，保障高管工作高效运转。 2.文书会务：随同出席重要会议/活动并提炼纪要；起草、审核各类综合公文（报告、信函等）。 3.督办闭环：准确传达高管指示，跨部门协调资源，督办重点工作落地形成闭环。 4.商务接待：全流程跟进集团重要商务接待，把控细节，确保各环节运转流畅。 5.辅助决策：整理分析业务数据，辅助高管决策；完成交办的其他专项工作。\n1.教育背景：本科及以上学历，工科、文科类专业均可。 2.工作经验：经验不限，具备相关岗位经验者优先。 3.语言能力：具备出色的外语沟通及跨文化交流能力（英语或其他小语种可作为工作语言）。 4.专业技能：具备出色的公文写作能力；熟练使用办公软件，逻辑清晰，具备一定的数据分析能力。 5.综合素质：具备极强的统筹应变、抗压执行能力与高自驱力，能独立解决复杂问题，且原则性强、保密意识极高。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1.教育背景：本科及以上学历，工科、文科类专业均可"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "资料/流程"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语",
+        "数据分析"
+      ],
+      "experienceKeywords": [
+        "数据",
+        "跨文化"
+      ],
+      "preferenceTags": [
+        "跨文化"
+      ],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://sailuntire.zhiye.com/campus/detail?jobAdId=a09074b9-cd4c-4eea-b73d-262e81cf2fbb",
+      "publishedAt": "2026-10-20",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "",

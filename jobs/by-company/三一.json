@@ -1,7 +1,7 @@
 {
   "company": "三一集团",
-  "count": 58,
-  "updatedAt": "2026-10-20T01:21:35.973Z",
+  "count": 59,
+  "updatedAt": "2026-10-20T14:24:24.818Z",
   "jobs": [
     {
       "id": "beisen-be3d41955a75",
@@ -5183,6 +5183,91 @@
       "source": "公司官方北森校招官网",
       "officialURL": "https://sany.zhiye.com/campus/detail?jobAdId=191c3e22-a686-424e-8095-8f7e757d48ba",
       "publishedAt": "2026-08-26",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申→测评→HR面试→专面/终面→OFFER",
+      "recruitmentProcessEvidence": "E2 | 吉林大学就业网三一校招 | https://jdjyw.jlu.edu.cn/mportal/recruit/details?id=1495b60a048c4fdfa833d8630c85e0e6 | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | 吉林大学就业网三一校招 | https://jdjyw.jlu.edu.cn/mportal/recruit/details?id=1495b60a048c4fdfa833d8630c85e0e6 | 2026-09-17"
+    },
+    {
+      "id": "beisen-8aabc13450f5",
+      "company": "三一集团",
+      "title": "Global Talent Development Program",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "All academic disciplines are welcome. Roles are matched to candidates’ background and capabilities; specialist positions, including R&D roles, require relevant foundational knowledge.",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "全国",
+      "jobDescription": "Program Overview SANY Group’s Global Talent Development Program welcomes international students of all nationalities. Supporting SANY’s global growth, the program matches participants to roles based on their academic background, strengths, career interests and business needs. Through on-the-job learning and project experience, participants develop professional expertise, a global perspective and cross-cultural collaboration skills. Participants may work in China or take an overseas assignment in their home country. Work locations and arrangements will be determined based on business needs and mutual agreement. Development Tracks Opportunities span a wide range of fields, including but not limited to: 1. Global Management: Strategic planning, business analysis, international business operations and project management. 2. Global Sales and Service: Market development, customer and channel management, product sales, technical support, after-sales service and spare parts operations. 3. Research and Development: Mechanical design, electrical and control engineering, new energy technologies, software development, artificial intelligence. 4. Corporate Functions: Human resources, finance, legal and compliance, procurement, supply chain, logistics, digitalization and other functional areas. Key Responsibilities Specific responsibilities depend on the assigned development track and role. Examples include: 1. Global Management: Contribute to industry research, business analysis and key projects; support business planning, cross-functional coordination and operational improvement. 2. Global Sales and Service: Support market research, customer and channel development and order execution, or provide technical support, after-sales service and customer issue resolution. 3. Research and Development: Contribute to product design, software or algorithm development, testing, validation and technical improvements in line with your expertise. 4. Corporate Functions: Undertake assignments within the relevant function, improve processes and collaborate across teams to support business operations. 5. Complete assigned learning activities, project work and progress reviews; build knowledge of SANY’s products and business while developing professional and problem-solving skills. 6. Apply language and cross-cultural communication skills to support collaboration between teams in China and overseas teams, customers or partners, helping deliver business activities.",
+      "jobRequirements": "1. Open to international students graduating in 2027, whether studying in China or elsewhere. 2. All academic disciplines are welcome. Roles are matched to candidates’ background and capabilities; specialist positions, including R&D roles, require relevant foundational knowledge. 3. Ability to communicate in English or the working language required for the role. Chinese language skills are preferred. 4. Strong learning ability, a sense of responsibility, initiative and teamwork skills, with the ability to adapt to a multicultural workplace. 5. A clear interest in the chosen track. Relevant internships, research projects, competitions or extracurricular experience are a plus. 6. Interest in working in China or returning to your home country, with the ability to meet agreed location and business travel requirements for the chosen role. Apply by email: sanycampus@163.com",
+      "JD": "Program Overview SANY Group’s Global Talent Development Program welcomes international students of all nationalities. Supporting SANY’s global growth, the program matches participants to roles based on their academic background, strengths, career interests and business needs. Through on-the-job learning and project experience, participants develop professional expertise, a global perspective and cross-cultural collaboration skills. Participants may work in China or take an overseas assignment in their home country. Work locations and arrangements will be determined based on business needs and mutual agreement. Development Tracks Opportunities span a wide range of fields, including but not limited to: 1. Global Management: Strategic planning, business analysis, international business operations and project management. 2. Global Sales and Service: Market development, customer and channel management, product sales, technical support, after-sales service and spare parts operations. 3. Research and Development: Mechanical design, electrical and control engineering, new energy technologies, software development, artificial intelligence. 4. Corporate Functions: Human resources, finance, legal and compliance, procurement, supply chain, logistics, digitalization and other functional areas. Key Responsibilities Specific responsibilities depend on the assigned development track and role. Examples include: 1. Global Management: Contribute to industry research, business analysis and key projects; support business planning, cross-functional coordination and operational improvement. 2. Global Sales and Service: Support market research, customer and channel development and order execution, or provide technical support, after-sales service and customer issue resolution. 3. Research and Development: Contribute to product design, software or algorithm development, testing, validation and technical improvements in line with your expertise. 4. Corporate Functions: Undertake assignments within the relevant function, improve processes and collaborate across teams to support business operations. 5. Complete assigned learning activities, project work and progress reviews; build knowledge of SANY’s products and business while developing professional and problem-solving skills. 6. Apply language and cross-cultural communication skills to support collaboration between teams in China and overseas teams, customers or partners, helping deliver business activities.\n1. Open to international students graduating in 2027, whether studying in China or elsewhere. 2. All academic disciplines are welcome. Roles are matched to candidates’ background and capabilities; specialist positions, including R&D roles, require relevant foundational knowledge. 3. Ability to communicate in English or the working language required for the role. Chinese language skills are preferred. 4. Strong learning ability, a sense of responsibility, initiative and teamwork skills, with the ability to adapt to a multicultural workplace. 5. A clear interest in the chosen track. Relevant internships, research projects, competitions or extracurricular experience are a plus. 6. Interest in working in China or returning to your home country, with the ability to meet agreed location and business travel requirements for the chosen role. Apply by email: sanycampus@163.com",
+      "jdEvidence": {
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "All academic disciplines are welcome. Roles are matched to candidates’ background and capabilities; specialist positions, including R&D roles, require relevant foundational knowledge."
+        ],
+        "eligibilityClauses": [
+          "Open to international students graduating in 2027, whether studying in China or elsewhere."
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://sany.zhiye.com/campus/detail?jobAdId=c791b8b4-f607-4924-9885-3e4a17731760",
+      "publishedAt": "2026-10-20",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "",

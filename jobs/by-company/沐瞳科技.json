@@ -1,7 +1,7 @@
 {
   "company": "沐瞳科技",
-  "count": 61,
-  "updatedAt": "2026-10-20T01:21:35.973Z",
+  "count": 62,
+  "updatedAt": "2026-10-20T14:24:24.818Z",
   "jobs": [
     {
       "id": "feishu-c93cd7-7669720585748482358",
@@ -2340,6 +2340,94 @@
       "source": "沐瞳科技官方飞书招聘",
       "officialURL": "https://moonton.jobs.feishu.cn/campus/m/position/7669730333851650313/detail",
       "publishedAt": "2026-08-03",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申→笔试/面试/测评（无统一笔试）→Offer",
+      "recruitmentProcessEvidence": "E2 | 四川美术学院就业网校招简章 | https://www.scfai.edu.cn/xsc/info/1015/20302.htm | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E3 | 沐瞳校招FAQ文档 | https://portal-oss.zhiye.com/104294/resource/83fd87fc-6317-400b-8682-e0f6ba8a91c4.html | 2026-09-17"
+    },
+    {
+      "id": "feishu-c93cd7-7698616533346502954",
+      "company": "沐瞳科技",
+      "title": "【2027届秋招】海外投放素材",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "jobDescription": "/",
+      "jobRequirements": "/",
+      "JD": "/",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "海外",
+        "招聘"
+      ],
+      "preferenceTags": [
+        "国际业务"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "沐瞳科技官方飞书招聘",
+      "officialURL": "https://moonton.jobs.feishu.cn/campus/m/position/7698616533346502954/detail",
+      "publishedAt": "2026-10-20",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "",

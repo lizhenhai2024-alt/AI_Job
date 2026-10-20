@@ -1,7 +1,7 @@
 {
   "company": "洲明科技",
-  "count": 9,
-  "updatedAt": "2026-10-20T01:21:35.973Z",
+  "count": 10,
+  "updatedAt": "2026-10-20T14:24:24.818Z",
   "jobs": [
     {
       "id": "beisen-4999ee99651f",
@@ -185,6 +185,96 @@
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "",
+      "recruitmentProcess": "线上网申→简历初筛→笔试→面试→测评→offer→三方",
+      "recruitmentProcessEvidence": "E2 | 西安电子科技大学就业网洲明科技校招 | https://job.xidian.edu.cn/teachin/view/id/125552 | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | 西安电子科技大学就业网洲明科技校招 | https://job.xidian.edu.cn/teachin/view/id/125552 | 2026-09-17"
+    },
+    {
+      "id": "beisen-fb72a76e914a",
+      "company": "洲明科技",
+      "title": "管培生（2027届校招）(J13741)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "5、电子、机械、光学、光电、通信、人工智能、软件、计算机类等理工科类专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "深圳",
+      "jobDescription": "【关于管培生项目】 管培生项目是洲明科技以培养具有企业DNA的“接班人”为目的，面向优秀高潜应届生的长期重点人才发展项目，在未来3-5年，洲明将由经营高管团队亲自一对一带教，把你打造成为集专业能力和管理能力为一身优秀人才！ 目前提供以下几个方向选择： 1、销售管培生：销售管培生（国际）、销售管培生（国内） 2、研发类管培生 3、职能类管培生",
+      "jobRequirements": "1、具有领导潜能，担任过学生干部优先 2、学习能力强、主动性强 3、成就动机强、志向远大 4、能够跨领域多角度地思考问题 5、电子、机械、光学、光电、通信、人工智能、软件、计算机类等理工科类专业优先",
+      "JD": "【关于管培生项目】 管培生项目是洲明科技以培养具有企业DNA的“接班人”为目的，面向优秀高潜应届生的长期重点人才发展项目，在未来3-5年，洲明将由经营高管团队亲自一对一带教，把你打造成为集专业能力和管理能力为一身优秀人才！ 目前提供以下几个方向选择： 1、销售管培生：销售管培生（国际）、销售管培生（国内） 2、研发类管培生 3、职能类管培生\n1、具有领导潜能，担任过学生干部优先 2、学习能力强、主动性强 3、成就动机强、志向远大 4、能够跨领域多角度地思考问题 5、电子、机械、光学、光电、通信、人工智能、软件、计算机类等理工科类专业优先",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "5、电子、机械、光学、光电、通信、人工智能、软件、计算机类等理工科类专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届",
+          "投递截止：2027-06-01"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "项目"
+      ],
+      "preferenceTags": [
+        "国际业务"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://unilumin.zhiye.com/campus/detail?jobAdId=7125e637-ad17-49b0-b806-1055cc543413",
+      "publishedAt": "2026-10-20",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "2027-06-01",
       "recruitmentProcess": "线上网申→简历初筛→笔试→面试→测评→offer→三方",
       "recruitmentProcessEvidence": "E2 | 西安电子科技大学就业网洲明科技校招 | https://job.xidian.edu.cn/teachin/view/id/125552 | 2026-09-17",
       "hasAssessment": "有",

@@ -1,7 +1,7 @@
 {
   "company": "安克创新",
   "count": 55,
-  "updatedAt": "2026-10-20T01:21:35.973Z",
+  "updatedAt": "2026-10-20T14:24:24.818Z",
   "jobs": [
     {
       "id": "anker-77955f08f358",
@@ -2824,6 +2824,101 @@
       "hasAssessmentEvidence": "E2 | 安克校招官网 | https://career.anker.com.cn/universities/recruitment/ | 2026-09-17；E4"
     },
     {
+      "id": "anker-d614b0ddfcf9",
+      "company": "安克创新",
+      "title": "AI软件产品经理-具身智能",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1.2027届毕业生，本科及以上学历，计算机、人工智能、自动化、机器人、电子信息、工业设计等相关专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "深圳",
+      "jobDescription": "你将参与： 1.机器人AI功能产品规划：参与机器人核心软件功能（智能感知、自主决策、人机交互）的需求分析、产品定义与方案设计，输出PRD并推动落地； 2.大模型与Agent能力产品化：探索LLM、多模态大模型、AI Agent在机器人场景的应用，设计语音交互、任务理解、主动服务等智能化体验； 3.全链路项目推进：与算法、软件、硬件、设计团队紧密协作，跟进产品开发、测试、上市全流程，对最终用户体验负责； 4.用户与数据洞察：通过用户调研、数据分析、竞品研究，持续挖掘用户痛点，驱动产品迭代与体验升级； 5.前沿趋势跟踪：持续关注具身智能、自动驾驶、智能座舱、AI Agent等领域的技术演进，将行业最佳实践转化为产品机会。",
+      "jobRequirements": "1.2027届毕业生，本科及以上学历，计算机、人工智能、自动化、机器人、电子信息、工业设计等相关专业优先； 2.热爱科技产品，对机器人、AI有强烈兴趣和好奇心，日常重度使用各类AI产品； 3.具备优秀的逻辑思维与结构化表达能力，能将模糊问题拆解为清晰可执行的方案； 4.有较强的用户同理心，善于观察和洞察真实需求，而非\"我觉得\"； 5.出色的跨团队沟通与推动能力，皮实抗压，乐于在快节奏环境中成长； 6.有独立产品/项目经验者优先：如完整的App/软硬件产品实习、AI应用开发、机器人/智能硬件相关课题或竞赛经历。 加分项 1.有智能驾驶产品经验（实习/课题/项目），理解感知、规划、决策等智驾产品逻辑； 2.有智能座舱产品经验，熟悉语音交互、多模态体验、车载生态； 3.有AI Agent产品经验，如Agent工作流设计、Prompt工程、RAG/工具调用类产品实践； 4.有机器人（扫地机、机器狗、人形机器人等）或IoT智能硬件相关产品经历； 5.自己动手做过AI应用Demo、开源项目，或有高质量的产品分析报告。",
+      "JD": "你将参与： 1.机器人AI功能产品规划：参与机器人核心软件功能（智能感知、自主决策、人机交互）的需求分析、产品定义与方案设计，输出PRD并推动落地； 2.大模型与Agent能力产品化：探索LLM、多模态大模型、AI Agent在机器人场景的应用，设计语音交互、任务理解、主动服务等智能化体验； 3.全链路项目推进：与算法、软件、硬件、设计团队紧密协作，跟进产品开发、测试、上市全流程，对最终用户体验负责； 4.用户与数据洞察：通过用户调研、数据分析、竞品研究，持续挖掘用户痛点，驱动产品迭代与体验升级； 5.前沿趋势跟踪：持续关注具身智能、自动驾驶、智能座舱、AI Agent等领域的技术演进，将行业最佳实践转化为产品机会。\n1.2027届毕业生，本科及以上学历，计算机、人工智能、自动化、机器人、电子信息、工业设计等相关专业优先； 2.热爱科技产品，对机器人、AI有强烈兴趣和好奇心，日常重度使用各类AI产品； 3.具备优秀的逻辑思维与结构化表达能力，能将模糊问题拆解为清晰可执行的方案； 4.有较强的用户同理心，善于观察和洞察真实需求，而非\"我觉得\"； 5.出色的跨团队沟通与推动能力，皮实抗压，乐于在快节奏环境中成长； 6.有独立产品/项目经验者优先：如完整的App/软硬件产品实习、AI应用开发、机器人/智能硬件相关课题或竞赛经历。 加分项 1.有智能驾驶产品经验（实习/课题/项目），理解感知、规划、决策等智驾产品逻辑； 2.有智能座舱产品经验，熟悉语音交互、多模态体验、车载生态； 3.有AI Agent产品经验，如Agent工作流设计、Prompt工程、RAG/工具调用类产品实践； 4.有机器人（扫地机、机器狗、人形机器人等）或IoT智能硬件相关产品经历； 5.自己动手做过AI应用Demo、开源项目，或有高质量的产品分析报告。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1.2027届毕业生，本科及以上学历，计算机、人工智能、自动化、机器人、电子信息、工业设计等相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [
+          "模型/算法"
+        ],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "数据分析"
+      ],
+      "experienceKeywords": [
+        "项目",
+        "用户",
+        "数据"
+      ],
+      "preferenceTags": [],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "安克创新官方2027校招官网",
+      "officialURL": "https://career.anker.com.cn/larkJobDetail/?websiteId=6962795203808217351&jobId=7698626803263736105",
+      "publishedAt": "",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "简历投递→测评&笔试→面试沟通(线上为主，部分终面线下)→Offer审批与发放",
+      "recruitmentProcessEvidence": "E2 | 安克创新校招官网 | https://career.anker.com.cn/universities/recruitment/ | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | 安克校招官网 | https://career.anker.com.cn/universities/recruitment/ | 2026-09-17；E4"
+    },
+    {
       "id": "anker-d96a43169360",
       "company": "安克创新",
       "title": "直营零售操盘手-深圳",
@@ -5125,98 +5220,6 @@
       "annualSalary": "未披露",
       "source": "安克创新官方2027校招官网",
       "officialURL": "https://career.anker.com.cn/larkJobDetail/?websiteId=6962795203808217351&jobId=7671177948674591026",
-      "publishedAt": "",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "简历投递→测评&笔试→面试沟通(线上为主，部分终面线下)→Offer审批与发放",
-      "recruitmentProcessEvidence": "E2 | 安克创新校招官网 | https://career.anker.com.cn/universities/recruitment/ | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E2 | 安克校招官网 | https://career.anker.com.cn/universities/recruitment/ | 2026-09-17；E4"
-    },
-    {
-      "id": "anker-5e176794b7ce",
-      "company": "安克创新",
-      "title": "包装设计师-深圳",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "本科",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "本科及以上学历，设计类相关专业优先；包装设计、平面设计，视觉传达设计等",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "深圳",
-      "jobDescription": "你将参与： 1. 负责3C 电子产品包装的平面设计，以满足产品的美观和实用需求； 2. 参与包装设计项目的全过程，从概念设计到生产实施，确保设计的可行性和生产的顺利进行； 3. 与团队成员紧密合作，共同提升包装设计的品质和效率； 4. 根据市场和用户需求，不断优化和改进包装设计，提升产品的市场竞争力。",
-      "jobRequirements": "1. 2027届毕业生，本科及以上学历，设计类相关专业优先。 2. 包装设计、平面设计，视觉传达设计等； 3. 良好的审美，优秀的平面设计基础及作品； 4. 熟练使用各类3D/2D 渲染和平面软件； 5. 良好的沟通能力和抗压能力，热爱平面设计工作，超强的学习意愿。",
-      "JD": "你将参与： 1. 负责3C 电子产品包装的平面设计，以满足产品的美观和实用需求； 2. 参与包装设计项目的全过程，从概念设计到生产实施，确保设计的可行性和生产的顺利进行； 3. 与团队成员紧密合作，共同提升包装设计的品质和效率； 4. 根据市场和用户需求，不断优化和改进包装设计，提升产品的市场竞争力。\n1. 2027届毕业生，本科及以上学历，设计类相关专业优先。 2. 包装设计、平面设计，视觉传达设计等； 3. 良好的审美，优秀的平面设计基础及作品； 4. 熟练使用各类3D/2D 渲染和平面软件； 5. 良好的沟通能力和抗压能力，热爱平面设计工作，超强的学习意愿。",
-      "jdEvidence": {
-        "source": "llm:deepseek:deepseek-flash",
-        "majorClauses": [
-          "本科及以上学历，设计类相关专业优先",
-          "包装设计、平面设计，视觉传达设计等"
-        ],
-        "eligibilityClauses": [
-          "2027届毕业生"
-        ],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [],
-      "experienceKeywords": [
-        "项目",
-        "市场",
-        "用户"
-      ],
-      "preferenceTags": [],
-      "riskTags": [
-        "节奏快"
-      ],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "安克创新官方2027校招官网",
-      "officialURL": "https://career.anker.com.cn/larkJobDetail/?websiteId=6962795203808217351&jobId=7671110230750660910",
       "publishedAt": "",
       "lastVerified": "",
       "sourceType": "official",

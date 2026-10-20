@@ -1,102 +1,8 @@
 {
   "company": "名创优品",
   "count": 22,
-  "updatedAt": "2026-10-20T01:21:35.973Z",
+  "updatedAt": "2026-10-20T14:24:24.818Z",
   "jobs": [
-    {
-      "id": "beisen-23168e210002",
-      "company": "名创优品",
-      "title": "海外运营创优生（英语-北美、东南亚）(J17272)",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "国外",
-      "jobDescription": "培养方向：国家运营经理 1、体系建设：结合中国市场成熟经验及总部各项标准和指导意见，根据代理商的实际情况打造门店运营标准体系； 2、经营管理：促进市场门店货品结构、布局陈列、动线优化，提升门店运营水平；进行门店损耗控制，执行营销企划政策，达成店铺的盈利； 3、监督执行：将名创优品运营管理标准输送至代理商市场，并监督代理商市场严格按总部各项门店运营标准要求进行业务开展； 4、人才梯队建设：培训赋能当地运营团队，建立当地市场门店运营的人才梯队，不断提升代理市场的运营水平和盈利能力。",
-      "jobRequirements": "1、热爱零售行业，以结果为导向，有较强执行力，目标感强，使命必达； 2、独立数据分析能力，较强的学习能力和适应能力； 3、优秀的英语听说读写能力； 4、能适应海外市场常驻工作。",
-      "JD": "培养方向：国家运营经理 1、体系建设：结合中国市场成熟经验及总部各项标准和指导意见，根据代理商的实际情况打造门店运营标准体系； 2、经营管理：促进市场门店货品结构、布局陈列、动线优化，提升门店运营水平；进行门店损耗控制，执行营销企划政策，达成店铺的盈利； 3、监督执行：将名创优品运营管理标准输送至代理商市场，并监督代理商市场严格按总部各项门店运营标准要求进行业务开展； 4、人才梯队建设：培训赋能当地运营团队，建立当地市场门店运营的人才梯队，不断提升代理市场的运营水平和盈利能力。\n1、热爱零售行业，以结果为导向，有较强执行力，目标感强，使命必达； 2、独立数据分析能力，较强的学习能力和适应能力； 3、优秀的英语听说读写能力； 4、能适应海外市场常驻工作。",
-      "jdEvidence": {
-        "source": "llm:deepseek:deepseek-flash",
-        "majorClauses": [],
-        "eligibilityClauses": [],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "海外运营"
-      ],
-      "skills": [
-        "英语",
-        "数据分析"
-      ],
-      "experienceKeywords": [
-        "海外",
-        "运营",
-        "市场",
-        "数据",
-        "营销"
-      ],
-      "preferenceTags": [
-        "国际业务",
-        "跨文化",
-        "出海"
-      ],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": true,
-        "raw": "10W-14W 元/年",
-        "monthlyMin": 8333,
-        "monthlyMax": 11667,
-        "annualMin": 100000,
-        "annualMax": 140000,
-        "salaryMonths": null,
-        "monthlyEstimated": true,
-        "annualEstimated": false,
-        "monthlyDisplay": "8.3k–1.17万/月（估算）",
-        "annualDisplay": "10万–14万/年",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "high",
-        "evidence": "10W-14W 元/年 公司官方北森校招岗位；识别关键词：英语、数据分析。投递"
-      },
-      "salary": "10W-14W 元/年",
-      "monthlySalary": "8.3k–1.17万/月（估算）",
-      "annualSalary": "10万–14万/年",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://miniso.zhiye.com/campus/detail?jobAdId=5ac28b66-aa91-4f3b-bc8b-b94308a799d0",
-      "publishedAt": "2026-09-14",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "网申→线上测评→AI面试→初试→复试→终试→发放Offer",
-      "recruitmentProcessEvidence": "E2 | 名创优品校招官网 | https://miniso.zhiye.com/Campus | 2026-09-17；E3",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E2 | 名创优品校招官网 | https://miniso.zhiye.com/Campus | 2026-09-17"
-    },
     {
       "id": "beisen-6a7835240c6d",
       "company": "名创优品",
@@ -648,6 +554,107 @@
       "annualSalary": "10万–14万/年",
       "source": "公司官方北森校招官网",
       "officialURL": "https://miniso.zhiye.com/campus/detail?jobAdId=83dd41db-d42a-414e-9969-cad9ac3edc86",
+      "publishedAt": "2026-09-14",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申→线上测评→AI面试→初试→复试→终试→发放Offer",
+      "recruitmentProcessEvidence": "E2 | 名创优品校招官网 | https://miniso.zhiye.com/Campus | 2026-09-17；E3",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | 名创优品校招官网 | https://miniso.zhiye.com/Campus | 2026-09-17"
+    },
+    {
+      "id": "beisen-23168e210002",
+      "company": "名创优品",
+      "title": "海外运营创优生（英语-北美、东南亚）(J17272)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "零售、市场营销、供应链相关专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "国外",
+      "jobDescription": "岗位职责 人：负责区域门店团队管理，开展目标下达、绩效追踪、培训激励，维护员工关系，稳定本地团队。 货：监控库存周转、管控货品损耗；收集本地消费反馈，优化商品动销。 场：落地门店运营及陈列 SOP，常态化巡店；负责片区新店、快闪店落地，维护加盟商与商场关系，整改低效门店，处理门店现场突发问题。 销：对片区销售、毛利、利润指标负责；复盘经营数据，落地营销活动，调研竞品，按时提交经营报告，把控业务合规风险。",
+      "jobRequirements": "应届生或 1 年内工作经验；零售、市场营销、供应链相关专业优先。 英语流利，可作为日常工作语言；愿意长期深耕海外市场，接受派驻。 具备良好商业敏感度、消费者洞察力，喜欢逛店，擅长观察顾客与竞品。 较强数据思维与逻辑分析能力，学习能力强，目标感强，能够接受外派。 沟通协同能力突出，可对接国内多部门及海外本地伙伴，适配跨文化协作。",
+      "JD": "岗位职责 人：负责区域门店团队管理，开展目标下达、绩效追踪、培训激励，维护员工关系，稳定本地团队。 货：监控库存周转、管控货品损耗；收集本地消费反馈，优化商品动销。 场：落地门店运营及陈列 SOP，常态化巡店；负责片区新店、快闪店落地，维护加盟商与商场关系，整改低效门店，处理门店现场突发问题。 销：对片区销售、毛利、利润指标负责；复盘经营数据，落地营销活动，调研竞品，按时提交经营报告，把控业务合规风险。\n应届生或 1 年内工作经验；零售、市场营销、供应链相关专业优先。 英语流利，可作为日常工作语言；愿意长期深耕海外市场，接受派驻。 具备良好商业敏感度、消费者洞察力，喜欢逛店，擅长观察顾客与竞品。 较强数据思维与逻辑分析能力，学习能力强，目标感强，能够接受外派。 沟通协同能力突出，可对接国内多部门及海外本地伙伴，适配跨文化协作。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "零售、市场营销、供应链相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "国际业务"
+        ]
+      },
+      "roleFamily": [
+        "海外运营"
+      ],
+      "skills": [
+        "英语"
+      ],
+      "experienceKeywords": [
+        "海外",
+        "运营",
+        "市场",
+        "数据",
+        "跨文化",
+        "营销",
+        "供应链"
+      ],
+      "preferenceTags": [
+        "国际业务",
+        "跨文化",
+        "出海"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "10W-14W 元/年",
+        "monthlyMin": 8333,
+        "monthlyMax": 11667,
+        "annualMin": 100000,
+        "annualMax": 140000,
+        "salaryMonths": null,
+        "monthlyEstimated": true,
+        "annualEstimated": false,
+        "monthlyDisplay": "8.3k–1.17万/月（估算）",
+        "annualDisplay": "10万–14万/年",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "10W-14W 元/年 公司官方北森校招岗位；识别关键词：英语。投递前请打开官"
+      },
+      "salary": "10W-14W 元/年",
+      "monthlySalary": "8.3k–1.17万/月（估算）",
+      "annualSalary": "10万–14万/年",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://miniso.zhiye.com/campus/detail?jobAdId=5ac28b66-aa91-4f3b-bc8b-b94308a799d0",
       "publishedAt": "2026-09-14",
       "lastVerified": "",
       "sourceType": "official",

@@ -1,7 +1,7 @@
 {
   "company": "中微半导体设备股份有限公司",
-  "count": 5,
-  "updatedAt": "2026-10-20T01:21:35.973Z",
+  "count": 6,
+  "updatedAt": "2026-10-20T14:24:24.818Z",
   "jobs": [
     {
       "id": "moka-5dae523d2b39",
@@ -86,6 +86,85 @@
       "deadline": ""
     },
     {
+      "id": "moka-c42cff0787bd",
+      "company": "中微半导体设备股份有限公司",
+      "title": "2027届-生产计划工程师（广州）",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "广州",
+      "jobDescription": "智能制造 待定",
+      "jobRequirements": "",
+      "JD": "智能制造 待定",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方Moka校招官网",
+      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/954a71f0-2253-4763-a9d9-d3ce05c41644",
+      "publishedAt": "2026-09-09",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
       "id": "moka-6ab67cc780d6",
       "company": "中微半导体设备股份有限公司",
       "title": "2027届-工业工程师（广州）",
@@ -165,9 +244,9 @@
       "deadline": ""
     },
     {
-      "id": "moka-c42cff0787bd",
+      "id": "moka-320de3367132",
       "company": "中微半导体设备股份有限公司",
-      "title": "2027届-生产计划工程师（广州）",
+      "title": "2027届-EHS工程师（成都）",
       "graduationYear": [
         "2027"
       ],
@@ -186,10 +265,10 @@
         "english": false,
         "minorLanguageRequired": false
       },
-      "location": "广州",
-      "jobDescription": "智能制造 待定",
+      "location": "成都",
+      "jobDescription": "智能制造 康强二路与安泰七路交叉口西北120米-中微公司成都研发及生产基地暨西南总部项目",
       "jobRequirements": "",
-      "JD": "智能制造 待定",
+      "JD": "智能制造 康强二路与安泰七路交叉口西北120米-中微公司成都研发及生产基地暨西南总部项目",
       "jdEvidence": {
         "source": "regex-v1",
         "majorClauses": [],
@@ -203,7 +282,9 @@
         "其他"
       ],
       "skills": [],
-      "experienceKeywords": [],
+      "experienceKeywords": [
+        "项目"
+      ],
       "preferenceTags": [],
       "riskTags": [],
       "headcount": {
@@ -237,8 +318,8 @@
       "monthlySalary": "未披露",
       "annualSalary": "未披露",
       "source": "公司官方Moka校招官网",
-      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/954a71f0-2253-4763-a9d9-d3ce05c41644",
-      "publishedAt": "2026-09-09",
+      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/1d349c91-ea74-4815-8574-63e635146cba",
+      "publishedAt": "2026-09-02",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": ""

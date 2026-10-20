@@ -1,7 +1,7 @@
 {
   "company": "传音控股",
   "count": 79,
-  "updatedAt": "2026-10-20T01:21:35.973Z",
+  "updatedAt": "2026-10-20T14:24:24.818Z",
   "jobs": [
     {
       "id": "beisen-839bd7f42841",
@@ -4901,96 +4901,6 @@
       "hasAssessmentEvidence": "E3 | 广东技术师范大学就业网校招公告 | https://jyw.gpnu.edu.cn/info/1148/12362.htm | 2026-09-17"
     },
     {
-      "id": "beisen-07a4a7ccf0c3",
-      "company": "传音控股",
-      "title": "产品认证工程师(J20336)",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "本科",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "全日制本科及以上学历、理工相关专业优先",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "深圳",
-      "jobDescription": "1、负责对接项目经理，及时对内输入各国家的认证要求，汇报项目认证进度； 2、负责对接机构，及时合理安排项目认证(CE,FCC,CB,UN等)； 3、负责对接各部门，及时提供认证文件和沟通项目认证相关事宜； 4、负责对接海外销售和商务,及时跟踪项目认证进度； 5、负责研读各国认证标准要求，对内进行培训。",
-      "jobRequirements": "1、全日制本科及以上学历、理工相关专业优先； 2、优先英语六级及以上，听说读写流利； 3、沟通协调能力、学习能力强，逻辑思维能力强。",
-      "JD": "1、负责对接项目经理，及时对内输入各国家的认证要求，汇报项目认证进度； 2、负责对接机构，及时合理安排项目认证(CE,FCC,CB,UN等)； 3、负责对接各部门，及时提供认证文件和沟通项目认证相关事宜； 4、负责对接海外销售和商务,及时跟踪项目认证进度； 5、负责研读各国认证标准要求，对内进行培训。\n1、全日制本科及以上学历、理工相关专业优先； 2、优先英语六级及以上，听说读写流利； 3、沟通协调能力、学习能力强，逻辑思维能力强。",
-      "jdEvidence": {
-        "source": "llm:deepseek:deepseek-flash",
-        "majorClauses": [
-          "全日制本科及以上学历、理工相关专业优先"
-        ],
-        "eligibilityClauses": [],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [
-        "英语"
-      ],
-      "experienceKeywords": [
-        "海外",
-        "项目"
-      ],
-      "preferenceTags": [
-        "国际业务"
-      ],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": true,
-        "raw": "1",
-        "min": 1,
-        "max": 1,
-        "scope": "job",
-        "display": "1人",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "high",
-        "evidence": "1 1 1、负责对接项目经理，及时对内输入各国家的认证要求，汇报项目认证进度； 2、负责对"
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "面议",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": "面议"
-      },
-      "salary": "面议",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://transsion.zhiye.com/campus/detail?jobAdId=1ca16b6c-7310-45eb-808a-8271cd22de2a",
-      "publishedAt": "2026-08-21",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "简历投递→线上测评→专业笔试(部分岗位)→面试→发放Offer",
-      "recruitmentProcessEvidence": "E3 | 广东技术师范大学/中国矿大就业网校招公告 | https://jyw.gpnu.edu.cn/info/1148/12362.htm | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E3 | 广东技术师范大学就业网校招公告 | https://jyw.gpnu.edu.cn/info/1148/12362.htm | 2026-09-17"
-    },
-    {
       "id": "beisen-423be5f39199",
       "company": "传音控股",
       "title": "综合采购工程师（海外）(J20383)",
@@ -5454,6 +5364,96 @@
       "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://transsion.zhiye.com/campus/detail?jobAdId=e3b8f943-59b6-42ed-86f3-6b99d0839c09",
+      "publishedAt": "2026-08-21",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "简历投递→线上测评→专业笔试(部分岗位)→面试→发放Offer",
+      "recruitmentProcessEvidence": "E3 | 广东技术师范大学/中国矿大就业网校招公告 | https://jyw.gpnu.edu.cn/info/1148/12362.htm | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E3 | 广东技术师范大学就业网校招公告 | https://jyw.gpnu.edu.cn/info/1148/12362.htm | 2026-09-17"
+    },
+    {
+      "id": "beisen-07a4a7ccf0c3",
+      "company": "传音控股",
+      "title": "产品认证工程师(J20336)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "全日制本科及以上学历、理工相关专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "深圳",
+      "jobDescription": "1、负责对接项目经理，及时对内输入各国家的认证要求，汇报项目认证进度； 2、负责对接机构，及时合理安排项目认证(CE,FCC,CB,UN等)； 3、负责对接各部门，及时提供认证文件和沟通项目认证相关事宜； 4、负责对接海外销售和商务,及时跟踪项目认证进度； 5、负责研读各国认证标准要求，对内进行培训。",
+      "jobRequirements": "1、全日制本科及以上学历、理工相关专业优先； 2、优先英语六级及以上，听说读写流利； 3、沟通协调能力、学习能力强，逻辑思维能力强。",
+      "JD": "1、负责对接项目经理，及时对内输入各国家的认证要求，汇报项目认证进度； 2、负责对接机构，及时合理安排项目认证(CE,FCC,CB,UN等)； 3、负责对接各部门，及时提供认证文件和沟通项目认证相关事宜； 4、负责对接海外销售和商务,及时跟踪项目认证进度； 5、负责研读各国认证标准要求，对内进行培训。\n1、全日制本科及以上学历、理工相关专业优先； 2、优先英语六级及以上，听说读写流利； 3、沟通协调能力、学习能力强，逻辑思维能力强。",
+      "jdEvidence": {
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "全日制本科及以上学历、理工相关专业优先"
+        ],
+        "eligibilityClauses": [],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语"
+      ],
+      "experienceKeywords": [
+        "海外",
+        "项目"
+      ],
+      "preferenceTags": [
+        "国际业务"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 1、负责对接项目经理，及时对内输入各国家的认证要求，汇报项目认证进度； 2、负责对"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://transsion.zhiye.com/campus/detail?jobAdId=1ca16b6c-7310-45eb-808a-8271cd22de2a",
       "publishedAt": "2026-08-21",
       "lastVerified": "",
       "sourceType": "official",

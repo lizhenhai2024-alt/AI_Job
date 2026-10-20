@@ -1,7 +1,7 @@
 {
   "company": "泰康保险",
-  "count": 327,
-  "updatedAt": "2026-10-20T01:21:35.973Z",
+  "count": 328,
+  "updatedAt": "2026-10-20T14:24:24.818Z",
   "jobs": [
     {
       "id": "beisen-8c5d8168b055",
@@ -8319,6 +8319,91 @@
       "source": "公司官方北森校招官网",
       "officialURL": "https://jobtaikang.zhiye.com/campus/detail?jobAdId=823f02e1-9b9d-434a-8da6-5f833dc3d831",
       "publishedAt": "2026-06-10",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-00501a64d9cf",
+      "company": "泰康保险",
+      "title": "养老-山西-职域业务支持岗(J71776)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "山西省·太原市",
+      "jobDescription": "1、整合分公司、前中后台资源，提供O2O项目的技术支持及全国性、全省性项目支持，直接参与分公司级大项目。 2、推动O2O业务数字化工具与打项目实战相结合。 3、宣导BBC产品，调研前线新产品开发的需求，并及时向总公司进行沟通反馈。 4、辅助部门负责人建立训战体系，辅助督训对项目、大区战区建立训战功能组。 5、总结并推广成功案例和相关经验分享，组织BBC(O2O)业务专业技能培训。 6、牵头制作BBC业务营销行销辅助工具、材料。 7、指导督训队伍日常工作，对督训队伍职域业务方面的工作进行评价。 8、提供上项目支持，推动B/G协同。 9、执行作战地图管理，建立数据分析台账，追踪打项目环节实施情况。",
+      "jobRequirements": "大学本科及以上",
+      "JD": "1、整合分公司、前中后台资源，提供O2O项目的技术支持及全国性、全省性项目支持，直接参与分公司级大项目。 2、推动O2O业务数字化工具与打项目实战相结合。 3、宣导BBC产品，调研前线新产品开发的需求，并及时向总公司进行沟通反馈。 4、辅助部门负责人建立训战体系，辅助督训对项目、大区战区建立训战功能组。 5、总结并推广成功案例和相关经验分享，组织BBC(O2O)业务专业技能培训。 6、牵头制作BBC业务营销行销辅助工具、材料。 7、指导督训队伍日常工作，对督训队伍职域业务方面的工作进行评价。 8、提供上项目支持，推动B/G协同。 9、执行作战地图管理，建立数据分析台账，追踪打项目环节实施情况。\n大学本科及以上",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "数据分析"
+      ],
+      "experienceKeywords": [
+        "项目",
+        "数据",
+        "营销"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 1、整合分公司、前中后台资源，提供O2O项目的技术支持及全国性、全省性项目支持，直"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://jobtaikang.zhiye.com/campus/detail?jobAdId=64cac884-75e9-4595-b95b-4a4028903143",
+      "publishedAt": "2026-10-20",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": ""

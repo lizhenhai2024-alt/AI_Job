@@ -1,7 +1,7 @@
 {
   "company": "蒙牛",
   "count": 83,
-  "updatedAt": "2026-10-20T01:21:35.973Z",
+  "updatedAt": "2026-10-20T14:24:24.818Z",
   "jobs": [
     {
       "id": "beisen-2e516434951d",
@@ -4008,6 +4008,96 @@
       "hasAssessmentEvidence": "E3 | 中国传媒大学就业网校招公告 | https://jy.cuc.edu.cn/frontpage/mobile/dist/index.html#/recruitmentFairForm?id=9ef2cd40bd5940519c3525f0bd0423bd& | 2026-09-17"
     },
     {
+      "id": "beisen-aac19c6f3fe8",
+      "company": "蒙牛",
+      "title": "数智化未来星(J67586)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "硕士",
+        "masterRequired": true
+      },
+      "major": {
+        "raw": "1、教育程度：硕士及以上学历，英语能作为工作语言进行商务沟通；2、专业要求：自动化、计算机、电气工程及其自动化、智能制造等专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "内蒙古自治区·呼和浩特市",
+      "jobDescription": "1、学习自动化产线、工业机器人、PLC、视觉检测、AGV等智能装备结构、调试逻辑及运维流程； 2、掌握产品全工艺流程、关键控制点、SOP作业标准； 3、负责MES系统、EAM系统、智慧能源系统等基础运维及需求调研和落地。",
+      "jobRequirements": "1、教育程度：硕士及以上学历，英语能作为工作语言进行商务沟通； 2、专业要求：自动化、计算机、电气工程及其自动化、智能制造等专业优先； 3、技能水平：吃透MES、WMS、APS、SCADA、工业物联网等智能制造底层逻辑； 4、实习经验：有大厂实习经验优先； 5、其他要求：善于沟通，心态积极。",
+      "JD": "1、学习自动化产线、工业机器人、PLC、视觉检测、AGV等智能装备结构、调试逻辑及运维流程； 2、掌握产品全工艺流程、关键控制点、SOP作业标准； 3、负责MES系统、EAM系统、智慧能源系统等基础运维及需求调研和落地。\n1、教育程度：硕士及以上学历，英语能作为工作语言进行商务沟通； 2、专业要求：自动化、计算机、电气工程及其自动化、智能制造等专业优先； 3、技能水平：吃透MES、WMS、APS、SCADA、工业物联网等智能制造底层逻辑； 4、实习经验：有大厂实习经验优先； 5、其他要求：善于沟通，心态积极。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、教育程度：硕士及以上学历，英语能作为工作语言进行商务沟通",
+          "2、专业要求：自动化、计算机、电气工程及其自动化、智能制造等专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语"
+      ],
+      "experienceKeywords": [
+        "供应链"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 1、学习自动化产线、工业机器人、PLC、视觉检测、AGV等智能装备结构、调试逻辑及"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=5d7721ca-8ec0-466d-99eb-50babeccaa10",
+      "publishedAt": "2026-10-20",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申报名(8/28起)→商业能力测评(8/29起)→AI面试(8/30起)→面试(9月起)→Offer发放(10月起)",
+      "recruitmentProcessEvidence": "E3 | 中国传媒大学/郑州本地宝校招公告 | https://jy.cuc.edu.cn/frontpage/mobile/dist/index.html#/recruitmentFairForm?id=9ef2cd40bd5940519c3525f0bd0423bd& | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E3 | 中国传媒大学就业网校招公告 | https://jy.cuc.edu.cn/frontpage/mobile/dist/index.html#/recruitmentFairForm?id=9ef2cd40bd5940519c3525f0bd0423bd& | 2026-09-17"
+    },
+    {
       "id": "beisen-998462ecdf19",
       "company": "蒙牛",
       "title": "研发未来星(J67612)",
@@ -4664,96 +4754,6 @@
       "hasAssessmentEvidence": "E3 | 中国传媒大学就业网校招公告 | https://jy.cuc.edu.cn/frontpage/mobile/dist/index.html#/recruitmentFairForm?id=9ef2cd40bd5940519c3525f0bd0423bd& | 2026-09-17"
     },
     {
-      "id": "beisen-aac19c6f3fe8",
-      "company": "蒙牛",
-      "title": "数智化未来星(J67586)",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "硕士",
-        "masterRequired": true
-      },
-      "major": {
-        "raw": "1、教育程度：硕士及以上学历，英语能作为工作语言进行商务沟通；2、专业要求：自动化、计算机、电气工程及其自动化、智能制造等专业优先",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "内蒙古自治区·呼和浩特市",
-      "jobDescription": "1、学习自动化产线、工业机器人、PLC、视觉检测、AGV等智能装备结构、调试逻辑及运维流程； 2、掌握产品全工艺流程、关键控制点、SOP作业标准； 3、负责MES系统、EAM系统、智慧能源系统等基础运维及需求调研和落地。",
-      "jobRequirements": "1、教育程度：硕士及以上学历，英语能作为工作语言进行商务沟通； 2、专业要求：自动化、计算机、电气工程及其自动化、智能制造等专业优先； 3、技能水平：吃透MES、WMS、APS、SCADA、工业物联网等智能制造底层逻辑； 4、实习经验：有大厂实习经验优先； 5、其他要求：善于沟通，心态积极。",
-      "JD": "1、学习自动化产线、工业机器人、PLC、视觉检测、AGV等智能装备结构、调试逻辑及运维流程； 2、掌握产品全工艺流程、关键控制点、SOP作业标准； 3、负责MES系统、EAM系统、智慧能源系统等基础运维及需求调研和落地。\n1、教育程度：硕士及以上学历，英语能作为工作语言进行商务沟通； 2、专业要求：自动化、计算机、电气工程及其自动化、智能制造等专业优先； 3、技能水平：吃透MES、WMS、APS、SCADA、工业物联网等智能制造底层逻辑； 4、实习经验：有大厂实习经验优先； 5、其他要求：善于沟通，心态积极。",
-      "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [
-          "1、教育程度：硕士及以上学历，英语能作为工作语言进行商务沟通",
-          "2、专业要求：自动化、计算机、电气工程及其自动化、智能制造等专业优先"
-        ],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [
-        "英语"
-      ],
-      "experienceKeywords": [
-        "供应链"
-      ],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": true,
-        "raw": "1",
-        "min": 1,
-        "max": 1,
-        "scope": "job",
-        "display": "1人",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "high",
-        "evidence": "1 1 1、学习自动化产线、工业机器人、PLC、视觉检测、AGV等智能装备结构、调试逻辑及"
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "面议",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": "面议"
-      },
-      "salary": "面议",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=5d7721ca-8ec0-466d-99eb-50babeccaa10",
-      "publishedAt": "2026-08-27",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "网申报名(8/28起)→商业能力测评(8/29起)→AI面试(8/30起)→面试(9月起)→Offer发放(10月起)",
-      "recruitmentProcessEvidence": "E3 | 中国传媒大学/郑州本地宝校招公告 | https://jy.cuc.edu.cn/frontpage/mobile/dist/index.html#/recruitmentFairForm?id=9ef2cd40bd5940519c3525f0bd0423bd& | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E3 | 中国传媒大学就业网校招公告 | https://jy.cuc.edu.cn/frontpage/mobile/dist/index.html#/recruitmentFairForm?id=9ef2cd40bd5940519c3525f0bd0423bd& | 2026-09-17"
-    },
-    {
       "id": "beisen-bdb4542b00a1",
       "company": "蒙牛",
       "title": "研发未来星（技术开发方向）(J67578)",
@@ -5185,97 +5185,6 @@
       "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=334ea43d-606f-4c21-b66f-a74bd6012517",
-      "publishedAt": "2026-08-27",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "网申报名(8/28起)→商业能力测评(8/29起)→AI面试(8/30起)→面试(9月起)→Offer发放(10月起)",
-      "recruitmentProcessEvidence": "E3 | 中国传媒大学/郑州本地宝校招公告 | https://jy.cuc.edu.cn/frontpage/mobile/dist/index.html#/recruitmentFairForm?id=9ef2cd40bd5940519c3525f0bd0423bd& | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E3 | 中国传媒大学就业网校招公告 | https://jy.cuc.edu.cn/frontpage/mobile/dist/index.html#/recruitmentFairForm?id=9ef2cd40bd5940519c3525f0bd0423bd& | 2026-09-17"
-    },
-    {
-      "id": "beisen-b98f5612280c",
-      "company": "蒙牛",
-      "title": "销售未来星(J67597)",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "硕士",
-        "masterRequired": true
-      },
-      "major": {
-        "raw": "2、专业要求：市场营销、传播等专业优先",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "北京",
-      "jobDescription": "1.负责消费人群和场域规划、制定可落地执行的品类行销方案，确保策略精准转化； 2. 负责承接品牌大型营销活动，规划整合营销活动，出具营销策略； 3.负责协助落实营销活动的创新升级，以营销活动驱动品类发展； 4.负责全渠道形象生动化体系建设，统一全渠道/场景下的标准化、生动化语言赋能终端。",
-      "jobRequirements": "1、教育程度：硕士及以上学历； 2、专业要求：市场营销、传播等专业优先； 3、技能水平：对品牌传播、市场营销有经验和见解； 4、实习经验：有快消品行业、市场营销相关经验优先； 5、其他要求：善于沟通，心态积极、抗压性强。",
-      "JD": "1.负责消费人群和场域规划、制定可落地执行的品类行销方案，确保策略精准转化； 2. 负责承接品牌大型营销活动，规划整合营销活动，出具营销策略； 3.负责协助落实营销活动的创新升级，以营销活动驱动品类发展； 4.负责全渠道形象生动化体系建设，统一全渠道/场景下的标准化、生动化语言赋能终端。\n1、教育程度：硕士及以上学历； 2、专业要求：市场营销、传播等专业优先； 3、技能水平：对品牌传播、市场营销有经验和见解； 4、实习经验：有快消品行业、市场营销相关经验优先； 5、其他要求：善于沟通，心态积极、抗压性强。",
-      "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [
-          "2、专业要求：市场营销、传播等专业优先"
-        ],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [],
-      "experienceKeywords": [
-        "市场",
-        "营销",
-        "品牌"
-      ],
-      "preferenceTags": [],
-      "riskTags": [
-        "节奏快"
-      ],
-      "headcount": {
-        "disclosed": true,
-        "raw": "2",
-        "min": 2,
-        "max": 2,
-        "scope": "job",
-        "display": "2人",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "high",
-        "evidence": "2 2 1.负责消费人群和场域规划、制定可落地执行的品类行销方案，确保策略精准转化； 2."
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "面议",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": "面议"
-      },
-      "salary": "面议",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=b8325f2c-c6b2-4a0b-9aa7-9a0a238b18a0",
       "publishedAt": "2026-08-27",
       "lastVerified": "",
       "sourceType": "official",
@@ -6086,6 +5995,97 @@
       "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=6d903d32-d040-4e4a-889a-f1008101ded8",
+      "publishedAt": "2026-08-27",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申报名(8/28起)→商业能力测评(8/29起)→AI面试(8/30起)→面试(9月起)→Offer发放(10月起)",
+      "recruitmentProcessEvidence": "E3 | 中国传媒大学/郑州本地宝校招公告 | https://jy.cuc.edu.cn/frontpage/mobile/dist/index.html#/recruitmentFairForm?id=9ef2cd40bd5940519c3525f0bd0423bd& | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E3 | 中国传媒大学就业网校招公告 | https://jy.cuc.edu.cn/frontpage/mobile/dist/index.html#/recruitmentFairForm?id=9ef2cd40bd5940519c3525f0bd0423bd& | 2026-09-17"
+    },
+    {
+      "id": "beisen-b98f5612280c",
+      "company": "蒙牛",
+      "title": "销售未来星(J67597)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "硕士",
+        "masterRequired": true
+      },
+      "major": {
+        "raw": "2、专业要求：市场营销、传播等专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "北京",
+      "jobDescription": "1.负责消费人群和场域规划、制定可落地执行的品类行销方案，确保策略精准转化； 2. 负责承接品牌大型营销活动，规划整合营销活动，出具营销策略； 3.负责协助落实营销活动的创新升级，以营销活动驱动品类发展； 4.负责全渠道形象生动化体系建设，统一全渠道/场景下的标准化、生动化语言赋能终端。",
+      "jobRequirements": "1、教育程度：硕士及以上学历； 2、专业要求：市场营销、传播等专业优先； 3、技能水平：对品牌传播、市场营销有经验和见解； 4、实习经验：有快消品行业、市场营销相关经验优先； 5、其他要求：善于沟通，心态积极、抗压性强。",
+      "JD": "1.负责消费人群和场域规划、制定可落地执行的品类行销方案，确保策略精准转化； 2. 负责承接品牌大型营销活动，规划整合营销活动，出具营销策略； 3.负责协助落实营销活动的创新升级，以营销活动驱动品类发展； 4.负责全渠道形象生动化体系建设，统一全渠道/场景下的标准化、生动化语言赋能终端。\n1、教育程度：硕士及以上学历； 2、专业要求：市场营销、传播等专业优先； 3、技能水平：对品牌传播、市场营销有经验和见解； 4、实习经验：有快消品行业、市场营销相关经验优先； 5、其他要求：善于沟通，心态积极、抗压性强。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "2、专业要求：市场营销、传播等专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "市场",
+        "营销",
+        "品牌"
+      ],
+      "preferenceTags": [],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": true,
+        "raw": "2",
+        "min": 2,
+        "max": 2,
+        "scope": "job",
+        "display": "2人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "2 2 1.负责消费人群和场域规划、制定可落地执行的品类行销方案，确保策略精准转化； 2."
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=b8325f2c-c6b2-4a0b-9aa7-9a0a238b18a0",
       "publishedAt": "2026-08-27",
       "lastVerified": "",
       "sourceType": "official",

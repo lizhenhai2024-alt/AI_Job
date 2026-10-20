@@ -37754,5 +37754,171 @@
   ],
   "technicalDuties": [],
   "businessDuties": []
+ },
+ "feishu-4031ce-7698325415798393142:a59a82d9edd96112:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [],
+  "eligibilityClauses": [],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "beisen-4fbc60b79dcb:a4ae45bcd74a55c0:gemini-3.1-flash-lite": {
+  "source": "llm",
+  "majorClauses": [
+   "本科及以上学历"
+  ],
+  "eligibilityClauses": [
+   "国内普通高等院校（2027年毕业）或教育部承认的海外高等院校（2026或2027年毕业）"
+  ],
+  "technicalDuties": [],
+  "businessDuties": [
+   "合同",
+   "客户关系",
+   "资料/流程"
+  ]
+ },
+ "feishu-1fdf6e-7698699142047418643:b4c86ae32dae641c:gemini-3.1-flash-lite": {
+  "source": "llm",
+  "majorClauses": [
+   "Bachelor degree or above from a tier-1 university, preferably in finance, accounting or other related fields"
+  ],
+  "eligibilityClauses": [
+   "27届校招"
+  ],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "feishu-49f725-7695721524409665843:335a0f940b5e3cd7:gemini-3.1-flash-lite": {
+  "source": "llm",
+  "majorClauses": [
+   "本科及以上学历"
+  ],
+  "eligibilityClauses": [],
+  "technicalDuties": [],
+  "businessDuties": [
+   "商务测算",
+   "合同",
+   "资料/流程"
+  ]
+ },
+ "hotjob-2ad9dafa33fb:dfaee03e9d611dd8:gemini-3.5-flash-lite": {
+  "source": "llm",
+  "majorClauses": [
+   "硕士及以上学历，2027届毕业生，食品类、质量类、机械类、生物类、化学、电气自动化等理工类专业优先；"
+  ],
+  "eligibilityClauses": [
+   "2027届毕业生",
+   "简历接收周期：2026-10-10~2027-06-30"
+  ],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "hotjob-43fd695d1223:df8f700e56d13268:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "人力资源管理类、工商管理类、法学类、应用统计学等专业优先",
+   "本科及以上学历",
+   "具备CET4证书"
+  ],
+  "eligibilityClauses": [
+   "2027届毕业生",
+   "简历接收周期：2026-10-20~2027-06-30"
+  ],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "beisen-8aabc13450f5:a770dd92b0d6ac9b:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "All academic disciplines are welcome. Roles are matched to candidates’ background and capabilities; specialist positions, including R&D roles, require relevant foundational knowledge."
+  ],
+  "eligibilityClauses": [
+   "Open to international students graduating in 2027, whether studying in China or elsewhere."
+  ],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "hotjob-1886bf8a9d7d:1274ed2a58fcf8c0:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "本科及以上学历",
+   "专业不限，市场营销、国际经济与贸易、工商管理、东南亚小语种等专业优先"
+  ],
+  "eligibilityClauses": [
+   "2027届毕业生",
+   "具备CET4证书",
+   "简历接收周期：2026-10-08~2027-06-30"
+  ],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "hotjob-7ab6e25469fb:0c4bdb3dab4bebf0:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "本科及以上学历",
+   "专业不限，市场营销、国际经济与贸易、工商管理、东南亚小语种等专业优先"
+  ],
+  "eligibilityClauses": [
+   "2027届毕业生",
+   "具备CET4证书",
+   "简历接收周期：2026-10-08~2027-06-30"
+  ],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "hotjob-757762fb638c:e6a820e93416dc01:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "本科及以上学历",
+   "专业不限，市场营销、国际经济与贸易、工商管理、东南亚小语种等专业优先"
+  ],
+  "eligibilityClauses": [
+   "2027届毕业生",
+   "具备CET4证书",
+   "简历接收周期：2026-10-08~2027-06-30"
+  ],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "hotjob-8a93a375998a:8ca6d76315ce90b1:gemini-3.5-flash-lite": {
+  "source": "llm",
+  "majorClauses": [
+   "本科及以上学历",
+   "专业不限，市场营销、国际经济与贸易、工商管理、东南亚小语种等专业优先"
+  ],
+  "eligibilityClauses": [
+   "2027届毕业生",
+   "简历接收周期：2026-10-08~2027-06-30"
+  ],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "hotjob-c402153ba67e:fd34fce73745ace8:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "本科及以上学历",
+   "专业不限，市场营销、国际经济与贸易、工商管理、东南亚小语种等专业优先"
+  ],
+  "eligibilityClauses": [
+   "2027届毕业生",
+   "具备CET4证书",
+   "简历接收周期：2026-10-08~2027-06-30"
+  ],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "hotjob-00734f8cbb80:b2b874825c2cd378:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "本科及以上学历",
+   "专业不限，市场营销、国际经济与贸易、工商管理、东南亚小语种等专业优先"
+  ],
+  "eligibilityClauses": [
+   "2027届毕业生",
+   "具备CET4证书",
+   "简历接收周期：2026-10-08~2027-06-30"
+  ],
+  "technicalDuties": [],
+  "businessDuties": []
  }
 }

@@ -1,7 +1,7 @@
 {
   "company": "蔚来",
   "count": 202,
-  "updatedAt": "2026-10-20T01:21:35.973Z",
+  "updatedAt": "2026-10-20T14:24:24.818Z",
   "jobs": [
     {
       "id": "feishu-49f725-7673027221094975795",
@@ -6103,7 +6103,7 @@
     {
       "id": "feishu-49f725-7695721524409665843",
       "company": "蔚来",
-      "title": "校招-产品采购",
+      "title": "校招-产品采购-芯片",
       "graduationYear": [
         "2027"
       ],
@@ -6127,7 +6127,7 @@
       "jobRequirements": "1.本科及以上学历 2.为人真诚，对采购及供应链行业感兴趣 3.熟练使用office等办公软件 5.有较强的学习能力，抗压能力及应变能力",
       "JD": "1.负责相关零部件全周期商务工作，包括但不限于预研阶段供应链开发，成本评估，定点定价，合同及订单管理，设变维护，投产保供，售后件，支付，EOP工作 2.制定，维护并根据公司战略发展需要更新Commoditiy Business Plan 3.建立并维护合作伙伴库，制定合作伙伴策略，完成合作伙伴定期考评 4.制定产品的商务策略，推进成本优化，完成公司目标 6.跨部门协调工作，包括不限于工程，质量，项目，财务，物流，制造，成本核算，产品定义，设计造型及跨品牌团队\n1.本科及以上学历 2.为人真诚，对采购及供应链行业感兴趣 3.熟练使用office等办公软件 5.有较强的学习能力，抗压能力及应变能力",
       "jdEvidence": {
-        "source": "llm:gemini-free:gemini-3.5-flash-lite",
+        "source": "llm:gemini-free-31:gemini-3.1-flash-lite",
         "majorClauses": [
           "本科及以上学历"
         ],
@@ -6136,7 +6136,7 @@
         "businessDuties": [
           "商务测算",
           "合同",
-          "客户关系"
+          "资料/流程"
         ]
       },
       "roleFamily": [
@@ -6764,96 +6764,6 @@
       "hasAssessmentEvidence": "E1 | 蔚来校招官网FAQ | https://campus.nio.com/?theme=dark#/trends | 2026-09-17"
     },
     {
-      "id": "feishu-49f725-7673027301600643354",
-      "company": "蔚来",
-      "title": "校招-技术项目管理 - 智能座舱",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "1. 研究生毕业，CS、通信或者汽车、自动化的相关工科专业优先",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "上海",
-      "jobDescription": "1. 战队交付项目经理，主要负责数字座舱--偏向于软件和AI类应用系统交付； 2. 协调组织公司内部资源，协助项目立项，负责工业化项目计划、质量、风险及问题管理； 3. 项目实施过程达到与团队及合作方良好沟通，达成项目质量&交付。",
-      "jobRequirements": "1. 研究生毕业，CS、通信或者汽车、自动化的相关工科专业优先； 2. 有实习和项目经验优先，有PMP或者相关证书者优先； 3. 优秀的沟通能力，良好的团队协作能力。",
-      "JD": "1. 战队交付项目经理，主要负责数字座舱--偏向于软件和AI类应用系统交付； 2. 协调组织公司内部资源，协助项目立项，负责工业化项目计划、质量、风险及问题管理； 3. 项目实施过程达到与团队及合作方良好沟通，达成项目质量&交付。\n1. 研究生毕业，CS、通信或者汽车、自动化的相关工科专业优先； 2. 有实习和项目经验优先，有PMP或者相关证书者优先； 3. 优秀的沟通能力，良好的团队协作能力。",
-      "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [
-          "1. 研究生毕业，CS、通信或者汽车、自动化的相关工科专业优先"
-        ],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "项目管理"
-      ],
-      "skills": [
-        "项目管理"
-      ],
-      "experienceKeywords": [
-        "项目",
-        "招聘"
-      ],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "蔚来官方飞书招聘",
-      "officialURL": "https://nio.jobs.feishu.cn/campus/position/7673027301600643354/detail",
-      "publishedAt": "2026-08-12",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "网申&内推→笔试/测评→面试→Offer发放",
-      "recruitmentProcessEvidence": "E1 | 蔚来校招官网招聘动态 | https://campus.nio.com/?theme=dark#/trends | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E1 | 蔚来校招官网FAQ | https://campus.nio.com/?theme=dark#/trends | 2026-09-17"
-    },
-    {
       "id": "feishu-49f725-7673026899874892058",
       "company": "蔚来",
       "title": "校招-产品采购-车身外饰与能源产品",
@@ -7211,6 +7121,96 @@
       "annualSalary": "未披露",
       "source": "蔚来官方飞书招聘",
       "officialURL": "https://nio.jobs.feishu.cn/campus/position/7673026521368004890/detail",
+      "publishedAt": "2026-08-12",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申&内推→笔试/测评→面试→Offer发放",
+      "recruitmentProcessEvidence": "E1 | 蔚来校招官网招聘动态 | https://campus.nio.com/?theme=dark#/trends | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E1 | 蔚来校招官网FAQ | https://campus.nio.com/?theme=dark#/trends | 2026-09-17"
+    },
+    {
+      "id": "feishu-49f725-7673027301600643354",
+      "company": "蔚来",
+      "title": "校招-技术项目管理 - 智能座舱",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1. 研究生毕业，CS、通信或者汽车、自动化的相关工科专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "jobDescription": "1. 战队交付项目经理，主要负责数字座舱--偏向于软件和AI类应用系统交付； 2. 协调组织公司内部资源，协助项目立项，负责工业化项目计划、质量、风险及问题管理； 3. 项目实施过程达到与团队及合作方良好沟通，达成项目质量&交付。",
+      "jobRequirements": "1. 研究生毕业，CS、通信或者汽车、自动化的相关工科专业优先； 2. 有实习和项目经验优先，有PMP或者相关证书者优先； 3. 优秀的沟通能力，良好的团队协作能力。",
+      "JD": "1. 战队交付项目经理，主要负责数字座舱--偏向于软件和AI类应用系统交付； 2. 协调组织公司内部资源，协助项目立项，负责工业化项目计划、质量、风险及问题管理； 3. 项目实施过程达到与团队及合作方良好沟通，达成项目质量&交付。\n1. 研究生毕业，CS、通信或者汽车、自动化的相关工科专业优先； 2. 有实习和项目经验优先，有PMP或者相关证书者优先； 3. 优秀的沟通能力，良好的团队协作能力。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1. 研究生毕业，CS、通信或者汽车、自动化的相关工科专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "项目管理"
+      ],
+      "skills": [
+        "项目管理"
+      ],
+      "experienceKeywords": [
+        "项目",
+        "招聘"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "蔚来官方飞书招聘",
+      "officialURL": "https://nio.jobs.feishu.cn/campus/position/7673027301600643354/detail",
       "publishedAt": "2026-08-12",
       "lastVerified": "",
       "sourceType": "official",

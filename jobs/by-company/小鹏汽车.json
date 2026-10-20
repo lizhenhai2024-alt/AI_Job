@@ -1,7 +1,7 @@
 {
   "company": "小鹏汽车",
-  "count": 203,
-  "updatedAt": "2026-10-20T01:21:35.973Z",
+  "count": 204,
+  "updatedAt": "2026-10-20T14:24:24.818Z",
   "jobs": [
     {
       "id": "feishu-1fdf6e-7663476504336992531",
@@ -12596,6 +12596,93 @@
       "source": "小鹏汽车官方飞书招聘",
       "officialURL": "https://xiaopeng.jobs.feishu.cn/campus/m/position/7658239811220343049/detail",
       "publishedAt": "2026-07-03",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申/内推→AI测评→笔试（部分岗位）→面试→offer→签约入职",
+      "recruitmentProcessEvidence": "E2 | 南开大学就业指导中心校招简章 | https://career.nankai.edu.cn/correcruit/content/id/116251.html | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | 南开大学就业指导中心校招简章 | https://career.nankai.edu.cn/correcruit/content/id/116251.html | 2026-09-17"
+    },
+    {
+      "id": "feishu-1fdf6e-7698699142047418643",
+      "company": "小鹏汽车",
+      "title": "【27届校招】IR Trainee",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "Bachelor degree or above from a tier-1 university, preferably in finance, accounting or other related fields",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "广州",
+      "jobDescription": "1. Engage in corporate finance and investor relations work streams 2. Conduct in-depth analysis of financial markets, the smart EV and robotics industry and major companies 3. Organize investor events and participate in investor meetings",
+      "jobRequirements": "1. Bachelor degree or above from a tier-1 university, preferably in finance, accounting or other related fields 2. Fluent in English and Chinese, both speaking and writing 3. Excellent communication skills, self-driven, detail-oriented and able to work under pressure 4. Overseas study experience is preferred 5. Internship experience in finance and relevant sectors is a plus",
+      "JD": "1. Engage in corporate finance and investor relations work streams 2. Conduct in-depth analysis of financial markets, the smart EV and robotics industry and major companies 3. Organize investor events and participate in investor meetings\n1. Bachelor degree or above from a tier-1 university, preferably in finance, accounting or other related fields 2. Fluent in English and Chinese, both speaking and writing 3. Excellent communication skills, self-driven, detail-oriented and able to work under pressure 4. Overseas study experience is preferred 5. Internship experience in finance and relevant sectors is a plus",
+      "jdEvidence": {
+        "source": "llm:gemini-free-31:gemini-3.1-flash-lite",
+        "majorClauses": [
+          "Bachelor degree or above from a tier-1 university, preferably in finance, accounting or other related fields"
+        ],
+        "eligibilityClauses": [
+          "27届校招"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "Excel"
+      ],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "小鹏汽车官方飞书招聘",
+      "officialURL": "https://xiaopeng.jobs.feishu.cn/campus/m/position/7698699142047418643/detail",
+      "publishedAt": "2026-10-20",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "",
