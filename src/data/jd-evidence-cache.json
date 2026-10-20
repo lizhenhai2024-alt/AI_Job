@@ -37920,5 +37920,33 @@
   ],
   "technicalDuties": [],
   "businessDuties": []
+ },
+ "hotjob-c2c15426faf8:832c50ea000d6b26:gemini-3.1-flash-lite": {
+  "source": "llm",
+  "majorClauses": [
+   "本科或以上学历，市场营销，国际贸易，英语等相关专业"
+  ],
+  "eligibilityClauses": [],
+  "technicalDuties": [],
+  "businessDuties": [
+   "资料/流程"
+  ]
+ },
+ "hotjob-e4eb4bc0ceb5:94a3cb765aa9f6a5:gemini-3.1-flash-lite": {
+  "source": "llm",
+  "majorClauses": [
+   "本科及以上学历"
+  ],
+  "eligibilityClauses": [],
+  "technicalDuties": [
+   "开发实现"
+  ],
+  "businessDuties": [
+   "跨文化沟通",
+   "客户关系",
+   "资料/流程",
+   "翻译/本地化",
+   "国际业务"
+  ]
  }
 }

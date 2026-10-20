@@ -1,7 +1,7 @@
 {
   "company": "蔚来",
   "count": 202,
-  "updatedAt": "2026-10-20T14:24:24.818Z",
+  "updatedAt": "2026-10-20T19:03:03.978Z",
   "jobs": [
     {
       "id": "feishu-49f725-7673027221094975795",
@@ -9217,103 +9217,6 @@
       "hasAssessmentEvidence": "E1 | 蔚来校招官网FAQ | https://campus.nio.com/?theme=dark#/trends | 2026-09-17"
     },
     {
-      "id": "feishu-49f725-7673027157405321498",
-      "company": "蔚来",
-      "title": "校招-能源合作拓展",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "本科",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "本科及以上学历",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "北京",
-      "jobDescription": "1、负责所在区域蔚来能源充换电设施（换电站、超充站等）的选址评估、商务谈判与签约，确保场站保质保量上线运营； 2、承接总部对外合作拓展团队的市场拓展策略，推动能源网络布局目标在区域的有效达成； 3、开发并维护区域重点客户关系，定期拜访核心客户，持续扩大能源业务\"朋友圈\"； 4、协调、跟进相关业务流程及异常问题的解决，持续提升用户满意度与经营结果； 5、完成上级交办的其他工作任务。",
-      "jobRequirements": "\"1、2027届应届毕业生，本科及以上学历； 2、具备较强的商务拓展能力，优秀的表达能力和沟通技巧； 3、具备团队合作经验，学习能力强，抗压能力强； 4、具备良好的文案能力，善于总结沟通； 5、本岗位将邀请您提前参与带薪实习体验，快人一步，融入NIO，表现优异者可直发校招正式Offer！\"",
-      "JD": "1、负责所在区域蔚来能源充换电设施（换电站、超充站等）的选址评估、商务谈判与签约，确保场站保质保量上线运营； 2、承接总部对外合作拓展团队的市场拓展策略，推动能源网络布局目标在区域的有效达成； 3、开发并维护区域重点客户关系，定期拜访核心客户，持续扩大能源业务\"朋友圈\"； 4、协调、跟进相关业务流程及异常问题的解决，持续提升用户满意度与经营结果； 5、完成上级交办的其他工作任务。\n\"1、2027届应届毕业生，本科及以上学历； 2、具备较强的商务拓展能力，优秀的表达能力和沟通技巧； 3、具备团队合作经验，学习能力强，抗压能力强； 4、具备良好的文案能力，善于总结沟通； 5、本岗位将邀请您提前参与带薪实习体验，快人一步，融入NIO，表现优异者可直发校招正式Offer！\"",
-      "jdEvidence": {
-        "source": "llm:deepseek:deepseek-flash",
-        "majorClauses": [
-          "本科及以上学历"
-        ],
-        "eligibilityClauses": [
-          "2027届应届毕业生，本科及以上学历",
-          "本岗位将邀请您提前参与带薪实习体验，快人一步，融入NIO，表现优异者可直发校招正式Offer！"
-        ],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [
-        "文案"
-      ],
-      "experienceKeywords": [
-        "运营",
-        "市场",
-        "用户",
-        "客户",
-        "招聘",
-        "商务"
-      ],
-      "preferenceTags": [],
-      "riskTags": [
-        "节奏快"
-      ],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "蔚来官方飞书招聘",
-      "officialURL": "https://nio.jobs.feishu.cn/campus/position/7673027157405321498/detail",
-      "publishedAt": "2026-08-12",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "网申&内推→笔试/测评→面试→Offer发放",
-      "recruitmentProcessEvidence": "E1 | 蔚来校招官网招聘动态 | https://campus.nio.com/?theme=dark#/trends | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E1 | 蔚来校招官网FAQ | https://campus.nio.com/?theme=dark#/trends | 2026-09-17"
-    },
-    {
       "id": "feishu-49f725-7673027148605212938",
       "company": "蔚来",
       "title": "校招-数据分析（区域管理支持）",
@@ -10127,6 +10030,103 @@
       "annualSalary": "未披露",
       "source": "蔚来官方飞书招聘",
       "officialURL": "https://nio.jobs.feishu.cn/campus/position/7673026880094882074/detail",
+      "publishedAt": "2026-08-12",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申&内推→笔试/测评→面试→Offer发放",
+      "recruitmentProcessEvidence": "E1 | 蔚来校招官网招聘动态 | https://campus.nio.com/?theme=dark#/trends | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E1 | 蔚来校招官网FAQ | https://campus.nio.com/?theme=dark#/trends | 2026-09-17"
+    },
+    {
+      "id": "feishu-49f725-7673027157405321498",
+      "company": "蔚来",
+      "title": "校招-能源合作拓展",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "本科及以上学历",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "北京",
+      "jobDescription": "1、负责所在区域蔚来能源充换电设施（换电站、超充站等）的选址评估、商务谈判与签约，确保场站保质保量上线运营； 2、承接总部对外合作拓展团队的市场拓展策略，推动能源网络布局目标在区域的有效达成； 3、开发并维护区域重点客户关系，定期拜访核心客户，持续扩大能源业务\"朋友圈\"； 4、协调、跟进相关业务流程及异常问题的解决，持续提升用户满意度与经营结果； 5、完成上级交办的其他工作任务。",
+      "jobRequirements": "\"1、2027届应届毕业生，本科及以上学历； 2、具备较强的商务拓展能力，优秀的表达能力和沟通技巧； 3、具备团队合作经验，学习能力强，抗压能力强； 4、具备良好的文案能力，善于总结沟通； 5、本岗位将邀请您提前参与带薪实习体验，快人一步，融入NIO，表现优异者可直发校招正式Offer！\"",
+      "JD": "1、负责所在区域蔚来能源充换电设施（换电站、超充站等）的选址评估、商务谈判与签约，确保场站保质保量上线运营； 2、承接总部对外合作拓展团队的市场拓展策略，推动能源网络布局目标在区域的有效达成； 3、开发并维护区域重点客户关系，定期拜访核心客户，持续扩大能源业务\"朋友圈\"； 4、协调、跟进相关业务流程及异常问题的解决，持续提升用户满意度与经营结果； 5、完成上级交办的其他工作任务。\n\"1、2027届应届毕业生，本科及以上学历； 2、具备较强的商务拓展能力，优秀的表达能力和沟通技巧； 3、具备团队合作经验，学习能力强，抗压能力强； 4、具备良好的文案能力，善于总结沟通； 5、本岗位将邀请您提前参与带薪实习体验，快人一步，融入NIO，表现优异者可直发校招正式Offer！\"",
+      "jdEvidence": {
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科及以上学历"
+        ],
+        "eligibilityClauses": [
+          "2027届应届毕业生，本科及以上学历",
+          "本岗位将邀请您提前参与带薪实习体验，快人一步，融入NIO，表现优异者可直发校招正式Offer！"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "文案"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "市场",
+        "用户",
+        "客户",
+        "招聘",
+        "商务"
+      ],
+      "preferenceTags": [],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "蔚来官方飞书招聘",
+      "officialURL": "https://nio.jobs.feishu.cn/campus/position/7673027157405321498/detail",
       "publishedAt": "2026-08-12",
       "lastVerified": "",
       "sourceType": "official",

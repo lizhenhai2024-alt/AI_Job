@@ -1,7 +1,7 @@
 {
   "company": "TCL华星光电",
-  "count": 78,
-  "updatedAt": "2026-10-20T14:24:24.818Z",
+  "count": 77,
+  "updatedAt": "2026-10-20T19:03:03.978Z",
   "jobs": [
     {
       "id": "hotjob-779fe73e5dfa",
@@ -97,7 +97,7 @@
       "publishedAt": "2026-10-19",
       "lastVerified": "",
       "sourceType": "official",
-      "deadline": "2026-10-27",
+      "deadline": "2026-10-28",
       "recruitmentProcess": "在线网申→在线测评→简历筛选→笔试（研发岗）→一面→二面→offer",
       "recruitmentProcessEvidence": "E2 | TCL招聘官网琥珀计划页 | https://zhaopin.tcl.com/campus/amber.html | 2026-09-17",
       "hasAssessment": "有",
@@ -305,6 +305,105 @@
       "hasAssessmentEvidence": "E2 | TCL官方校招门户 | https://campus.tcl.com/campus/spring.html | 2026-09-17"
     },
     {
+      "id": "hotjob-6bf5eb941e25",
+      "company": "TCL华星光电",
+      "title": "供应链管培生（物流方向）",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "本科及以上学历，仓储、物流管理、IE相关专业",
+        "hardRestriction": true,
+        "hardClauses": [
+          "仓储、物流管理、IE相关专业"
+        ]
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "惠州",
+      "jobDescription": "1. 参与公司物流流程的梳理与优化，提出改进建议并协助实施； 2. 负责跟踪生产齐套情况，安排船期、订舱、装货、清关等； 3. 收集并分析物流运营数据，监控物流成本、效率、时效等指标，定期提交分析报告； 4. 参与物流信息系统的优化与维护，确保系统运作顺畅，支持业务需求。",
+      "jobRequirements": "1. 本科及以上学历，仓储、物流管理、IE相关专业； 2. 掌握物流管理知识、项目管理知识、精益生产知识、生产管理知识、报关业务和国际贸易知识等； 3. 具备较强的计划、协调、组织与沟通能力，可独立推动小型物流项目； 4. 抗压能力强，对数据敏感，系统思考与逻辑分析能力优秀； 5. 英语水平良好优先。",
+      "JD": "1. 参与公司物流流程的梳理与优化，提出改进建议并协助实施； 2. 负责跟踪生产齐套情况，安排船期、订舱、装货、清关等； 3. 收集并分析物流运营数据，监控物流成本、效率、时效等指标，定期提交分析报告； 4. 参与物流信息系统的优化与维护，确保系统运作顺畅，支持业务需求。\n1. 本科及以上学历，仓储、物流管理、IE相关专业； 2. 掌握物流管理知识、项目管理知识、精益生产知识、生产管理知识、报关业务和国际贸易知识等； 3. 具备较强的计划、协调、组织与沟通能力，可独立推动小型物流项目； 4. 抗压能力强，对数据敏感，系统思考与逻辑分析能力优秀； 5. 英语水平良好优先。",
+      "jdEvidence": {
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科及以上学历，仓储、物流管理、IE相关专业"
+        ],
+        "eligibilityClauses": [],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语",
+        "项目管理"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "项目",
+        "数据",
+        "供应链",
+        "沟通",
+        "分析"
+      ],
+      "preferenceTags": [
+        "国际业务"
+      ],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方HotJob校招官网",
+      "officialURL": "https://wecruit.hotjob.cn/SU64893571bef57c16d356b99e/mc/detail?postId=6a8a7a0a1ad6db7cf833b5b6&recruitType=1",
+      "publishedAt": "2026-10-20",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "2026-10-28",
+      "recruitmentProcess": "在线网申→在线测评→简历筛选→笔试（研发岗）→一面→二面→offer",
+      "recruitmentProcessEvidence": "E2 | TCL招聘官网琥珀计划页 | https://zhaopin.tcl.com/campus/amber.html | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | TCL官方校招门户 | https://campus.tcl.com/campus/spring.html | 2026-09-17"
+    },
+    {
       "id": "hotjob-7bdda14d4974",
       "company": "TCL华星光电",
       "title": "市场与用户运营管培生（设计方向）",
@@ -402,105 +501,6 @@
       "hasAssessmentEvidence": "E2 | TCL官方校招门户 | https://campus.tcl.com/campus/spring.html | 2026-09-17"
     },
     {
-      "id": "hotjob-6bf5eb941e25",
-      "company": "TCL华星光电",
-      "title": "供应链管培生（物流方向）",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "本科",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "本科及以上学历，仓储、物流管理、IE相关专业",
-        "hardRestriction": true,
-        "hardClauses": [
-          "仓储、物流管理、IE相关专业"
-        ]
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "惠州",
-      "jobDescription": "1. 参与公司物流流程的梳理与优化，提出改进建议并协助实施； 2. 负责跟踪生产齐套情况，安排船期、订舱、装货、清关等； 3. 收集并分析物流运营数据，监控物流成本、效率、时效等指标，定期提交分析报告； 4. 参与物流信息系统的优化与维护，确保系统运作顺畅，支持业务需求。",
-      "jobRequirements": "1. 本科及以上学历，仓储、物流管理、IE相关专业； 2. 掌握物流管理知识、项目管理知识、精益生产知识、生产管理知识、报关业务和国际贸易知识等； 3. 具备较强的计划、协调、组织与沟通能力，可独立推动小型物流项目； 4. 抗压能力强，对数据敏感，系统思考与逻辑分析能力优秀； 5. 英语水平良好优先。",
-      "JD": "1. 参与公司物流流程的梳理与优化，提出改进建议并协助实施； 2. 负责跟踪生产齐套情况，安排船期、订舱、装货、清关等； 3. 收集并分析物流运营数据，监控物流成本、效率、时效等指标，定期提交分析报告； 4. 参与物流信息系统的优化与维护，确保系统运作顺畅，支持业务需求。\n1. 本科及以上学历，仓储、物流管理、IE相关专业； 2. 掌握物流管理知识、项目管理知识、精益生产知识、生产管理知识、报关业务和国际贸易知识等； 3. 具备较强的计划、协调、组织与沟通能力，可独立推动小型物流项目； 4. 抗压能力强，对数据敏感，系统思考与逻辑分析能力优秀； 5. 英语水平良好优先。",
-      "jdEvidence": {
-        "source": "llm:deepseek:deepseek-flash",
-        "majorClauses": [
-          "本科及以上学历，仓储、物流管理、IE相关专业"
-        ],
-        "eligibilityClauses": [],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [
-        "英语",
-        "项目管理"
-      ],
-      "experienceKeywords": [
-        "运营",
-        "项目",
-        "数据",
-        "供应链",
-        "沟通",
-        "分析"
-      ],
-      "preferenceTags": [
-        "国际业务"
-      ],
-      "riskTags": [
-        "节奏快"
-      ],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "公司官方HotJob校招官网",
-      "officialURL": "https://wecruit.hotjob.cn/SU64893571bef57c16d356b99e/mc/detail?postId=6a8a7a0a1ad6db7cf833b5b6&recruitType=1",
-      "publishedAt": "2026-10-16",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "2026-10-27",
-      "recruitmentProcess": "在线网申→在线测评→简历筛选→笔试（研发岗）→一面→二面→offer",
-      "recruitmentProcessEvidence": "E2 | TCL招聘官网琥珀计划页 | https://zhaopin.tcl.com/campus/amber.html | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E2 | TCL官方校招门户 | https://campus.tcl.com/campus/spring.html | 2026-09-17"
-    },
-    {
       "id": "hotjob-34c00c3d0fb6",
       "company": "TCL华星光电",
       "title": "供应链管培生（采购方向）",
@@ -589,10 +589,10 @@
       "annualSalary": "未披露",
       "source": "公司官方HotJob校招官网",
       "officialURL": "https://wecruit.hotjob.cn/SU64893571bef57c16d356b99e/mc/detail?postId=6a8a7a3d1ad6db7cf833b62a&recruitType=1",
-      "publishedAt": "2026-10-16",
+      "publishedAt": "2026-10-20",
       "lastVerified": "",
       "sourceType": "official",
-      "deadline": "2026-10-27",
+      "deadline": "2026-10-28",
       "recruitmentProcess": "在线网申→在线测评→简历筛选→笔试（研发岗）→一面→二面→offer",
       "recruitmentProcessEvidence": "E2 | TCL招聘官网琥珀计划页 | https://zhaopin.tcl.com/campus/amber.html | 2026-09-17",
       "hasAssessment": "有",
@@ -800,7 +800,7 @@
       "publishedAt": "2026-10-19",
       "lastVerified": "",
       "sourceType": "official",
-      "deadline": "2026-10-27",
+      "deadline": "2026-10-28",
       "recruitmentProcess": "在线网申→在线测评→简历筛选→笔试（研发岗）→一面→二面→offer",
       "recruitmentProcessEvidence": "E2 | TCL招聘官网琥珀计划页 | https://zhaopin.tcl.com/campus/amber.html | 2026-09-17",
       "hasAssessment": "有",
@@ -994,7 +994,7 @@
       "publishedAt": "2026-10-19",
       "lastVerified": "",
       "sourceType": "official",
-      "deadline": "2026-10-27",
+      "deadline": "2026-10-28",
       "recruitmentProcess": "在线网申→在线测评→简历筛选→笔试（研发岗）→一面→二面→offer",
       "recruitmentProcessEvidence": "E2 | TCL招聘官网琥珀计划页 | https://zhaopin.tcl.com/campus/amber.html | 2026-09-17",
       "hasAssessment": "有",
@@ -1185,7 +1185,7 @@
       "publishedAt": "2026-10-17",
       "lastVerified": "",
       "sourceType": "official",
-      "deadline": "2026-10-27",
+      "deadline": "2026-10-28",
       "recruitmentProcess": "在线网申→在线测评→简历筛选→笔试（研发岗）→一面→二面→offer",
       "recruitmentProcessEvidence": "E2 | TCL招聘官网琥珀计划页 | https://zhaopin.tcl.com/campus/amber.html | 2026-09-17",
       "hasAssessment": "有",
@@ -1282,7 +1282,7 @@
       "publishedAt": "2026-10-17",
       "lastVerified": "",
       "sourceType": "official",
-      "deadline": "2026-10-27",
+      "deadline": "2026-10-28",
       "recruitmentProcess": "在线网申→在线测评→简历筛选→笔试（研发岗）→一面→二面→offer",
       "recruitmentProcessEvidence": "E2 | TCL招聘官网琥珀计划页 | https://zhaopin.tcl.com/campus/amber.html | 2026-09-17",
       "hasAssessment": "有",
@@ -1386,101 +1386,6 @@
       "hasAssessmentEvidence": "E2 | TCL官方校招门户 | https://campus.tcl.com/campus/spring.html | 2026-09-17"
     },
     {
-      "id": "hotjob-6cf71db47123",
-      "company": "TCL华星光电",
-      "title": "供应链管培生（采购方向）",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "本科",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "本科及以上学历，机械、电子、国际贸易、英语、葡萄牙语、西班牙语类专业优先",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "英语、西班牙语、葡萄牙语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "惠州",
-      "jobDescription": "1. 负责日常采购执行工作，了解并推进采购策略执行落地； 2. 主动通过专业分析、市场寻源、模型搭建等方式优化部品采购工作； 3. 洞察行业及部品发展趋势，结合公司产品和市场技术发展，提前规划供应商资源满足产品及市场需求； 4. 通过个人及小组目标的完成，支持组织经营目标达成。",
-      "jobRequirements": "1. 本科及以上学历，机械、电子、国际贸易、英语、葡萄牙语、西班牙语类专业优先； 2. 为人正直，具备良好的时间管理、工作抗压、逻辑分析能力； 3. 具备较强的沟通表达与谈判能力； 4. 具有海外工作意向及规划优先； 5. 英语、葡萄牙语或西班牙语能作为工作语言优先。",
-      "JD": "1. 负责日常采购执行工作，了解并推进采购策略执行落地； 2. 主动通过专业分析、市场寻源、模型搭建等方式优化部品采购工作； 3. 洞察行业及部品发展趋势，结合公司产品和市场技术发展，提前规划供应商资源满足产品及市场需求； 4. 通过个人及小组目标的完成，支持组织经营目标达成。\n1. 本科及以上学历，机械、电子、国际贸易、英语、葡萄牙语、西班牙语类专业优先； 2. 为人正直，具备良好的时间管理、工作抗压、逻辑分析能力； 3. 具备较强的沟通表达与谈判能力； 4. 具有海外工作意向及规划优先； 5. 英语、葡萄牙语或西班牙语能作为工作语言优先。",
-      "jdEvidence": {
-        "source": "llm:deepseek:deepseek-flash",
-        "majorClauses": [
-          "本科及以上学历，机械、电子、国际贸易、英语、葡萄牙语、西班牙语类专业优先"
-        ],
-        "eligibilityClauses": [],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [
-        "英语"
-      ],
-      "experienceKeywords": [
-        "海外",
-        "市场",
-        "供应链",
-        "沟通",
-        "分析"
-      ],
-      "preferenceTags": [
-        "国际业务"
-      ],
-      "riskTags": [
-        "节奏快"
-      ],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "公司官方HotJob校招官网",
-      "officialURL": "https://wecruit.hotjob.cn/SU64893571bef57c16d356b99e/mc/detail?postId=6a8a7a3c4315481304ccee5c&recruitType=1",
-      "publishedAt": "2026-09-21",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "2026-10-20",
-      "recruitmentProcess": "在线网申→在线测评→简历筛选→笔试（研发岗）→一面→二面→offer",
-      "recruitmentProcessEvidence": "E2 | TCL招聘官网琥珀计划页 | https://zhaopin.tcl.com/campus/amber.html | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E2 | TCL官方校招门户 | https://campus.tcl.com/campus/spring.html | 2026-09-17"
-    },
-    {
       "id": "hotjob-4eade110e9bb",
       "company": "TCL华星光电",
       "title": "零售运营管培生（日语）",
@@ -1569,6 +1474,107 @@
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "2027-08-23",
+      "recruitmentProcess": "在线网申→在线测评→简历筛选→笔试（研发岗）→一面→二面→offer",
+      "recruitmentProcessEvidence": "E2 | TCL招聘官网琥珀计划页 | https://zhaopin.tcl.com/campus/amber.html | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | TCL官方校招门户 | https://campus.tcl.com/campus/spring.html | 2026-09-17"
+    },
+    {
+      "id": "hotjob-e4eb4bc0ceb5",
+      "company": "TCL华星光电",
+      "title": "项目管理专员",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "本科及以上学历",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "深圳",
+      "jobDescription": "1. 负责跟进欧洲重点项目，特别是数字化项目的落地进度，覆盖 TCL 内部核心系统或 AI Agent 项目，以及客户 EDI、EDI平台、SAP 等内外部IT对接项目。 2. 制定并维护项目计划、里程碑和风险清单，定期输出进度报告和周会材料。 3. 主动对接业务、IT、供应商和客户方等不同部门与角色，识别卡点，推动问题按计划闭环。 4. 用英语组织和参与项目会议，与欧洲同事、客户及供应商直接沟通。 5. 维护项目看板和文档，确保信息透明、可追溯。",
+      "jobRequirements": "1. 本科及以上学历，2年以上 IT 或数字化项目管理经验优先。 2. 英语可作为工作语言，能用英语开会、写邮件、跟进事项。 3. 目标感强，责任心强，工作认真细致。 4. 愿意主动跨部门沟通，能推动事情按计划落地完成。 5. 熟悉 SAP、EDI 或企业核心系统项目的优先；了解 AI 应用落地的优先。 6. 优先愿意配合欧洲工作时间（约北京时间 15:00–24:00，随欧洲夏/冬令时调整），与欧洲同事实时协作、同步推进。",
+      "JD": "1. 负责跟进欧洲重点项目，特别是数字化项目的落地进度，覆盖 TCL 内部核心系统或 AI Agent 项目，以及客户 EDI、EDI平台、SAP 等内外部IT对接项目。 2. 制定并维护项目计划、里程碑和风险清单，定期输出进度报告和周会材料。 3. 主动对接业务、IT、供应商和客户方等不同部门与角色，识别卡点，推动问题按计划闭环。 4. 用英语组织和参与项目会议，与欧洲同事、客户及供应商直接沟通。 5. 维护项目看板和文档，确保信息透明、可追溯。\n1. 本科及以上学历，2年以上 IT 或数字化项目管理经验优先。 2. 英语可作为工作语言，能用英语开会、写邮件、跟进事项。 3. 目标感强，责任心强，工作认真细致。 4. 愿意主动跨部门沟通，能推动事情按计划落地完成。 5. 熟悉 SAP、EDI 或企业核心系统项目的优先；了解 AI 应用落地的优先。 6. 优先愿意配合欧洲工作时间（约北京时间 15:00–24:00，随欧洲夏/冬令时调整），与欧洲同事实时协作、同步推进。",
+      "jdEvidence": {
+        "source": "llm:gemini-free-31:gemini-3.1-flash-lite",
+        "majorClauses": [
+          "本科及以上学历"
+        ],
+        "eligibilityClauses": [],
+        "technicalDuties": [
+          "开发实现"
+        ],
+        "businessDuties": [
+          "跨文化沟通",
+          "客户关系",
+          "资料/流程",
+          "翻译/本地化",
+          "国际业务"
+        ]
+      },
+      "roleFamily": [
+        "项目管理"
+      ],
+      "skills": [
+        "英语",
+        "项目管理",
+        "跨部门沟通"
+      ],
+      "experienceKeywords": [
+        "项目",
+        "客户",
+        "沟通"
+      ],
+      "preferenceTags": [
+        "国际业务"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方HotJob校招官网",
+      "officialURL": "https://wecruit.hotjob.cn/SU64893571bef57c16d356b99e/mc/detail?postId=6ad6e2e8b6fae46f678ff3ae&recruitType=1",
+      "publishedAt": "2026-10-20",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "2027-10-20",
       "recruitmentProcess": "在线网申→在线测评→简历筛选→笔试（研发岗）→一面→二面→offer",
       "recruitmentProcessEvidence": "E2 | TCL招聘官网琥珀计划页 | https://zhaopin.tcl.com/campus/amber.html | 2026-09-17",
       "hasAssessment": "有",
@@ -1669,7 +1675,7 @@
       "publishedAt": "2026-10-19",
       "lastVerified": "",
       "sourceType": "official",
-      "deadline": "2026-10-27",
+      "deadline": "2026-10-28",
       "recruitmentProcess": "在线网申→在线测评→简历筛选→笔试（研发岗）→一面→二面→offer",
       "recruitmentProcessEvidence": "E2 | TCL招聘官网琥珀计划页 | https://zhaopin.tcl.com/campus/amber.html | 2026-09-17",
       "hasAssessment": "有",
@@ -1706,7 +1712,7 @@
         "majorClauses": [],
         "eligibilityClauses": [
           "招聘对象：2027届",
-          "投递截止：2026-10-27"
+          "投递截止：2026-10-28"
         ],
         "technicalDuties": [],
         "businessDuties": []
@@ -1760,7 +1766,7 @@
       "publishedAt": "2026-10-19",
       "lastVerified": "",
       "sourceType": "official",
-      "deadline": "2026-10-27",
+      "deadline": "2026-10-28",
       "recruitmentProcess": "在线网申→在线测评→简历筛选→笔试（研发岗）→一面→二面→offer",
       "recruitmentProcessEvidence": "E2 | TCL招聘官网琥珀计划页 | https://zhaopin.tcl.com/campus/amber.html | 2026-09-17",
       "hasAssessment": "有",
@@ -1853,7 +1859,7 @@
       "publishedAt": "2026-10-17",
       "lastVerified": "",
       "sourceType": "official",
-      "deadline": "2026-10-27",
+      "deadline": "2026-10-28",
       "recruitmentProcess": "在线网申→在线测评→简历筛选→笔试（研发岗）→一面→二面→offer",
       "recruitmentProcessEvidence": "E2 | TCL招聘官网琥珀计划页 | https://zhaopin.tcl.com/campus/amber.html | 2026-09-17",
       "hasAssessment": "有",
@@ -1950,7 +1956,7 @@
       "publishedAt": "2026-10-17",
       "lastVerified": "",
       "sourceType": "official",
-      "deadline": "2026-10-27",
+      "deadline": "2026-10-28",
       "recruitmentProcess": "在线网申→在线测评→简历筛选→笔试（研发岗）→一面→二面→offer",
       "recruitmentProcessEvidence": "E2 | TCL招聘官网琥珀计划页 | https://zhaopin.tcl.com/campus/amber.html | 2026-09-17",
       "hasAssessment": "有",
@@ -2045,7 +2051,7 @@
       "publishedAt": "2026-10-17",
       "lastVerified": "",
       "sourceType": "official",
-      "deadline": "2026-10-27",
+      "deadline": "2026-10-28",
       "recruitmentProcess": "在线网申→在线测评→简历筛选→笔试（研发岗）→一面→二面→offer",
       "recruitmentProcessEvidence": "E2 | TCL招聘官网琥珀计划页 | https://zhaopin.tcl.com/campus/amber.html | 2026-09-17",
       "hasAssessment": "有",
@@ -2144,7 +2150,7 @@
       "publishedAt": "2026-10-15",
       "lastVerified": "",
       "sourceType": "official",
-      "deadline": "2026-10-27",
+      "deadline": "2026-10-28",
       "recruitmentProcess": "在线网申→在线测评→简历筛选→笔试（研发岗）→一面→二面→offer",
       "recruitmentProcessEvidence": "E2 | TCL招聘官网琥珀计划页 | https://zhaopin.tcl.com/campus/amber.html | 2026-09-17",
       "hasAssessment": "有",
@@ -2428,7 +2434,7 @@
       "publishedAt": "2026-10-19",
       "lastVerified": "",
       "sourceType": "official",
-      "deadline": "2026-10-27",
+      "deadline": "2026-10-28",
       "recruitmentProcess": "在线网申→在线测评→简历筛选→笔试（研发岗）→一面→二面→offer",
       "recruitmentProcessEvidence": "E2 | TCL招聘官网琥珀计划页 | https://zhaopin.tcl.com/campus/amber.html | 2026-09-17",
       "hasAssessment": "有",
@@ -2519,7 +2525,7 @@
       "publishedAt": "2026-10-19",
       "lastVerified": "",
       "sourceType": "official",
-      "deadline": "2026-10-27",
+      "deadline": "2026-10-28",
       "recruitmentProcess": "在线网申→在线测评→简历筛选→笔试（研发岗）→一面→二面→offer",
       "recruitmentProcessEvidence": "E2 | TCL招聘官网琥珀计划页 | https://zhaopin.tcl.com/campus/amber.html | 2026-09-17",
       "hasAssessment": "有",
@@ -2610,7 +2616,7 @@
       "publishedAt": "2026-10-19",
       "lastVerified": "",
       "sourceType": "official",
-      "deadline": "2026-10-27",
+      "deadline": "2026-10-28",
       "recruitmentProcess": "在线网申→在线测评→简历筛选→笔试（研发岗）→一面→二面→offer",
       "recruitmentProcessEvidence": "E2 | TCL招聘官网琥珀计划页 | https://zhaopin.tcl.com/campus/amber.html | 2026-09-17",
       "hasAssessment": "有",
@@ -2701,7 +2707,7 @@
       "publishedAt": "2026-10-19",
       "lastVerified": "",
       "sourceType": "official",
-      "deadline": "2026-10-27",
+      "deadline": "2026-10-28",
       "recruitmentProcess": "在线网申→在线测评→简历筛选→笔试（研发岗）→一面→二面→offer",
       "recruitmentProcessEvidence": "E2 | TCL招聘官网琥珀计划页 | https://zhaopin.tcl.com/campus/amber.html | 2026-09-17",
       "hasAssessment": "有",
@@ -2883,7 +2889,7 @@
       "publishedAt": "2026-10-19",
       "lastVerified": "",
       "sourceType": "official",
-      "deadline": "2026-10-27",
+      "deadline": "2026-10-28",
       "recruitmentProcess": "在线网申→在线测评→简历筛选→笔试（研发岗）→一面→二面→offer",
       "recruitmentProcessEvidence": "E2 | TCL招聘官网琥珀计划页 | https://zhaopin.tcl.com/campus/amber.html | 2026-09-17",
       "hasAssessment": "有",
@@ -2974,7 +2980,7 @@
       "publishedAt": "2026-10-19",
       "lastVerified": "",
       "sourceType": "official",
-      "deadline": "2026-10-27",
+      "deadline": "2026-10-28",
       "recruitmentProcess": "在线网申→在线测评→简历筛选→笔试（研发岗）→一面→二面→offer",
       "recruitmentProcessEvidence": "E2 | TCL招聘官网琥珀计划页 | https://zhaopin.tcl.com/campus/amber.html | 2026-09-17",
       "hasAssessment": "有",
@@ -3068,99 +3074,7 @@
       "publishedAt": "2026-10-09",
       "lastVerified": "",
       "sourceType": "official",
-      "deadline": "2026-10-27",
-      "recruitmentProcess": "在线网申→在线测评→简历筛选→笔试（研发岗）→一面→二面→offer",
-      "recruitmentProcessEvidence": "E2 | TCL招聘官网琥珀计划页 | https://zhaopin.tcl.com/campus/amber.html | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E2 | TCL官方校招门户 | https://campus.tcl.com/campus/spring.html | 2026-09-17"
-    },
-    {
-      "id": "hotjob-443c22fe64e9",
-      "company": "TCL华星光电",
-      "title": "项目管理",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "本科",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "本科及以上学历，专业不限，管理科学与工程等管理类专业、电子机械等工科类相关专业、日语专业等可以优先考虑",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "英语、日语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "惠州",
-      "jobDescription": "1. 负责产品系列/产品统筹管理，协同问题解决、推进决策，确保交付达成； 2. 负责产品开发项目管理工作，按照项目管理过程启动、规划、执行、监控、收尾综合管理项目； 3. 主导制定主计划，并协调各领域子计划与主计划的匹配管理； 4. 监督计划的执行，及时进行偏差纠正； 5. 产品项目风险管理，组织团队识别并分析项目风险，并协同解决； 6. 组建项目团队，制定沟通管理计划，通过向上沟通，寻求决策； 7. 推进团队建设，识别项目运作中的痛点问题，并升级流程和机制，提升工作效率。",
-      "jobRequirements": "1. 本科及以上学历，专业不限，管理科学与工程等管理类专业、电子机械等工科类相关专业、日语专业等可以优先考虑； 2. 优秀的沟通协调能力，团队管理能力，计划管理及推动能力； 3. 工作踏实有责任心，精通office办公软件，英语能力强优先。",
-      "JD": "1. 负责产品系列/产品统筹管理，协同问题解决、推进决策，确保交付达成； 2. 负责产品开发项目管理工作，按照项目管理过程启动、规划、执行、监控、收尾综合管理项目； 3. 主导制定主计划，并协调各领域子计划与主计划的匹配管理； 4. 监督计划的执行，及时进行偏差纠正； 5. 产品项目风险管理，组织团队识别并分析项目风险，并协同解决； 6. 组建项目团队，制定沟通管理计划，通过向上沟通，寻求决策； 7. 推进团队建设，识别项目运作中的痛点问题，并升级流程和机制，提升工作效率。\n1. 本科及以上学历，专业不限，管理科学与工程等管理类专业、电子机械等工科类相关专业、日语专业等可以优先考虑； 2. 优秀的沟通协调能力，团队管理能力，计划管理及推动能力； 3. 工作踏实有责任心，精通office办公软件，英语能力强优先。",
-      "jdEvidence": {
-        "source": "llm:deepseek:deepseek-flash",
-        "majorClauses": [
-          "本科及以上学历，专业不限，管理科学与工程等管理类专业、电子机械等工科类相关专业、日语专业等可以优先考虑"
-        ],
-        "eligibilityClauses": [],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "项目管理"
-      ],
-      "skills": [
-        "英语",
-        "项目管理"
-      ],
-      "experienceKeywords": [
-        "项目",
-        "沟通",
-        "分析"
-      ],
-      "preferenceTags": [
-        "国际业务"
-      ],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "公司官方HotJob校招官网",
-      "officialURL": "https://wecruit.hotjob.cn/SU64893571bef57c16d356b99e/mc/detail?postId=6a8a7a494315481304ccee74&recruitType=1",
-      "publishedAt": "2026-09-21",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "2026-10-20",
+      "deadline": "2026-10-28",
       "recruitmentProcess": "在线网申→在线测评→简历筛选→笔试（研发岗）→一面→二面→offer",
       "recruitmentProcessEvidence": "E2 | TCL招聘官网琥珀计划页 | https://zhaopin.tcl.com/campus/amber.html | 2026-09-17",
       "hasAssessment": "有",
@@ -3652,6 +3566,105 @@
       "hasAssessmentEvidence": "E2 | TCL官方校招门户 | https://campus.tcl.com/campus/spring.html | 2026-09-17"
     },
     {
+      "id": "hotjob-c2c15426faf8",
+      "company": "TCL华星光电",
+      "title": "海外培训专员",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "本科或以上学历，市场营销，国际贸易，英语等相关专业",
+        "hardRestriction": true,
+        "hardClauses": [
+          "英语等相关专业"
+        ]
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "深圳",
+      "jobDescription": "1. 参与业务部门的需求调研，协助搭建覆盖产品知识、销售技巧、客户服务的课程矩阵。协助收集与制作课件、题库、情景案例及产品演示工具，丰富内部培训资源库； 2. 参与新品上市培训项目，协助提炼产品卖点、竞品对比与销售话术。配合业务节奏，协助组织场景化销售训练，支持一线销售团队快速掌握新品知识； 3. 负责线下集训、线上直播等培训项目的会务组织与现场跟课支持，保障培训顺利交付。收集培训反馈，协助进行效果评估与数据整理，输出月度培训总结报告； 4. 协助整理高频Q&A、经典服务案例与故障处理手册，维护并更新云端知识库。协助开展内部讲师的选拔、认证与日常运营，跟进讲师激励政策的落地。",
+      "jobRequirements": "1. 本科或以上学历，市场营销，国际贸易，英语等相关专业； 2. 具备较强的逻辑思维能力，具备较好的报告撰写及呈现能力，具备优秀的表达能力； 3. 积极主动，靠谱当责，具备良好的团队协作意识及能力； 4. 英语可作为工作语言，接受中东非区域范围内出差。",
+      "JD": "1. 参与业务部门的需求调研，协助搭建覆盖产品知识、销售技巧、客户服务的课程矩阵。协助收集与制作课件、题库、情景案例及产品演示工具，丰富内部培训资源库； 2. 参与新品上市培训项目，协助提炼产品卖点、竞品对比与销售话术。配合业务节奏，协助组织场景化销售训练，支持一线销售团队快速掌握新品知识； 3. 负责线下集训、线上直播等培训项目的会务组织与现场跟课支持，保障培训顺利交付。收集培训反馈，协助进行效果评估与数据整理，输出月度培训总结报告； 4. 协助整理高频Q&A、经典服务案例与故障处理手册，维护并更新云端知识库。协助开展内部讲师的选拔、认证与日常运营，跟进讲师激励政策的落地。\n1. 本科或以上学历，市场营销，国际贸易，英语等相关专业； 2. 具备较强的逻辑思维能力，具备较好的报告撰写及呈现能力，具备优秀的表达能力； 3. 积极主动，靠谱当责，具备良好的团队协作意识及能力； 4. 英语可作为工作语言，接受中东非区域范围内出差。",
+      "jdEvidence": {
+        "source": "llm:gemini-free-31:gemini-3.1-flash-lite",
+        "majorClauses": [
+          "本科或以上学历，市场营销，国际贸易，英语等相关专业"
+        ],
+        "eligibilityClauses": [],
+        "technicalDuties": [],
+        "businessDuties": [
+          "资料/流程"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语"
+      ],
+      "experienceKeywords": [
+        "海外",
+        "运营",
+        "项目",
+        "市场",
+        "数据",
+        "营销",
+        "客户"
+      ],
+      "preferenceTags": [
+        "国际业务"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方HotJob校招官网",
+      "officialURL": "https://wecruit.hotjob.cn/SU64893571bef57c16d356b99e/mc/detail?postId=6ad7035ef0cfabf2b4fc3f03&recruitType=1",
+      "publishedAt": "2026-10-20",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "2027-10-20",
+      "recruitmentProcess": "在线网申→在线测评→简历筛选→笔试（研发岗）→一面→二面→offer",
+      "recruitmentProcessEvidence": "E2 | TCL招聘官网琥珀计划页 | https://zhaopin.tcl.com/campus/amber.html | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | TCL官方校招门户 | https://campus.tcl.com/campus/spring.html | 2026-09-17"
+    },
+    {
       "id": "hotjob-ebb2a2bab0ad",
       "company": "TCL华星光电",
       "title": "服务技术管培生",
@@ -3742,7 +3755,7 @@
       "publishedAt": "2026-10-19",
       "lastVerified": "",
       "sourceType": "official",
-      "deadline": "2026-10-27",
+      "deadline": "2026-10-28",
       "recruitmentProcess": "在线网申→在线测评→简历筛选→笔试（研发岗）→一面→二面→offer",
       "recruitmentProcessEvidence": "E2 | TCL招聘官网琥珀计划页 | https://zhaopin.tcl.com/campus/amber.html | 2026-09-17",
       "hasAssessment": "有",
@@ -3830,7 +3843,7 @@
       "publishedAt": "2026-10-17",
       "lastVerified": "",
       "sourceType": "official",
-      "deadline": "2026-10-27",
+      "deadline": "2026-10-28",
       "recruitmentProcess": "在线网申→在线测评→简历筛选→笔试（研发岗）→一面→二面→offer",
       "recruitmentProcessEvidence": "E2 | TCL招聘官网琥珀计划页 | https://zhaopin.tcl.com/campus/amber.html | 2026-09-17",
       "hasAssessment": "有",
@@ -3933,7 +3946,7 @@
       "publishedAt": "2026-10-15",
       "lastVerified": "",
       "sourceType": "official",
-      "deadline": "2026-10-27",
+      "deadline": "2026-10-28",
       "recruitmentProcess": "在线网申→在线测评→简历筛选→笔试（研发岗）→一面→二面→offer",
       "recruitmentProcessEvidence": "E2 | TCL招聘官网琥珀计划页 | https://zhaopin.tcl.com/campus/amber.html | 2026-09-17",
       "hasAssessment": "有",
@@ -4028,7 +4041,7 @@
       "publishedAt": "2026-10-15",
       "lastVerified": "",
       "sourceType": "official",
-      "deadline": "2026-10-27",
+      "deadline": "2026-10-28",
       "recruitmentProcess": "在线网申→在线测评→简历筛选→笔试（研发岗）→一面→二面→offer",
       "recruitmentProcessEvidence": "E2 | TCL招聘官网琥珀计划页 | https://zhaopin.tcl.com/campus/amber.html | 2026-09-17",
       "hasAssessment": "有",
@@ -4127,7 +4140,7 @@
       "publishedAt": "2026-10-09",
       "lastVerified": "",
       "sourceType": "official",
-      "deadline": "2026-10-27",
+      "deadline": "2026-10-28",
       "recruitmentProcess": "在线网申→在线测评→简历筛选→笔试（研发岗）→一面→二面→offer",
       "recruitmentProcessEvidence": "E2 | TCL招聘官网琥珀计划页 | https://zhaopin.tcl.com/campus/amber.html | 2026-09-17",
       "hasAssessment": "有",
@@ -4231,6 +4244,100 @@
       "hasAssessmentEvidence": "E2 | TCL官方校招门户 | https://campus.tcl.com/campus/spring.html | 2026-09-17"
     },
     {
+      "id": "hotjob-577d0acbe394",
+      "company": "TCL华星光电",
+      "title": "组织发展与干部管理专员",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "硕士",
+        "masterRequired": true
+      },
+      "major": {
+        "raw": "硕士及以上学历，专业不限，新闻传播类专业，有品宣特长优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "深圳",
+      "jobDescription": "1. 组织发展项目支持 协助开展组织架构优化、岗位体系建设、职能梳理等工作； 参与组织诊断、员工敬业度调研、文化落地等专项项目； 协助制定并跟进组织发展年度计划与关键指标。 2. 干部管理与人才梯队建设 协助干部选拔、任用、考核与培养相关流程； 参与关键岗位人才盘点、继任计划制定与跟进； 协助组织干部培训、领导力发展项目及评估。 3. 数据分析与制度优化 收集、整理并分析组织与人才相关数据，形成分析报告； 协助优化干部管理制度、流程与工具。 4. 跨部门协作与专项任务 与招聘、培训、绩效等HR模块协作，推动综合性人力资源项目； 完成上级交办的其他工作任务。",
+      "jobRequirements": "1. 2027届应届毕业生，硕士及以上学历，专业不限，新闻传播类专业，有品宣特长优先 2. 具备良好的逻辑思维与数据分析能力；优秀的沟通协调能力与团队合作精神；学习能力强，能快速理解业务与组织运作； 3. 性格活泼外向，人际敏感度高，聪明好学，结果导向",
+      "JD": "1. 组织发展项目支持 协助开展组织架构优化、岗位体系建设、职能梳理等工作； 参与组织诊断、员工敬业度调研、文化落地等专项项目； 协助制定并跟进组织发展年度计划与关键指标。 2. 干部管理与人才梯队建设 协助干部选拔、任用、考核与培养相关流程； 参与关键岗位人才盘点、继任计划制定与跟进； 协助组织干部培训、领导力发展项目及评估。 3. 数据分析与制度优化 收集、整理并分析组织与人才相关数据，形成分析报告； 协助优化干部管理制度、流程与工具。 4. 跨部门协作与专项任务 与招聘、培训、绩效等HR模块协作，推动综合性人力资源项目； 完成上级交办的其他工作任务。\n1. 2027届应届毕业生，硕士及以上学历，专业不限，新闻传播类专业，有品宣特长优先 2. 具备良好的逻辑思维与数据分析能力；优秀的沟通协调能力与团队合作精神；学习能力强，能快速理解业务与组织运作； 3. 性格活泼外向，人际敏感度高，聪明好学，结果导向",
+      "jdEvidence": {
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "硕士及以上学历，专业不限，新闻传播类专业，有品宣特长优先"
+        ],
+        "eligibilityClauses": [
+          "2027届应届毕业生"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "数据分析"
+      ],
+      "experienceKeywords": [
+        "项目",
+        "数据",
+        "沟通",
+        "分析"
+      ],
+      "preferenceTags": [
+        "国际业务"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方HotJob校招官网",
+      "officialURL": "https://wecruit.hotjob.cn/SU64893571bef57c16d356b99e/mc/detail?postId=6a977879829af219b7d7cb50&recruitType=1",
+      "publishedAt": "2026-10-20",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "2027-09-02",
+      "recruitmentProcess": "在线网申→在线测评→简历筛选→笔试（研发岗）→一面→二面→offer",
+      "recruitmentProcessEvidence": "E2 | TCL招聘官网琥珀计划页 | https://zhaopin.tcl.com/campus/amber.html | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | TCL官方校招门户 | https://campus.tcl.com/campus/spring.html | 2026-09-17"
+    },
+    {
       "id": "hotjob-d0da05308f83",
       "company": "TCL华星光电",
       "title": "计划专员",
@@ -4316,7 +4423,7 @@
       "publishedAt": "2026-10-17",
       "lastVerified": "",
       "sourceType": "official",
-      "deadline": "2026-10-27",
+      "deadline": "2026-10-28",
       "recruitmentProcess": "在线网申→在线测评→简历筛选→笔试（研发岗）→一面→二面→offer",
       "recruitmentProcessEvidence": "E2 | TCL招聘官网琥珀计划页 | https://zhaopin.tcl.com/campus/amber.html | 2026-09-17",
       "hasAssessment": "有",
@@ -4501,7 +4608,7 @@
       "publishedAt": "2026-10-15",
       "lastVerified": "",
       "sourceType": "official",
-      "deadline": "2026-10-27",
+      "deadline": "2026-10-28",
       "recruitmentProcess": "在线网申→在线测评→简历筛选→笔试（研发岗）→一面→二面→offer",
       "recruitmentProcessEvidence": "E2 | TCL招聘官网琥珀计划页 | https://zhaopin.tcl.com/campus/amber.html | 2026-09-17",
       "hasAssessment": "有",
@@ -4603,7 +4710,7 @@
       "publishedAt": "2026-10-15",
       "lastVerified": "",
       "sourceType": "official",
-      "deadline": "2026-10-27",
+      "deadline": "2026-10-28",
       "recruitmentProcess": "在线网申→在线测评→简历筛选→笔试（研发岗）→一面→二面→offer",
       "recruitmentProcessEvidence": "E2 | TCL招聘官网琥珀计划页 | https://zhaopin.tcl.com/campus/amber.html | 2026-09-17",
       "hasAssessment": "有",
@@ -4697,7 +4804,7 @@
       "publishedAt": "2026-10-15",
       "lastVerified": "",
       "sourceType": "official",
-      "deadline": "2026-10-27",
+      "deadline": "2026-10-28",
       "recruitmentProcess": "在线网申→在线测评→简历筛选→笔试（研发岗）→一面→二面→offer",
       "recruitmentProcessEvidence": "E2 | TCL招聘官网琥珀计划页 | https://zhaopin.tcl.com/campus/amber.html | 2026-09-17",
       "hasAssessment": "有",
@@ -4791,101 +4898,7 @@
       "publishedAt": "2026-10-15",
       "lastVerified": "",
       "sourceType": "official",
-      "deadline": "2026-10-27",
-      "recruitmentProcess": "在线网申→在线测评→简历筛选→笔试（研发岗）→一面→二面→offer",
-      "recruitmentProcessEvidence": "E2 | TCL招聘官网琥珀计划页 | https://zhaopin.tcl.com/campus/amber.html | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E2 | TCL官方校招门户 | https://campus.tcl.com/campus/spring.html | 2026-09-17"
-    },
-    {
-      "id": "hotjob-577d0acbe394",
-      "company": "TCL华星光电",
-      "title": "组织发展与干部管理专员",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "硕士",
-        "masterRequired": true
-      },
-      "major": {
-        "raw": "硕士及以上学历，专业不限，新闻传播类专业，有品宣特长优先",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "深圳",
-      "jobDescription": "1. 组织发展项目支持 协助开展组织架构优化、岗位体系建设、职能梳理等工作； 参与组织诊断、员工敬业度调研、文化落地等专项项目； 协助制定并跟进组织发展年度计划与关键指标。 2. 干部管理与人才梯队建设 协助干部选拔、任用、考核与培养相关流程； 参与关键岗位人才盘点、继任计划制定与跟进； 协助组织干部培训、领导力发展项目及评估。 3. 数据分析与制度优化 收集、整理并分析组织与人才相关数据，形成分析报告； 协助优化干部管理制度、流程与工具。 4. 跨部门协作与专项任务 与招聘、培训、绩效等HR模块协作，推动综合性人力资源项目； 完成上级交办的其他工作任务。",
-      "jobRequirements": "1. 2027届应届毕业生，硕士及以上学历，专业不限，新闻传播类专业，有品宣特长优先 2. 具备良好的逻辑思维与数据分析能力；优秀的沟通协调能力与团队合作精神；学习能力强，能快速理解业务与组织运作； 3. 性格活泼外向，人际敏感度高，聪明好学，结果导向",
-      "JD": "1. 组织发展项目支持 协助开展组织架构优化、岗位体系建设、职能梳理等工作； 参与组织诊断、员工敬业度调研、文化落地等专项项目； 协助制定并跟进组织发展年度计划与关键指标。 2. 干部管理与人才梯队建设 协助干部选拔、任用、考核与培养相关流程； 参与关键岗位人才盘点、继任计划制定与跟进； 协助组织干部培训、领导力发展项目及评估。 3. 数据分析与制度优化 收集、整理并分析组织与人才相关数据，形成分析报告； 协助优化干部管理制度、流程与工具。 4. 跨部门协作与专项任务 与招聘、培训、绩效等HR模块协作，推动综合性人力资源项目； 完成上级交办的其他工作任务。\n1. 2027届应届毕业生，硕士及以上学历，专业不限，新闻传播类专业，有品宣特长优先 2. 具备良好的逻辑思维与数据分析能力；优秀的沟通协调能力与团队合作精神；学习能力强，能快速理解业务与组织运作； 3. 性格活泼外向，人际敏感度高，聪明好学，结果导向",
-      "jdEvidence": {
-        "source": "llm:deepseek:deepseek-flash",
-        "majorClauses": [
-          "硕士及以上学历，专业不限，新闻传播类专业，有品宣特长优先"
-        ],
-        "eligibilityClauses": [
-          "2027届应届毕业生"
-        ],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [
-        "数据分析"
-      ],
-      "experienceKeywords": [
-        "项目",
-        "数据",
-        "沟通",
-        "分析"
-      ],
-      "preferenceTags": [
-        "国际业务"
-      ],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "公司官方HotJob校招官网",
-      "officialURL": "https://wecruit.hotjob.cn/SU64893571bef57c16d356b99e/mc/detail?postId=6a977879829af219b7d7cb50&recruitType=1",
-      "publishedAt": "2026-10-14",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "2027-09-02",
+      "deadline": "2026-10-28",
       "recruitmentProcess": "在线网申→在线测评→简历筛选→笔试（研发岗）→一面→二面→offer",
       "recruitmentProcessEvidence": "E2 | TCL招聘官网琥珀计划页 | https://zhaopin.tcl.com/campus/amber.html | 2026-09-17",
       "hasAssessment": "有",
@@ -5117,7 +5130,7 @@
         "majorClauses": [],
         "eligibilityClauses": [
           "招聘对象：2027届",
-          "投递截止：2026-10-27"
+          "投递截止：2026-10-28"
         ],
         "technicalDuties": [],
         "businessDuties": []
@@ -5169,7 +5182,7 @@
       "publishedAt": "2026-10-15",
       "lastVerified": "",
       "sourceType": "official",
-      "deadline": "2026-10-27",
+      "deadline": "2026-10-28",
       "recruitmentProcess": "在线网申→在线测评→简历筛选→笔试（研发岗）→一面→二面→offer",
       "recruitmentProcessEvidence": "E2 | TCL招聘官网琥珀计划页 | https://zhaopin.tcl.com/campus/amber.html | 2026-09-17",
       "hasAssessment": "有",
@@ -5256,7 +5269,7 @@
       "publishedAt": "2026-10-15",
       "lastVerified": "",
       "sourceType": "official",
-      "deadline": "2026-10-27",
+      "deadline": "2026-10-28",
       "recruitmentProcess": "在线网申→在线测评→简历筛选→笔试（研发岗）→一面→二面→offer",
       "recruitmentProcessEvidence": "E2 | TCL招聘官网琥珀计划页 | https://zhaopin.tcl.com/campus/amber.html | 2026-09-17",
       "hasAssessment": "有",
@@ -5293,7 +5306,7 @@
         "majorClauses": [],
         "eligibilityClauses": [
           "招聘对象：2027届",
-          "投递截止：2026-10-27"
+          "投递截止：2026-10-28"
         ],
         "technicalDuties": [
           "模型/算法"
@@ -5346,7 +5359,7 @@
       "publishedAt": "2026-10-15",
       "lastVerified": "",
       "sourceType": "official",
-      "deadline": "2026-10-27",
+      "deadline": "2026-10-28",
       "recruitmentProcess": "在线网申→在线测评→简历筛选→笔试（研发岗）→一面→二面→offer",
       "recruitmentProcessEvidence": "E2 | TCL招聘官网琥珀计划页 | https://zhaopin.tcl.com/campus/amber.html | 2026-09-17",
       "hasAssessment": "有",
@@ -5383,7 +5396,7 @@
         "majorClauses": [],
         "eligibilityClauses": [
           "招聘对象：2027届",
-          "投递截止：2026-10-27"
+          "投递截止：2026-10-28"
         ],
         "technicalDuties": [],
         "businessDuties": []
@@ -5434,7 +5447,7 @@
       "publishedAt": "2026-10-15",
       "lastVerified": "",
       "sourceType": "official",
-      "deadline": "2026-10-27",
+      "deadline": "2026-10-28",
       "recruitmentProcess": "在线网申→在线测评→简历筛选→笔试（研发岗）→一面→二面→offer",
       "recruitmentProcessEvidence": "E2 | TCL招聘官网琥珀计划页 | https://zhaopin.tcl.com/campus/amber.html | 2026-09-17",
       "hasAssessment": "有",
@@ -5524,7 +5537,7 @@
       "publishedAt": "2026-10-15",
       "lastVerified": "",
       "sourceType": "official",
-      "deadline": "2026-10-27",
+      "deadline": "2026-10-28",
       "recruitmentProcess": "在线网申→在线测评→简历筛选→笔试（研发岗）→一面→二面→offer",
       "recruitmentProcessEvidence": "E2 | TCL招聘官网琥珀计划页 | https://zhaopin.tcl.com/campus/amber.html | 2026-09-17",
       "hasAssessment": "有",
@@ -5561,7 +5574,7 @@
         "majorClauses": [],
         "eligibilityClauses": [
           "招聘对象：2027届",
-          "投递截止：2026-10-27"
+          "投递截止：2026-10-28"
         ],
         "technicalDuties": [],
         "businessDuties": []
@@ -5612,7 +5625,7 @@
       "publishedAt": "2026-10-15",
       "lastVerified": "",
       "sourceType": "official",
-      "deadline": "2026-10-27",
+      "deadline": "2026-10-28",
       "recruitmentProcess": "在线网申→在线测评→简历筛选→笔试（研发岗）→一面→二面→offer",
       "recruitmentProcessEvidence": "E2 | TCL招聘官网琥珀计划页 | https://zhaopin.tcl.com/campus/amber.html | 2026-09-17",
       "hasAssessment": "有",
@@ -5706,7 +5719,7 @@
       "publishedAt": "2026-10-15",
       "lastVerified": "",
       "sourceType": "official",
-      "deadline": "2026-10-27",
+      "deadline": "2026-10-28",
       "recruitmentProcess": "在线网申→在线测评→简历筛选→笔试（研发岗）→一面→二面→offer",
       "recruitmentProcessEvidence": "E2 | TCL招聘官网琥珀计划页 | https://zhaopin.tcl.com/campus/amber.html | 2026-09-17",
       "hasAssessment": "有",
@@ -5795,7 +5808,7 @@
       "publishedAt": "2026-10-15",
       "lastVerified": "",
       "sourceType": "official",
-      "deadline": "2026-10-27",
+      "deadline": "2026-10-28",
       "recruitmentProcess": "在线网申→在线测评→简历筛选→笔试（研发岗）→一面→二面→offer",
       "recruitmentProcessEvidence": "E2 | TCL招聘官网琥珀计划页 | https://zhaopin.tcl.com/campus/amber.html | 2026-09-17",
       "hasAssessment": "有",
@@ -5884,7 +5897,7 @@
       "publishedAt": "2026-10-15",
       "lastVerified": "",
       "sourceType": "official",
-      "deadline": "2026-10-27",
+      "deadline": "2026-10-28",
       "recruitmentProcess": "在线网申→在线测评→简历筛选→笔试（研发岗）→一面→二面→offer",
       "recruitmentProcessEvidence": "E2 | TCL招聘官网琥珀计划页 | https://zhaopin.tcl.com/campus/amber.html | 2026-09-17",
       "hasAssessment": "有",
@@ -5975,7 +5988,7 @@
       "publishedAt": "2026-10-15",
       "lastVerified": "",
       "sourceType": "official",
-      "deadline": "2026-10-27",
+      "deadline": "2026-10-28",
       "recruitmentProcess": "在线网申→在线测评→简历筛选→笔试（研发岗）→一面→二面→offer",
       "recruitmentProcessEvidence": "E2 | TCL招聘官网琥珀计划页 | https://zhaopin.tcl.com/campus/amber.html | 2026-09-17",
       "hasAssessment": "有",
@@ -6165,7 +6178,7 @@
       "publishedAt": "2026-10-09",
       "lastVerified": "",
       "sourceType": "official",
-      "deadline": "2026-10-27",
+      "deadline": "2026-10-28",
       "recruitmentProcess": "在线网申→在线测评→简历筛选→笔试（研发岗）→一面→二面→offer",
       "recruitmentProcessEvidence": "E2 | TCL招聘官网琥珀计划页 | https://zhaopin.tcl.com/campus/amber.html | 2026-09-17",
       "hasAssessment": "有",
@@ -6255,95 +6268,6 @@
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "2026-10-26",
-      "recruitmentProcess": "在线网申→在线测评→简历筛选→笔试（研发岗）→一面→二面→offer",
-      "recruitmentProcessEvidence": "E2 | TCL招聘官网琥珀计划页 | https://zhaopin.tcl.com/campus/amber.html | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E2 | TCL官方校招门户 | https://campus.tcl.com/campus/spring.html | 2026-09-17"
-    },
-    {
-      "id": "hotjob-7069b9dc3862",
-      "company": "TCL华星光电",
-      "title": "光学工程师",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "本科",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "本科及以上学历，光学、光电等相关专业",
-        "hardRestriction": true,
-        "hardClauses": [
-          "光学、光电等相关专业"
-        ]
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "惠州",
-      "jobDescription": "1. 负责背光模组的光学设计和开发； 2. 测试及评估现有背光及自己开发背光的可靠性，光学性能等指标； 3. 制定背光的技术路线图及路标，实现方案落地。",
-      "jobRequirements": "1. 本科及以上学历，光学、光电等相关专业； 2. 学过物理光学与应用光学知识、熟悉模拟电路和数字电路，有较强的动手能力； 3. 英语4级以上，英语能作为工作语言者优先考虑。",
-      "JD": "1. 负责背光模组的光学设计和开发； 2. 测试及评估现有背光及自己开发背光的可靠性，光学性能等指标； 3. 制定背光的技术路线图及路标，实现方案落地。\n1. 本科及以上学历，光学、光电等相关专业； 2. 学过物理光学与应用光学知识、熟悉模拟电路和数字电路，有较强的动手能力； 3. 英语4级以上，英语能作为工作语言者优先考虑。",
-      "jdEvidence": {
-        "source": "llm:deepseek:deepseek-flash",
-        "majorClauses": [
-          "本科及以上学历，光学、光电等相关专业"
-        ],
-        "eligibilityClauses": [],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [
-        "英语"
-      ],
-      "experienceKeywords": [],
-      "preferenceTags": [
-        "国际业务"
-      ],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "公司官方HotJob校招官网",
-      "officialURL": "https://wecruit.hotjob.cn/SU64893571bef57c16d356b99e/mc/detail?postId=6a8aa5d34315481304ccf999&recruitType=1",
-      "publishedAt": "2026-09-21",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "2026-10-20",
       "recruitmentProcess": "在线网申→在线测评→简历筛选→笔试（研发岗）→一面→二面→offer",
       "recruitmentProcessEvidence": "E2 | TCL招聘官网琥珀计划页 | https://zhaopin.tcl.com/campus/amber.html | 2026-09-17",
       "hasAssessment": "有",
@@ -6727,7 +6651,7 @@
       "annualSalary": "未披露",
       "source": "公司官方HotJob校招官网",
       "officialURL": "https://wecruit.hotjob.cn/SU64893571bef57c16d356b99e/mc/detail?postId=6a8d72051ad6db7cf83c0392&recruitType=1",
-      "publishedAt": "2026-10-16",
+      "publishedAt": "2026-10-20",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "2027-08-25",
@@ -6767,7 +6691,7 @@
         "majorClauses": [],
         "eligibilityClauses": [
           "招聘对象：2027届",
-          "投递截止：2026-10-27"
+          "投递截止：2026-10-28"
         ],
         "technicalDuties": [],
         "businessDuties": []
@@ -6818,7 +6742,7 @@
       "publishedAt": "2026-10-15",
       "lastVerified": "",
       "sourceType": "official",
-      "deadline": "2026-10-27",
+      "deadline": "2026-10-28",
       "recruitmentProcess": "在线网申→在线测评→简历筛选→笔试（研发岗）→一面→二面→offer",
       "recruitmentProcessEvidence": "E2 | TCL招聘官网琥珀计划页 | https://zhaopin.tcl.com/campus/amber.html | 2026-09-17",
       "hasAssessment": "有",
@@ -6916,7 +6840,7 @@
       "publishedAt": "2026-10-15",
       "lastVerified": "",
       "sourceType": "official",
-      "deadline": "2026-10-27",
+      "deadline": "2026-10-28",
       "recruitmentProcess": "在线网申→在线测评→简历筛选→笔试（研发岗）→一面→二面→offer",
       "recruitmentProcessEvidence": "E2 | TCL招聘官网琥珀计划页 | https://zhaopin.tcl.com/campus/amber.html | 2026-09-17",
       "hasAssessment": "有",
@@ -7183,7 +7107,7 @@
       "publishedAt": "2026-10-09",
       "lastVerified": "",
       "sourceType": "official",
-      "deadline": "2026-10-27",
+      "deadline": "2026-10-28",
       "recruitmentProcess": "在线网申→在线测评→简历筛选→笔试（研发岗）→一面→二面→offer",
       "recruitmentProcessEvidence": "E2 | TCL招聘官网琥珀计划页 | https://zhaopin.tcl.com/campus/amber.html | 2026-09-17",
       "hasAssessment": "有",
