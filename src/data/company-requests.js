@@ -7,7 +7,7 @@ export const companyRequests = [
     "focus": [],
     "note": "北京语言大学自动发现；源页面：https://jobs.blcu.edu.cn/front/zpxx.jspa?tid=2110544240625545217",
     "requestedAt": "2026-10-12T18:44:26.467Z",
-    "updatedAt": "2026-10-20T19:02:33.948Z",
+    "updatedAt": "2026-10-21T00:49:54.679Z",
     "status": "高校发现·官方源已注册",
     "provider": "beisen",
     "sourceRegistered": true,
