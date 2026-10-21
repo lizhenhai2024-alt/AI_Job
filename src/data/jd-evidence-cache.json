@@ -37961,5 +37961,42 @@
   "businessDuties": [
    "资料/流程"
   ]
+ },
+ "beisen-509470bc1170:7eed956664101b87:gemini-3.1-flash-lite": {
+  "source": "llm",
+  "majorClauses": [
+   "硕士研究生及以上学历，城乡规划、国土空间规划等相关专业"
+  ],
+  "eligibilityClauses": [
+   "2027 届应届毕业生"
+  ],
+  "technicalDuties": [
+   "开发实现"
+  ],
+  "businessDuties": [
+   "资料/流程"
+  ]
+ },
+ "beisen-74ff050c4f40:06c996054b586533:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "环境科学与工程、市政工程、水利工程等相关专业"
+  ],
+  "eligibilityClauses": [
+   "2027年应届毕业生，硕士研究生及以上学历"
+  ],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "beisen-bd2dadc5997b:5022cc33bfa08edc:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "全日制本科及以上学历，工程造价、工程管理及相关专业"
+  ],
+  "eligibilityClauses": [
+   "2027届校招"
+  ],
+  "technicalDuties": [],
+  "businessDuties": []
  }
 }

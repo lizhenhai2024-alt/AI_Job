@@ -173,6 +173,10 @@ export const sourceRegistry = [
     "company": "德邦证券"
   },
   {
+    "provider": "moka",
+    "company": "硬件工程师-深圳欣锐科技股份有限公司"
+  },
+  {
     "provider": "beisen",
     "company": "科大讯飞"
   },
@@ -459,6 +463,10 @@ export const sourceRegistry = [
   {
     "provider": "beisen",
     "company": "乐禾食品集团股份有限公司"
+  },
+  {
+    "provider": "beisen",
+    "company": "中国人民人寿股份有限公司"
   },
   {
     "provider": "feishu",

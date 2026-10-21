@@ -1,7 +1,7 @@
 {
   "company": "中国路桥",
-  "count": 160,
-  "updatedAt": "2026-10-21T00:49:58.666Z",
+  "count": 164,
+  "updatedAt": "2026-10-21T15:04:09.705Z",
   "jobs": [
     {
       "id": "beisen-fef4dd791a1e",
@@ -528,6 +528,102 @@
       "source": "公司官方北森校招官网",
       "officialURL": "https://ccccltd.zhiye.com/campus/detail?jobAdId=ae6f7897-2cdf-4561-a9b5-968ae8adc3de",
       "publishedAt": "2026-08-27",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-4dfdc1822bcc",
+      "company": "中国路桥",
+      "title": "2027届校招中交特种工程有限公司海外翻译岗(J49142)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1.本科及以上学历，阿拉伯语、翻译等相关专业背景",
+        "hardRestriction": true,
+        "hardClauses": [
+          "阿拉伯语、翻译等相关专业背景"
+        ]
+      },
+      "language": {
+        "raw": "阿拉伯语",
+        "english": false,
+        "minorLanguageRequired": true
+      },
+      "location": "国外",
+      "jobDescription": "1. 负责海外工程项目现场的中阿口译与笔译工作，涵盖技术交底、合同文件、会议纪要、施工方案、安全规范等专业内容； 2. 协助项目团队开展多语种跨文化沟通协调，参与商务谈判、外事接待、属地化协作及日常对外联络； 3. 独立完成工程类文档的多语种翻译、校对与标准化整理，确保术语准确、逻辑清晰、符合目标语言表达习惯及行业规范。",
+      "jobRequirements": "1.本科及以上学历，阿拉伯语、翻译等相关专业背景； 2. 阿拉伯语口笔译能力强：阿拉伯语需要通过专业八级或对应等级证书； 3. 具备工程类文本翻译实习或实践经历者优先，熟悉基础设施领域常用术语及文档类型； 4. 沟通能力强，责任心强，适应驻外工作，具备良好的跨文化敏感度、抗压能力与团队协作意识。",
+      "JD": "1. 负责海外工程项目现场的中阿口译与笔译工作，涵盖技术交底、合同文件、会议纪要、施工方案、安全规范等专业内容； 2. 协助项目团队开展多语种跨文化沟通协调，参与商务谈判、外事接待、属地化协作及日常对外联络； 3. 独立完成工程类文档的多语种翻译、校对与标准化整理，确保术语准确、逻辑清晰、符合目标语言表达习惯及行业规范。\n1.本科及以上学历，阿拉伯语、翻译等相关专业背景； 2. 阿拉伯语口笔译能力强：阿拉伯语需要通过专业八级或对应等级证书； 3. 具备工程类文本翻译实习或实践经历者优先，熟悉基础设施领域常用术语及文档类型； 4. 沟通能力强，责任心强，适应驻外工作，具备良好的跨文化敏感度、抗压能力与团队协作意识。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1.本科及以上学历，阿拉伯语、翻译等相关专业背景"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "跨文化沟通",
+          "翻译/本地化"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "海外",
+        "内容",
+        "项目",
+        "跨文化"
+      ],
+      "preferenceTags": [
+        "国际业务",
+        "跨文化"
+      ],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": true,
+        "raw": "2",
+        "min": 2,
+        "max": 2,
+        "scope": "job",
+        "display": "2人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "2 2 1. 负责海外工程项目现场的中阿口译与笔译工作，涵盖技术交底、合同文件、会议纪要、"
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "16K-19K 元/月",
+        "monthlyMin": 16000,
+        "monthlyMax": 19000,
+        "annualMin": 192000,
+        "annualMax": 228000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "1.6万–1.9万/月",
+        "annualDisplay": "19.2万–22.8万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "16K-19K 元/月 公司官方北森校招岗位；投递前请打开官方职位页确"
+      },
+      "salary": "16K-19K 元/月",
+      "monthlySalary": "1.6万–1.9万/月",
+      "annualSalary": "19.2万–22.8万/年（按12薪推算）",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://ccccltd.zhiye.com/campus/detail?jobAdId=6bb4ca40-53e3-441b-a30d-b85279c32fef",
+      "publishedAt": "2026-10-21",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
@@ -1156,6 +1252,99 @@
       "source": "公司官方北森校招官网",
       "officialURL": "https://ccccltd.zhiye.com/campus/detail?jobAdId=40eceead-0940-4024-9e8a-6ce5e2c2d004",
       "publishedAt": "2026-08-26",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-509470bc1170",
+      "company": "中国路桥",
+      "title": "2027届校招中咨华科公司城市规划岗位(J49148)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "硕士",
+        "masterRequired": true
+      },
+      "major": {
+        "raw": "硕士研究生及以上学历，城乡规划、国土空间规划等相关专业",
+        "hardRestriction": true,
+        "hardClauses": [
+          "城乡规划、国土空间规划等相关专业"
+        ]
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "北京",
+      "jobDescription": "1. 协助开展城市业务前期调研工作，主要聚焦城市更新、乡村振兴、片区开发、智慧城市、绿色低碳、房建市政等方向，收集并整理基础资料，支撑项目机会研判。 2. 配合团队开展项目方案策划工作，协助完成方案策划文本撰写和汇报 PPT 制作。 3. 熟练运用 CAD、GIS、SU、PS 等软件，结合AI 大模型工具辅助完成设计方案建模、效果图生成及数据分析等工作。 4. 配合完成业务对接、商务资料准备等其他交办的技术支撑工作。",
+      "jobRequirements": "1. 硕士研究生及以上学历，城乡规划、国土空间规划等相关专业，2027 届应届毕业生。 2. 具备扎实的城乡规划理论基础，具有国土空间规划、城市更新、片区开发相关知识储备。 3. 熟练使用 CAD、GIS、SU、PS 等常规规划软件，具备 AI 辅助规划策划的实操能力。 4. 具备良好的图文表达、逻辑梳理和沟通协作能力，学习主动性强，具有较强责任心。",
+      "JD": "1. 协助开展城市业务前期调研工作，主要聚焦城市更新、乡村振兴、片区开发、智慧城市、绿色低碳、房建市政等方向，收集并整理基础资料，支撑项目机会研判。 2. 配合团队开展项目方案策划工作，协助完成方案策划文本撰写和汇报 PPT 制作。 3. 熟练运用 CAD、GIS、SU、PS 等软件，结合AI 大模型工具辅助完成设计方案建模、效果图生成及数据分析等工作。 4. 配合完成业务对接、商务资料准备等其他交办的技术支撑工作。\n1. 硕士研究生及以上学历，城乡规划、国土空间规划等相关专业，2027 届应届毕业生。 2. 具备扎实的城乡规划理论基础，具有国土空间规划、城市更新、片区开发相关知识储备。 3. 熟练使用 CAD、GIS、SU、PS 等常规规划软件，具备 AI 辅助规划策划的实操能力。 4. 具备良好的图文表达、逻辑梳理和沟通协作能力，学习主动性强，具有较强责任心。",
+      "jdEvidence": {
+        "source": "llm:gemini-free-31:gemini-3.1-flash-lite",
+        "majorClauses": [
+          "硕士研究生及以上学历，城乡规划、国土空间规划等相关专业"
+        ],
+        "eligibilityClauses": [
+          "2027 届应届毕业生"
+        ],
+        "technicalDuties": [
+          "开发实现"
+        ],
+        "businessDuties": [
+          "资料/流程"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "数据分析",
+        "PPT"
+      ],
+      "experienceKeywords": [
+        "项目",
+        "数据"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "2",
+        "min": 2,
+        "max": 2,
+        "scope": "job",
+        "display": "2人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "2 2 1. 协助开展城市业务前期调研工作，主要聚焦城市更新、乡村振兴、片区开发、智慧城市"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://ccccltd.zhiye.com/campus/detail?jobAdId=d747e4b3-d24e-4a46-8a31-1f7c3f756925",
+      "publishedAt": "2026-10-21",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
@@ -1947,94 +2136,6 @@
       "deadline": "2027-08-31"
     },
     {
-      "id": "beisen-51c8da14b6a2",
-      "company": "中国路桥",
-      "title": "2027届校招中交华南建设商务管理岗(J48362)",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "本科",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "学历要求：全日制本科及以上学历，工程造价、工程管理及相关专业",
-        "hardRestriction": true,
-        "hardClauses": [
-          "工程造价、工程管理及相关专业"
-        ]
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "深圳",
-      "jobDescription": "1.负责收集和分析招标及市场信息，提出参与投标建议； 2.负责投标资格预审、资信商务文件的编制、标前成本测算； 3.负责分析重点项目信息，并负责标前策划工作； 4.负责收集、整理、编制和归档公司基础资料，包括资质证书、人员信息、项目业绩、获奖情况等； 5.负责审查报送统计报表和有关资料； 6.负责协调、指导子（分）公司的商务工作； 7.负责业绩备案管理工作； 8.负责项目投标阶段的履约能力评价工作； 9.因工作需要安排的其他工作。",
-      "jobRequirements": "1.学历要求：全日制本科及以上学历，工程造价、工程管理及相关专业； 2.学习成绩：学习成绩优异，综合排名靠前优先考虑； 3.政治面貌：具有较高的政治素养，中共党员优先考虑； 4.个人能力：专业基础扎实，具有较强的识图算量及造价软件操作能力， 5.英语成绩：大学英语四级，六级优先考虑； 6.计算机能力：通过全国计算机等级考试二级及以上； 6.其他：学生干部优先考虑。",
-      "JD": "1.负责收集和分析招标及市场信息，提出参与投标建议； 2.负责投标资格预审、资信商务文件的编制、标前成本测算； 3.负责分析重点项目信息，并负责标前策划工作； 4.负责收集、整理、编制和归档公司基础资料，包括资质证书、人员信息、项目业绩、获奖情况等； 5.负责审查报送统计报表和有关资料； 6.负责协调、指导子（分）公司的商务工作； 7.负责业绩备案管理工作； 8.负责项目投标阶段的履约能力评价工作； 9.因工作需要安排的其他工作。\n1.学历要求：全日制本科及以上学历，工程造价、工程管理及相关专业； 2.学习成绩：学习成绩优异，综合排名靠前优先考虑； 3.政治面貌：具有较高的政治素养，中共党员优先考虑； 4.个人能力：专业基础扎实，具有较强的识图算量及造价软件操作能力， 5.英语成绩：大学英语四级，六级优先考虑； 6.计算机能力：通过全国计算机等级考试二级及以上； 6.其他：学生干部优先考虑。",
-      "jdEvidence": {
-        "source": "llm:deepseek:deepseek-flash",
-        "majorClauses": [
-          "学历要求：全日制本科及以上学历，工程造价、工程管理及相关专业"
-        ],
-        "eligibilityClauses": [
-          "2027届校招"
-        ],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [
-        "英语"
-      ],
-      "experienceKeywords": [
-        "项目",
-        "市场"
-      ],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": true,
-        "raw": "12K-14K 元/月",
-        "monthlyMin": 12000,
-        "monthlyMax": 14000,
-        "annualMin": 144000,
-        "annualMax": 168000,
-        "salaryMonths": 12,
-        "monthlyEstimated": false,
-        "annualEstimated": true,
-        "monthlyDisplay": "1.2万–1.4万/月",
-        "annualDisplay": "14.4万–16.8万/年（按12薪推算）",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "high",
-        "evidence": "12K-14K 元/月 公司官方北森校招岗位；识别关键词：英语。投递前"
-      },
-      "salary": "12K-14K 元/月",
-      "monthlySalary": "1.2万–1.4万/月",
-      "annualSalary": "14.4万–16.8万/年（按12薪推算）",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://ccccltd.zhiye.com/campus/detail?jobAdId=79c0d735-0a0e-489e-b023-029eea033af2",
-      "publishedAt": "2026-08-28",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
       "id": "beisen-ee94cc27703d",
       "company": "中国路桥",
       "title": "2027届校招中交海峰风电商务管理岗(J48348)",
@@ -2121,6 +2222,94 @@
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "2027-07-01"
+    },
+    {
+      "id": "beisen-51c8da14b6a2",
+      "company": "中国路桥",
+      "title": "2027届校招中交华南建设商务管理岗(J48362)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "学历要求：全日制本科及以上学历，工程造价、工程管理及相关专业",
+        "hardRestriction": true,
+        "hardClauses": [
+          "工程造价、工程管理及相关专业"
+        ]
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "深圳",
+      "jobDescription": "1.负责收集和分析招标及市场信息，提出参与投标建议； 2.负责投标资格预审、资信商务文件的编制、标前成本测算； 3.负责分析重点项目信息，并负责标前策划工作； 4.负责收集、整理、编制和归档公司基础资料，包括资质证书、人员信息、项目业绩、获奖情况等； 5.负责审查报送统计报表和有关资料； 6.负责协调、指导子（分）公司的商务工作； 7.负责业绩备案管理工作； 8.负责项目投标阶段的履约能力评价工作； 9.因工作需要安排的其他工作。",
+      "jobRequirements": "1.学历要求：全日制本科及以上学历，工程造价、工程管理及相关专业； 2.学习成绩：学习成绩优异，综合排名靠前优先考虑； 3.政治面貌：具有较高的政治素养，中共党员优先考虑； 4.个人能力：专业基础扎实，具有较强的识图算量及造价软件操作能力， 5.英语成绩：大学英语四级，六级优先考虑； 6.计算机能力：通过全国计算机等级考试二级及以上； 6.其他：学生干部优先考虑。",
+      "JD": "1.负责收集和分析招标及市场信息，提出参与投标建议； 2.负责投标资格预审、资信商务文件的编制、标前成本测算； 3.负责分析重点项目信息，并负责标前策划工作； 4.负责收集、整理、编制和归档公司基础资料，包括资质证书、人员信息、项目业绩、获奖情况等； 5.负责审查报送统计报表和有关资料； 6.负责协调、指导子（分）公司的商务工作； 7.负责业绩备案管理工作； 8.负责项目投标阶段的履约能力评价工作； 9.因工作需要安排的其他工作。\n1.学历要求：全日制本科及以上学历，工程造价、工程管理及相关专业； 2.学习成绩：学习成绩优异，综合排名靠前优先考虑； 3.政治面貌：具有较高的政治素养，中共党员优先考虑； 4.个人能力：专业基础扎实，具有较强的识图算量及造价软件操作能力， 5.英语成绩：大学英语四级，六级优先考虑； 6.计算机能力：通过全国计算机等级考试二级及以上； 6.其他：学生干部优先考虑。",
+      "jdEvidence": {
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "学历要求：全日制本科及以上学历，工程造价、工程管理及相关专业"
+        ],
+        "eligibilityClauses": [
+          "2027届校招"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语"
+      ],
+      "experienceKeywords": [
+        "项目",
+        "市场"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "12K-14K 元/月",
+        "monthlyMin": 12000,
+        "monthlyMax": 14000,
+        "annualMin": 144000,
+        "annualMax": 168000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "1.2万–1.4万/月",
+        "annualDisplay": "14.4万–16.8万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "12K-14K 元/月 公司官方北森校招岗位；识别关键词：英语。投递前"
+      },
+      "salary": "12K-14K 元/月",
+      "monthlySalary": "1.2万–1.4万/月",
+      "annualSalary": "14.4万–16.8万/年（按12薪推算）",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://ccccltd.zhiye.com/campus/detail?jobAdId=79c0d735-0a0e-489e-b023-029eea033af2",
+      "publishedAt": "2026-08-28",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
     },
     {
       "id": "beisen-569b69867e0e",
@@ -4317,6 +4506,94 @@
       "deadline": ""
     },
     {
+      "id": "beisen-bd2dadc5997b",
+      "company": "中国路桥",
+      "title": "2027届校招中交华南建设工程造价岗(J48362)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "全日制本科及以上学历，工程造价、工程管理及相关专业",
+        "hardRestriction": true,
+        "hardClauses": [
+          "工程造价、工程管理及相关专业"
+        ]
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "深圳",
+      "jobDescription": "1.负责收集和分析招标及市场信息，提出参与投标建议； 2.负责投标资格预审、资信商务文件的编制、标前成本测算； 3.负责分析重点项目信息，并负责标前策划工作； 4.负责收集、整理、编制和归档公司基础资料，包括资质证书、人员信息、项目业绩、获奖情况等； 5.负责审查报送统计报表和有关资料； 6.负责协调、指导子（分）公司的商务工作； 7.负责业绩备案管理工作； 8.负责项目投标阶段的履约能力评价工作； 9.因工作需要安排的其他工作。",
+      "jobRequirements": "1.学历要求：全日制本科及以上学历，工程造价、工程管理及相关专业； 2.学习成绩：学习成绩优异，综合排名靠前优先考虑； 3.政治面貌：具有较高的政治素养，中共党员优先考虑； 4.个人能力：专业基础扎实，具有较强的识图算量及造价软件操作能力， 5.英语成绩：大学英语四级，六级优先考虑； 6.计算机能力：通过全国计算机等级考试二级及以上； 6.其他：学生干部优先考虑。",
+      "JD": "1.负责收集和分析招标及市场信息，提出参与投标建议； 2.负责投标资格预审、资信商务文件的编制、标前成本测算； 3.负责分析重点项目信息，并负责标前策划工作； 4.负责收集、整理、编制和归档公司基础资料，包括资质证书、人员信息、项目业绩、获奖情况等； 5.负责审查报送统计报表和有关资料； 6.负责协调、指导子（分）公司的商务工作； 7.负责业绩备案管理工作； 8.负责项目投标阶段的履约能力评价工作； 9.因工作需要安排的其他工作。\n1.学历要求：全日制本科及以上学历，工程造价、工程管理及相关专业； 2.学习成绩：学习成绩优异，综合排名靠前优先考虑； 3.政治面貌：具有较高的政治素养，中共党员优先考虑； 4.个人能力：专业基础扎实，具有较强的识图算量及造价软件操作能力， 5.英语成绩：大学英语四级，六级优先考虑； 6.计算机能力：通过全国计算机等级考试二级及以上； 6.其他：学生干部优先考虑。",
+      "jdEvidence": {
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "全日制本科及以上学历，工程造价、工程管理及相关专业"
+        ],
+        "eligibilityClauses": [
+          "2027届校招"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语"
+      ],
+      "experienceKeywords": [
+        "项目",
+        "市场"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "12K-14K 元/月",
+        "monthlyMin": 12000,
+        "monthlyMax": 14000,
+        "annualMin": 144000,
+        "annualMax": 168000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "1.2万–1.4万/月",
+        "annualDisplay": "14.4万–16.8万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "12K-14K 元/月 公司官方北森校招岗位；识别关键词：英语。投递前"
+      },
+      "salary": "12K-14K 元/月",
+      "monthlySalary": "1.2万–1.4万/月",
+      "annualSalary": "14.4万–16.8万/年（按12薪推算）",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://ccccltd.zhiye.com/campus/detail?jobAdId=79c0d735-0a0e-489e-b023-029eea033af2",
+      "publishedAt": "2026-08-28",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
       "id": "beisen-6e8b37b6c126",
       "company": "中国路桥",
       "title": "2027届校招水规院规划咨询类岗位(J48313)",
@@ -5199,6 +5476,91 @@
       "source": "公司官方北森校招官网",
       "officialURL": "https://ccccltd.zhiye.com/campus/detail?jobAdId=782fd321-8fca-4abb-be45-df3c7e1f29c8",
       "publishedAt": "2026-08-24",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-74ff050c4f40",
+      "company": "中国路桥",
+      "title": "2027届公规院华康公司环境科学与工程岗(J49147)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "硕士",
+        "masterRequired": true
+      },
+      "major": {
+        "raw": "环境科学与工程、市政工程、水利工程等相关专业",
+        "hardRestriction": true,
+        "hardClauses": [
+          "环境科学与工程、市政工程、水利工程等相关专业"
+        ]
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "北京",
+      "jobDescription": "1.履行所承担项目的相应角色职责，并配合项目负责人从事相关专业的设计、咨询工作； 2.配合公司和部门的经营开发，参与本部门或本专业的招投标工作； 3.参与本部门及本专业的技术创新、科技开发工作； 4.负责领导交办的其他工作。",
+      "jobRequirements": "1.2027年应届毕业生，硕士研究生及以上学历； 2.环境科学与工程、市政工程、水利工程等相关专业； 3.具有较强的组织管理能力、沟通能力和团队合作精神，能熟练使用office、CAD等办公软件； 4.在校期间，具有学生干部经历者、工程实践经验者优先。",
+      "JD": "1.履行所承担项目的相应角色职责，并配合项目负责人从事相关专业的设计、咨询工作； 2.配合公司和部门的经营开发，参与本部门或本专业的招投标工作； 3.参与本部门及本专业的技术创新、科技开发工作； 4.负责领导交办的其他工作。\n1.2027年应届毕业生，硕士研究生及以上学历； 2.环境科学与工程、市政工程、水利工程等相关专业； 3.具有较强的组织管理能力、沟通能力和团队合作精神，能熟练使用office、CAD等办公软件； 4.在校期间，具有学生干部经历者、工程实践经验者优先。",
+      "jdEvidence": {
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "环境科学与工程、市政工程、水利工程等相关专业"
+        ],
+        "eligibilityClauses": [
+          "2027年应届毕业生，硕士研究生及以上学历"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "项目"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "2",
+        "min": 2,
+        "max": 2,
+        "scope": "job",
+        "display": "2人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "2 2 1.履行所承担项目的相应角色职责，并配合项目负责人从事相关专业的设计、咨询工作； "
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://ccccltd.zhiye.com/campus/detail?jobAdId=cc610819-03d3-42a4-b650-77123ab11a3b",
+      "publishedAt": "2026-10-21",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": ""

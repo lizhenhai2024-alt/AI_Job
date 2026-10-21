@@ -1,7 +1,7 @@
 {
   "company": "蔚来",
   "count": 202,
-  "updatedAt": "2026-10-21T00:49:58.666Z",
+  "updatedAt": "2026-10-21T15:04:09.705Z",
   "jobs": [
     {
       "id": "feishu-49f725-7673027221094975795",
@@ -5440,96 +5440,6 @@
       "hasAssessmentEvidence": "E1 | 蔚来校招官网FAQ | https://campus.nio.com/?theme=dark#/trends | 2026-09-17"
     },
     {
-      "id": "feishu-49f725-7673027213570214170",
-      "company": "蔚来",
-      "title": "校招-商业采购",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "本科或以上学历",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "上海",
-      "jobDescription": "-通过品类策略，完成不同品类的采购工作，达到高效及优质价格，满足业务需求； -进行价格，商务条款等合同谈判； -运用品类策略开发高品质潜在合作伙伴； -管理合作伙伴，定期做合作伙伴复盘，培养优秀合作伙伴，对不合格者进行筛选汰换； -采购数据的整理与分析； -帮助相关业务部门了解采购流程，确保流程的可行性和合规性； -完成上级交予的其他工作。",
-      "jobRequirements": "1.本科或以上学历； 2.熟练的英语听说读写能力； 3.熟练运用MS-Office等日常办公软件； 4.善于沟通，表达能力强，有积极的团队协作意识； 5.学习能力强，逻辑思维清晰； 6.可以适应压力下的工作-能接受不定期出差",
-      "JD": "-通过品类策略，完成不同品类的采购工作，达到高效及优质价格，满足业务需求； -进行价格，商务条款等合同谈判； -运用品类策略开发高品质潜在合作伙伴； -管理合作伙伴，定期做合作伙伴复盘，培养优秀合作伙伴，对不合格者进行筛选汰换； -采购数据的整理与分析； -帮助相关业务部门了解采购流程，确保流程的可行性和合规性； -完成上级交予的其他工作。\n1.本科或以上学历； 2.熟练的英语听说读写能力； 3.熟练运用MS-Office等日常办公软件； 4.善于沟通，表达能力强，有积极的团队协作意识； 5.学习能力强，逻辑思维清晰； 6.可以适应压力下的工作-能接受不定期出差",
-      "jdEvidence": {
-        "source": "llm:deepseek:deepseek-flash",
-        "majorClauses": [
-          "本科或以上学历"
-        ],
-        "eligibilityClauses": [],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [
-        "英语"
-      ],
-      "experienceKeywords": [
-        "数据",
-        "供应链",
-        "招聘",
-        "商务"
-      ],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "蔚来官方飞书招聘",
-      "officialURL": "https://nio.jobs.feishu.cn/campus/position/7673027213570214170/detail",
-      "publishedAt": "2026-08-12",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "网申&内推→笔试/测评→面试→Offer发放",
-      "recruitmentProcessEvidence": "E1 | 蔚来校招官网招聘动态 | https://campus.nio.com/?theme=dark#/trends | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E1 | 蔚来校招官网FAQ | https://campus.nio.com/?theme=dark#/trends | 2026-09-17"
-    },
-    {
       "id": "feishu-49f725-7673027171799877914",
       "company": "蔚来",
       "title": "校招-业务运营管理",
@@ -5903,6 +5813,96 @@
       "annualSalary": "未披露",
       "source": "蔚来官方飞书招聘",
       "officialURL": "https://nio.jobs.feishu.cn/campus/position/7673026923669637427/detail",
+      "publishedAt": "2026-08-12",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申&内推→笔试/测评→面试→Offer发放",
+      "recruitmentProcessEvidence": "E1 | 蔚来校招官网招聘动态 | https://campus.nio.com/?theme=dark#/trends | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E1 | 蔚来校招官网FAQ | https://campus.nio.com/?theme=dark#/trends | 2026-09-17"
+    },
+    {
+      "id": "feishu-49f725-7673027213570214170",
+      "company": "蔚来",
+      "title": "校招-商业采购",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "本科或以上学历",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "jobDescription": "-通过品类策略，完成不同品类的采购工作，达到高效及优质价格，满足业务需求； -进行价格，商务条款等合同谈判； -运用品类策略开发高品质潜在合作伙伴； -管理合作伙伴，定期做合作伙伴复盘，培养优秀合作伙伴，对不合格者进行筛选汰换； -采购数据的整理与分析； -帮助相关业务部门了解采购流程，确保流程的可行性和合规性； -完成上级交予的其他工作。",
+      "jobRequirements": "1.本科或以上学历； 2.熟练的英语听说读写能力； 3.熟练运用MS-Office等日常办公软件； 4.善于沟通，表达能力强，有积极的团队协作意识； 5.学习能力强，逻辑思维清晰； 6.可以适应压力下的工作-能接受不定期出差",
+      "JD": "-通过品类策略，完成不同品类的采购工作，达到高效及优质价格，满足业务需求； -进行价格，商务条款等合同谈判； -运用品类策略开发高品质潜在合作伙伴； -管理合作伙伴，定期做合作伙伴复盘，培养优秀合作伙伴，对不合格者进行筛选汰换； -采购数据的整理与分析； -帮助相关业务部门了解采购流程，确保流程的可行性和合规性； -完成上级交予的其他工作。\n1.本科或以上学历； 2.熟练的英语听说读写能力； 3.熟练运用MS-Office等日常办公软件； 4.善于沟通，表达能力强，有积极的团队协作意识； 5.学习能力强，逻辑思维清晰； 6.可以适应压力下的工作-能接受不定期出差",
+      "jdEvidence": {
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科或以上学历"
+        ],
+        "eligibilityClauses": [],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语"
+      ],
+      "experienceKeywords": [
+        "数据",
+        "供应链",
+        "招聘",
+        "商务"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "蔚来官方飞书招聘",
+      "officialURL": "https://nio.jobs.feishu.cn/campus/position/7673027213570214170/detail",
       "publishedAt": "2026-08-12",
       "lastVerified": "",
       "sourceType": "official",

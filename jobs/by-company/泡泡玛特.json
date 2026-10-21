@@ -1,7 +1,7 @@
 {
   "company": "泡泡玛特",
   "count": 21,
-  "updatedAt": "2026-10-21T00:49:58.666Z",
+  "updatedAt": "2026-10-21T15:04:09.705Z",
   "jobs": [
     {
       "id": "beisen-456ec4f7b952",
@@ -1848,6 +1848,89 @@
       "hasAssessmentEvidence": "E2 | 泡泡玛特校招官网 | https://popmart.zhiye.com/Campus | 2026-09-17"
     },
     {
+      "id": "beisen-df47a767a12c",
+      "company": "泡泡玛特",
+      "title": "3D设计师（需提供潮玩建模作品集）",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "本科及以上学历，雕塑、工业设计、玩具设计等相关专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "北京",
+      "jobDescription": "- 参与潮玩、手办、雕塑及BJD等多种类型产品的模型设计工作，包括建模及渲染； - 调整模型及渲染表现方式，以达到效果和可生产性的最佳平衡； - 完成手办原型灰模的制作、拆分件和打磨等工作，熟练掌握人体比例、头发纹理，衣服褶皱等日系手办基础造型技法。",
+      "jobRequirements": "- 本科及以上学历，雕塑、工业设计、玩具设计等相关专业优先； - 喜欢动漫行业，经常接触各类玩具、模型、动画、漫画，喜爱日本动漫文化； - 具有准确快速的对形体的表现和造型能力，手绘能力强； - 熟练使用雕刻软件Zbrush，多边形建模软件Maya或Max等，熟悉工业软件Rhino及渲染软件Keyshot，熟练掌握AI工具优先； - 对潮玩行业有较深理解和热情者优先。",
+      "JD": "- 参与潮玩、手办、雕塑及BJD等多种类型产品的模型设计工作，包括建模及渲染； - 调整模型及渲染表现方式，以达到效果和可生产性的最佳平衡； - 完成手办原型灰模的制作、拆分件和打磨等工作，熟练掌握人体比例、头发纹理，衣服褶皱等日系手办基础造型技法。\n- 本科及以上学历，雕塑、工业设计、玩具设计等相关专业优先； - 喜欢动漫行业，经常接触各类玩具、模型、动画、漫画，喜爱日本动漫文化； - 具有准确快速的对形体的表现和造型能力，手绘能力强； - 熟练使用雕刻软件Zbrush，多边形建模软件Maya或Max等，熟悉工业软件Rhino及渲染软件Keyshot，熟练掌握AI工具优先； - 对潮玩行业有较深理解和热情者优先。",
+      "jdEvidence": {
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科及以上学历，雕塑、工业设计、玩具设计等相关专业优先"
+        ],
+        "eligibilityClauses": [],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://popmart.zhiye.com/campus/detail?jobAdId=ba5e11fe-ddac-459c-9338-580bae83ef0e",
+      "publishedAt": "2026-09-07",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申(即日起至11月下旬)→测评/笔试(如有，9月下旬起)→面试(9月下旬起)→Offer(滚动发放)",
+      "recruitmentProcessEvidence": "E2 | 泡泡玛特校招官网 | https://popmart.zhiye.com/Campus | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | 泡泡玛特校招官网 | https://popmart.zhiye.com/Campus | 2026-09-17"
+    },
+    {
       "id": "beisen-2ae5051df915",
       "company": "泡泡玛特",
       "title": "创意设计师",
@@ -1926,89 +2009,6 @@
       "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://popmart.zhiye.com/campus/detail?jobAdId=c369d285-28c0-40b9-b573-b25f44a68293",
-      "publishedAt": "2026-09-07",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "网申(即日起至11月下旬)→测评/笔试(如有，9月下旬起)→面试(9月下旬起)→Offer(滚动发放)",
-      "recruitmentProcessEvidence": "E2 | 泡泡玛特校招官网 | https://popmart.zhiye.com/Campus | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E2 | 泡泡玛特校招官网 | https://popmart.zhiye.com/Campus | 2026-09-17"
-    },
-    {
-      "id": "beisen-df47a767a12c",
-      "company": "泡泡玛特",
-      "title": "3D设计师（需提供潮玩建模作品集）",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "本科",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "本科及以上学历，雕塑、工业设计、玩具设计等相关专业优先",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "北京",
-      "jobDescription": "- 参与潮玩、手办、雕塑及BJD等多种类型产品的模型设计工作，包括建模及渲染； - 调整模型及渲染表现方式，以达到效果和可生产性的最佳平衡； - 完成手办原型灰模的制作、拆分件和打磨等工作，熟练掌握人体比例、头发纹理，衣服褶皱等日系手办基础造型技法。",
-      "jobRequirements": "- 本科及以上学历，雕塑、工业设计、玩具设计等相关专业优先； - 喜欢动漫行业，经常接触各类玩具、模型、动画、漫画，喜爱日本动漫文化； - 具有准确快速的对形体的表现和造型能力，手绘能力强； - 熟练使用雕刻软件Zbrush，多边形建模软件Maya或Max等，熟悉工业软件Rhino及渲染软件Keyshot，熟练掌握AI工具优先； - 对潮玩行业有较深理解和热情者优先。",
-      "JD": "- 参与潮玩、手办、雕塑及BJD等多种类型产品的模型设计工作，包括建模及渲染； - 调整模型及渲染表现方式，以达到效果和可生产性的最佳平衡； - 完成手办原型灰模的制作、拆分件和打磨等工作，熟练掌握人体比例、头发纹理，衣服褶皱等日系手办基础造型技法。\n- 本科及以上学历，雕塑、工业设计、玩具设计等相关专业优先； - 喜欢动漫行业，经常接触各类玩具、模型、动画、漫画，喜爱日本动漫文化； - 具有准确快速的对形体的表现和造型能力，手绘能力强； - 熟练使用雕刻软件Zbrush，多边形建模软件Maya或Max等，熟悉工业软件Rhino及渲染软件Keyshot，熟练掌握AI工具优先； - 对潮玩行业有较深理解和热情者优先。",
-      "jdEvidence": {
-        "source": "llm:deepseek:deepseek-flash",
-        "majorClauses": [
-          "本科及以上学历，雕塑、工业设计、玩具设计等相关专业优先"
-        ],
-        "eligibilityClauses": [],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [],
-      "experienceKeywords": [],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "面议",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": "面议"
-      },
-      "salary": "面议",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://popmart.zhiye.com/campus/detail?jobAdId=ba5e11fe-ddac-459c-9338-580bae83ef0e",
       "publishedAt": "2026-09-07",
       "lastVerified": "",
       "sourceType": "official",

@@ -74,7 +74,7 @@ export const sourceDiscovery = [
     "officialUrl": "https://polyharmony.zhiye.com/",
     "reason": "高校详情页明确给出北森招聘入口；等价官方源已存在",
     "attempts": 0,
-    "lastCheckedAt": "2026-10-21T00:49:54.679Z",
+    "lastCheckedAt": "2026-10-21T14:36:48.584Z",
     "nextCheckAfter": ""
   },
   {
@@ -1057,6 +1057,17 @@ export const sourceDiscovery = [
     "nextCheckAfter": "2026-09-18T15:32:28.871Z"
   },
   {
+    "name": "硬件工程师-深圳欣锐科技股份有限公司",
+    "status": "高校自动发现",
+    "state": "source_registered",
+    "provider": "moka",
+    "officialUrl": "https://app.mokahr.com/m/campus-recruitment/shinry/172541?locale=zh-CN#/home",
+    "reason": "高校详情页明确给出Moka校园招聘入口",
+    "attempts": 0,
+    "lastCheckedAt": "2026-10-21T14:36:48.584Z",
+    "nextCheckAfter": ""
+  },
+  {
     "name": "宇通客车",
     "status": "主投",
     "state": "no_2027_evidence",
@@ -1208,6 +1219,17 @@ export const sourceDiscovery = [
     "reason": "高校详情页明确给出北森招聘入口；等价官方源已存在",
     "attempts": 0,
     "lastCheckedAt": "2026-10-15T18:58:01.518Z",
+    "nextCheckAfter": ""
+  },
+  {
+    "name": "中国人民人寿股份有限公司",
+    "status": "高校自动发现",
+    "state": "source_registered",
+    "provider": "beisen",
+    "officialUrl": "https://picc.zhiye.com/custom/campus?ky=&c1=&c2=3&d=-1&c=",
+    "reason": "高校详情页明确给出北森招聘入口",
+    "attempts": 0,
+    "lastCheckedAt": "2026-10-21T14:36:48.584Z",
     "nextCheckAfter": ""
   },
   {
@@ -1488,7 +1510,7 @@ export const sourceDiscovery = [
 ];
 
 export const sourceDiscoveryMeta = {
-  "updatedAt": "2026-10-21T13:48:33.469Z",
+  "updatedAt": "2026-10-21T14:36:48.584Z",
   "lastRun": {
     "processed": 12,
     "sourcesAdded": 0,

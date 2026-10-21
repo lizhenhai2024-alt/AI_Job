@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-21T13:48:33.469Z",
+  "updatedAt": "2026-10-21T14:36:48.584Z",
   "companies": {
     "lazada": {
       "name": "Lazada",
@@ -2517,7 +2517,7 @@
         "sourceUrl": "https://jobs.blcu.edu.cn/front/zpxx.jspa?tid=2110544240625545217",
         "graduationYear": "2027"
       },
-      "lastCheckedAt": "2026-10-21T00:49:54.679Z",
+      "lastCheckedAt": "2026-10-21T14:36:48.584Z",
       "nextCheckAfter": ""
     },
     "深圳市杰和发展": {
@@ -2669,6 +2669,36 @@
       },
       "lastCheckedAt": "2026-10-15T18:58:01.518Z",
       "nextCheckAfter": ""
+    },
+    "人民人寿": {
+      "name": "中国人民人寿股份有限公司",
+      "status": "高校自动发现",
+      "state": "source_registered",
+      "provider": "beisen",
+      "officialUrl": "https://picc.zhiye.com/custom/campus?ky=&c1=&c2=3&d=-1&c=",
+      "reason": "高校详情页明确给出北森招聘入口",
+      "universityEvidence": {
+        "school": "南开大学",
+        "sourceUrl": "https://career.nankai.edu.cn/correcruit/content/id/119967.html",
+        "graduationYear": "2027"
+      },
+      "lastCheckedAt": "2026-10-21T14:36:48.584Z",
+      "nextCheckAfter": ""
+    },
+    "硬件工程师深圳欣锐": {
+      "name": "硬件工程师-深圳欣锐科技股份有限公司",
+      "status": "高校自动发现",
+      "state": "source_registered",
+      "provider": "moka",
+      "officialUrl": "https://app.mokahr.com/m/campus-recruitment/shinry/172541?locale=zh-CN#/home",
+      "reason": "高校详情页明确给出Moka校园招聘入口",
+      "universityEvidence": {
+        "school": "南开大学",
+        "sourceUrl": "https://career.nankai.edu.cn/correcruit/content/id/119971.html",
+        "graduationYear": "2027"
+      },
+      "lastCheckedAt": "2026-10-21T14:36:48.584Z",
+      "nextCheckAfter": ""
     }
   },
   "lastRun": {
@@ -2679,10 +2709,10 @@
     "forceRetry": false
   },
   "lastUniversityBridge": {
-    "candidates": 1,
-    "sourcesAdded": 0,
+    "candidates": 3,
+    "sourcesAdded": 2,
     "sourcesRepaired": 0,
     "queued": 0,
-    "updatedAt": "2026-10-21T00:49:54.679Z"
+    "updatedAt": "2026-10-21T14:36:48.584Z"
   }
 }
