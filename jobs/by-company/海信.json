@@ -1,7 +1,7 @@
 {
   "company": "海信",
   "count": 123,
-  "updatedAt": "2026-10-22T00:53:17.159Z",
+  "updatedAt": "2026-10-22T19:07:49.738Z",
   "jobs": [
     {
       "id": "beisen-a185f48e311b",
@@ -208,102 +208,6 @@
       "hasAssessmentEvidence": "E2 | 南开大学就业指导中心海信信动力计划校招 | https://career.nankai.edu.cn/correcruit/content/id/115685.html | 2026-09-17"
     },
     {
-      "id": "beisen-8d04132ab4a7",
-      "company": "海信",
-      "title": "供应链管理（计划管理-北京/天津)(J44933)",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "本科",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "学历要求：本科及以上学历；；专业要求：供应链管理、物流管理、工业工程、相关专业；",
-        "hardRestriction": true,
-        "hardClauses": [
-          "专业要求：供应链管理、物流管理、工业工程、相关专业"
-        ]
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "北京",
-      "jobDescription": "1.根据销售订单、市场预测及车间产能，制定激光器产品的月度、周度、每日生产计划，合理排产、均衡产能，保障订单按时交付； 2.跟进生产计划落地执行情况，实时监控生产进度，及时协调生产物料、设备、人员问题，解决生产堵点，确保生产流程顺畅； 3.负责物料需求核算、采购计划提报、库存管控，梳理物料出入库数据，严控物料呆滞、短缺问题，优化库存周转效率； 4.统计每日、每周生产数据，整理生产进度报表、订单交付报表，同步给销售、生产、管理部门，保障各部门信息互通； 5.对接销售订单变更、插单、改单需求，及时调整生产计划，协调各部门资源，平衡交付效率与生产成本。",
-      "jobRequirements": "1.学历要求：本科及以上学历； 2.专业要求：供应链管理、物流管理、工业工程、相关专业； 3.技能要求：熟练使用Excel、PPT等办公软件，具备基础的数据统计、表格制作与数据分析能力； 4.素质要求：思维清晰、条理严谨，具备较强的统筹规划能力、逻辑思维能力和细节把控能力；善于沟通协调，能高效联动销售、生产、仓储、采购等多部门推进工作，执行力、抗压能力良好；踏实稳重、责任心强，有制造业生产计划、供应链相关实习经验者优先。",
-      "JD": "1.根据销售订单、市场预测及车间产能，制定激光器产品的月度、周度、每日生产计划，合理排产、均衡产能，保障订单按时交付； 2.跟进生产计划落地执行情况，实时监控生产进度，及时协调生产物料、设备、人员问题，解决生产堵点，确保生产流程顺畅； 3.负责物料需求核算、采购计划提报、库存管控，梳理物料出入库数据，严控物料呆滞、短缺问题，优化库存周转效率； 4.统计每日、每周生产数据，整理生产进度报表、订单交付报表，同步给销售、生产、管理部门，保障各部门信息互通； 5.对接销售订单变更、插单、改单需求，及时调整生产计划，协调各部门资源，平衡交付效率与生产成本。\n1.学历要求：本科及以上学历； 2.专业要求：供应链管理、物流管理、工业工程、相关专业； 3.技能要求：熟练使用Excel、PPT等办公软件，具备基础的数据统计、表格制作与数据分析能力； 4.素质要求：思维清晰、条理严谨，具备较强的统筹规划能力、逻辑思维能力和细节把控能力；善于沟通协调，能高效联动销售、生产、仓储、采购等多部门推进工作，执行力、抗压能力良好；踏实稳重、责任心强，有制造业生产计划、供应链相关实习经验者优先。",
-      "jdEvidence": {
-        "source": "llm:deepseek:deepseek-flash",
-        "majorClauses": [
-          "学历要求：本科及以上学历；",
-          "专业要求：供应链管理、物流管理、工业工程、相关专业；"
-        ],
-        "eligibilityClauses": [],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [
-        "Excel",
-        "数据分析",
-        "PPT"
-      ],
-      "experienceKeywords": [
-        "市场",
-        "数据",
-        "供应链"
-      ],
-      "preferenceTags": [],
-      "riskTags": [
-        "节奏快"
-      ],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "面议",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": "面议"
-      },
-      "salary": "面议",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://jobs.hisense.com/campus/detail?jobAdId=328407a5-7842-49e5-a12d-c7da6a6e825c",
-      "publishedAt": "2026-10-21",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "简历筛选→线上测评（研发技术类需笔试）→AI面试（含英语口语）→无领导小组面试→专业/综合面试→总部面试→offer及签约",
-      "recruitmentProcessEvidence": "E2 | 广东外语外贸大学就业信息网海信全球营销中心校招 | https://career.gdufs.edu.cn/web/Index/jobs-brief-detail?id=VHUXSN0 | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E2 | 南开大学就业指导中心海信信动力计划校招 | https://career.nankai.edu.cn/correcruit/content/id/115685.html | 2026-09-17"
-    },
-    {
       "id": "beisen-381372ba3ec8",
       "company": "海信",
       "title": "品牌营销（创意策划方向）(J44784)",
@@ -399,7 +303,103 @@
       "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://jobs.hisense.com/campus/detail?jobAdId=a1d4a59d-9fbe-4a35-b80a-c5a166765d7d",
-      "publishedAt": "2026-10-19",
+      "publishedAt": "2026-10-22",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "简历筛选→线上测评（研发技术类需笔试）→AI面试（含英语口语）→无领导小组面试→专业/综合面试→总部面试→offer及签约",
+      "recruitmentProcessEvidence": "E2 | 广东外语外贸大学就业信息网海信全球营销中心校招 | https://career.gdufs.edu.cn/web/Index/jobs-brief-detail?id=VHUXSN0 | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | 南开大学就业指导中心海信信动力计划校招 | https://career.nankai.edu.cn/correcruit/content/id/115685.html | 2026-09-17"
+    },
+    {
+      "id": "beisen-8d04132ab4a7",
+      "company": "海信",
+      "title": "供应链管理（计划管理-北京/天津)(J44933)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "学历要求：本科及以上学历；；专业要求：供应链管理、物流管理、工业工程、相关专业；",
+        "hardRestriction": true,
+        "hardClauses": [
+          "专业要求：供应链管理、物流管理、工业工程、相关专业"
+        ]
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "北京",
+      "jobDescription": "1.根据销售订单、市场预测及车间产能，制定激光器产品的月度、周度、每日生产计划，合理排产、均衡产能，保障订单按时交付； 2.跟进生产计划落地执行情况，实时监控生产进度，及时协调生产物料、设备、人员问题，解决生产堵点，确保生产流程顺畅； 3.负责物料需求核算、采购计划提报、库存管控，梳理物料出入库数据，严控物料呆滞、短缺问题，优化库存周转效率； 4.统计每日、每周生产数据，整理生产进度报表、订单交付报表，同步给销售、生产、管理部门，保障各部门信息互通； 5.对接销售订单变更、插单、改单需求，及时调整生产计划，协调各部门资源，平衡交付效率与生产成本。",
+      "jobRequirements": "1.学历要求：本科及以上学历； 2.专业要求：供应链管理、物流管理、工业工程、相关专业； 3.技能要求：熟练使用Excel、PPT等办公软件，具备基础的数据统计、表格制作与数据分析能力； 4.素质要求：思维清晰、条理严谨，具备较强的统筹规划能力、逻辑思维能力和细节把控能力；善于沟通协调，能高效联动销售、生产、仓储、采购等多部门推进工作，执行力、抗压能力良好；踏实稳重、责任心强，有制造业生产计划、供应链相关实习经验者优先。",
+      "JD": "1.根据销售订单、市场预测及车间产能，制定激光器产品的月度、周度、每日生产计划，合理排产、均衡产能，保障订单按时交付； 2.跟进生产计划落地执行情况，实时监控生产进度，及时协调生产物料、设备、人员问题，解决生产堵点，确保生产流程顺畅； 3.负责物料需求核算、采购计划提报、库存管控，梳理物料出入库数据，严控物料呆滞、短缺问题，优化库存周转效率； 4.统计每日、每周生产数据，整理生产进度报表、订单交付报表，同步给销售、生产、管理部门，保障各部门信息互通； 5.对接销售订单变更、插单、改单需求，及时调整生产计划，协调各部门资源，平衡交付效率与生产成本。\n1.学历要求：本科及以上学历； 2.专业要求：供应链管理、物流管理、工业工程、相关专业； 3.技能要求：熟练使用Excel、PPT等办公软件，具备基础的数据统计、表格制作与数据分析能力； 4.素质要求：思维清晰、条理严谨，具备较强的统筹规划能力、逻辑思维能力和细节把控能力；善于沟通协调，能高效联动销售、生产、仓储、采购等多部门推进工作，执行力、抗压能力良好；踏实稳重、责任心强，有制造业生产计划、供应链相关实习经验者优先。",
+      "jdEvidence": {
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "学历要求：本科及以上学历；",
+          "专业要求：供应链管理、物流管理、工业工程、相关专业；"
+        ],
+        "eligibilityClauses": [],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "Excel",
+        "数据分析",
+        "PPT"
+      ],
+      "experienceKeywords": [
+        "市场",
+        "数据",
+        "供应链"
+      ],
+      "preferenceTags": [],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://jobs.hisense.com/campus/detail?jobAdId=328407a5-7842-49e5-a12d-c7da6a6e825c",
+      "publishedAt": "2026-10-21",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "",
@@ -1080,7 +1080,7 @@
       "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://jobs.hisense.com/campus/detail?jobAdId=323a6d53-b0d2-4b03-b2d0-930a94e7b2bf",
-      "publishedAt": "2026-10-21",
+      "publishedAt": "2026-10-22",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "",
@@ -1180,7 +1180,7 @@
       "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://jobs.hisense.com/campus/detail?jobAdId=02c7a02b-5aab-49d6-bbdc-05979832e1e7",
-      "publishedAt": "2026-10-21",
+      "publishedAt": "2026-10-22",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "",
@@ -1752,7 +1752,7 @@
       "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://jobs.hisense.com/campus/detail?jobAdId=94e74576-286b-4782-9e03-7b2817c71774",
-      "publishedAt": "2026-10-21",
+      "publishedAt": "2026-10-22",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "",
@@ -2431,7 +2431,7 @@
       "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://jobs.hisense.com/campus/detail?jobAdId=6a526666-52a1-4fe0-9de6-1025c4f233b9",
-      "publishedAt": "2026-10-21",
+      "publishedAt": "2026-10-22",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "",
@@ -2534,7 +2534,7 @@
       "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://jobs.hisense.com/campus/detail?jobAdId=b34ad4f1-e84a-412c-afb4-474f7ebbcea7",
-      "publishedAt": "2026-10-21",
+      "publishedAt": "2026-10-22",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "",
@@ -2630,7 +2630,7 @@
       "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://jobs.hisense.com/campus/detail?jobAdId=762fd338-c2ac-4700-834b-90e2cd02b20c",
-      "publishedAt": "2026-10-21",
+      "publishedAt": "2026-10-22",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "",
@@ -2729,7 +2729,7 @@
       "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://jobs.hisense.com/campus/detail?jobAdId=2b5a6904-25fc-4c7b-be76-162af5a5c68e",
-      "publishedAt": "2026-10-21",
+      "publishedAt": "2026-10-22",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "",
@@ -2828,7 +2828,7 @@
       "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://jobs.hisense.com/campus/detail?jobAdId=9811a9e0-d24b-48ed-8dde-1d2902716993",
-      "publishedAt": "2026-10-21",
+      "publishedAt": "2026-10-22",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "",
@@ -2929,102 +2929,7 @@
       "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://jobs.hisense.com/campus/detail?jobAdId=00597706-8fe8-4d26-84f0-268d007e9449",
-      "publishedAt": "2026-10-21",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "简历筛选→线上测评（研发技术类需笔试）→AI面试（含英语口语）→无领导小组面试→专业/综合面试→总部面试→offer及签约",
-      "recruitmentProcessEvidence": "E2 | 广东外语外贸大学就业信息网海信全球营销中心校招 | https://career.gdufs.edu.cn/web/Index/jobs-brief-detail?id=VHUXSN0 | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E2 | 南开大学就业指导中心海信信动力计划校招 | https://career.nankai.edu.cn/correcruit/content/id/115685.html | 2026-09-17"
-    },
-    {
-      "id": "beisen-0816a00abe94",
-      "company": "海信",
-      "title": "销售管培生（中央空调）（J45009）",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "本科",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "本科及以上学历，市场营销/新闻类/经管类/暖通/能动/建环/制冷与低温等相关专业，英语四级及以上",
-        "hardRestriction": true,
-        "hardClauses": [
-          "市场营销/新闻类/经管类/暖通/能动/建环/制冷与低温等相关专业"
-        ]
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "全国",
-      "jobDescription": "1、深度学习公司销售政策、销售数据分析、产品上市等工作内容； 2、根据个人意愿和公司需求分配到全球的营销分支机构参与市场拓展工作。",
-      "jobRequirements": "1、本科及以上学历，市场营销/新闻类/经管类/暖通/能动/建环/制冷与低温等相关专业，英语四级及以上； 2、具备较强的创新意识和良好的表达能力，善于协调组织整合资源，充满活力和动力； 3、知识面宽，具备较强的学习能力，能不断充实提高自己。",
-      "JD": "1、深度学习公司销售政策、销售数据分析、产品上市等工作内容； 2、根据个人意愿和公司需求分配到全球的营销分支机构参与市场拓展工作。\n1、本科及以上学历，市场营销/新闻类/经管类/暖通/能动/建环/制冷与低温等相关专业，英语四级及以上； 2、具备较强的创新意识和良好的表达能力，善于协调组织整合资源，充满活力和动力； 3、知识面宽，具备较强的学习能力，能不断充实提高自己。",
-      "jdEvidence": {
-        "source": "llm:deepseek:deepseek-flash",
-        "majorClauses": [
-          "本科及以上学历，市场营销/新闻类/经管类/暖通/能动/建环/制冷与低温等相关专业，英语四级及以上"
-        ],
-        "eligibilityClauses": [],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [
-        "英语",
-        "数据分析"
-      ],
-      "experienceKeywords": [
-        "内容",
-        "市场",
-        "数据",
-        "营销"
-      ],
-      "preferenceTags": [
-        "国际业务"
-      ],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "面议",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": "面议"
-      },
-      "salary": "面议",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://jobs.hisense.com/campus/detail?jobAdId=983f9885-cc19-422d-8bda-31767c6b3f4f",
-      "publishedAt": "2026-10-21",
+      "publishedAt": "2026-10-22",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "",
@@ -3121,6 +3026,101 @@
       "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://jobs.hisense.com/campus/detail?jobAdId=f9419933-5812-41c4-bbff-b4ad02c1b562",
+      "publishedAt": "2026-10-22",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "简历筛选→线上测评（研发技术类需笔试）→AI面试（含英语口语）→无领导小组面试→专业/综合面试→总部面试→offer及签约",
+      "recruitmentProcessEvidence": "E2 | 广东外语外贸大学就业信息网海信全球营销中心校招 | https://career.gdufs.edu.cn/web/Index/jobs-brief-detail?id=VHUXSN0 | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | 南开大学就业指导中心海信信动力计划校招 | https://career.nankai.edu.cn/correcruit/content/id/115685.html | 2026-09-17"
+    },
+    {
+      "id": "beisen-0816a00abe94",
+      "company": "海信",
+      "title": "销售管培生（中央空调）（J45009）",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "本科及以上学历，市场营销/新闻类/经管类/暖通/能动/建环/制冷与低温等相关专业，英语四级及以上",
+        "hardRestriction": true,
+        "hardClauses": [
+          "市场营销/新闻类/经管类/暖通/能动/建环/制冷与低温等相关专业"
+        ]
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "全国",
+      "jobDescription": "1、深度学习公司销售政策、销售数据分析、产品上市等工作内容； 2、根据个人意愿和公司需求分配到全球的营销分支机构参与市场拓展工作。",
+      "jobRequirements": "1、本科及以上学历，市场营销/新闻类/经管类/暖通/能动/建环/制冷与低温等相关专业，英语四级及以上； 2、具备较强的创新意识和良好的表达能力，善于协调组织整合资源，充满活力和动力； 3、知识面宽，具备较强的学习能力，能不断充实提高自己。",
+      "JD": "1、深度学习公司销售政策、销售数据分析、产品上市等工作内容； 2、根据个人意愿和公司需求分配到全球的营销分支机构参与市场拓展工作。\n1、本科及以上学历，市场营销/新闻类/经管类/暖通/能动/建环/制冷与低温等相关专业，英语四级及以上； 2、具备较强的创新意识和良好的表达能力，善于协调组织整合资源，充满活力和动力； 3、知识面宽，具备较强的学习能力，能不断充实提高自己。",
+      "jdEvidence": {
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科及以上学历，市场营销/新闻类/经管类/暖通/能动/建环/制冷与低温等相关专业，英语四级及以上"
+        ],
+        "eligibilityClauses": [],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语",
+        "数据分析"
+      ],
+      "experienceKeywords": [
+        "内容",
+        "市场",
+        "数据",
+        "营销"
+      ],
+      "preferenceTags": [
+        "国际业务"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://jobs.hisense.com/campus/detail?jobAdId=983f9885-cc19-422d-8bda-31767c6b3f4f",
       "publishedAt": "2026-10-21",
       "lastVerified": "",
       "sourceType": "official",
@@ -3590,7 +3590,7 @@
       "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://jobs.hisense.com/campus/detail?jobAdId=dca51136-dbf7-40f5-9813-7f367d3ec210",
-      "publishedAt": "2026-10-21",
+      "publishedAt": "2026-10-22",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "",
@@ -3685,7 +3685,7 @@
       "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://jobs.hisense.com/campus/detail?jobAdId=5281c4e6-c851-4b61-9766-f42fb41213b8",
-      "publishedAt": "2026-10-21",
+      "publishedAt": "2026-10-22",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "",
@@ -3787,7 +3787,7 @@
       "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://jobs.hisense.com/campus/detail?jobAdId=09b7811a-2813-4ace-9743-068c2b1b335d",
-      "publishedAt": "2026-10-21",
+      "publishedAt": "2026-10-22",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "",
@@ -4180,7 +4180,7 @@
       "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://jobs.hisense.com/campus/detail?jobAdId=9a69ed23-5e61-4a49-b7f4-090b6668deae",
-      "publishedAt": "2026-10-21",
+      "publishedAt": "2026-10-22",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "",
@@ -5012,7 +5012,7 @@
       "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://jobs.hisense.com/campus/detail?jobAdId=148cdcf2-7ee8-4f68-a79f-e242d9bed396",
-      "publishedAt": "2026-10-21",
+      "publishedAt": "2026-10-22",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "",
@@ -5113,7 +5113,7 @@
       "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://jobs.hisense.com/campus/detail?jobAdId=332714de-cb33-4e6c-8091-ef304fae9759",
-      "publishedAt": "2026-10-21",
+      "publishedAt": "2026-10-22",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "",
@@ -7541,7 +7541,7 @@
       "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://jobs.hisense.com/campus/detail?jobAdId=cb535f48-e238-4759-9c25-d92c5b26bf54",
-      "publishedAt": "2026-10-21",
+      "publishedAt": "2026-10-22",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "",
@@ -7631,7 +7631,7 @@
       "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://jobs.hisense.com/campus/detail?jobAdId=95d65a1f-88aa-47e0-bacb-18ca40c03b76",
-      "publishedAt": "2026-10-21",
+      "publishedAt": "2026-10-22",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "",
@@ -7734,7 +7734,7 @@
       "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://jobs.hisense.com/campus/detail?jobAdId=ab74f9ff-c9a4-4259-b106-5432b7626d5d",
-      "publishedAt": "2026-10-21",
+      "publishedAt": "2026-10-22",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "",
@@ -7836,7 +7836,7 @@
       "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://jobs.hisense.com/campus/detail?jobAdId=a9b02b9a-9795-4caf-a31e-f6f58217608a",
-      "publishedAt": "2026-10-21",
+      "publishedAt": "2026-10-22",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "",
@@ -7934,7 +7934,7 @@
       "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://jobs.hisense.com/campus/detail?jobAdId=35a063c3-6661-4f82-baf6-b92907ca9b95",
-      "publishedAt": "2026-10-21",
+      "publishedAt": "2026-10-22",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "",
@@ -8031,7 +8031,103 @@
       "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://jobs.hisense.com/campus/detail?jobAdId=5c236211-85b2-4e81-8727-c3bcf867d579",
-      "publishedAt": "2026-10-21",
+      "publishedAt": "2026-10-22",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "简历筛选→线上测评（研发技术类需笔试）→AI面试（含英语口语）→无领导小组面试→专业/综合面试→总部面试→offer及签约",
+      "recruitmentProcessEvidence": "E2 | 广东外语外贸大学就业信息网海信全球营销中心校招 | https://career.gdufs.edu.cn/web/Index/jobs-brief-detail?id=VHUXSN0 | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | 南开大学就业指导中心海信信动力计划校招 | https://career.nankai.edu.cn/correcruit/content/id/115685.html | 2026-09-17"
+    },
+    {
+      "id": "beisen-b63303698c76",
+      "company": "海信",
+      "title": "安全管理工程师(J41071)",
+      "graduationYear": [
+        "2025",
+        "2026",
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "3.专业：安全工程等专业；",
+        "hardRestriction": true,
+        "hardClauses": [
+          "3.专业：安全工程等专业"
+        ]
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "山东省·青岛市·平度市",
+      "jobDescription": "1.安全环保工作方案和相关安全环保制度文件，建立、健全公司职业安全健康和环境管理体系，并确保正常运行； 2.制定安全级安全教育并组织开展新员工的三级安全教育培训工作及对日常安全作业状态监督检查指导； 3.外来施工及生产现场安全管控、检查、提出整改意见及考核结果拟制； 4.日常安全、消防、环保检查、以及各级安全、消防、环保检查的开展以及检查问题的整改闭环的监督执行及日常考核结果拟制。",
+      "jobRequirements": "1.院校：国内普通高等院校（2026年毕业）或教育部承认的海外高等院校（2025年或2026年毕业）； 2.学历：本科及以上学历； 3.专业：安全工程等专业； 4.技能要求：熟练使用office等办公软件； 5.素质要求：学生会、班干部优先； 6.外语水平：大学英语四级及以上或小语种同等水平以上。",
+      "JD": "1.安全环保工作方案和相关安全环保制度文件，建立、健全公司职业安全健康和环境管理体系，并确保正常运行； 2.制定安全级安全教育并组织开展新员工的三级安全教育培训工作及对日常安全作业状态监督检查指导； 3.外来施工及生产现场安全管控、检查、提出整改意见及考核结果拟制； 4.日常安全、消防、环保检查、以及各级安全、消防、环保检查的开展以及检查问题的整改闭环的监督执行及日常考核结果拟制。\n1.院校：国内普通高等院校（2026年毕业）或教育部承认的海外高等院校（2025年或2026年毕业）； 2.学历：本科及以上学历； 3.专业：安全工程等专业； 4.技能要求：熟练使用office等办公软件； 5.素质要求：学生会、班干部优先； 6.外语水平：大学英语四级及以上或小语种同等水平以上。",
+      "jdEvidence": {
+        "source": "llm:gemini-free:gemini-3.5-flash-lite",
+        "majorClauses": [
+          "3.专业：安全工程等专业；"
+        ],
+        "eligibilityClauses": [
+          "1.院校：国内普通高等院校（2026年毕业）或教育部承认的海外高等院校（2025年或2026年毕业）；",
+          "2.学历：本科及以上学历；"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语"
+      ],
+      "experienceKeywords": [
+        "海外"
+      ],
+      "preferenceTags": [
+        "国际业务"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://jobs.hisense.com/campus/detail?jobAdId=f53d5699-973c-4cd1-9159-b5f9bab92686",
+      "publishedAt": "2026-10-22",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "",
@@ -8310,102 +8406,6 @@
       "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://jobs.hisense.com/campus/detail?jobAdId=bd25d00d-acfc-4ca8-b904-b3c395c171d3",
-      "publishedAt": "2026-10-21",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "简历筛选→线上测评（研发技术类需笔试）→AI面试（含英语口语）→无领导小组面试→专业/综合面试→总部面试→offer及签约",
-      "recruitmentProcessEvidence": "E2 | 广东外语外贸大学就业信息网海信全球营销中心校招 | https://career.gdufs.edu.cn/web/Index/jobs-brief-detail?id=VHUXSN0 | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E2 | 南开大学就业指导中心海信信动力计划校招 | https://career.nankai.edu.cn/correcruit/content/id/115685.html | 2026-09-17"
-    },
-    {
-      "id": "beisen-b63303698c76",
-      "company": "海信",
-      "title": "安全管理工程师(J41071)",
-      "graduationYear": [
-        "2025",
-        "2026",
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "本科",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "3.专业：安全工程等专业；",
-        "hardRestriction": true,
-        "hardClauses": [
-          "3.专业：安全工程等专业"
-        ]
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "山东省·青岛市·平度市",
-      "jobDescription": "1.安全环保工作方案和相关安全环保制度文件，建立、健全公司职业安全健康和环境管理体系，并确保正常运行； 2.制定安全级安全教育并组织开展新员工的三级安全教育培训工作及对日常安全作业状态监督检查指导； 3.外来施工及生产现场安全管控、检查、提出整改意见及考核结果拟制； 4.日常安全、消防、环保检查、以及各级安全、消防、环保检查的开展以及检查问题的整改闭环的监督执行及日常考核结果拟制。",
-      "jobRequirements": "1.院校：国内普通高等院校（2026年毕业）或教育部承认的海外高等院校（2025年或2026年毕业）； 2.学历：本科及以上学历； 3.专业：安全工程等专业； 4.技能要求：熟练使用office等办公软件； 5.素质要求：学生会、班干部优先； 6.外语水平：大学英语四级及以上或小语种同等水平以上。",
-      "JD": "1.安全环保工作方案和相关安全环保制度文件，建立、健全公司职业安全健康和环境管理体系，并确保正常运行； 2.制定安全级安全教育并组织开展新员工的三级安全教育培训工作及对日常安全作业状态监督检查指导； 3.外来施工及生产现场安全管控、检查、提出整改意见及考核结果拟制； 4.日常安全、消防、环保检查、以及各级安全、消防、环保检查的开展以及检查问题的整改闭环的监督执行及日常考核结果拟制。\n1.院校：国内普通高等院校（2026年毕业）或教育部承认的海外高等院校（2025年或2026年毕业）； 2.学历：本科及以上学历； 3.专业：安全工程等专业； 4.技能要求：熟练使用office等办公软件； 5.素质要求：学生会、班干部优先； 6.外语水平：大学英语四级及以上或小语种同等水平以上。",
-      "jdEvidence": {
-        "source": "llm:gemini-free:gemini-3.5-flash-lite",
-        "majorClauses": [
-          "3.专业：安全工程等专业；"
-        ],
-        "eligibilityClauses": [
-          "1.院校：国内普通高等院校（2026年毕业）或教育部承认的海外高等院校（2025年或2026年毕业）；",
-          "2.学历：本科及以上学历；"
-        ],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [
-        "英语"
-      ],
-      "experienceKeywords": [
-        "海外"
-      ],
-      "preferenceTags": [
-        "国际业务"
-      ],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "面议",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": "面议"
-      },
-      "salary": "面议",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://jobs.hisense.com/campus/detail?jobAdId=f53d5699-973c-4cd1-9159-b5f9bab92686",
       "publishedAt": "2026-10-21",
       "lastVerified": "",
       "sourceType": "official",
@@ -10818,7 +10818,7 @@
       "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://jobs.hisense.com/campus/detail?jobAdId=9e6aaa3d-dcbd-4901-b498-e098989ccc84",
-      "publishedAt": "2026-10-21",
+      "publishedAt": "2026-10-22",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "",

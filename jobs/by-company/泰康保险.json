@@ -1,7 +1,7 @@
 {
   "company": "泰康保险",
-  "count": 331,
-  "updatedAt": "2026-10-22T00:53:17.159Z",
+  "count": 332,
+  "updatedAt": "2026-10-22T19:07:49.738Z",
   "jobs": [
     {
       "id": "beisen-8c5d8168b055",
@@ -8319,6 +8319,85 @@
       "source": "公司官方北森校招官网",
       "officialURL": "https://jobtaikang.zhiye.com/campus/detail?jobAdId=823f02e1-9b9d-434a-8da6-5f833dc3d831",
       "publishedAt": "2026-06-10",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-cee6427f42a4",
+      "company": "泰康保险",
+      "title": "人寿总公司-办公室/董办-党办岗（2027校招）(J90173)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "硕士",
+        "masterRequired": true
+      },
+      "major": {
+        "raw": "研究生及以上学历，思想政治教育类、公共管理类、中文、党史等相关专业优先，中共党员优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "北京",
+      "jobDescription": "1、根据公司党委战略规划，制定党建工作流程、标准体系，并编制相应规章制度； 2、负责落实上级党委工作要求，指导总分公司开展党建工作，落实监管机构有关党建方面工作要求，确保工作合规； 3、根据公司党委年度发展党员计划，协助总分公司开展发展党员工作，负责发展过程审核把关，确保流程合规、材料完整； 4、负责党费的收缴、使用和管理，并组织开展形式多样的主题党日活动，增强党员归属感和身份认同感，增进党内团结； 5、负责党员组织关系转接和党员E先锋系统维护，保证线上线下信息一致，确保党员接受组织教育、管理与监督； 6、负责党员思想教育工作，组织开展形式多样的学习活动，提升党员理论水平； 7、其他上级领导交办事项。",
+      "jobRequirements": "1、研究生及以上学历，思想政治教育类、公共管理类、中文、党史等相关专业优先，中共党员优先； 2、具备良好公文写作能力； 3、具备党务相关实习经验优先考虑。",
+      "JD": "1、根据公司党委战略规划，制定党建工作流程、标准体系，并编制相应规章制度； 2、负责落实上级党委工作要求，指导总分公司开展党建工作，落实监管机构有关党建方面工作要求，确保工作合规； 3、根据公司党委年度发展党员计划，协助总分公司开展发展党员工作，负责发展过程审核把关，确保流程合规、材料完整； 4、负责党费的收缴、使用和管理，并组织开展形式多样的主题党日活动，增强党员归属感和身份认同感，增进党内团结； 5、负责党员组织关系转接和党员E先锋系统维护，保证线上线下信息一致，确保党员接受组织教育、管理与监督； 6、负责党员思想教育工作，组织开展形式多样的学习活动，提升党员理论水平； 7、其他上级领导交办事项。\n1、研究生及以上学历，思想政治教育类、公共管理类、中文、党史等相关专业优先，中共党员优先； 2、具备良好公文写作能力； 3、具备党务相关实习经验优先考虑。",
+      "jdEvidence": {
+        "source": "llm:gemini-free:gemini-3.5-flash-lite",
+        "majorClauses": [
+          "研究生及以上学历，思想政治教育类、公共管理类、中文、党史等相关专业优先，中共党员优先"
+        ],
+        "eligibilityClauses": [],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 1、根据公司党委战略规划，制定党建工作流程、标准体系，并编制相应规章制度； 2、负"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://jobtaikang.zhiye.com/campus/detail?jobAdId=bb254934-6af9-4065-8e8f-769918a5b044",
+      "publishedAt": "2026-10-22",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": ""

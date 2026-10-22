@@ -1,7 +1,7 @@
 {
   "company": "零跑汽车",
   "count": 42,
-  "updatedAt": "2026-10-22T00:53:17.159Z",
+  "updatedAt": "2026-10-22T19:07:49.738Z",
   "jobs": [
     {
       "id": "beisen-c36e90eb3861",
@@ -2252,97 +2252,6 @@
       "hasAssessmentEvidence": "E1 | 零跑汽车官方校招Q&A | https://leapmotor.zhiye.com/intern | 2026-09-17"
     },
     {
-      "id": "beisen-d35380ebf6c2",
-      "company": "零跑汽车",
-      "title": "校招-物流工程师(J18162)",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "本科",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "本科及以上学历，工业工程、物流管理、供应链管理、交通运输、等相关专业。",
-        "hardRestriction": true,
-        "hardClauses": [
-          "工业工程、物流管理、供应链管理、交通运输、等相关专业"
-        ]
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "浙江省·湖州市",
-      "jobDescription": "1、设计仓储动线、库位规划、装卸流程，提升场地利用率与作业效率。 2、参与新仓库、新物流中心立项、选址、方案设计与验收。 3、制定仓储标准作业流程（SOP），包括入库、存储、拣选、复核、出库、盘点。 4、推进仓储数字化、智能化，如 WMS/TMS 系统应用、AGV、自动化设备落地",
-      "jobRequirements": "1. 本科及以上学历，工业工程、物流管理、供应链管理、交通运输、等相关专业。 2. 具备1-3年及以上物流、仓储、供应链相关工作经验，有制造业、电商物流、三方物流、汽车供应链行业经验者优先。 3. 熟悉国内物流行业运作规则，了解仓储、运输、配送全链路作业模式，有物流流程优化、项目落地经验者优先。",
-      "JD": "1、设计仓储动线、库位规划、装卸流程，提升场地利用率与作业效率。 2、参与新仓库、新物流中心立项、选址、方案设计与验收。 3、制定仓储标准作业流程（SOP），包括入库、存储、拣选、复核、出库、盘点。 4、推进仓储数字化、智能化，如 WMS/TMS 系统应用、AGV、自动化设备落地\n1. 本科及以上学历，工业工程、物流管理、供应链管理、交通运输、等相关专业。 2. 具备1-3年及以上物流、仓储、供应链相关工作经验，有制造业、电商物流、三方物流、汽车供应链行业经验者优先。 3. 熟悉国内物流行业运作规则，了解仓储、运输、配送全链路作业模式，有物流流程优化、项目落地经验者优先。",
-      "jdEvidence": {
-        "source": "llm:deepseek:deepseek-flash",
-        "majorClauses": [
-          "本科及以上学历，工业工程、物流管理、供应链管理、交通运输、等相关专业。"
-        ],
-        "eligibilityClauses": [],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [
-        "电商"
-      ],
-      "experienceKeywords": [
-        "项目",
-        "电商",
-        "供应链"
-      ],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": true,
-        "raw": "1",
-        "min": 1,
-        "max": 1,
-        "scope": "job",
-        "display": "1人",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "high",
-        "evidence": "1 1 1、设计仓储动线、库位规划、装卸流程，提升场地利用率与作业效率。 2、参与新仓库、"
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "面议",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": "面议"
-      },
-      "salary": "面议",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://leapmotor.zhiye.com/campus/detail?jobAdId=24c22c36-8a38-473a-8805-3b0835ecaae4",
-      "publishedAt": "2026-08-28",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "网申/内推→测评/笔试（以岗位需求为准）→面试（初复试）→OFFER/三方（10月开启）",
-      "recruitmentProcessEvidence": "E2 | 零跑汽车官方校招门户 | https://leapmotor.zhiye.com/campus | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E1 | 零跑汽车官方校招Q&A | https://leapmotor.zhiye.com/intern | 2026-09-17"
-    },
-    {
       "id": "beisen-246072532ede",
       "company": "零跑汽车",
       "title": "校招-商务采购工程师（三电零部件）(J18166)",
@@ -2857,6 +2766,96 @@
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "2026-11-30",
+      "recruitmentProcess": "网申/内推→测评/笔试（以岗位需求为准）→面试（初复试）→OFFER/三方（10月开启）",
+      "recruitmentProcessEvidence": "E2 | 零跑汽车官方校招门户 | https://leapmotor.zhiye.com/campus | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E1 | 零跑汽车官方校招Q&A | https://leapmotor.zhiye.com/intern | 2026-09-17"
+    },
+    {
+      "id": "beisen-d35380ebf6c2",
+      "company": "零跑汽车",
+      "title": "校招-物流工程师(J18162)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "本科及以上学历，工业工程、物流管理、供应链管理、交通运输、等相关专业。",
+        "hardRestriction": true,
+        "hardClauses": [
+          "工业工程、物流管理、供应链管理、交通运输、等相关专业"
+        ]
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "浙江省·湖州市",
+      "jobDescription": "1、设计仓储动线、库位规划、装卸流程，提升场地利用率与作业效率。 2、参与新仓库、新物流中心立项、选址、方案设计与验收。 3、制定仓储标准作业流程（SOP），包括入库、存储、拣选、复核、出库、盘点。 4、推进仓储数字化、智能化，如 WMS/TMS 系统应用、AGV、自动化设备落地",
+      "jobRequirements": "1. 本科及以上学历，工业工程、物流管理、供应链管理、交通运输、等相关专业。 2. 具备物流、仓储、供应链相关实习经验优先。 3. 熟悉国内物流行业运作规则，了解仓储、运输、配送全链路作业模式，有物流流程优化、项目落地经验者优先。",
+      "JD": "1、设计仓储动线、库位规划、装卸流程，提升场地利用率与作业效率。 2、参与新仓库、新物流中心立项、选址、方案设计与验收。 3、制定仓储标准作业流程（SOP），包括入库、存储、拣选、复核、出库、盘点。 4、推进仓储数字化、智能化，如 WMS/TMS 系统应用、AGV、自动化设备落地\n1. 本科及以上学历，工业工程、物流管理、供应链管理、交通运输、等相关专业。 2. 具备物流、仓储、供应链相关实习经验优先。 3. 熟悉国内物流行业运作规则，了解仓储、运输、配送全链路作业模式，有物流流程优化、项目落地经验者优先。",
+      "jdEvidence": {
+        "source": "llm:gemini-free:gemini-3.5-flash-lite",
+        "majorClauses": [
+          "本科及以上学历，工业工程、物流管理、供应链管理、交通运输、等相关专业。"
+        ],
+        "eligibilityClauses": [],
+        "technicalDuties": [],
+        "businessDuties": [
+          "物流执行"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "项目",
+        "供应链"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 1、设计仓储动线、库位规划、装卸流程，提升场地利用率与作业效率。 2、参与新仓库、"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://leapmotor.zhiye.com/campus/detail?jobAdId=24c22c36-8a38-473a-8805-3b0835ecaae4",
+      "publishedAt": "2026-08-28",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
       "recruitmentProcess": "网申/内推→测评/笔试（以岗位需求为准）→面试（初复试）→OFFER/三方（10月开启）",
       "recruitmentProcessEvidence": "E2 | 零跑汽车官方校招门户 | https://leapmotor.zhiye.com/campus | 2026-09-17",
       "hasAssessment": "有",

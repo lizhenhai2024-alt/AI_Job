@@ -38020,5 +38020,50 @@
   ],
   "technicalDuties": [],
   "businessDuties": []
+ },
+ "beisen-cee6427f42a4:ac37122ce87e3f7f:gemini-3.5-flash-lite": {
+  "source": "llm",
+  "majorClauses": [
+   "研究生及以上学历，思想政治教育类、公共管理类、中文、党史等相关专业优先，中共党员优先"
+  ],
+  "eligibilityClauses": [],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "beisen-d35380ebf6c2:feeeb6706e826a0f:gemini-3.5-flash-lite": {
+  "source": "llm",
+  "majorClauses": [
+   "本科及以上学历，工业工程、物流管理、供应链管理、交通运输、等相关专业。"
+  ],
+  "eligibilityClauses": [],
+  "technicalDuties": [],
+  "businessDuties": [
+   "物流执行"
+  ]
+ },
+ "feishu-96da49-7699411543024208182:43a2def8cf611ada:gemini-3.5-flash-lite": {
+  "source": "llm",
+  "majorClauses": [],
+  "eligibilityClauses": [
+   "2027届应届生"
+  ],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "feishu-1fdf6e-7658239786516171034:39d10b8d16e3bab6:gemini-3.1-flash-lite": {
+  "source": "llm",
+  "majorClauses": [
+   "本科以上学历，物流管理、交通运输管理、供应链管理、包装工程、工业工程等相关专业背景"
+  ],
+  "eligibilityClauses": [
+   "【27届校招】"
+  ],
+  "technicalDuties": [
+   "结构/原理"
+  ],
+  "businessDuties": [
+   "物流执行",
+   "资料/流程"
+  ]
  }
 }

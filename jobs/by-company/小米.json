@@ -1,7 +1,7 @@
 {
   "company": "小米",
-  "count": 253,
-  "updatedAt": "2026-10-22T00:53:17.159Z",
+  "count": 254,
+  "updatedAt": "2026-10-22T19:07:49.738Z",
   "jobs": [
     {
       "id": "feishu-4031ce-7670882755622422835",
@@ -981,6 +981,104 @@
       "source": "小米官方飞书招聘",
       "officialURL": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7670883882711976219/detail",
       "publishedAt": "2026-08-06",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申/内推→在线测评→简历筛选→面试（2-3轮）→Offer发放",
+      "recruitmentProcessEvidence": "E1 | 小米招聘官网校招流程 | https://hr.xiaomi.com/website/campus.html | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E1 | 小米招聘官网FAQ | https://hr.xiaomi.com/m/campus/recruitment?tabId=3 | 2026-09-17"
+    },
+    {
+      "id": "feishu-4031ce-7699102936504650025",
+      "company": "小米",
+      "title": "国际销管运营",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1.本科及以上学历，广告、经济管理学，统计学，财务审计相关专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "北京",
+      "jobDescription": "1.负责销售团队的经营目标拆解，制定业务管理政策，完善执行规范和流程； 2.负责日常销售运营数据的监控、统计、分析和上报工作，输出数据分析报告； 3.负责对销售环节中的关键节点进行监控，跟踪销售业绩达成进度，周期性考核销售绩效结果； 4.负责广告业务相关的合同条款审核，合同盖章、催收、归档等一系列合同管理工作； 5.负责CRM平台系统搭建、优化； 6.与其他部门协作，负责应收管理、投保管理等内外部协作项目。",
+      "jobRequirements": "1.本科及以上学历，广告、经济管理学，统计学，财务审计相关专业优先； 2.CET-6，可使用英语作为工作语言，熟练掌握Office办公软件，数据敏感性强，具备较强的数据分析能力； 3.具备优秀的学习能力，好奇心强，逻辑清晰； 4.性格开朗，有良好的口头表达和文字撰写能力，良好的沟通协调能力，具有团队合作精神。",
+      "JD": "1.负责销售团队的经营目标拆解，制定业务管理政策，完善执行规范和流程； 2.负责日常销售运营数据的监控、统计、分析和上报工作，输出数据分析报告； 3.负责对销售环节中的关键节点进行监控，跟踪销售业绩达成进度，周期性考核销售绩效结果； 4.负责广告业务相关的合同条款审核，合同盖章、催收、归档等一系列合同管理工作； 5.负责CRM平台系统搭建、优化； 6.与其他部门协作，负责应收管理、投保管理等内外部协作项目。\n1.本科及以上学历，广告、经济管理学，统计学，财务审计相关专业优先； 2.CET-6，可使用英语作为工作语言，熟练掌握Office办公软件，数据敏感性强，具备较强的数据分析能力； 3.具备优秀的学习能力，好奇心强，逻辑清晰； 4.性格开朗，有良好的口头表达和文字撰写能力，良好的沟通协调能力，具有团队合作精神。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1.本科及以上学历，广告、经济管理学，统计学，财务审计相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "合同",
+          "跨文化沟通"
+        ]
+      },
+      "roleFamily": [
+        "海外运营"
+      ],
+      "skills": [
+        "英语",
+        "数据分析"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "项目",
+        "数据",
+        "招聘"
+      ],
+      "preferenceTags": [
+        "国际业务"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "小米官方飞书招聘",
+      "officialURL": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7699102936504650025/detail",
+      "publishedAt": "2026-10-21",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "",
@@ -4188,104 +4286,6 @@
       "hasAssessmentEvidence": "E1 | 小米招聘官网FAQ | https://hr.xiaomi.com/m/campus/recruitment?tabId=3 | 2026-09-17"
     },
     {
-      "id": "feishu-4031ce-7670882479952333065",
-      "company": "小米",
-      "title": "渠道运营专员",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "本科",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "1. 本科及以上学历，应届毕业生，理工科优先",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "北京",
-      "jobDescription": "负责公司国际服务体系中维修渠道的日常运营与管理，支持全球维修网络的高效运转。通过数据分析、流程优化和跨部门协作，提升客户服务体验与渠道效能。优秀者将有机会外派至海外分支机构，参与国际化业务拓展。 1. 负责海外售后渠道运营指标的统计，组织相关区域进行评估分析，提供业务改善方案并持续跟进闭环。 2. 组织协调相关区域在海外的服务门店建设和翻新，门店运营物料的采购提需以及实物海外调拨。 3. 根据区域业务需要组织渠道服务商引入/清退评审，管理服务商数据。 4. 监控服务门店日常运营指标和工单数据，支持服务经理管理和考核海外服务门店和人员。",
-      "jobRequirements": "1. 本科及以上学历，应届毕业生，理工科优先。 2. 达到英语六级及以上，可处理英文邮件，口语流利者加分。 3. 逻辑清晰，擅长跨团队沟通与多任务管理。 4. 熟练使用Excel/PPT。 5. 愿意接受外派。",
-      "JD": "负责公司国际服务体系中维修渠道的日常运营与管理，支持全球维修网络的高效运转。通过数据分析、流程优化和跨部门协作，提升客户服务体验与渠道效能。优秀者将有机会外派至海外分支机构，参与国际化业务拓展。 1. 负责海外售后渠道运营指标的统计，组织相关区域进行评估分析，提供业务改善方案并持续跟进闭环。 2. 组织协调相关区域在海外的服务门店建设和翻新，门店运营物料的采购提需以及实物海外调拨。 3. 根据区域业务需要组织渠道服务商引入/清退评审，管理服务商数据。 4. 监控服务门店日常运营指标和工单数据，支持服务经理管理和考核海外服务门店和人员。\n1. 本科及以上学历，应届毕业生，理工科优先。 2. 达到英语六级及以上，可处理英文邮件，口语流利者加分。 3. 逻辑清晰，擅长跨团队沟通与多任务管理。 4. 熟练使用Excel/PPT。 5. 愿意接受外派。",
-      "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [
-          "1. 本科及以上学历，应届毕业生，理工科优先"
-        ],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [
-        "英语",
-        "Excel",
-        "数据分析",
-        "PPT"
-      ],
-      "experienceKeywords": [
-        "海外",
-        "运营",
-        "数据",
-        "客户",
-        "招聘"
-      ],
-      "preferenceTags": [
-        "国际业务"
-      ],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "小米官方飞书招聘",
-      "officialURL": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7670882479952333065/detail",
-      "publishedAt": "2026-08-06",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "网申/内推→在线测评→简历筛选→面试（2-3轮）→Offer发放",
-      "recruitmentProcessEvidence": "E1 | 小米招聘官网校招流程 | https://hr.xiaomi.com/website/campus.html | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E1 | 小米招聘官网FAQ | https://hr.xiaomi.com/m/campus/recruitment?tabId=3 | 2026-09-17"
-    },
-    {
       "id": "feishu-4031ce-7670935478140635401",
       "company": "小米",
       "title": "电商运营专员-西语-外派",
@@ -5213,6 +5213,104 @@
       "annualSalary": "未披露",
       "source": "小米官方飞书招聘",
       "officialURL": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7670885531078002954/detail",
+      "publishedAt": "2026-08-06",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申/内推→在线测评→简历筛选→面试（2-3轮）→Offer发放",
+      "recruitmentProcessEvidence": "E1 | 小米招聘官网校招流程 | https://hr.xiaomi.com/website/campus.html | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E1 | 小米招聘官网FAQ | https://hr.xiaomi.com/m/campus/recruitment?tabId=3 | 2026-09-17"
+    },
+    {
+      "id": "feishu-4031ce-7670885336150460718",
+      "company": "小米",
+      "title": "渠道运营专员",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "本科及以上学历，应届毕业生，专业不限。",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "英语、日语、韩语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "北京",
+      "jobDescription": "负责公司国际服务体系中维修渠道的日常运营与管理，支持全球维修网络的高效运转。通过数据分析、流程优化和跨部门协作，提升客户服务体验与渠道效能。优秀者将有机会外派至海外分支机构，参与国际化业务拓展。 1. 负责海外售后渠道运营指标的统计，组织相关区域进行评估分析，提供业务改善方案并持续跟进闭环。 2. 组织协调相关区域在海外的服务门店建设和翻新，门店运营物料的采购提需以及实物海外调拨。 3. 根据区域业务需要组织渠道服务商引入/清退评审，管理服务商数据。 4. 监控服务门店日常运营指标和工单数据，支持服务经理管理和考核海外服务门店和人员。",
+      "jobRequirements": "1. 本科及以上学历，应届毕业生，专业不限。 2. 达到日语N1或韩语TOPIK6级及以上，能够日常交流和书面撰写。 3. 达到英语六级及以上，可处理英文邮件，口语流利者加分。 4. 逻辑清晰，擅长跨团队沟通与多任务管理。 5. 熟练使用Excel/PPT。 6. 愿意接受外派。",
+      "JD": "负责公司国际服务体系中维修渠道的日常运营与管理，支持全球维修网络的高效运转。通过数据分析、流程优化和跨部门协作，提升客户服务体验与渠道效能。优秀者将有机会外派至海外分支机构，参与国际化业务拓展。 1. 负责海外售后渠道运营指标的统计，组织相关区域进行评估分析，提供业务改善方案并持续跟进闭环。 2. 组织协调相关区域在海外的服务门店建设和翻新，门店运营物料的采购提需以及实物海外调拨。 3. 根据区域业务需要组织渠道服务商引入/清退评审，管理服务商数据。 4. 监控服务门店日常运营指标和工单数据，支持服务经理管理和考核海外服务门店和人员。\n1. 本科及以上学历，应届毕业生，专业不限。 2. 达到日语N1或韩语TOPIK6级及以上，能够日常交流和书面撰写。 3. 达到英语六级及以上，可处理英文邮件，口语流利者加分。 4. 逻辑清晰，擅长跨团队沟通与多任务管理。 5. 熟练使用Excel/PPT。 6. 愿意接受外派。",
+      "jdEvidence": {
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科及以上学历，应届毕业生，专业不限。"
+        ],
+        "eligibilityClauses": [
+          "本科及以上学历，应届毕业生，专业不限。"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语",
+        "Excel",
+        "数据分析",
+        "PPT"
+      ],
+      "experienceKeywords": [
+        "海外",
+        "运营",
+        "数据",
+        "客户",
+        "招聘"
+      ],
+      "preferenceTags": [
+        "国际业务"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "小米官方飞书招聘",
+      "officialURL": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7670885336150460718/detail",
       "publishedAt": "2026-08-06",
       "lastVerified": "",
       "sourceType": "official",
