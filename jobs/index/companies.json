@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-21T19:16:46.633Z",
-  "totalJobs": 6811,
-  "totalCompanies": 139,
+  "updatedAt": "2026-10-22T00:53:17.159Z",
+  "totalJobs": 6819,
+  "totalCompanies": 140,
   "companies": [
     {
       "company": "阿里巴巴",
@@ -743,6 +743,12 @@
       "count": 244
     },
     {
+      "company": "中国人民人寿股份有限公司",
+      "slug": "中国人民人寿股份",
+      "file": "jobs/by-company/中国人民人寿股份.json",
+      "count": 1
+    },
+    {
       "company": "中国人寿",
       "slug": "中国人寿",
       "file": "jobs/by-company/中国人寿.json",
@@ -788,7 +794,7 @@
       "company": "字节跳动",
       "slug": "字节跳动",
       "file": "jobs/by-company/字节跳动.json",
-      "count": 238
+      "count": 245
     },
     {
       "company": "Babycare",

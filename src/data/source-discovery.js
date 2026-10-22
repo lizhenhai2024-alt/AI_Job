@@ -74,7 +74,7 @@ export const sourceDiscovery = [
     "officialUrl": "https://polyharmony.zhiye.com/",
     "reason": "高校详情页明确给出北森招聘入口；等价官方源已存在",
     "attempts": 0,
-    "lastCheckedAt": "2026-10-21T19:16:43.061Z",
+    "lastCheckedAt": "2026-10-22T00:53:13.047Z",
     "nextCheckAfter": ""
   },
   {
@@ -1062,9 +1062,9 @@ export const sourceDiscovery = [
     "state": "source_registered",
     "provider": "moka",
     "officialUrl": "https://app.mokahr.com/m/campus-recruitment/shinry/172541?locale=zh-CN#/home",
-    "reason": "高校详情页明确给出Moka校园招聘入口",
+    "reason": "高校详情页明确给出Moka校园招聘入口；等价官方源已存在",
     "attempts": 0,
-    "lastCheckedAt": "2026-10-21T14:36:48.584Z",
+    "lastCheckedAt": "2026-10-22T00:53:13.047Z",
     "nextCheckAfter": ""
   },
   {
@@ -1227,9 +1227,9 @@ export const sourceDiscovery = [
     "state": "source_registered",
     "provider": "beisen",
     "officialUrl": "https://picc.zhiye.com/custom/campus?ky=&c1=&c2=3&d=-1&c=",
-    "reason": "高校详情页明确给出北森招聘入口",
+    "reason": "高校详情页明确给出北森招聘入口；等价官方源已存在",
     "attempts": 0,
-    "lastCheckedAt": "2026-10-21T14:36:48.584Z",
+    "lastCheckedAt": "2026-10-22T00:53:13.047Z",
     "nextCheckAfter": ""
   },
   {
@@ -1510,7 +1510,7 @@ export const sourceDiscovery = [
 ];
 
 export const sourceDiscoveryMeta = {
-  "updatedAt": "2026-10-21T23:18:58.575Z",
+  "updatedAt": "2026-10-22T00:53:13.047Z",
   "lastRun": {
     "processed": 12,
     "sourcesAdded": 0,
