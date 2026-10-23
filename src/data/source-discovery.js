@@ -74,7 +74,7 @@ export const sourceDiscovery = [
     "officialUrl": "https://polyharmony.zhiye.com/",
     "reason": "高校详情页明确给出北森招聘入口；等价官方源已存在",
     "attempts": 0,
-    "lastCheckedAt": "2026-10-23T14:18:35.458Z",
+    "lastCheckedAt": "2026-10-23T19:02:14.345Z",
     "nextCheckAfter": ""
   },
   {
@@ -1543,7 +1543,7 @@ export const sourceDiscovery = [
 ];
 
 export const sourceDiscoveryMeta = {
-  "updatedAt": "2026-10-23T18:21:22.736Z",
+  "updatedAt": "2026-10-23T19:02:14.345Z",
   "lastRun": {
     "processed": 12,
     "sourcesAdded": 0,
