@@ -74,7 +74,7 @@ export const sourceDiscovery = [
     "officialUrl": "https://polyharmony.zhiye.com/",
     "reason": "高校详情页明确给出北森招聘入口；等价官方源已存在",
     "attempts": 0,
-    "lastCheckedAt": "2026-10-22T19:07:27.560Z",
+    "lastCheckedAt": "2026-10-23T00:49:39.443Z",
     "nextCheckAfter": ""
   },
   {
@@ -109,6 +109,17 @@ export const sourceDiscovery = [
     "attempts": 1,
     "lastCheckedAt": "2026-09-15T10:55:22.106Z",
     "nextCheckAfter": "2026-09-16T10:55:22.110Z"
+  },
+  {
+    "name": "财务管培生-武汉起点人力资源股份有限公司",
+    "status": "高校自动发现",
+    "state": "needs_adapter",
+    "provider": "",
+    "officialUrl": "https://qidianjob.com/",
+    "reason": "已发现公司官方招聘入口，但当前站点 qidianjob.com 尚无自动抓取适配器",
+    "attempts": 0,
+    "lastCheckedAt": "2026-10-23T00:49:39.443Z",
+    "nextCheckAfter": "2026-10-24T00:49:39.449Z"
   },
   {
     "name": "大家保险集团",
@@ -1299,6 +1310,28 @@ export const sourceDiscovery = [
     "nextCheckAfter": "2026-09-18T22:53:49.671Z"
   },
   {
+    "name": "助理信息技术工程师（",
+    "status": "高校自动发现",
+    "state": "source_registered",
+    "provider": "beisen",
+    "officialUrl": "https://htffund.zhiye.com/Campus",
+    "reason": "高校详情页明确给出北森招聘入口",
+    "attempts": 0,
+    "lastCheckedAt": "2026-10-23T00:49:39.443Z",
+    "nextCheckAfter": ""
+  },
+  {
+    "name": "助理AI算法工程师（",
+    "status": "高校自动发现",
+    "state": "source_registered",
+    "provider": "beisen",
+    "officialUrl": "https://htffund.zhiye.com/Campus",
+    "reason": "高校详情页明确给出北森招聘入口",
+    "attempts": 0,
+    "lastCheckedAt": "2026-10-23T00:49:39.443Z",
+    "nextCheckAfter": ""
+  },
+  {
     "name": "字节跳动",
     "status": "主投",
     "state": "needs_adapter",
@@ -1510,7 +1543,7 @@ export const sourceDiscovery = [
 ];
 
 export const sourceDiscoveryMeta = {
-  "updatedAt": "2026-10-22T23:23:02.869Z",
+  "updatedAt": "2026-10-23T00:49:39.443Z",
   "lastRun": {
     "processed": 12,
     "sourcesAdded": 0,

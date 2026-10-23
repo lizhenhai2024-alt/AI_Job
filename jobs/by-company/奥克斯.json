@@ -1,7 +1,7 @@
 {
   "company": "奥克斯集团",
-  "count": 20,
-  "updatedAt": "2026-10-22T19:07:49.738Z",
+  "count": 21,
+  "updatedAt": "2026-10-23T01:18:10.134Z",
   "jobs": [
     {
       "id": "beisen-5ef6f799d9ba",
@@ -536,6 +536,92 @@
       "source": "公司官方北森校招官网",
       "officialURL": "https://auxgroup.zhiye.com/campus/detail?jobAdId=7ed6d6cb-4397-4fd8-876f-314b7df49af9",
       "publishedAt": "2026-08-25",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申→笔试→AI测评→专面→offer",
+      "recruitmentProcessEvidence": "E2 | 西安理工大学就业信息网奥克斯校招 | https://job.xaut.edu.cn/info/1091/6133.htm | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | 西安理工大学就业信息网奥克斯校招 | https://job.xaut.edu.cn/info/1091/6133.htm | 2026-09-17"
+    },
+    {
+      "id": "beisen-af7c4e86838d",
+      "company": "奥克斯集团",
+      "title": "【2027秋】空调-国内技术营销(建环)(J16433)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "浙江省·宁波市",
+      "jobDescription": "1、负责中心项目拓展，广辟业务渠道； 2、跟进闭环中心未达指标，助力完成销售目标； 3、负责内部及中心重点项目的方案设计、审核； 4、负责招投标项目支持及招投标分析； 5、负责产品技术资料制作及整理。",
+      "jobRequirements": "1、专业知识扎实，工作积极主动，具有较强的责任心，肯苦、细致； 2、能够熟练运用CAD、天正、鸿业等制图程序，word、excel等办公软件处理各项工作事务； 3、具有较强的沟通协调和文字表达能力。",
+      "JD": "1、负责中心项目拓展，广辟业务渠道； 2、跟进闭环中心未达指标，助力完成销售目标； 3、负责内部及中心重点项目的方案设计、审核； 4、负责招投标项目支持及招投标分析； 5、负责产品技术资料制作及整理。\n1、专业知识扎实，工作积极主动，具有较强的责任心，肯苦、细致； 2、能够熟练运用CAD、天正、鸿业等制图程序，word、excel等办公软件处理各项工作事务； 3、具有较强的沟通协调和文字表达能力。",
+      "jdEvidence": {
+        "source": "llm:gemini-free:gemini-3.5-flash-lite",
+        "majorClauses": [],
+        "eligibilityClauses": [],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "Excel"
+      ],
+      "experienceKeywords": [
+        "项目",
+        "营销"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://auxgroup.zhiye.com/campus/detail?jobAdId=c9c23549-3e67-4125-9a13-76539730d31d",
+      "publishedAt": "2026-10-23",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "",

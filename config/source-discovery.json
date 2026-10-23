@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-22T23:23:02.869Z",
+  "updatedAt": "2026-10-23T00:49:39.443Z",
   "companies": {
     "lazada": {
       "name": "Lazada",
@@ -2529,7 +2529,7 @@
         "sourceUrl": "https://jobs.blcu.edu.cn/front/zpxx.jspa?tid=2110544240625545217",
         "graduationYear": "2027"
       },
-      "lastCheckedAt": "2026-10-22T19:07:27.560Z",
+      "lastCheckedAt": "2026-10-23T00:49:39.443Z",
       "nextCheckAfter": ""
     },
     "深圳市杰和发展": {
@@ -2711,6 +2711,51 @@
       },
       "lastCheckedAt": "2026-10-22T00:53:13.047Z",
       "nextCheckAfter": ""
+    },
+    "财务管培生武汉起点人力资源": {
+      "name": "财务管培生-武汉起点人力资源股份有限公司",
+      "status": "高校自动发现",
+      "state": "needs_adapter",
+      "provider": "",
+      "officialUrl": "https://qidianjob.com/",
+      "reason": "已发现公司官方招聘入口，但当前站点 qidianjob.com 尚无自动抓取适配器",
+      "universityEvidence": {
+        "school": "南开大学",
+        "sourceUrl": "https://career.nankai.edu.cn/correcruit/content/id/120010.html",
+        "graduationYear": "2027"
+      },
+      "lastCheckedAt": "2026-10-23T00:49:39.443Z",
+      "nextCheckAfter": "2026-10-24T00:49:39.449Z"
+    },
+    "助理信息工程师（": {
+      "name": "助理信息技术工程师（",
+      "status": "高校自动发现",
+      "state": "source_registered",
+      "provider": "beisen",
+      "officialUrl": "https://htffund.zhiye.com/Campus",
+      "reason": "高校详情页明确给出北森招聘入口",
+      "universityEvidence": {
+        "school": "南开大学",
+        "sourceUrl": "https://career.nankai.edu.cn/correcruit/content/id/120017.html",
+        "graduationYear": "2027"
+      },
+      "lastCheckedAt": "2026-10-23T00:49:39.443Z",
+      "nextCheckAfter": ""
+    },
+    "助理ai算法工程师（": {
+      "name": "助理AI算法工程师（",
+      "status": "高校自动发现",
+      "state": "source_registered",
+      "provider": "beisen",
+      "officialUrl": "https://htffund.zhiye.com/Campus",
+      "reason": "高校详情页明确给出北森招聘入口",
+      "universityEvidence": {
+        "school": "南开大学",
+        "sourceUrl": "https://career.nankai.edu.cn/correcruit/content/id/120016.html",
+        "graduationYear": "2027"
+      },
+      "lastCheckedAt": "2026-10-23T00:49:39.443Z",
+      "nextCheckAfter": ""
     }
   },
   "lastRun": {
@@ -2721,10 +2766,10 @@
     "forceRetry": false
   },
   "lastUniversityBridge": {
-    "candidates": 1,
-    "sourcesAdded": 0,
+    "candidates": 4,
+    "sourcesAdded": 2,
     "sourcesRepaired": 0,
-    "queued": 0,
-    "updatedAt": "2026-10-22T19:07:27.560Z"
+    "queued": 1,
+    "updatedAt": "2026-10-23T00:49:39.443Z"
   }
 }

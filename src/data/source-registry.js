@@ -469,6 +469,14 @@ export const sourceRegistry = [
     "company": "中国人民人寿股份有限公司"
   },
   {
+    "provider": "beisen",
+    "company": "助理信息技术工程师（"
+  },
+  {
+    "provider": "beisen",
+    "company": "助理AI算法工程师（"
+  },
+  {
     "provider": "feishu",
     "company": "影石Insta360"
   },

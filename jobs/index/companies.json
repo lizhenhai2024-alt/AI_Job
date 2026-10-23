@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-22T19:07:49.738Z",
-  "totalJobs": 6892,
-  "totalCompanies": 139,
+  "updatedAt": "2026-10-23T01:18:10.134Z",
+  "totalJobs": 6850,
+  "totalCompanies": 138,
   "companies": [
     {
       "company": "阿里巴巴",
@@ -26,7 +26,7 @@
       "company": "奥克斯集团",
       "slug": "奥克斯",
       "file": "jobs/by-company/奥克斯.json",
-      "count": 20
+      "count": 21
     },
     {
       "company": "奥马冰箱",
@@ -50,12 +50,6 @@
       "company": "保利和润房地产投资顾问有限公司",
       "slug": "保利和润房地产投资顾问",
       "file": "jobs/by-company/保利和润房地产投资顾问.json",
-      "count": 48
-    },
-    {
-      "company": "比亚迪",
-      "slug": "比亚迪",
-      "file": "jobs/by-company/比亚迪.json",
       "count": 48
     },
     {
@@ -788,7 +782,7 @@
       "company": "字节跳动",
       "slug": "字节跳动",
       "file": "jobs/by-company/字节跳动.json",
-      "count": 245
+      "count": 250
     },
     {
       "company": "Babycare",

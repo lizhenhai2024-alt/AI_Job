@@ -38065,5 +38065,25 @@
    "物流执行",
    "资料/流程"
   ]
+ },
+ "bytedance-5ce078478dfb:0b8f17c20b583810:gemini-3.5-flash-lite": {
+  "source": "llm",
+  "majorClauses": [
+   "2027届获得本科及以上学历，专业背景不限"
+  ],
+  "eligibilityClauses": [
+   "2027届获得本科及以上学历，专业背景不限"
+  ],
+  "technicalDuties": [
+   "开发实现"
+  ],
+  "businessDuties": []
+ },
+ "beisen-af7c4e86838d:6b7b609a47c26e8e:gemini-3.5-flash-lite": {
+  "source": "llm",
+  "majorClauses": [],
+  "eligibilityClauses": [],
+  "technicalDuties": [],
+  "businessDuties": []
  }
 }
