@@ -38085,5 +38085,79 @@
   "eligibilityClauses": [],
   "technicalDuties": [],
   "businessDuties": []
+ },
+ "hotjob-2f96b460bb33:44d082cc35e91cf8:gemini-3.5-flash-lite": {
+  "source": "llm",
+  "majorClauses": [
+   "本科及以上学历，市场营销、传播学、新闻、国际商务、西班牙语／葡萄牙语等相关专业优先。"
+  ],
+  "eligibilityClauses": [],
+  "technicalDuties": [],
+  "businessDuties": [
+   "客户关系",
+   "翻译/本地化",
+   "国际业务"
+  ]
+ },
+ "beisen-c552098da259:9d8b18954ba94686:gemini-3.5-flash-lite": {
+  "source": "llm",
+  "majorClauses": [
+   "本科及以上学历"
+  ],
+  "eligibilityClauses": [],
+  "technicalDuties": [],
+  "businessDuties": [
+   "跨文化沟通",
+   "资料/流程"
+  ]
+ },
+ "feishu-49f725-7673026843293305126:0c826fd0818b0f91:gemini-3.5-flash-lite": {
+  "source": "llm",
+  "majorClauses": [
+   "工程本科学位及以上,工程类/管理类专业优先"
+  ],
+  "eligibilityClauses": [],
+  "technicalDuties": [
+   "技术评估"
+  ],
+  "businessDuties": [
+   "资料/流程"
+  ]
+ },
+ "hotjob-9703838c41d3:e352b4077f800a47:gemini-3.5-flash-lite": {
+  "source": "llm",
+  "majorClauses": [
+   "本科及以上学历，市场营销、建筑环境与能源应用工程（暖通）、电气工程及其自动化等经管与理工科相关专业优先。"
+  ],
+  "eligibilityClauses": [],
+  "technicalDuties": [],
+  "businessDuties": [
+   "商务测算",
+   "合同",
+   "客户关系",
+   "物流执行",
+   "资料/流程"
+  ]
+ },
+ "hotjob-c4c736fecd79:830bbb33791ced59:gemini-3.5-flash-lite": {
+  "source": "llm",
+  "majorClauses": [
+   "本科及以上学历，理工类、市场营销、英语、日语相关专业；"
+  ],
+  "eligibilityClauses": [
+   "27届秋招 微型车客户代表"
+  ],
+  "technicalDuties": [],
+  "businessDuties": [
+   "客户关系",
+   "国际业务"
+  ]
+ },
+ "feishu-4031ce-7670935194911639844:ad2907efae9fd2b2:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [],
+  "eligibilityClauses": [],
+  "technicalDuties": [],
+  "businessDuties": []
  }
 }

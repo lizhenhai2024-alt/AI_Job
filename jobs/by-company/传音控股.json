@@ -1,7 +1,7 @@
 {
   "company": "传音控股",
-  "count": 79,
-  "updatedAt": "2026-10-23T01:18:10.134Z",
+  "count": 80,
+  "updatedAt": "2026-10-23T14:19:09.318Z",
   "jobs": [
     {
       "id": "beisen-839bd7f42841",
@@ -3097,6 +3097,109 @@
       "source": "公司官方北森校招官网",
       "officialURL": "https://transsion.zhiye.com/campus/detail?jobAdId=7837e080-9cb1-4972-b6f1-04a6b3a7d045",
       "publishedAt": "2026-08-13",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "简历投递→线上测评→专业笔试(部分岗位)→面试→发放Offer",
+      "recruitmentProcessEvidence": "E3 | 广东技术师范大学/中国矿大就业网校招公告 | https://jyw.gpnu.edu.cn/info/1148/12362.htm | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E3 | 广东技术师范大学就业网校招公告 | https://jyw.gpnu.edu.cn/info/1148/12362.htm | 2026-09-17"
+    },
+    {
+      "id": "beisen-c552098da259",
+      "company": "传音控股",
+      "title": "零售培训主管(J20591)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "本科及以上学历",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "jobDescription": "一、工作职责 1. 新品培训项目运营 - 按新品系列定位制定培训运营策略，支撑新品成功上市 - 协助产出新品培训材料包：产品卖点、竞品对比、销售话术 - 总部端新品培训项目全链路运营，协同各国培训团队推进培训项目 2. 数字化培训平台与内容资产运营 - 搭建、运营线上终端赋能平台，协助国家端落地 - 管理国家的平台使用情况与内容质量，跟踪问题并闭环 - 建设并维护知识内容资产，推动一线优秀经验沉淀 3. 培训效果评估与数据运营 - 设计多维评估方式，评估培训对一线行为与业务结果的影响 - 输出周期性复盘报告，为培训管理与零售管理决策做支撑 - 协同 GTM、市场、产品等部门，回传一线销售端的用户洞察",
+      "jobRequirements": "二、任职要求 - 本科及以上学历，3 年以上培训工作经验；有手机、消费电子或通讯行业经验优先 - 有培训项目经验：能独立完成培训项目的设计和交付 - 英语可作为工作语言，能适应跨文化协作与海外出差 - 数据能力：能从考试、问卷、平台数据中得出结论；熟练使用 Excel / 表格工具，看得懂数据看板 - 沟通协同能力：推动跨区域、跨部门协同落",
+      "JD": "一、工作职责 1. 新品培训项目运营 - 按新品系列定位制定培训运营策略，支撑新品成功上市 - 协助产出新品培训材料包：产品卖点、竞品对比、销售话术 - 总部端新品培训项目全链路运营，协同各国培训团队推进培训项目 2. 数字化培训平台与内容资产运营 - 搭建、运营线上终端赋能平台，协助国家端落地 - 管理国家的平台使用情况与内容质量，跟踪问题并闭环 - 建设并维护知识内容资产，推动一线优秀经验沉淀 3. 培训效果评估与数据运营 - 设计多维评估方式，评估培训对一线行为与业务结果的影响 - 输出周期性复盘报告，为培训管理与零售管理决策做支撑 - 协同 GTM、市场、产品等部门，回传一线销售端的用户洞察\n二、任职要求 - 本科及以上学历，3 年以上培训工作经验；有手机、消费电子或通讯行业经验优先 - 有培训项目经验：能独立完成培训项目的设计和交付 - 英语可作为工作语言，能适应跨文化协作与海外出差 - 数据能力：能从考试、问卷、平台数据中得出结论；熟练使用 Excel / 表格工具，看得懂数据看板 - 沟通协同能力：推动跨区域、跨部门协同落",
+      "jdEvidence": {
+        "source": "llm:gemini-free:gemini-3.5-flash-lite",
+        "majorClauses": [
+          "本科及以上学历"
+        ],
+        "eligibilityClauses": [],
+        "technicalDuties": [],
+        "businessDuties": [
+          "跨文化沟通",
+          "资料/流程"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语",
+        "Excel"
+      ],
+      "experienceKeywords": [
+        "海外",
+        "运营",
+        "内容",
+        "项目",
+        "市场",
+        "用户",
+        "数据",
+        "跨文化"
+      ],
+      "preferenceTags": [
+        "国际业务",
+        "跨文化"
+      ],
+      "riskTags": [
+        "海外出差"
+      ],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://transsion.zhiye.com/campus/detail?jobAdId=0941111f-6532-46f8-a3a4-3840edab671d",
+      "publishedAt": "2026-10-23",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "",

@@ -1,7 +1,7 @@
 {
   "company": "小鹏汽车",
-  "count": 205,
-  "updatedAt": "2026-10-23T01:18:10.134Z",
+  "count": 206,
+  "updatedAt": "2026-10-23T14:19:09.318Z",
   "jobs": [
     {
       "id": "feishu-1fdf6e-7663476504336992531",
@@ -11931,98 +11931,6 @@
       "hasAssessmentEvidence": "E2 | 南开大学就业指导中心校招简章 | https://career.nankai.edu.cn/correcruit/content/id/116251.html | 2026-09-17"
     },
     {
-      "id": "feishu-1fdf6e-7663476462071400745",
-      "company": "小鹏汽车",
-      "title": "【27届校招】ESG培训生（碳管理）",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "硕士",
-        "masterRequired": true
-      },
-      "major": {
-        "raw": "1、硕士及以上学历，可持续发展、碳管理、能源、环境相关专业优先",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "广州",
-      "jobDescription": "1、深入业务部门，协助业务部门厘清排放源，将模糊的“碳排放”翻译成各部门能理解的“能源台账”和“业务数据”，并推动碳管理成效提升； 2、协助搭建海内外重点地区E领域政策与法规的监控框架，并进行动态跟踪，输出政策摘要和初步解读； 3、深度参与碳数据管理平台的建设和上线，参与包括系统测试、数据初始化、横向拉通等工作； 4、协助进行集团组织碳排放数据的收集、整理与清洗，确保数据质量； 5、协助新兴议题的研究与落地推动，包括且不限于循环经济、碳资产开发、自然资本管理等； 6、支持政府部门/行业协会/供应商/合作伙伴等外部利益相关者的沟通会议，协助准备相关数据及文稿； 7、拉通PR、OC等部门，通过培训以及活动等方式，推动公司E领域认知提升。",
-      "jobRequirements": "1、硕士及以上学历，可持续发展、碳管理、能源、环境相关专业优先。实习经验中拥有汽车产业链（整车企业/电池企业/汽车零部件企业）或知名咨询机构碳领域实战案例经验优先； 2、扎实掌握温室气体相关方法论（ISO 14064/7、GHG Protocol）及核算操作； 3、熟练使用Excel进行数据处理（如透视表、VLOOKUP等），有碳数据处理ai实践经验优先； 4、具有责任心，对数字敏感，学习意愿强，能快速吸收新标准、新工具； 5、英语可作为工作语言。",
-      "JD": "1、深入业务部门，协助业务部门厘清排放源，将模糊的“碳排放”翻译成各部门能理解的“能源台账”和“业务数据”，并推动碳管理成效提升； 2、协助搭建海内外重点地区E领域政策与法规的监控框架，并进行动态跟踪，输出政策摘要和初步解读； 3、深度参与碳数据管理平台的建设和上线，参与包括系统测试、数据初始化、横向拉通等工作； 4、协助进行集团组织碳排放数据的收集、整理与清洗，确保数据质量； 5、协助新兴议题的研究与落地推动，包括且不限于循环经济、碳资产开发、自然资本管理等； 6、支持政府部门/行业协会/供应商/合作伙伴等外部利益相关者的沟通会议，协助准备相关数据及文稿； 7、拉通PR、OC等部门，通过培训以及活动等方式，推动公司E领域认知提升。\n1、硕士及以上学历，可持续发展、碳管理、能源、环境相关专业优先。实习经验中拥有汽车产业链（整车企业/电池企业/汽车零部件企业）或知名咨询机构碳领域实战案例经验优先； 2、扎实掌握温室气体相关方法论（ISO 14064/7、GHG Protocol）及核算操作； 3、熟练使用Excel进行数据处理（如透视表、VLOOKUP等），有碳数据处理ai实践经验优先； 4、具有责任心，对数字敏感，学习意愿强，能快速吸收新标准、新工具； 5、英语可作为工作语言。",
-      "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [
-          "1、硕士及以上学历，可持续发展、碳管理、能源、环境相关专业优先"
-        ],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
-        "technicalDuties": [],
-        "businessDuties": [
-          "翻译/本地化"
-        ]
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [
-        "英语",
-        "Excel"
-      ],
-      "experienceKeywords": [
-        "数据"
-      ],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "小鹏汽车官方飞书招聘",
-      "officialURL": "https://xiaopeng.jobs.feishu.cn/campus/m/position/7663476462071400745/detail",
-      "publishedAt": "2026-07-17",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "网申/内推→AI测评→笔试（部分岗位）→面试→offer→签约入职",
-      "recruitmentProcessEvidence": "E2 | 南开大学就业指导中心校招简章 | https://career.nankai.edu.cn/correcruit/content/id/116251.html | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E2 | 南开大学就业指导中心校招简章 | https://career.nankai.edu.cn/correcruit/content/id/116251.html | 2026-09-17"
-    },
-    {
       "id": "feishu-1fdf6e-7663476462070712617",
       "company": "小鹏汽车",
       "title": "【27届校招】海外法规培训生",
@@ -12109,6 +12017,98 @@
       "annualSalary": "未披露",
       "source": "小鹏汽车官方飞书招聘",
       "officialURL": "https://xiaopeng.jobs.feishu.cn/campus/m/position/7663476462070712617/detail",
+      "publishedAt": "2026-07-17",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申/内推→AI测评→笔试（部分岗位）→面试→offer→签约入职",
+      "recruitmentProcessEvidence": "E2 | 南开大学就业指导中心校招简章 | https://career.nankai.edu.cn/correcruit/content/id/116251.html | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | 南开大学就业指导中心校招简章 | https://career.nankai.edu.cn/correcruit/content/id/116251.html | 2026-09-17"
+    },
+    {
+      "id": "feishu-1fdf6e-7663476462071400745",
+      "company": "小鹏汽车",
+      "title": "【27届校招】ESG培训生（碳管理）",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "硕士",
+        "masterRequired": true
+      },
+      "major": {
+        "raw": "1、硕士及以上学历，可持续发展、碳管理、能源、环境相关专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "广州",
+      "jobDescription": "1、深入业务部门，协助业务部门厘清排放源，将模糊的“碳排放”翻译成各部门能理解的“能源台账”和“业务数据”，并推动碳管理成效提升； 2、协助搭建海内外重点地区E领域政策与法规的监控框架，并进行动态跟踪，输出政策摘要和初步解读； 3、深度参与碳数据管理平台的建设和上线，参与包括系统测试、数据初始化、横向拉通等工作； 4、协助进行集团组织碳排放数据的收集、整理与清洗，确保数据质量； 5、协助新兴议题的研究与落地推动，包括且不限于循环经济、碳资产开发、自然资本管理等； 6、支持政府部门/行业协会/供应商/合作伙伴等外部利益相关者的沟通会议，协助准备相关数据及文稿； 7、拉通PR、OC等部门，通过培训以及活动等方式，推动公司E领域认知提升。",
+      "jobRequirements": "1、硕士及以上学历，可持续发展、碳管理、能源、环境相关专业优先。实习经验中拥有汽车产业链（整车企业/电池企业/汽车零部件企业）或知名咨询机构碳领域实战案例经验优先； 2、扎实掌握温室气体相关方法论（ISO 14064/7、GHG Protocol）及核算操作； 3、熟练使用Excel进行数据处理（如透视表、VLOOKUP等），有碳数据处理ai实践经验优先； 4、具有责任心，对数字敏感，学习意愿强，能快速吸收新标准、新工具； 5、英语可作为工作语言。",
+      "JD": "1、深入业务部门，协助业务部门厘清排放源，将模糊的“碳排放”翻译成各部门能理解的“能源台账”和“业务数据”，并推动碳管理成效提升； 2、协助搭建海内外重点地区E领域政策与法规的监控框架，并进行动态跟踪，输出政策摘要和初步解读； 3、深度参与碳数据管理平台的建设和上线，参与包括系统测试、数据初始化、横向拉通等工作； 4、协助进行集团组织碳排放数据的收集、整理与清洗，确保数据质量； 5、协助新兴议题的研究与落地推动，包括且不限于循环经济、碳资产开发、自然资本管理等； 6、支持政府部门/行业协会/供应商/合作伙伴等外部利益相关者的沟通会议，协助准备相关数据及文稿； 7、拉通PR、OC等部门，通过培训以及活动等方式，推动公司E领域认知提升。\n1、硕士及以上学历，可持续发展、碳管理、能源、环境相关专业优先。实习经验中拥有汽车产业链（整车企业/电池企业/汽车零部件企业）或知名咨询机构碳领域实战案例经验优先； 2、扎实掌握温室气体相关方法论（ISO 14064/7、GHG Protocol）及核算操作； 3、熟练使用Excel进行数据处理（如透视表、VLOOKUP等），有碳数据处理ai实践经验优先； 4、具有责任心，对数字敏感，学习意愿强，能快速吸收新标准、新工具； 5、英语可作为工作语言。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、硕士及以上学历，可持续发展、碳管理、能源、环境相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "翻译/本地化"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语",
+        "Excel"
+      ],
+      "experienceKeywords": [
+        "数据"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "小鹏汽车官方飞书招聘",
+      "officialURL": "https://xiaopeng.jobs.feishu.cn/campus/m/position/7663476462071400745/detail",
       "publishedAt": "2026-07-17",
       "lastVerified": "",
       "sourceType": "official",
@@ -15754,6 +15754,96 @@
       "source": "小鹏汽车官方飞书招聘",
       "officialURL": "https://xiaopeng.jobs.feishu.cn/campus/m/position/7658239728122169651/detail",
       "publishedAt": "2026-07-03",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申/内推→AI测评→笔试（部分岗位）→面试→offer→签约入职",
+      "recruitmentProcessEvidence": "E2 | 南开大学就业指导中心校招简章 | https://career.nankai.edu.cn/correcruit/content/id/116251.html | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | 南开大学就业指导中心校招简章 | https://career.nankai.edu.cn/correcruit/content/id/116251.html | 2026-09-17"
+    },
+    {
+      "id": "feishu-1fdf6e-7699770588521826602",
+      "company": "小鹏汽车",
+      "title": "【27届校招】智造专业培训生（压铸品质方向）",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "汽车或自动化、电气相等关专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "武汉",
+      "jobDescription": "1、负责产品试模试制过程质量问题、模具问题的整改推进 2、负责现场压铸工艺文件编制、修订及压铸工艺参数设计、优化; 3、负责量产压铸质量缺陷的解决、模具/压铸工艺停机问题解决;评估新项目产品特性选择合适的加工工艺和合理的刀具 4、负责潜在设备供应商的技术评估和选择 5、负责机加线、装配线工艺问题处理，工艺文件编制及技术改善; 6、负责压铸厂质量体系管理，推进内部流程及体系的改善; 7、负责压铸零件质量问题管理，持续推进质量改善;领导交办的其他事项。",
+      "jobRequirements": "1、本科及以上学历；汽车或自动化、电气相等关专业优先。 2、了解汽车管理体系基本知识，如ISO9001或常用OC手法。 3、具备问题分析、处理能力。 4、良好的组织协调能力及报告能力。",
+      "JD": "1、负责产品试模试制过程质量问题、模具问题的整改推进 2、负责现场压铸工艺文件编制、修订及压铸工艺参数设计、优化; 3、负责量产压铸质量缺陷的解决、模具/压铸工艺停机问题解决;评估新项目产品特性选择合适的加工工艺和合理的刀具 4、负责潜在设备供应商的技术评估和选择 5、负责机加线、装配线工艺问题处理，工艺文件编制及技术改善; 6、负责压铸厂质量体系管理，推进内部流程及体系的改善; 7、负责压铸零件质量问题管理，持续推进质量改善;领导交办的其他事项。\n1、本科及以上学历；汽车或自动化、电气相等关专业优先。 2、了解汽车管理体系基本知识，如ISO9001或常用OC手法。 3、具备问题分析、处理能力。 4、良好的组织协调能力及报告能力。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "汽车或自动化、电气相等关专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [
+          "技术评估",
+          "质量技术"
+        ],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "项目"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "小鹏汽车官方飞书招聘",
+      "officialURL": "https://xiaopeng.jobs.feishu.cn/campus/m/position/7699770588521826602/detail",
+      "publishedAt": "2026-10-23",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "",

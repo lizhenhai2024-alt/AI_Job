@@ -1,7 +1,7 @@
 {
   "company": "联想",
   "count": 24,
-  "updatedAt": "2026-10-23T01:18:10.134Z",
+  "updatedAt": "2026-10-23T14:19:09.318Z",
   "jobs": [
     {
       "id": "lenovo-97d2f880a143",
@@ -658,6 +658,102 @@
       "deadline": ""
     },
     {
+      "id": "lenovo-a287417a2674",
+      "company": "联想",
+      "title": "人力资源-人力分析方向",
+      "graduationYear": [
+        "2026",
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1.毕业时间为2026年9月至2027年8月的海内外应届毕业生，商业分析、统计学、人力资源、数据科学等相关专业背景优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "北京",
+      "jobDescription": "1.深入理解人力资源各模块及相关业务逻辑与需求，整合多源数据，识别数据规律与潜在问题，设计并优化数据运营指标体系，为人力资源决策与持续改进提供支撑。\n 2.搭建端到端的数据运营体系与分析看板，负责数据的采集、清洗、处理及流程运维，保障数据日常更新的高效性与准确性，并持续推动运营流程优化与效率提升。\n 3.协同人力资源各业务团队，结合具体分析需求、业务背景及内外部市场信息，进行深度数据分析并提炼业务洞察，形成高质量、可视化的专题分析报告。\n 4.在人力资源数据应用场景中，主动探索并实践新兴技术（如AI、大数据、自动化数据流等）及功能，以持续优化分析流程、提升工作效率与价值。",
+      "jobRequirements": "1.毕业时间为2026年9月至2027年8月的海内外应届毕业生，商业分析、统计学、人力资源、数据科学等相关专业背景优先。\n 2.具备扎实的数据处理与分析能力，熟练掌握数据采集、清洗、存储、分析全流程操作；熟悉PowerBI、MS SQL Server、Python、VBA、Talend等常用工具中的多项。\n 3.熟练运用Excel、PPT、Word等办公软件，高效完成文档编制与数据分析呈现工作；具备英语工作沟通能力。\n 4.具备良好的团队协作精神，能有效参与跨部门项目合作；拥有较强的逻辑思维、学习能力及主动性，能够快速掌握新技术并应用于实际工作场景。",
+      "JD": "1.深入理解人力资源各模块及相关业务逻辑与需求，整合多源数据，识别数据规律与潜在问题，设计并优化数据运营指标体系，为人力资源决策与持续改进提供支撑。\n 2.搭建端到端的数据运营体系与分析看板，负责数据的采集、清洗、处理及流程运维，保障数据日常更新的高效性与准确性，并持续推动运营流程优化与效率提升。\n 3.协同人力资源各业务团队，结合具体分析需求、业务背景及内外部市场信息，进行深度数据分析并提炼业务洞察，形成高质量、可视化的专题分析报告。\n 4.在人力资源数据应用场景中，主动探索并实践新兴技术（如AI、大数据、自动化数据流等）及功能，以持续优化分析流程、提升工作效率与价值。\n1.毕业时间为2026年9月至2027年8月的海内外应届毕业生，商业分析、统计学、人力资源、数据科学等相关专业背景优先。\n 2.具备扎实的数据处理与分析能力，熟练掌握数据采集、清洗、存储、分析全流程操作；熟悉PowerBI、MS SQL Server、Python、VBA、Talend等常用工具中的多项。\n 3.熟练运用Excel、PPT、Word等办公软件，高效完成文档编制与数据分析呈现工作；具备英语工作沟通能力。\n 4.具备良好的团队协作精神，能有效参与跨部门项目合作；拥有较强的逻辑思维、学习能力及主动性，能够快速掌握新技术并应用于实际工作场景。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1.毕业时间为2026年9月至2027年8月的海内外应届毕业生，商业分析、统计学、人力资源、数据科学等相关专业背景优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届",
+          "毕业时间窗口：2026-09 至 2027-08"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "HR"
+      ],
+      "skills": [
+        "英语",
+        "Excel",
+        "数据分析",
+        "PPT",
+        "SQL",
+        "PowerBI"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "项目",
+        "市场",
+        "数据",
+        "人力资源"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "联想官方2027校招官网",
+      "officialURL": "https://talent.lenovo.com.cn/position/detail?id=2387",
+      "publishedAt": "",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
       "id": "lenovo-a42480d659a7",
       "company": "联想",
       "title": "新媒体营销",
@@ -844,102 +940,6 @@
       "annualSalary": "未披露",
       "source": "联想官方2027校招官网",
       "officialURL": "https://talent.lenovo.com.cn/position/detail?id=2384",
-      "publishedAt": "",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "lenovo-a287417a2674",
-      "company": "联想",
-      "title": "人力资源-人力分析方向",
-      "graduationYear": [
-        "2026",
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "1.毕业时间为2026年9月至2027年8月的海内外应届毕业生，商业分析、统计学、人力资源、数据科学等相关专业背景优先",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "北京",
-      "jobDescription": "1.深入理解人力资源各模块及相关业务逻辑与需求，整合多源数据，识别数据规律与潜在问题，设计并优化数据运营指标体系，为人力资源决策与持续改进提供支撑。\n 2.搭建端到端的数据运营体系与分析看板，负责数据的采集、清洗、处理及流程运维，保障数据日常更新的高效性与准确性，并持续推动运营流程优化与效率提升。\n 3.协同人力资源各业务团队，结合具体分析需求、业务背景及内外部市场信息，进行深度数据分析并提炼业务洞察，形成高质量、可视化的专题分析报告。\n 4.在人力资源数据应用场景中，主动探索并实践新兴技术（如AI、大数据、自动化数据流等）及功能，以持续优化分析流程、提升工作效率与价值。",
-      "jobRequirements": "1.毕业时间为2026年9月至2027年8月的海内外应届毕业生，商业分析、统计学、人力资源、数据科学等相关专业背景优先。\n 2.具备扎实的数据处理与分析能力，熟练掌握数据采集、清洗、存储、分析全流程操作；熟悉PowerBI、MS SQL Server、Python、VBA、Talend等常用工具中的多项。\n 3.熟练运用Excel、PPT、Word等办公软件，高效完成文档编制与数据分析呈现工作；具备英语工作沟通能力。\n 4.具备良好的团队协作精神，能有效参与跨部门项目合作；拥有较强的逻辑思维、学习能力及主动性，能够快速掌握新技术并应用于实际工作场景。",
-      "JD": "1.深入理解人力资源各模块及相关业务逻辑与需求，整合多源数据，识别数据规律与潜在问题，设计并优化数据运营指标体系，为人力资源决策与持续改进提供支撑。\n 2.搭建端到端的数据运营体系与分析看板，负责数据的采集、清洗、处理及流程运维，保障数据日常更新的高效性与准确性，并持续推动运营流程优化与效率提升。\n 3.协同人力资源各业务团队，结合具体分析需求、业务背景及内外部市场信息，进行深度数据分析并提炼业务洞察，形成高质量、可视化的专题分析报告。\n 4.在人力资源数据应用场景中，主动探索并实践新兴技术（如AI、大数据、自动化数据流等）及功能，以持续优化分析流程、提升工作效率与价值。\n1.毕业时间为2026年9月至2027年8月的海内外应届毕业生，商业分析、统计学、人力资源、数据科学等相关专业背景优先。\n 2.具备扎实的数据处理与分析能力，熟练掌握数据采集、清洗、存储、分析全流程操作；熟悉PowerBI、MS SQL Server、Python、VBA、Talend等常用工具中的多项。\n 3.熟练运用Excel、PPT、Word等办公软件，高效完成文档编制与数据分析呈现工作；具备英语工作沟通能力。\n 4.具备良好的团队协作精神，能有效参与跨部门项目合作；拥有较强的逻辑思维、学习能力及主动性，能够快速掌握新技术并应用于实际工作场景。",
-      "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [
-          "1.毕业时间为2026年9月至2027年8月的海内外应届毕业生，商业分析、统计学、人力资源、数据科学等相关专业背景优先"
-        ],
-        "eligibilityClauses": [
-          "招聘对象：2027届",
-          "毕业时间窗口：2026-09 至 2027-08"
-        ],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "HR"
-      ],
-      "skills": [
-        "英语",
-        "Excel",
-        "数据分析",
-        "PPT",
-        "SQL",
-        "PowerBI"
-      ],
-      "experienceKeywords": [
-        "运营",
-        "项目",
-        "市场",
-        "数据",
-        "人力资源"
-      ],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "联想官方2027校招官网",
-      "officialURL": "https://talent.lenovo.com.cn/position/detail?id=2387",
       "publishedAt": "",
       "lastVerified": "",
       "sourceType": "official",
@@ -1419,6 +1419,93 @@
       "deadline": ""
     },
     {
+      "id": "lenovo-165d43dbd284",
+      "company": "联想",
+      "title": "人力资源-SSC方向",
+      "graduationYear": [
+        "2026",
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1.毕业时间为2026年9月至2027年8月的海内外应届毕业生，人力资源管理、英语、日语等相关专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "英语、日语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "北京",
+      "jobDescription": "1.系统学习人力资源各大模块的专业知识与基础理论，深入掌握HR政策、流程、系统（如Workday、OA等）的操作与应用，通过理论结合实践，提升HR问题分析与解决能力，为员工提供准确、高效的支持\n 2.协助处理员工入离职、转正、调动、合同签订等人事事务，确保流程合规性与时效性，接收并响应员工HR咨询，提供基础问题解答与指引，优化服务响应流程\n 3.通过标准化服务流程与知识库建设，提升员工HR体验与满意度，根据公司战略规划，推动RPA、AI等数字化工具在HR场景下的应用",
+      "jobRequirements": "1.毕业时间为2026年9月至2027年8月的海内外应届毕业生，人力资源管理、英语、日语等相关专业优先；\n 2.具有较强的服务意识和团队合作精神，人际敏感度高，具备高度的责任心；\n 3.具备较强的逻辑思维及问题解决能力，执行力强；\n 4.英语或日语可以作为工作语言优先，请在简历中明确标注你擅长的语种。",
+      "JD": "1.系统学习人力资源各大模块的专业知识与基础理论，深入掌握HR政策、流程、系统（如Workday、OA等）的操作与应用，通过理论结合实践，提升HR问题分析与解决能力，为员工提供准确、高效的支持\n 2.协助处理员工入离职、转正、调动、合同签订等人事事务，确保流程合规性与时效性，接收并响应员工HR咨询，提供基础问题解答与指引，优化服务响应流程\n 3.通过标准化服务流程与知识库建设，提升员工HR体验与满意度，根据公司战略规划，推动RPA、AI等数字化工具在HR场景下的应用\n1.毕业时间为2026年9月至2027年8月的海内外应届毕业生，人力资源管理、英语、日语等相关专业优先；\n 2.具有较强的服务意识和团队合作精神，人际敏感度高，具备高度的责任心；\n 3.具备较强的逻辑思维及问题解决能力，执行力强；\n 4.英语或日语可以作为工作语言优先，请在简历中明确标注你擅长的语种。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1.毕业时间为2026年9月至2027年8月的海内外应届毕业生，人力资源管理、英语、日语等相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届",
+          "毕业时间窗口：2026-09 至 2027-08"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "HR"
+      ],
+      "skills": [
+        "英语"
+      ],
+      "experienceKeywords": [
+        "人力资源"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "联想官方2027校招官网",
+      "officialURL": "https://talent.lenovo.com.cn/position/detail?id=2385",
+      "publishedAt": "",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
       "id": "lenovo-46ca72901497",
       "company": "联想",
       "title": "项目管理-非技术方向",
@@ -1600,93 +1687,6 @@
       "annualSalary": "未披露",
       "source": "联想官方2027校招官网",
       "officialURL": "https://talent.lenovo.com.cn/position/detail?id=2375",
-      "publishedAt": "",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "lenovo-165d43dbd284",
-      "company": "联想",
-      "title": "人力资源-SSC方向",
-      "graduationYear": [
-        "2026",
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "1.毕业时间为2026年9月至2027年8月的海内外应届毕业生，人力资源管理、英语、日语等相关专业优先",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "英语、日语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "北京",
-      "jobDescription": "1.系统学习人力资源各大模块的专业知识与基础理论，深入掌握HR政策、流程、系统（如Workday、OA等）的操作与应用，通过理论结合实践，提升HR问题分析与解决能力，为员工提供准确、高效的支持\n 2.协助处理员工入离职、转正、调动、合同签订等人事事务，确保流程合规性与时效性，接收并响应员工HR咨询，提供基础问题解答与指引，优化服务响应流程\n 3.通过标准化服务流程与知识库建设，提升员工HR体验与满意度，根据公司战略规划，推动RPA、AI等数字化工具在HR场景下的应用",
-      "jobRequirements": "1.毕业时间为2026年9月至2027年8月的海内外应届毕业生，人力资源管理、英语、日语等相关专业优先；\n 2.具有较强的服务意识和团队合作精神，人际敏感度高，具备高度的责任心；\n 3.具备较强的逻辑思维及问题解决能力，执行力强；\n 4.英语或日语可以作为工作语言优先，请在简历中明确标注你擅长的语种。",
-      "JD": "1.系统学习人力资源各大模块的专业知识与基础理论，深入掌握HR政策、流程、系统（如Workday、OA等）的操作与应用，通过理论结合实践，提升HR问题分析与解决能力，为员工提供准确、高效的支持\n 2.协助处理员工入离职、转正、调动、合同签订等人事事务，确保流程合规性与时效性，接收并响应员工HR咨询，提供基础问题解答与指引，优化服务响应流程\n 3.通过标准化服务流程与知识库建设，提升员工HR体验与满意度，根据公司战略规划，推动RPA、AI等数字化工具在HR场景下的应用\n1.毕业时间为2026年9月至2027年8月的海内外应届毕业生，人力资源管理、英语、日语等相关专业优先；\n 2.具有较强的服务意识和团队合作精神，人际敏感度高，具备高度的责任心；\n 3.具备较强的逻辑思维及问题解决能力，执行力强；\n 4.英语或日语可以作为工作语言优先，请在简历中明确标注你擅长的语种。",
-      "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [
-          "1.毕业时间为2026年9月至2027年8月的海内外应届毕业生，人力资源管理、英语、日语等相关专业优先"
-        ],
-        "eligibilityClauses": [
-          "招聘对象：2027届",
-          "毕业时间窗口：2026-09 至 2027-08"
-        ],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "HR"
-      ],
-      "skills": [
-        "英语"
-      ],
-      "experienceKeywords": [
-        "人力资源"
-      ],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "联想官方2027校招官网",
-      "officialURL": "https://talent.lenovo.com.cn/position/detail?id=2385",
       "publishedAt": "",
       "lastVerified": "",
       "sourceType": "official",
