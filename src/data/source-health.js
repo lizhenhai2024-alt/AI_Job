@@ -310,6 +310,13 @@ export const sourceHealth = {
       "reason": "Moka源正常：发现21，源内保留0"
     },
     {
+      "provider": "moka",
+      "company": "杭州伸美品牌管理有限公司",
+      "status": "healthy",
+      "healthy": true,
+      "reason": "Moka源正常：发现6，源内保留6"
+    },
+    {
       "provider": "beisen",
       "company": "科大讯飞",
       "status": "healthy",
@@ -594,14 +601,14 @@ export const sourceHealth = {
       "company": "蒙牛",
       "status": "healthy",
       "healthy": true,
-      "reason": "北森源正常：扫描212，源内保留95"
+      "reason": "北森源正常：扫描207，源内保留95"
     },
     {
       "provider": "beisen",
       "company": "泡泡玛特",
       "status": "healthy",
       "healthy": true,
-      "reason": "北森源正常：扫描310，源内保留22"
+      "reason": "北森源正常：扫描309，源内保留22"
     },
     {
       "provider": "beisen",
@@ -867,7 +874,7 @@ export const sourceHealth = {
       "company": "小鹏汽车",
       "status": "healthy",
       "healthy": true,
-      "reason": "官方飞书源正常：列出631，正式2027候选532，筛选后525"
+      "reason": "官方飞书源正常：列出629，正式2027候选532，筛选后525"
     },
     {
       "provider": "feishu",
@@ -972,21 +979,21 @@ export const sourceHealth = {
       "company": "创维集团",
       "status": "healthy",
       "healthy": true,
-      "reason": "HotJob源正常：列出143，源内保留136"
+      "reason": "HotJob源正常：列出133，源内保留126"
     },
     {
       "provider": "hotjob",
       "company": "宁德新能源科技有限公司",
       "status": "healthy",
       "healthy": true,
-      "reason": "HotJob源正常：列出43，源内保留42"
+      "reason": "HotJob源正常：列出15，源内保留14"
     },
     {
       "provider": "hotjob",
       "company": "荣耀",
       "status": "healthy",
       "healthy": true,
-      "reason": "HotJob源正常：列出61，源内保留61"
+      "reason": "HotJob源正常：列出101，源内保留100"
     },
     {
       "provider": "hotjob",
@@ -1007,7 +1014,7 @@ export const sourceHealth = {
       "company": "新能安",
       "status": "healthy",
       "healthy": true,
-      "reason": "HotJob源正常：列出47，源内保留47"
+      "reason": "HotJob源正常：列出55，源内保留55"
     },
     {
       "provider": "hotjob",
@@ -1021,7 +1028,7 @@ export const sourceHealth = {
       "company": "TCL华星光电",
       "status": "healthy",
       "healthy": true,
-      "reason": "HotJob源正常：列出392，源内保留148"
+      "reason": "HotJob源正常：列出400，源内保留148"
     },
     {
       "provider": "hotjob",
@@ -1077,7 +1084,7 @@ export const sourceHealth = {
       "company": "美团",
       "status": "healthy",
       "healthy": true,
-      "reason": "官方源正常：本轮活动量196，源内保留195"
+      "reason": "官方源正常：本轮活动量196，源内保留193"
     },
     {
       "provider": "lenovo",
@@ -1208,9 +1215,9 @@ export const sourceHealth = {
     {
       "provider": "university",
       "company": "广东外语外贸大学",
-      "status": "error",
-      "healthy": false,
-      "reason": "来源抓取存在 1 个错误"
+      "status": "healthy",
+      "healthy": true,
+      "reason": "官方源正常：本轮活动量21，源内保留19"
     },
     {
       "provider": "university",
@@ -1229,9 +1236,9 @@ export const sourceHealth = {
     {
       "provider": "university",
       "company": "上海外国语大学",
-      "status": "error",
-      "healthy": false,
-      "reason": "来源抓取存在 1 个错误"
+      "status": "healthy",
+      "healthy": true,
+      "reason": "官方源正常：本轮活动量6，源内保留0"
     },
     {
       "provider": "university",
@@ -1264,9 +1271,9 @@ export const sourceHealth = {
     {
       "provider": "university",
       "company": "北京第二外国语学院",
-      "status": "error",
+      "status": "unknown",
       "healthy": false,
-      "reason": "来源抓取存在 5 个错误"
+      "reason": "本轮缺少足够来源健康统计"
     },
     {
       "provider": "university",
@@ -1592,13 +1599,13 @@ export const sourceHealth = {
     }
   ],
   "counts": {
-    "healthy": 161,
+    "healthy": 164,
     "empty": 10,
-    "error": 8,
-    "unknown": 48
+    "error": 5,
+    "unknown": 49
   },
-  "total": 227,
-  "healthy": 161,
-  "attention": 66,
-  "updatedAt": "2026-10-24T13:24:30.165Z"
+  "total": 228,
+  "healthy": 164,
+  "attention": 64,
+  "updatedAt": "2026-10-24T18:24:06.618Z"
 };

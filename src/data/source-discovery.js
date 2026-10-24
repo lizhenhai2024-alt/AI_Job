@@ -74,7 +74,7 @@ export const sourceDiscovery = [
     "officialUrl": "https://polyharmony.zhiye.com/",
     "reason": "高校详情页明确给出北森招聘入口；等价官方源已存在",
     "attempts": 0,
-    "lastCheckedAt": "2026-10-24T13:24:30.928Z",
+    "lastCheckedAt": "2026-10-24T17:57:59.955Z",
     "nextCheckAfter": ""
   },
   {
@@ -318,6 +318,17 @@ export const sourceDiscovery = [
     "attempts": 1,
     "lastCheckedAt": "2026-09-09T05:31:20.646Z",
     "nextCheckAfter": "2026-09-16T05:31:20.646Z"
+  },
+  {
+    "name": "杭州伸美品牌管理有限公司",
+    "status": "高校自动发现",
+    "state": "source_registered",
+    "provider": "moka",
+    "officialUrl": "https://app.mokahr.com/m/campus-recruitment/shinemage/146829?locale=zh-CN",
+    "reason": "高校详情页明确给出Moka校园招聘入口；等价官方源已存在",
+    "attempts": 0,
+    "lastCheckedAt": "2026-10-24T17:57:59.955Z",
+    "nextCheckAfter": ""
   },
   {
     "name": "恒生电子2027",
@@ -888,7 +899,7 @@ export const sourceDiscovery = [
     "officialUrl": "https://o4bl6lvhcp.jobs.feishu.cn/213238",
     "reason": "高校详情页明确给出飞书招聘入口；等价官方源已存在",
     "attempts": 0,
-    "lastCheckedAt": "2026-10-20T01:21:32.801Z",
+    "lastCheckedAt": "2026-10-24T17:57:59.955Z",
     "nextCheckAfter": ""
   },
   {
@@ -1543,7 +1554,7 @@ export const sourceDiscovery = [
 ];
 
 export const sourceDiscoveryMeta = {
-  "updatedAt": "2026-10-24T17:27:29.752Z",
+  "updatedAt": "2026-10-24T17:57:59.955Z",
   "lastRun": {
     "processed": 12,
     "sourcesAdded": 0,

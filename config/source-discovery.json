@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-24T17:27:29.752Z",
+  "updatedAt": "2026-10-24T17:57:59.955Z",
   "companies": {
     "lazada": {
       "name": "Lazada",
@@ -2520,7 +2520,7 @@
         "sourceUrl": "https://career.gdufs.edu.cn/web/Index/job-detail?id=11309",
         "graduationYear": "2027"
       },
-      "lastCheckedAt": "2026-10-20T01:21:32.801Z",
+      "lastCheckedAt": "2026-10-24T17:57:59.955Z",
       "nextCheckAfter": ""
     },
     "保利和润房地产投资顾问": {
@@ -2535,7 +2535,7 @@
         "sourceUrl": "https://jobs.blcu.edu.cn/front/zpxx.jspa?tid=2110544240625545217",
         "graduationYear": "2027"
       },
-      "lastCheckedAt": "2026-10-24T13:24:30.928Z",
+      "lastCheckedAt": "2026-10-24T17:57:59.955Z",
       "nextCheckAfter": ""
     },
     "深圳市杰和发展": {
@@ -2762,6 +2762,21 @@
       },
       "lastCheckedAt": "2026-10-23T00:49:39.443Z",
       "nextCheckAfter": ""
+    },
+    "杭州伸美品牌管理": {
+      "name": "杭州伸美品牌管理有限公司",
+      "status": "高校自动发现",
+      "state": "source_registered",
+      "provider": "moka",
+      "officialUrl": "https://app.mokahr.com/m/campus-recruitment/shinemage/146829?locale=zh-CN",
+      "reason": "高校详情页明确给出Moka校园招聘入口；等价官方源已存在",
+      "universityEvidence": {
+        "school": "广东外语外贸大学",
+        "sourceUrl": "https://career.gdufs.edu.cn/web/Index/job-detail?id=11340",
+        "graduationYear": "2027"
+      },
+      "lastCheckedAt": "2026-10-24T17:57:59.955Z",
+      "nextCheckAfter": ""
     }
   },
   "lastRun": {
@@ -2772,10 +2787,10 @@
     "forceRetry": false
   },
   "lastUniversityBridge": {
-    "candidates": 1,
-    "sourcesAdded": 0,
+    "candidates": 9,
+    "sourcesAdded": 1,
     "sourcesRepaired": 0,
     "queued": 0,
-    "updatedAt": "2026-10-24T13:24:30.928Z"
+    "updatedAt": "2026-10-24T17:57:59.955Z"
   }
 }

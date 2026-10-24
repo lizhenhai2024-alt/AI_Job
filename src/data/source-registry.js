@@ -177,6 +177,10 @@ export const sourceRegistry = [
     "company": "硬件工程师-深圳欣锐科技股份有限公司"
   },
   {
+    "provider": "moka",
+    "company": "杭州伸美品牌管理有限公司"
+  },
+  {
     "provider": "beisen",
     "company": "科大讯飞"
   },

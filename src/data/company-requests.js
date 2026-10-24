@@ -7,12 +7,40 @@ export const companyRequests = [
     "focus": [],
     "note": "北京语言大学自动发现；源页面：https://jobs.blcu.edu.cn/front/zpxx.jspa?tid=2110544240625545217",
     "requestedAt": "2026-10-12T18:44:26.467Z",
-    "updatedAt": "2026-10-24T13:24:30.928Z",
+    "updatedAt": "2026-10-24T17:57:59.955Z",
     "status": "高校发现·官方源已注册",
     "provider": "beisen",
     "sourceRegistered": true,
     "sourceAlreadyExists": false,
     "analysis": "高校详情页明确给出北森招聘入口；等价官方源已存在"
+  },
+  {
+    "id": "auto-dfeab8d0640a",
+    "name": "深圳市艾丽斯卡文化创意有限公司",
+    "careerUrl": "https://o4bl6lvhcp.jobs.feishu.cn/213238",
+    "focus": [],
+    "note": "广东外语外贸大学自动发现；源页面：https://career.gdufs.edu.cn/web/Index/job-detail?id=11309",
+    "requestedAt": "2026-10-12T18:44:26.467Z",
+    "updatedAt": "2026-10-24T17:57:59.955Z",
+    "status": "高校发现·官方源已注册",
+    "provider": "feishu",
+    "sourceRegistered": true,
+    "sourceAlreadyExists": false,
+    "analysis": "高校详情页明确给出飞书招聘入口；等价官方源已存在"
+  },
+  {
+    "id": "auto-0613a276af0a",
+    "name": "杭州伸美品牌管理有限公司",
+    "careerUrl": "https://app.mokahr.com/m/campus-recruitment/shinemage/146829?locale=zh-CN",
+    "focus": [],
+    "note": "广东外语外贸大学自动发现；源页面：https://career.gdufs.edu.cn/web/Index/job-detail?id=11340",
+    "requestedAt": "2026-10-24T17:57:59.955Z",
+    "updatedAt": "2026-10-24T17:57:59.955Z",
+    "status": "高校发现·官方源已注册",
+    "provider": "moka",
+    "sourceRegistered": true,
+    "sourceAlreadyExists": false,
+    "analysis": "高校详情页明确给出Moka校园招聘入口；等价官方源已存在"
   },
   {
     "id": "auto-2a53f3250d6c",
@@ -97,20 +125,6 @@ export const companyRequests = [
     "sourceRegistered": false,
     "sourceAlreadyExists": false,
     "analysis": "已发现公司官方招聘入口，但当前站点 campus.sf-express.com 尚无自动抓取适配器"
-  },
-  {
-    "id": "auto-dfeab8d0640a",
-    "name": "深圳市艾丽斯卡文化创意有限公司",
-    "careerUrl": "https://o4bl6lvhcp.jobs.feishu.cn/213238",
-    "focus": [],
-    "note": "广东外语外贸大学自动发现；源页面：https://career.gdufs.edu.cn/web/Index/job-detail?id=11309",
-    "requestedAt": "2026-10-12T18:44:26.467Z",
-    "updatedAt": "2026-10-20T01:21:32.801Z",
-    "status": "高校发现·官方源已注册",
-    "provider": "feishu",
-    "sourceRegistered": true,
-    "sourceAlreadyExists": false,
-    "analysis": "高校详情页明确给出飞书招聘入口；等价官方源已存在"
   },
   {
     "id": "auto-e77a5a7b67e4",
