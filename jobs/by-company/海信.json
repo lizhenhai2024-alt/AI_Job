@@ -1,7 +1,7 @@
 {
   "company": "海信",
   "count": 123,
-  "updatedAt": "2026-10-24T00:40:17.406Z",
+  "updatedAt": "2026-10-24T13:24:38.295Z",
   "jobs": [
     {
       "id": "beisen-a185f48e311b",
@@ -303,7 +303,7 @@
       "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://jobs.hisense.com/campus/detail?jobAdId=a1d4a59d-9fbe-4a35-b80a-c5a166765d7d",
-      "publishedAt": "2026-10-23",
+      "publishedAt": "2026-10-24",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "",
@@ -7546,7 +7546,103 @@
       "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://jobs.hisense.com/campus/detail?jobAdId=ab74f9ff-c9a4-4259-b106-5432b7626d5d",
-      "publishedAt": "2026-10-23",
+      "publishedAt": "2026-10-24",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "简历筛选→线上测评（研发技术类需笔试）→AI面试（含英语口语）→无领导小组面试→专业/综合面试→总部面试→offer及签约",
+      "recruitmentProcessEvidence": "E2 | 广东外语外贸大学就业信息网海信全球营销中心校招 | https://career.gdufs.edu.cn/web/Index/jobs-brief-detail?id=VHUXSN0 | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | 南开大学就业指导中心海信信动力计划校招 | https://career.nankai.edu.cn/correcruit/content/id/115685.html | 2026-09-17"
+    },
+    {
+      "id": "beisen-b63303698c76",
+      "company": "海信",
+      "title": "安全管理工程师(J41071)",
+      "graduationYear": [
+        "2025",
+        "2026",
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "3.专业：安全工程等专业；",
+        "hardRestriction": true,
+        "hardClauses": [
+          "3.专业：安全工程等专业"
+        ]
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "山东省·青岛市·平度市",
+      "jobDescription": "1.安全环保工作方案和相关安全环保制度文件，建立、健全公司职业安全健康和环境管理体系，并确保正常运行； 2.制定安全级安全教育并组织开展新员工的三级安全教育培训工作及对日常安全作业状态监督检查指导； 3.外来施工及生产现场安全管控、检查、提出整改意见及考核结果拟制； 4.日常安全、消防、环保检查、以及各级安全、消防、环保检查的开展以及检查问题的整改闭环的监督执行及日常考核结果拟制。",
+      "jobRequirements": "1.院校：国内普通高等院校（2026年毕业）或教育部承认的海外高等院校（2025年或2026年毕业）； 2.学历：本科及以上学历； 3.专业：安全工程等专业； 4.技能要求：熟练使用office等办公软件； 5.素质要求：学生会、班干部优先； 6.外语水平：大学英语四级及以上或小语种同等水平以上。",
+      "JD": "1.安全环保工作方案和相关安全环保制度文件，建立、健全公司职业安全健康和环境管理体系，并确保正常运行； 2.制定安全级安全教育并组织开展新员工的三级安全教育培训工作及对日常安全作业状态监督检查指导； 3.外来施工及生产现场安全管控、检查、提出整改意见及考核结果拟制； 4.日常安全、消防、环保检查、以及各级安全、消防、环保检查的开展以及检查问题的整改闭环的监督执行及日常考核结果拟制。\n1.院校：国内普通高等院校（2026年毕业）或教育部承认的海外高等院校（2025年或2026年毕业）； 2.学历：本科及以上学历； 3.专业：安全工程等专业； 4.技能要求：熟练使用office等办公软件； 5.素质要求：学生会、班干部优先； 6.外语水平：大学英语四级及以上或小语种同等水平以上。",
+      "jdEvidence": {
+        "source": "llm:gemini-free:gemini-3.5-flash-lite",
+        "majorClauses": [
+          "3.专业：安全工程等专业；"
+        ],
+        "eligibilityClauses": [
+          "1.院校：国内普通高等院校（2026年毕业）或教育部承认的海外高等院校（2025年或2026年毕业）；",
+          "2.学历：本科及以上学历；"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语"
+      ],
+      "experienceKeywords": [
+        "海外"
+      ],
+      "preferenceTags": [
+        "国际业务"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://jobs.hisense.com/campus/detail?jobAdId=f53d5699-973c-4cd1-9159-b5f9bab92686",
+      "publishedAt": "2026-10-24",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "",
@@ -8310,102 +8406,6 @@
       "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://jobs.hisense.com/campus/detail?jobAdId=bd25d00d-acfc-4ca8-b904-b3c395c171d3",
-      "publishedAt": "2026-10-23",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "简历筛选→线上测评（研发技术类需笔试）→AI面试（含英语口语）→无领导小组面试→专业/综合面试→总部面试→offer及签约",
-      "recruitmentProcessEvidence": "E2 | 广东外语外贸大学就业信息网海信全球营销中心校招 | https://career.gdufs.edu.cn/web/Index/jobs-brief-detail?id=VHUXSN0 | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E2 | 南开大学就业指导中心海信信动力计划校招 | https://career.nankai.edu.cn/correcruit/content/id/115685.html | 2026-09-17"
-    },
-    {
-      "id": "beisen-b63303698c76",
-      "company": "海信",
-      "title": "安全管理工程师(J41071)",
-      "graduationYear": [
-        "2025",
-        "2026",
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "本科",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "3.专业：安全工程等专业；",
-        "hardRestriction": true,
-        "hardClauses": [
-          "3.专业：安全工程等专业"
-        ]
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "山东省·青岛市·平度市",
-      "jobDescription": "1.安全环保工作方案和相关安全环保制度文件，建立、健全公司职业安全健康和环境管理体系，并确保正常运行； 2.制定安全级安全教育并组织开展新员工的三级安全教育培训工作及对日常安全作业状态监督检查指导； 3.外来施工及生产现场安全管控、检查、提出整改意见及考核结果拟制； 4.日常安全、消防、环保检查、以及各级安全、消防、环保检查的开展以及检查问题的整改闭环的监督执行及日常考核结果拟制。",
-      "jobRequirements": "1.院校：国内普通高等院校（2026年毕业）或教育部承认的海外高等院校（2025年或2026年毕业）； 2.学历：本科及以上学历； 3.专业：安全工程等专业； 4.技能要求：熟练使用office等办公软件； 5.素质要求：学生会、班干部优先； 6.外语水平：大学英语四级及以上或小语种同等水平以上。",
-      "JD": "1.安全环保工作方案和相关安全环保制度文件，建立、健全公司职业安全健康和环境管理体系，并确保正常运行； 2.制定安全级安全教育并组织开展新员工的三级安全教育培训工作及对日常安全作业状态监督检查指导； 3.外来施工及生产现场安全管控、检查、提出整改意见及考核结果拟制； 4.日常安全、消防、环保检查、以及各级安全、消防、环保检查的开展以及检查问题的整改闭环的监督执行及日常考核结果拟制。\n1.院校：国内普通高等院校（2026年毕业）或教育部承认的海外高等院校（2025年或2026年毕业）； 2.学历：本科及以上学历； 3.专业：安全工程等专业； 4.技能要求：熟练使用office等办公软件； 5.素质要求：学生会、班干部优先； 6.外语水平：大学英语四级及以上或小语种同等水平以上。",
-      "jdEvidence": {
-        "source": "llm:gemini-free:gemini-3.5-flash-lite",
-        "majorClauses": [
-          "3.专业：安全工程等专业；"
-        ],
-        "eligibilityClauses": [
-          "1.院校：国内普通高等院校（2026年毕业）或教育部承认的海外高等院校（2025年或2026年毕业）；",
-          "2.学历：本科及以上学历；"
-        ],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [
-        "英语"
-      ],
-      "experienceKeywords": [
-        "海外"
-      ],
-      "preferenceTags": [
-        "国际业务"
-      ],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "面议",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": "面议"
-      },
-      "salary": "面议",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://jobs.hisense.com/campus/detail?jobAdId=f53d5699-973c-4cd1-9159-b5f9bab92686",
       "publishedAt": "2026-10-23",
       "lastVerified": "",
       "sourceType": "official",
