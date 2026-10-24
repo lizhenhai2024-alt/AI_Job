@@ -1,7 +1,7 @@
 {
   "company": "字节跳动",
-  "count": 250,
-  "updatedAt": "2026-10-23T19:02:16.536Z",
+  "count": 252,
+  "updatedAt": "2026-10-24T00:40:17.406Z",
   "jobs": [
     {
       "id": "bytedance-4fc8391024f5",
@@ -7630,6 +7630,105 @@
       "source": "字节跳动官方2027校招官网",
       "officialURL": "https://jobs.bytedance.com/campus",
       "publishedAt": "2026-07-20",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "投递→（笔试视岗位安排）→面试→Offer",
+      "recruitmentProcessEvidence": "E1 | 字节跳动校招官网FAQ | https://jobs.bytedance.com/campus/m/page-6272Gc | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E1 | 字节跳动校招官网FAQ | https://jobs.bytedance.com/campus/m/page-6272Gc | 2026-09-17"
+    },
+    {
+      "id": "bytedance-15d3ac82cecc",
+      "company": "字节跳动",
+      "title": "AI Agent运营 - 巨量AI工作台",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1、2027届获得本科及以上学历，计算机、人工智能、软件工程、信息管理、数据科学等相关专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "jobDescription": "团队介绍：我们正在打造面向企业的巨量AI工作台，从商家在字节跳动生态的经营与营销场景切入，通过主Agent与机会洞察、数据分析、创意制作、直播运营、广告投放等数字专家，帮助客户完成从经营诊断、策略制定到执行落地的完整链路。 组织形态上，我们以业务发展为牵引，组建由产品经理、算法与工程、产品运营构成的虚拟小队。小队围绕明确的客户问题和业务结果，自主决策、快速验证、敏捷迭代。成为共同重新定义产品工作方式的建设者。 1、客户洞察与需求管理：深入品牌商家、代理商和服务商的实际工作流程，通过访谈、驻场、行为数据和反馈分析，识别高价值、高频、可规模化的AI应用场景，与产品经理共同完成需求判断、优先级排序及方案验证，区分通用产品需求与客户个性化诉求； 2、产品打磨与体验优化：参与主Agent及数字专家的产品共建，结合真实任务分析意图理解、知识引用、Skill调用、工具执行和结果交付中的问题，推动产品走向“好用、愿意付费”； 3、FDE客户共建与价值交付：深入共建客户，辅助客户完成知识库整理与配置、提示词优化，帮助客户用好产品，同时基于客户专家经验，以及实际的工作流，提炼场景的Skill，验证并且落地客户真实工作流程； 4、产品效果评估与持续迭代：建设场景评测集与典型问题库，参与版本验收和客户效果验证，围绕有效使用、客户留存、任务完成质量、策略采纳、人力节约及经营效果，建立运营分析与反馈机制，用证据推动产品迭代，而不只关注使用量和内容生成量； 5、产品GTM与客户持续经营：参与目标客群选择、价值主张提炼、种子客户招募、产品发布和商业化验证，设计客户激活、培训、场景引导及持续使用机制，沉淀可验证的案例展示、行业案例和销售赋能材料，推动产品从小范围验证走向规模化应用。",
+      "jobRequirements": "1、2027届获得本科及以上学历，计算机、人工智能、软件工程、信息管理、数据科学等相关专业优先； 2、有电商行业甲方客户或者产品运营实习经验优先，了解行业特性，客户的需求、实际的业务工作流，理解企业客户的业务流程与决策逻辑； 3、具备扎实的产品运营能力，能够独立完成需求调研、场景分析、用户运营、数据分析及项目推进；有从0到1产品验证、PMF探索或GTM经验者优先； 4、具备AI产品理解与动手能力，熟悉Agent、Skill、知识库、提示词和工作流等基本概念，能够使用AI工具制作Demo、配置方案并定位基础问题，不停留在概念讨论和文档输出； 5、具备客户现场的问题解决能力，愿意深入业务一线并接受阶段性驻场，能在信息不完整、需求不清晰的情况下，推动问题澄清、方案验证和交付验收。",
+      "JD": "团队介绍：我们正在打造面向企业的巨量AI工作台，从商家在字节跳动生态的经营与营销场景切入，通过主Agent与机会洞察、数据分析、创意制作、直播运营、广告投放等数字专家，帮助客户完成从经营诊断、策略制定到执行落地的完整链路。 组织形态上，我们以业务发展为牵引，组建由产品经理、算法与工程、产品运营构成的虚拟小队。小队围绕明确的客户问题和业务结果，自主决策、快速验证、敏捷迭代。成为共同重新定义产品工作方式的建设者。 1、客户洞察与需求管理：深入品牌商家、代理商和服务商的实际工作流程，通过访谈、驻场、行为数据和反馈分析，识别高价值、高频、可规模化的AI应用场景，与产品经理共同完成需求判断、优先级排序及方案验证，区分通用产品需求与客户个性化诉求； 2、产品打磨与体验优化：参与主Agent及数字专家的产品共建，结合真实任务分析意图理解、知识引用、Skill调用、工具执行和结果交付中的问题，推动产品走向“好用、愿意付费”； 3、FDE客户共建与价值交付：深入共建客户，辅助客户完成知识库整理与配置、提示词优化，帮助客户用好产品，同时基于客户专家经验，以及实际的工作流，提炼场景的Skill，验证并且落地客户真实工作流程； 4、产品效果评估与持续迭代：建设场景评测集与典型问题库，参与版本验收和客户效果验证，围绕有效使用、客户留存、任务完成质量、策略采纳、人力节约及经营效果，建立运营分析与反馈机制，用证据推动产品迭代，而不只关注使用量和内容生成量； 5、产品GTM与客户持续经营：参与目标客群选择、价值主张提炼、种子客户招募、产品发布和商业化验证，设计客户激活、培训、场景引导及持续使用机制，沉淀可验证的案例展示、行业案例和销售赋能材料，推动产品从小范围验证走向规模化应用。\n1、2027届获得本科及以上学历，计算机、人工智能、软件工程、信息管理、数据科学等相关专业优先； 2、有电商行业甲方客户或者产品运营实习经验优先，了解行业特性，客户的需求、实际的业务工作流，理解企业客户的业务流程与决策逻辑； 3、具备扎实的产品运营能力，能够独立完成需求调研、场景分析、用户运营、数据分析及项目推进；有从0到1产品验证、PMF探索或GTM经验者优先； 4、具备AI产品理解与动手能力，熟悉Agent、Skill、知识库、提示词和工作流等基本概念，能够使用AI工具制作Demo、配置方案并定位基础问题，不停留在概念讨论和文档输出； 5、具备客户现场的问题解决能力，愿意深入业务一线并接受阶段性驻场，能在信息不完整、需求不清晰的情况下，推动问题澄清、方案验证和交付验收。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、2027届获得本科及以上学历，计算机、人工智能、软件工程、信息管理、数据科学等相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [
+          "模型/算法"
+        ],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "数据分析",
+        "电商"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "内容",
+        "项目",
+        "电商",
+        "用户",
+        "数据",
+        "营销",
+        "品牌"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "字节跳动官方2027校招官网",
+      "officialURL": "https://jobs.bytedance.com/campus",
+      "publishedAt": "2026-10-23",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "",
@@ -16290,100 +16389,6 @@
       "hasAssessmentEvidence": "E1 | 字节跳动校招官网FAQ | https://jobs.bytedance.com/campus/m/page-6272Gc | 2026-09-17"
     },
     {
-      "id": "bytedance-2c07c21503fc",
-      "company": "字节跳动",
-      "title": "广告产品经理 - Global Ads Core",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "本科",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "2027届获得本科及以上学历",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "上海",
-      "jobDescription": "团队介绍：广告核心团队在不同的广告投放阶段建立关键的变现机制 1. 我们建立排序、出价、预算、样式、诊断和其他框架，作为中台，使其他广告团队能够并行迭代他们的产品。 2. 我们实施流量策略，在用户体验的约束下实现收入的持续增长，实现广告主受众的深度探索。 3. 我们的模型驱动自动化解决方案从头到尾优化广告投放性能。 1、负责国际化广告产品设计开发，跟进需求开发和上线，并协调推动相关业务团队高质量执行； 2、负责对广告效果度量相关数据进行整理、验证和分析，提升产品开发效率和客户体验； 3、通过数据分析、需求收集、用户反馈，发现并优化潜在需求，提出优化建议； 4、对数据问题进行诊断和排查，解决数据披露上暴露的问题，增强客户信赖。",
-      "jobRequirements": "1、2027届获得本科及以上学历； 2、具备流利地道的英语听说读写能力； 3、良好的自我驱动力，能够在工作环境中处理多项任务； 4、较强的逻辑思维能力，善于分析处理数据。",
-      "JD": "团队介绍：广告核心团队在不同的广告投放阶段建立关键的变现机制 1. 我们建立排序、出价、预算、样式、诊断和其他框架，作为中台，使其他广告团队能够并行迭代他们的产品。 2. 我们实施流量策略，在用户体验的约束下实现收入的持续增长，实现广告主受众的深度探索。 3. 我们的模型驱动自动化解决方案从头到尾优化广告投放性能。 1、负责国际化广告产品设计开发，跟进需求开发和上线，并协调推动相关业务团队高质量执行； 2、负责对广告效果度量相关数据进行整理、验证和分析，提升产品开发效率和客户体验； 3、通过数据分析、需求收集、用户反馈，发现并优化潜在需求，提出优化建议； 4、对数据问题进行诊断和排查，解决数据披露上暴露的问题，增强客户信赖。\n1、2027届获得本科及以上学历； 2、具备流利地道的英语听说读写能力； 3、良好的自我驱动力，能够在工作环境中处理多项任务； 4、较强的逻辑思维能力，善于分析处理数据。",
-      "jdEvidence": {
-        "source": "llm:deepseek:deepseek-flash",
-        "majorClauses": [
-          "2027届获得本科及以上学历"
-        ],
-        "eligibilityClauses": [
-          "2027届获得本科及以上学历"
-        ],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [
-        "英语",
-        "数据分析"
-      ],
-      "experienceKeywords": [
-        "用户",
-        "数据",
-        "客户"
-      ],
-      "preferenceTags": [
-        "国际业务"
-      ],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "字节跳动官方2027校招官网",
-      "officialURL": "https://jobs.bytedance.com/campus",
-      "publishedAt": "2026-07-30",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "投递→（笔试视岗位安排）→面试→Offer",
-      "recruitmentProcessEvidence": "E1 | 字节跳动校招官网FAQ | https://jobs.bytedance.com/campus/m/page-6272Gc | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E1 | 字节跳动校招官网FAQ | https://jobs.bytedance.com/campus/m/page-6272Gc | 2026-09-17"
-    },
-    {
       "id": "bytedance-52010676bff6",
       "company": "字节跳动",
       "title": "AI产品经理（商家端方向） - TikTok Shop",
@@ -16437,6 +16442,100 @@
         "用户",
         "数据",
         "营销"
+      ],
+      "preferenceTags": [
+        "国际业务"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "字节跳动官方2027校招官网",
+      "officialURL": "https://jobs.bytedance.com/campus",
+      "publishedAt": "2026-07-30",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "投递→（笔试视岗位安排）→面试→Offer",
+      "recruitmentProcessEvidence": "E1 | 字节跳动校招官网FAQ | https://jobs.bytedance.com/campus/m/page-6272Gc | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E1 | 字节跳动校招官网FAQ | https://jobs.bytedance.com/campus/m/page-6272Gc | 2026-09-17"
+    },
+    {
+      "id": "bytedance-2c07c21503fc",
+      "company": "字节跳动",
+      "title": "广告产品经理 - Global Ads Core",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "2027届获得本科及以上学历",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "jobDescription": "团队介绍：广告核心团队在不同的广告投放阶段建立关键的变现机制 1. 我们建立排序、出价、预算、样式、诊断和其他框架，作为中台，使其他广告团队能够并行迭代他们的产品。 2. 我们实施流量策略，在用户体验的约束下实现收入的持续增长，实现广告主受众的深度探索。 3. 我们的模型驱动自动化解决方案从头到尾优化广告投放性能。 1、负责国际化广告产品设计开发，跟进需求开发和上线，并协调推动相关业务团队高质量执行； 2、负责对广告效果度量相关数据进行整理、验证和分析，提升产品开发效率和客户体验； 3、通过数据分析、需求收集、用户反馈，发现并优化潜在需求，提出优化建议； 4、对数据问题进行诊断和排查，解决数据披露上暴露的问题，增强客户信赖。",
+      "jobRequirements": "1、2027届获得本科及以上学历； 2、具备流利地道的英语听说读写能力； 3、良好的自我驱动力，能够在工作环境中处理多项任务； 4、较强的逻辑思维能力，善于分析处理数据。",
+      "JD": "团队介绍：广告核心团队在不同的广告投放阶段建立关键的变现机制 1. 我们建立排序、出价、预算、样式、诊断和其他框架，作为中台，使其他广告团队能够并行迭代他们的产品。 2. 我们实施流量策略，在用户体验的约束下实现收入的持续增长，实现广告主受众的深度探索。 3. 我们的模型驱动自动化解决方案从头到尾优化广告投放性能。 1、负责国际化广告产品设计开发，跟进需求开发和上线，并协调推动相关业务团队高质量执行； 2、负责对广告效果度量相关数据进行整理、验证和分析，提升产品开发效率和客户体验； 3、通过数据分析、需求收集、用户反馈，发现并优化潜在需求，提出优化建议； 4、对数据问题进行诊断和排查，解决数据披露上暴露的问题，增强客户信赖。\n1、2027届获得本科及以上学历； 2、具备流利地道的英语听说读写能力； 3、良好的自我驱动力，能够在工作环境中处理多项任务； 4、较强的逻辑思维能力，善于分析处理数据。",
+      "jdEvidence": {
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "2027届获得本科及以上学历"
+        ],
+        "eligibilityClauses": [
+          "2027届获得本科及以上学历"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语",
+        "数据分析"
+      ],
+      "experienceKeywords": [
+        "用户",
+        "数据",
+        "客户"
       ],
       "preferenceTags": [
         "国际业务"
@@ -21692,6 +21791,100 @@
         "数据"
       ],
       "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "字节跳动官方2027校招官网",
+      "officialURL": "https://jobs.bytedance.com/campus",
+      "publishedAt": "2026-04-14",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "投递→（笔试视岗位安排）→面试→Offer",
+      "recruitmentProcessEvidence": "E1 | 字节跳动校招官网FAQ | https://jobs.bytedance.com/campus/m/page-6272Gc | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E1 | 字节跳动校招官网FAQ | https://jobs.bytedance.com/campus/m/page-6272Gc | 2026-09-17"
+    },
+    {
+      "id": "bytedance-e1fbf4dd2d30",
+      "company": "字节跳动",
+      "title": "大模型驱动的内容生产与分发：IP跨体裁生成与LLM推荐-今日头条（北京/上海/杭州）",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1、2027届毕业，获得博士学位，计算机/数学等相关专业的优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "jobDescription": "团队介绍：今日头条推荐算法团队，致力于为用户提供个性化新闻和信息推荐服务，提升头条产品的用户体验。我们的业务涉及内容的个性化分发、生态与质量治理、热点和垂类等多个方向。在这里，你可以研究和改进最前沿的推荐、大模型等算法，结合对产品、数据的深度分析，将技术应用到实际业务中，服务数亿用户。 课题介绍：番茄系聚合海量故事IP，今日头条拥有丰富内容形态，但生产与分发仍面临改编链路长、成本高，以及推荐过度依赖稀疏ID、对新内容/低活用户不友好等问题。本课题以多模态大模型为底座：在番茄通过LLM创作提效与结构化内容理解，构建IP资产并打通“小说→剧本→分镜→动态漫/短剧/音频”的生成与辅助创作；在小说、短剧、今日头条把内容理解信号融入推荐建模，提升兴趣捕捉与可解释分发，最终实现生产与分发协同提升。 1、大模型推荐和推荐Agent：引入LLM的推理能力，以Seed为基础训练大模型执行推荐任务的能力，推荐Token和自然语言Token联合训练实现模态融合，让推荐系统具备理解自然语言的能力，从而用推荐Agent方式实现更具扩展性的分发交互体验 2、突出强调利用大模型COT的推理能力，改进被动推荐效果 3、遵循用户的正向、负向指令的能力，彻底解决用户反馈中“Dislike不生效”、新用户兴趣探索、用户调控推荐画风等难题 4、在产品中提供和用户进行对话交互的能力，用户可根据自身需求调整推荐的效果 5、消息推送系统中嵌入大模型的用户-内容推理匹配能力，追求在内容零展、低展的情况下精准、快速的推送给用户，实现极高的推送时效性 6、构建基于大模型的推荐Agent能力，让大模型能和目前推荐系统业务策略和逻辑能更好的融合和调用。 课题挑战： 1、跨体裁一致性与可控生成； 2、结构化理解准确可复用； 3、模型落地成本/时延/轻量化； 4、LLM与内容的对齐、解码方案探索，包括纯文本方案或基于SID的方案； 5、LLM推荐指令COT数据集构建和个性化推荐推理能力的训练方法探索； 6、用户推荐正向、负向指令理解和线上执行能力探索； 7、推荐系统能力模块化&工具化，推荐Agent设计。 课题价值： 1、提效降本，提升IP产能与变现； 2、增强推荐效果与可解释性； 3、沉淀多模态通用底座； 4、探索基于LLM推理能力的推荐范式。",
+      "jobRequirements": "1、2027届毕业，获得博士学位，计算机/数学等相关专业的优先； 2、具有扎实的机器学习基础和编码能力，在机器学习、NLP、CV等有较深入的研究经验，熟练掌握主要的算法和数据结构； 3、在搜广告推和大模型领域，有参与或者主导过关键项目的优先； 4、在国际顶级会议发表论文者优先，包括但不限于KDD、SIGIR、RecSys、ACL、NeurIPS等； 5、具备较好的问题分析和解决能力，对技术有热情，热衷于推动和解决各种挑战。",
+      "JD": "团队介绍：今日头条推荐算法团队，致力于为用户提供个性化新闻和信息推荐服务，提升头条产品的用户体验。我们的业务涉及内容的个性化分发、生态与质量治理、热点和垂类等多个方向。在这里，你可以研究和改进最前沿的推荐、大模型等算法，结合对产品、数据的深度分析，将技术应用到实际业务中，服务数亿用户。 课题介绍：番茄系聚合海量故事IP，今日头条拥有丰富内容形态，但生产与分发仍面临改编链路长、成本高，以及推荐过度依赖稀疏ID、对新内容/低活用户不友好等问题。本课题以多模态大模型为底座：在番茄通过LLM创作提效与结构化内容理解，构建IP资产并打通“小说→剧本→分镜→动态漫/短剧/音频”的生成与辅助创作；在小说、短剧、今日头条把内容理解信号融入推荐建模，提升兴趣捕捉与可解释分发，最终实现生产与分发协同提升。 1、大模型推荐和推荐Agent：引入LLM的推理能力，以Seed为基础训练大模型执行推荐任务的能力，推荐Token和自然语言Token联合训练实现模态融合，让推荐系统具备理解自然语言的能力，从而用推荐Agent方式实现更具扩展性的分发交互体验 2、突出强调利用大模型COT的推理能力，改进被动推荐效果 3、遵循用户的正向、负向指令的能力，彻底解决用户反馈中“Dislike不生效”、新用户兴趣探索、用户调控推荐画风等难题 4、在产品中提供和用户进行对话交互的能力，用户可根据自身需求调整推荐的效果 5、消息推送系统中嵌入大模型的用户-内容推理匹配能力，追求在内容零展、低展的情况下精准、快速的推送给用户，实现极高的推送时效性 6、构建基于大模型的推荐Agent能力，让大模型能和目前推荐系统业务策略和逻辑能更好的融合和调用。 课题挑战： 1、跨体裁一致性与可控生成； 2、结构化理解准确可复用； 3、模型落地成本/时延/轻量化； 4、LLM与内容的对齐、解码方案探索，包括纯文本方案或基于SID的方案； 5、LLM推荐指令COT数据集构建和个性化推荐推理能力的训练方法探索； 6、用户推荐正向、负向指令理解和线上执行能力探索； 7、推荐系统能力模块化&工具化，推荐Agent设计。 课题价值： 1、提效降本，提升IP产能与变现； 2、增强推荐效果与可解释性； 3、沉淀多模态通用底座； 4、探索基于LLM推理能力的推荐范式。\n1、2027届毕业，获得博士学位，计算机/数学等相关专业的优先； 2、具有扎实的机器学习基础和编码能力，在机器学习、NLP、CV等有较深入的研究经验，熟练掌握主要的算法和数据结构； 3、在搜广告推和大模型领域，有参与或者主导过关键项目的优先； 4、在国际顶级会议发表论文者优先，包括但不限于KDD、SIGIR、RecSys、ACL、NeurIPS等； 5、具备较好的问题分析和解决能力，对技术有热情，热衷于推动和解决各种挑战。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、2027届毕业，获得博士学位，计算机/数学等相关专业的优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [
+          "模型/算法"
+        ],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "内容",
+        "项目",
+        "用户",
+        "数据"
+      ],
+      "preferenceTags": [
+        "国际业务"
+      ],
       "riskTags": [],
       "headcount": {
         "disclosed": false,
