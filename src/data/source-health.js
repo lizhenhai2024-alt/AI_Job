@@ -300,7 +300,7 @@ export const sourceHealth = {
       "company": "德邦证券",
       "status": "healthy",
       "healthy": true,
-      "reason": "Moka源正常：发现27，源内保留0"
+      "reason": "Moka源正常：发现15，源内保留0"
     },
     {
       "provider": "moka",
@@ -321,7 +321,7 @@ export const sourceHealth = {
       "company": "科大讯飞",
       "status": "healthy",
       "healthy": true,
-      "reason": "北森源正常：扫描600，源内保留134"
+      "reason": "北森源正常：扫描600，源内保留135"
     },
     {
       "provider": "beisen",
@@ -384,7 +384,7 @@ export const sourceHealth = {
       "company": "Babycare",
       "status": "healthy",
       "healthy": true,
-      "reason": "北森源正常：扫描284，源内保留43"
+      "reason": "北森源正常：扫描282，源内保留43"
     },
     {
       "provider": "beisen",
@@ -440,7 +440,7 @@ export const sourceHealth = {
       "company": "石头科技",
       "status": "healthy",
       "healthy": true,
-      "reason": "北森源正常：扫描112，源内保留40"
+      "reason": "北森源正常：扫描113，源内保留40"
     },
     {
       "provider": "beisen",
@@ -510,7 +510,7 @@ export const sourceHealth = {
       "company": "海信",
       "status": "healthy",
       "healthy": true,
-      "reason": "北森源正常：扫描600，源内保留386"
+      "reason": "北森源正常：扫描600，源内保留387"
     },
     {
       "provider": "beisen",
@@ -601,7 +601,7 @@ export const sourceHealth = {
       "company": "蒙牛",
       "status": "healthy",
       "healthy": true,
-      "reason": "北森源正常：扫描207，源内保留95"
+      "reason": "北森源正常：扫描211，源内保留95"
     },
     {
       "provider": "beisen",
@@ -986,14 +986,14 @@ export const sourceHealth = {
       "company": "宁德新能源科技有限公司",
       "status": "healthy",
       "healthy": true,
-      "reason": "HotJob源正常：列出43，源内保留42"
+      "reason": "HotJob源正常：列出15，源内保留14"
     },
     {
       "provider": "hotjob",
       "company": "荣耀",
       "status": "healthy",
       "healthy": true,
-      "reason": "HotJob源正常：列出101，源内保留100"
+      "reason": "HotJob源正常：列出61，源内保留61"
     },
     {
       "provider": "hotjob",
@@ -1014,7 +1014,7 @@ export const sourceHealth = {
       "company": "新能安",
       "status": "healthy",
       "healthy": true,
-      "reason": "HotJob源正常：列出55，源内保留55"
+      "reason": "HotJob源正常：列出47，源内保留47"
     },
     {
       "provider": "hotjob",
@@ -1028,7 +1028,7 @@ export const sourceHealth = {
       "company": "TCL华星光电",
       "status": "healthy",
       "healthy": true,
-      "reason": "HotJob源正常：列出390，源内保留148"
+      "reason": "HotJob源正常：列出400，源内保留148"
     },
     {
       "provider": "hotjob",
@@ -1077,14 +1077,14 @@ export const sourceHealth = {
       "company": "字节跳动",
       "status": "healthy",
       "healthy": true,
-      "reason": "官方源正常：本轮活动量1000，源内保留176"
+      "reason": "官方源正常：本轮活动量980，源内保留176"
     },
     {
       "provider": "meituan",
       "company": "美团",
       "status": "healthy",
       "healthy": true,
-      "reason": "官方源正常：本轮活动量196，源内保留195"
+      "reason": "官方源正常：本轮活动量196，源内保留194"
     },
     {
       "provider": "lenovo",
@@ -1131,9 +1131,9 @@ export const sourceHealth = {
     {
       "provider": "xiaohongshu",
       "company": "小红书",
-      "status": "healthy",
-      "healthy": true,
-      "reason": "官方源正常：本轮活动量161，源内保留161"
+      "status": "error",
+      "healthy": false,
+      "reason": "来源抓取存在 1 个错误"
     },
     {
       "provider": "ctrip",
@@ -1222,9 +1222,9 @@ export const sourceHealth = {
     {
       "provider": "university",
       "company": "北京外国语大学",
-      "status": "unknown",
+      "status": "error",
       "healthy": false,
-      "reason": "本轮缺少足够来源健康统计"
+      "reason": "来源抓取存在 1 个错误"
     },
     {
       "provider": "university",
@@ -1271,9 +1271,9 @@ export const sourceHealth = {
     {
       "provider": "university",
       "company": "北京第二外国语学院",
-      "status": "unknown",
+      "status": "error",
       "healthy": false,
-      "reason": "本轮缺少足够来源健康统计"
+      "reason": "来源抓取存在 5 个错误"
     },
     {
       "provider": "university",
@@ -1599,13 +1599,13 @@ export const sourceHealth = {
     }
   ],
   "counts": {
-    "healthy": 162,
+    "healthy": 161,
     "empty": 10,
-    "error": 7,
-    "unknown": 49
+    "error": 10,
+    "unknown": 47
   },
   "total": 228,
-  "healthy": 162,
-  "attention": 66,
-  "updatedAt": "2026-10-25T00:25:03.758Z"
+  "healthy": 161,
+  "attention": 67,
+  "updatedAt": "2026-10-25T13:50:55.652Z"
 };
