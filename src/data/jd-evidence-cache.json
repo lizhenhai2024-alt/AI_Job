@@ -38291,5 +38291,41 @@
   ],
   "technicalDuties": [],
   "businessDuties": []
+ },
+ "hotjob-7e8a5886a48f:06f5ecf3ea7a6d8f:gemini-3.5-flash-lite": {
+  "source": "llm",
+  "majorClauses": [],
+  "eligibilityClauses": [
+   "伊利2027届校招-设备专训生（冷饮河北）",
+   "简历接收周期：2026-09-14~2027-05-31"
+  ],
+  "technicalDuties": [
+   "结构/原理"
+  ],
+  "businessDuties": [
+   "资料/流程"
+  ]
+ },
+ "bytedance-d50e7b0df638:70e7fffe3fa7c745:gemini-3.5-flash-lite": {
+  "source": "llm",
+  "majorClauses": [
+   "本科及以上学历"
+  ],
+  "eligibilityClauses": [
+   "2027届获得本科及以上学历"
+  ],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "bytedance-7be5899f1872:e8ffda88857e8268:gemini-3.5-flash-lite": {
+  "source": "llm",
+  "majorClauses": [
+   "2027届获得本科及以上学历"
+  ],
+  "eligibilityClauses": [
+   "2027届获得本科及以上学历"
+  ],
+  "technicalDuties": [],
+  "businessDuties": []
  }
 }
