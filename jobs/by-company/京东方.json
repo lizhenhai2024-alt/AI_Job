@@ -1,7 +1,7 @@
 {
   "company": "京东方",
-  "count": 62,
-  "updatedAt": "2026-10-26T00:11:34.768Z",
+  "count": 63,
+  "updatedAt": "2026-10-26T16:09:51.665Z",
   "jobs": [
     {
       "id": "beisen-2be429ffbb1a",
@@ -657,6 +657,106 @@
       "source": "公司官方北森校招官网",
       "officialURL": "https://campus.boe.com/campus/detail?jobAdId=7d54ea57-5fc7-4f37-ae4e-5c40f1b2a1d3",
       "publishedAt": "2026-09-02",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "简历投递→在线测评→（部分岗位AI面试）→面试→签约→体检→入职",
+      "recruitmentProcessEvidence": "E2 | 吉林大学就业网京东方2027校招 | https://jdjyw.jlu.edu.cn/portal/jyzp/recruit/details?id=ff28a962b62d4eddaf1d68767e0c054d | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | 吉林大学就业网京东方2027校招 | https://jdjyw.jlu.edu.cn/portal/jyzp/recruit/details?id=ff28a962b62d4eddaf1d68767e0c054d | 2026-09-17"
+    },
+    {
+      "id": "beisen-f705cec2cf4d",
+      "company": "京东方",
+      "title": "【MLED】销售经理（海外）(J54689)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1、专业要求：小语种（韩语、西语、葡语等）、英语专业8级或同等水平；2、专业不限",
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、专业要求：小语种（韩语、西语、葡语等）、英语专业8级或同等水平"
+        ]
+      },
+      "language": {
+        "raw": "英语、西班牙语、葡萄牙语、韩语",
+        "english": true,
+        "minorLanguageRequired": true
+      },
+      "location": "北京",
+      "jobDescription": "1、专业要求：小语种（韩语、西语、葡语等）、英语专业8级或同等水平； 2、确认量产品客户要求，与客户沟通价格与交付期并且制定负责区域的销售计划与市场开拓； 3、客户要求事项的接收并提交组织进行评审，将结果反馈给客户； 4、与所负责的客户就价格、订货量、货款支付、交付期等交易条件进行协商； 5、审核、制定所在地区的销售计划，并通过销管部门反馈至中心进行核产； 6、定期对所负责客户的销售业绩进行管理、报告； 7、客户开拓。",
+      "jobRequirements": "1、本科应届毕业生； 2、专业不限； 3、良好的沟通理解能力、工作组织与执行能力； 4、敬业精神、文化认同、团队意识等具有强烈的进取心和求知欲望，善于学习和运用新知识，乐于解决具有挑战性的问题；具有良好的团队合作精神和积极主动的沟通意识；具有较强的逻辑思维和责任感； 5、有较好的英语能力（英语四级及以上）/小语种（韩语、西语、葡语等）。",
+      "JD": "1、专业要求：小语种（韩语、西语、葡语等）、英语专业8级或同等水平； 2、确认量产品客户要求，与客户沟通价格与交付期并且制定负责区域的销售计划与市场开拓； 3、客户要求事项的接收并提交组织进行评审，将结果反馈给客户； 4、与所负责的客户就价格、订货量、货款支付、交付期等交易条件进行协商； 5、审核、制定所在地区的销售计划，并通过销管部门反馈至中心进行核产； 6、定期对所负责客户的销售业绩进行管理、报告； 7、客户开拓。\n1、本科应届毕业生； 2、专业不限； 3、良好的沟通理解能力、工作组织与执行能力； 4、敬业精神、文化认同、团队意识等具有强烈的进取心和求知欲望，善于学习和运用新知识，乐于解决具有挑战性的问题；具有良好的团队合作精神和积极主动的沟通意识；具有较强的逻辑思维和责任感； 5、有较好的英语能力（英语四级及以上）/小语种（韩语、西语、葡语等）。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、专业要求：小语种（韩语、西语、葡语等）、英语专业8级或同等水平",
+          "2、专业不限"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "客户关系"
+        ]
+      },
+      "roleFamily": [
+        "销售"
+      ],
+      "skills": [
+        "英语"
+      ],
+      "experienceKeywords": [
+        "海外",
+        "市场",
+        "客户"
+      ],
+      "preferenceTags": [
+        "国际业务"
+      ],
+      "riskTags": [
+        "纯销售"
+      ],
+      "headcount": {
+        "disclosed": true,
+        "raw": "10",
+        "min": 10,
+        "max": 10,
+        "scope": "job",
+        "display": "10人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "10 10 1、专业要求：小语种（韩语、西语、葡语等）、英语专业8级或同等水平； 2、确认量"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://campus.boe.com/campus/detail?jobAdId=055051da-2697-4a37-b117-492c02bedb52",
+      "publishedAt": "2026-10-26",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "",

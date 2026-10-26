@@ -1,7 +1,7 @@
 {
   "company": "九号公司",
   "count": 57,
-  "updatedAt": "2026-10-26T00:11:34.768Z",
+  "updatedAt": "2026-10-26T16:09:51.665Z",
   "jobs": [
     {
       "id": "ninebot-02f1cade5c0f",
@@ -1037,6 +1037,96 @@
       "annualSalary": "未披露",
       "source": "九号公司官方2027校招官网",
       "officialURL": "https://app.mokahr.com/campus-recruitment/ninebot/45627?locale=zh-CN#/job/c8ceeb70-5b7f-40d6-a2c2-7f3a59ef3f6c",
+      "publishedAt": "",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "ninebot-cc0144c91b14",
+      "company": "九号公司",
+      "title": "人力资源专员-HRBP方向（全地形车）",
+      "graduationYear": [
+        "2026",
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "硕士",
+        "masterRequired": true
+      },
+      "major": {
+        "raw": "1. 2026届硕士及以上学历，英语六级，人力资源管理相关专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "待核",
+      "jobDescription": "岗位职责： 1. 了解业务与人员情况，评估组织和人的发展需要，根据部门业务目标和业务现状，为优化部门的管理和产能提供专业的人力资源解决方案； 2. 结合业务部门的实际情况，负责公司HR政策、制度、体系、重点项目在业务部门的落地实施，过程中及时沟通和反馈，发现和改进问题； 3. 协调业务团队内的关系，与业务团队保持紧密联系与沟通，解决员工的合理要求，提高团队凝聚力。 任职要求： 1. 2026届硕士及以上学历，英语六级，人力资源管理相关专业优先； 2. 具有较强的学习能力和数据分析能力，能够不断学习和掌握新制度新政策，并对现有人员情况进行总结、分析； 3. 能够熟练运用word、excel等办公软件处理各项工作事务； 4. 具有较强的沟通协调和文字表达能力，能够全面、及时、有效地处理各项人力资源工作。",
+      "jobRequirements": "",
+      "JD": "岗位职责： 1. 了解业务与人员情况，评估组织和人的发展需要，根据部门业务目标和业务现状，为优化部门的管理和产能提供专业的人力资源解决方案； 2. 结合业务部门的实际情况，负责公司HR政策、制度、体系、重点项目在业务部门的落地实施，过程中及时沟通和反馈，发现和改进问题； 3. 协调业务团队内的关系，与业务团队保持紧密联系与沟通，解决员工的合理要求，提高团队凝聚力。 任职要求： 1. 2026届硕士及以上学历，英语六级，人力资源管理相关专业优先； 2. 具有较强的学习能力和数据分析能力，能够不断学习和掌握新制度新政策，并对现有人员情况进行总结、分析； 3. 能够熟练运用word、excel等办公软件处理各项工作事务； 4. 具有较强的沟通协调和文字表达能力，能够全面、及时、有效地处理各项人力资源工作。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1. 2026届硕士及以上学历，英语六级，人力资源管理相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "HR"
+      ],
+      "skills": [
+        "英语",
+        "Excel",
+        "数据分析"
+      ],
+      "experienceKeywords": [
+        "项目",
+        "数据",
+        "人力资源"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "九号公司官方2027校招官网",
+      "officialURL": "https://app.mokahr.com/campus-recruitment/ninebot/45627?locale=zh-CN#/job/d3404a6c-c6a1-4903-a3d3-b3c71e96df75",
       "publishedAt": "",
       "lastVerified": "",
       "sourceType": "official",
@@ -2527,6 +2617,95 @@
       "deadline": ""
     },
     {
+      "id": "ninebot-ba4d831af311",
+      "company": "九号公司",
+      "title": "九号星-人力资源专员-HRBP方向（短交通）",
+      "graduationYear": [
+        "2026",
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "硕士",
+        "masterRequired": true
+      },
+      "major": {
+        "raw": "1. 2026届&2027届统招全日制硕士及以上学历，人力资源管理、工商管理、心理学等相关专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "待核",
+      "jobDescription": "岗位职责： 1. 轮岗参与短交通业务线招聘全流程，协助简历筛选、面试协调、候选人沟通及招聘数据复盘； 2. 参与短交通业务线人才发展项目落地，协助培训组织、人才盘点数据整理及人才梯队建设相关工作； 3. 跟随HRBP深入短交通业务场景，协助处理组织效能分析、员工关系维护、绩效落地等日常事务； 4. 参与业务线人力相关专项课题研究，输出分析报告与优化建议，支撑业务人力决策； 5. 按培养计划完成轮岗学习与阶段性复盘，快速搭建HR专业体系与业务认知。 任职要求： 1. 2026届&2027届统招全日制硕士及以上学历，人力资源管理、工商管理、心理学等相关专业优先； 2. 对HRBP工作有清晰认知，有人力资源相关实习经历者优先； 3. 具备较强的学习能力与自驱力，能快速吸收业务及专业知识； 4. 拥有良好的沟通表达与协调能力，具备团队协作意识与同理心； 5. 具备基础的数据分析能力，熟练使用Office办公软件； 6. 认同公司文化，愿意长期在HR领域发展。",
+      "jobRequirements": "",
+      "JD": "岗位职责： 1. 轮岗参与短交通业务线招聘全流程，协助简历筛选、面试协调、候选人沟通及招聘数据复盘； 2. 参与短交通业务线人才发展项目落地，协助培训组织、人才盘点数据整理及人才梯队建设相关工作； 3. 跟随HRBP深入短交通业务场景，协助处理组织效能分析、员工关系维护、绩效落地等日常事务； 4. 参与业务线人力相关专项课题研究，输出分析报告与优化建议，支撑业务人力决策； 5. 按培养计划完成轮岗学习与阶段性复盘，快速搭建HR专业体系与业务认知。 任职要求： 1. 2026届&2027届统招全日制硕士及以上学历，人力资源管理、工商管理、心理学等相关专业优先； 2. 对HRBP工作有清晰认知，有人力资源相关实习经历者优先； 3. 具备较强的学习能力与自驱力，能快速吸收业务及专业知识； 4. 拥有良好的沟通表达与协调能力，具备团队协作意识与同理心； 5. 具备基础的数据分析能力，熟练使用Office办公软件； 6. 认同公司文化，愿意长期在HR领域发展。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1. 2026届&2027届统招全日制硕士及以上学历，人力资源管理、工商管理、心理学等相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "HR"
+      ],
+      "skills": [
+        "数据分析"
+      ],
+      "experienceKeywords": [
+        "项目",
+        "数据",
+        "人力资源",
+        "招聘"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "九号公司官方2027校招官网",
+      "officialURL": "https://app.mokahr.com/campus-recruitment/ninebot/45627?locale=zh-CN#/job/57235922-4888-433f-b54d-a235ce72731b",
+      "publishedAt": "",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
       "id": "ninebot-0cb93e91f80c",
       "company": "九号公司",
       "title": "产品营销专员（短交通）",
@@ -2899,96 +3078,6 @@
       "annualSalary": "未披露",
       "source": "九号公司官方2027校招官网",
       "officialURL": "https://app.mokahr.com/campus-recruitment/ninebot/45627?locale=zh-CN#/job/10470fe3-cf3e-4e28-9e06-645152aaecb3",
-      "publishedAt": "",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "ninebot-b66933131c63",
-      "company": "九号公司",
-      "title": "HRBP（全地形车）",
-      "graduationYear": [
-        "2026",
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "硕士",
-        "masterRequired": true
-      },
-      "major": {
-        "raw": "1. 2026届硕士及以上学历，英语六级，人力资源管理相关专业优先",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "待核",
-      "jobDescription": "岗位职责： 1. 了解业务与人员情况，评估组织和人的发展需要，根据部门业务目标和业务现状，为优化部门的管理和产能提供专业的人力资源解决方案； 2. 结合业务部门的实际情况，负责公司HR政策、制度、体系、重点项目在业务部门的落地实施，过程中及时沟通和反馈，发现和改进问题； 3. 协调业务团队内的关系，与业务团队保持紧密联系与沟通，解决员工的合理要求，提高团队凝聚力。 任职要求： 1. 2026届硕士及以上学历，英语六级，人力资源管理相关专业优先； 2. 具有较强的学习能力和数据分析能力，能够不断学习和掌握新制度新政策，并对现有人员情况进行总结、分析； 3. 能够熟练运用word、excel等办公软件处理各项工作事务； 4. 具有较强的沟通协调和文字表达能力，能够全面、及时、有效地处理各项人力资源工作。",
-      "jobRequirements": "",
-      "JD": "岗位职责： 1. 了解业务与人员情况，评估组织和人的发展需要，根据部门业务目标和业务现状，为优化部门的管理和产能提供专业的人力资源解决方案； 2. 结合业务部门的实际情况，负责公司HR政策、制度、体系、重点项目在业务部门的落地实施，过程中及时沟通和反馈，发现和改进问题； 3. 协调业务团队内的关系，与业务团队保持紧密联系与沟通，解决员工的合理要求，提高团队凝聚力。 任职要求： 1. 2026届硕士及以上学历，英语六级，人力资源管理相关专业优先； 2. 具有较强的学习能力和数据分析能力，能够不断学习和掌握新制度新政策，并对现有人员情况进行总结、分析； 3. 能够熟练运用word、excel等办公软件处理各项工作事务； 4. 具有较强的沟通协调和文字表达能力，能够全面、及时、有效地处理各项人力资源工作。",
-      "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [
-          "1. 2026届硕士及以上学历，英语六级，人力资源管理相关专业优先"
-        ],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "HR"
-      ],
-      "skills": [
-        "英语",
-        "Excel",
-        "数据分析"
-      ],
-      "experienceKeywords": [
-        "项目",
-        "数据",
-        "人力资源"
-      ],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "九号公司官方2027校招官网",
-      "officialURL": "https://app.mokahr.com/campus-recruitment/ninebot/45627?locale=zh-CN#/job/d3404a6c-c6a1-4903-a3d3-b3c71e96df75",
       "publishedAt": "",
       "lastVerified": "",
       "sourceType": "official",
@@ -4257,95 +4346,6 @@
       "annualSalary": "未披露",
       "source": "九号公司官方2027校招官网",
       "officialURL": "https://app.mokahr.com/campus-recruitment/ninebot/45627?locale=zh-CN#/job/14e54987-8d3b-45b1-a44a-7d33936af1de",
-      "publishedAt": "",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "ninebot-e74843682fca",
-      "company": "九号公司",
-      "title": "九号星-HRBP（短交通）",
-      "graduationYear": [
-        "2026",
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "硕士",
-        "masterRequired": true
-      },
-      "major": {
-        "raw": "1. 2026届&2027届统招全日制硕士及以上学历，人力资源管理、工商管理、心理学等相关专业优先",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "待核",
-      "jobDescription": "岗位职责： 1. 轮岗参与短交通业务线招聘全流程，协助简历筛选、面试协调、候选人沟通及招聘数据复盘； 2. 参与短交通业务线人才发展项目落地，协助培训组织、人才盘点数据整理及人才梯队建设相关工作； 3. 跟随HRBP深入短交通业务场景，协助处理组织效能分析、员工关系维护、绩效落地等日常事务； 4. 参与业务线人力相关专项课题研究，输出分析报告与优化建议，支撑业务人力决策； 5. 按培养计划完成轮岗学习与阶段性复盘，快速搭建HR专业体系与业务认知。 任职要求： 1. 2026届&2027届统招全日制硕士及以上学历，人力资源管理、工商管理、心理学等相关专业优先； 2. 对HRBP工作有清晰认知，有人力资源相关实习经历者优先； 3. 具备较强的学习能力与自驱力，能快速吸收业务及专业知识； 4. 拥有良好的沟通表达与协调能力，具备团队协作意识与同理心； 5. 具备基础的数据分析能力，熟练使用Office办公软件； 6. 认同公司文化，愿意长期在HR领域发展。",
-      "jobRequirements": "",
-      "JD": "岗位职责： 1. 轮岗参与短交通业务线招聘全流程，协助简历筛选、面试协调、候选人沟通及招聘数据复盘； 2. 参与短交通业务线人才发展项目落地，协助培训组织、人才盘点数据整理及人才梯队建设相关工作； 3. 跟随HRBP深入短交通业务场景，协助处理组织效能分析、员工关系维护、绩效落地等日常事务； 4. 参与业务线人力相关专项课题研究，输出分析报告与优化建议，支撑业务人力决策； 5. 按培养计划完成轮岗学习与阶段性复盘，快速搭建HR专业体系与业务认知。 任职要求： 1. 2026届&2027届统招全日制硕士及以上学历，人力资源管理、工商管理、心理学等相关专业优先； 2. 对HRBP工作有清晰认知，有人力资源相关实习经历者优先； 3. 具备较强的学习能力与自驱力，能快速吸收业务及专业知识； 4. 拥有良好的沟通表达与协调能力，具备团队协作意识与同理心； 5. 具备基础的数据分析能力，熟练使用Office办公软件； 6. 认同公司文化，愿意长期在HR领域发展。",
-      "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [
-          "1. 2026届&2027届统招全日制硕士及以上学历，人力资源管理、工商管理、心理学等相关专业优先"
-        ],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "HR"
-      ],
-      "skills": [
-        "数据分析"
-      ],
-      "experienceKeywords": [
-        "项目",
-        "数据",
-        "人力资源",
-        "招聘"
-      ],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "九号公司官方2027校招官网",
-      "officialURL": "https://app.mokahr.com/campus-recruitment/ninebot/45627?locale=zh-CN#/job/57235922-4888-433f-b54d-a235ce72731b",
       "publishedAt": "",
       "lastVerified": "",
       "sourceType": "official",

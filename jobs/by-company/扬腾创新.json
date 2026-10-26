@@ -1,7 +1,7 @@
 {
   "company": "扬腾创新",
-  "count": 13,
-  "updatedAt": "2026-10-26T00:11:34.768Z",
+  "count": 15,
+  "updatedAt": "2026-10-26T16:09:51.665Z",
   "jobs": [
     {
       "id": "beisen-24a901bca58f",
@@ -619,6 +619,109 @@
       "hasAssessmentEvidence": "E3 | 广外就业网校招简章 | https://career.gdufs.edu.cn/index.php/web/Index/jobs-brief-detail?id=VSUXSMT | 2026-09-17"
     },
     {
+      "id": "beisen-fc5d7fa8b589",
+      "company": "扬腾创新",
+      "title": "人力资源管理校招生（秋招）(J13112)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "2. 英语可作为工作语言，具备扎实的听说读写能力（如 CET-6 ≥ 480 分、专业四级/八级、雅思",
+        "hardRestriction": true,
+        "hardClauses": [
+          "具备扎实的听说读写能力（如 CET-6 ≥ 480 分、专业四级/八级、雅思"
+        ]
+      },
+      "language": {
+        "raw": "英语、日语、德语、西班牙语、葡萄牙语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "福建省·福州市",
+      "jobDescription": "1. 参与人力资源部各模块轮岗学习，全面了解HR体系运作与业务流程； 2. 协助支持海外业务或外籍员工的日常沟通、文档翻译及人事服务，充分发挥外语语言优势； 3. 参与组织公司文化活动、培训项目及团队建设，推动跨文化沟通与融合； 4. 协助完成人力资源相关数据的收集、整理、分析与报告输出； 5. 完成上级交办的其他人力资源相关工作。",
+      "jobRequirements": "1. 2027届本科及以上学历应届毕业生； 2. 英语可作为工作语言，具备扎实的听说读写能力（如 CET-6 ≥ 480 分、专业四级/八级、雅思 6.5 或托福 90 及以上，或同等水平），能独立进行日常书面与口头沟通； 3. 掌握德语、西班牙语、葡萄牙语、日语中任意一门，并能作为工作语言进行日常书面与口头沟通者，优先考虑。 4. 学习能力强，责任心强，具备良好的职业素养和团队协作精神； 5. 表达清晰，善于倾听，具备较强的亲和力、同理心和跨文化沟通意识； 6. 熟练使用Office办公软件（Word、Excel、PPT等）； 7. 对人力资源工作有热情，愿意从基层做起，接受轮岗与多模块锻炼。",
+      "JD": "1. 参与人力资源部各模块轮岗学习，全面了解HR体系运作与业务流程； 2. 协助支持海外业务或外籍员工的日常沟通、文档翻译及人事服务，充分发挥外语语言优势； 3. 参与组织公司文化活动、培训项目及团队建设，推动跨文化沟通与融合； 4. 协助完成人力资源相关数据的收集、整理、分析与报告输出； 5. 完成上级交办的其他人力资源相关工作。\n1. 2027届本科及以上学历应届毕业生； 2. 英语可作为工作语言，具备扎实的听说读写能力（如 CET-6 ≥ 480 分、专业四级/八级、雅思 6.5 或托福 90 及以上，或同等水平），能独立进行日常书面与口头沟通； 3. 掌握德语、西班牙语、葡萄牙语、日语中任意一门，并能作为工作语言进行日常书面与口头沟通者，优先考虑。 4. 学习能力强，责任心强，具备良好的职业素养和团队协作精神； 5. 表达清晰，善于倾听，具备较强的亲和力、同理心和跨文化沟通意识； 6. 熟练使用Office办公软件（Word、Excel、PPT等）； 7. 对人力资源工作有热情，愿意从基层做起，接受轮岗与多模块锻炼。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "2. 英语可作为工作语言，具备扎实的听说读写能力（如 CET-6 ≥ 480 分、专业四级/八级、雅思"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "跨文化沟通",
+          "翻译/本地化",
+          "国际业务"
+        ]
+      },
+      "roleFamily": [
+        "HR"
+      ],
+      "skills": [
+        "英语",
+        "Excel",
+        "PPT"
+      ],
+      "experienceKeywords": [
+        "海外",
+        "项目",
+        "数据",
+        "跨文化"
+      ],
+      "preferenceTags": [
+        "国际业务",
+        "跨文化"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 1. 参与人力资源部各模块轮岗学习，全面了解HR体系运作与业务流程； 2. 协助支"
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "10K-15K 元/月",
+        "monthlyMin": 10000,
+        "monthlyMax": 15000,
+        "annualMin": 120000,
+        "annualMax": 180000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "1万–1.5万/月",
+        "annualDisplay": "12万–18万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "10K-15K 元/月 公司官方北森校招岗位；识别关键词：英语、Exc"
+      },
+      "salary": "10K-15K 元/月",
+      "monthlySalary": "1万–1.5万/月",
+      "annualSalary": "12万–18万/年（按12薪推算）",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://yangtenginnovation-compus.zhiye.com/campus/detail?jobAdId=2fdfffc1-3bf0-46a0-91b2-d515cd6ca6a8",
+      "publishedAt": "2026-10-26",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "线上网申/现场投递→在线测评→面试→Offer发放→签约录用",
+      "recruitmentProcessEvidence": "E3 | 广外/北二外/中国地质大学就业网校招简章 | https://career.gdufs.edu.cn/index.php/web/Index/jobs-brief-detail?id=VSUXSMT | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E3 | 广外就业网校招简章 | https://career.gdufs.edu.cn/index.php/web/Index/jobs-brief-detail?id=VSUXSMT | 2026-09-17"
+    },
+    {
       "id": "beisen-011b5b356a69",
       "company": "扬腾创新",
       "title": "商业分析校招生（增长业务）(J13070)",
@@ -806,6 +909,106 @@
       "source": "公司官方北森校招官网",
       "officialURL": "https://yangtenginnovation-compus.zhiye.com/campus/detail?jobAdId=efd8f42e-5c1a-4424-bbfa-97eed6b0e5a4",
       "publishedAt": "2026-09-14",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "线上网申/现场投递→在线测评→面试→Offer发放→签约录用",
+      "recruitmentProcessEvidence": "E3 | 广外/北二外/中国地质大学就业网校招简章 | https://career.gdufs.edu.cn/index.php/web/Index/jobs-brief-detail?id=VSUXSMT | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E3 | 广外就业网校招简章 | https://career.gdufs.edu.cn/index.php/web/Index/jobs-brief-detail?id=VSUXSMT | 2026-09-17"
+    },
+    {
+      "id": "beisen-83acc15b343d",
+      "company": "扬腾创新",
+      "title": "顶尖-战略管理（创新业务）校招生 （秋招）(J12983)",
+      "graduationYear": [
+        "2026",
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1. 基本条件 国内985/211或海外知名高校本科及以上学历，2024-2026年毕业，专业不限（计算机、数学、统计学、信息管理、理工科背景优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "福建省·福州市",
+      "jobDescription": "1. 需求分析：识别痛点，定义问题 深入理解沃尔玛电商运营全链路，识别并挖掘重复性高、耗时长的流程环节，以及数据决策中的盲点 将业务痛点转化为AI可执行的产品需求，明确应用场景与价值边界 2. 产品构建：设计并搭建AI解决方案 利用大语言模型、自动化工具、数据分析库等，设计并搭建AI应用产品 将AI应用封装为可复用的工具或工作流（如自动日报生成器、智能关键词拓词器、库存预警机器人等） 持续探索前沿AI能力，提升跨境电商运营的智能化与自动化水平，在运营业绩结果上达到或超越人工水平 3. 部署落地闭环：推动应用，验证迭代 将构建的AI工具部署至实际运营流程，培训团队使用，并监控效果（如时间节省百分比、GMV提升、ACOS优化等核心指标） 建立A/B测试机制，对比AI方案与人工方案的效率差异，用数据验证价值 收集反馈，持续迭代优化，确保AI应用真正融入业务并产生实际价值",
+      "jobRequirements": "1. 基本条件 国内985/211或海外知名高校本科及以上学历，2024-2026年毕业，专业不限（计算机、数学、统计学、信息管理、理工科背景优先；具备极强逻辑思维与产品sense者，人文社科背景同样欢迎） 对电商运营有基本了解或具备快速学习的强烈意愿；有沃尔玛/亚马逊/其他跨境电商实习经验者加分，但不强制 2. AI与技术能力 需求分析与产品思维：能通过观察与沟通，抽象出业务流程中的关键需求，并能绘制流程图、撰写简要PRD或需求说明 AI工具应用与构建：熟练使用大模型（如ChatGPT、Claude）进行复杂任务拆解与Prompt工程；至少熟悉一种自动化工具（如Python脚本、RPA工具、Zapier），并能够搭建简单的自动化流程；有利用AI辅助编程（如Python/SQL）进行数据处理经验者优先 前沿视野：对AI领域最新进展保持强烈好奇，关注国内外前沿技术，并能结合电商场景提出创新应用设想（面试时可展示您的实验或Demo） 3. 软性素质 自驱力强，具备对未知问题主动拆解与解决的意愿和能力 优秀沟通能力，能与技术团队、业务团队高效协作 英语六级以上，能流畅阅读英文技术文档和AI工具官网文档 三、加分项（请在简历或面试中重点展示） 有个人项目经验：例如用AI自动生成周报、爬取竞品数据、自动回复客服邮件等 熟悉沃尔玛电商后台或广告平台 在GitHub、个人博客或社交平台上分享过AI应用实践",
+      "JD": "1. 需求分析：识别痛点，定义问题 深入理解沃尔玛电商运营全链路，识别并挖掘重复性高、耗时长的流程环节，以及数据决策中的盲点 将业务痛点转化为AI可执行的产品需求，明确应用场景与价值边界 2. 产品构建：设计并搭建AI解决方案 利用大语言模型、自动化工具、数据分析库等，设计并搭建AI应用产品 将AI应用封装为可复用的工具或工作流（如自动日报生成器、智能关键词拓词器、库存预警机器人等） 持续探索前沿AI能力，提升跨境电商运营的智能化与自动化水平，在运营业绩结果上达到或超越人工水平 3. 部署落地闭环：推动应用，验证迭代 将构建的AI工具部署至实际运营流程，培训团队使用，并监控效果（如时间节省百分比、GMV提升、ACOS优化等核心指标） 建立A/B测试机制，对比AI方案与人工方案的效率差异，用数据验证价值 收集反馈，持续迭代优化，确保AI应用真正融入业务并产生实际价值\n1. 基本条件 国内985/211或海外知名高校本科及以上学历，2024-2026年毕业，专业不限（计算机、数学、统计学、信息管理、理工科背景优先；具备极强逻辑思维与产品sense者，人文社科背景同样欢迎） 对电商运营有基本了解或具备快速学习的强烈意愿；有沃尔玛/亚马逊/其他跨境电商实习经验者加分，但不强制 2. AI与技术能力 需求分析与产品思维：能通过观察与沟通，抽象出业务流程中的关键需求，并能绘制流程图、撰写简要PRD或需求说明 AI工具应用与构建：熟练使用大模型（如ChatGPT、Claude）进行复杂任务拆解与Prompt工程；至少熟悉一种自动化工具（如Python脚本、RPA工具、Zapier），并能够搭建简单的自动化流程；有利用AI辅助编程（如Python/SQL）进行数据处理经验者优先 前沿视野：对AI领域最新进展保持强烈好奇，关注国内外前沿技术，并能结合电商场景提出创新应用设想（面试时可展示您的实验或Demo） 3. 软性素质 自驱力强，具备对未知问题主动拆解与解决的意愿和能力 优秀沟通能力，能与技术团队、业务团队高效协作 英语六级以上，能流畅阅读英文技术文档和AI工具官网文档 三、加分项（请在简历或面试中重点展示） 有个人项目经验：例如用AI自动生成周报、爬取竞品数据、自动回复客服邮件等 熟悉沃尔玛电商后台或广告平台 在GitHub、个人博客或社交平台上分享过AI应用实践",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1. 基本条件 国内985/211或海外知名高校本科及以上学历，2024-2026年毕业，专业不限（计算机、数学、统计学、信息管理、理工科背景优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语",
+        "数据分析",
+        "SQL",
+        "电商"
+      ],
+      "experienceKeywords": [
+        "海外",
+        "运营",
+        "项目",
+        "电商",
+        "数据"
+      ],
+      "preferenceTags": [
+        "国际业务",
+        "出海"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 1. 需求分析：识别痛点，定义问题 深入理解沃尔玛电商运营全链路，识别并挖掘重复性"
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "20K-30K 元/月",
+        "monthlyMin": 20000,
+        "monthlyMax": 30000,
+        "annualMin": 240000,
+        "annualMax": 360000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "2万–3万/月",
+        "annualDisplay": "24万–36万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "20K-30K 元/月 公司官方北森校招岗位；识别关键词：英语、数据分"
+      },
+      "salary": "20K-30K 元/月",
+      "monthlySalary": "2万–3万/月",
+      "annualSalary": "24万–36万/年（按12薪推算）",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://yangtenginnovation-compus.zhiye.com/campus/detail?jobAdId=c1468b28-7669-4b3c-8e9f-fd01c5bc311a",
+      "publishedAt": "2026-10-26",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "",

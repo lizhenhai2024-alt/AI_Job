@@ -1,7 +1,7 @@
 {
   "company": "奥克斯集团",
   "count": 21,
-  "updatedAt": "2026-10-26T00:11:34.768Z",
+  "updatedAt": "2026-10-26T16:09:51.665Z",
   "jobs": [
     {
       "id": "beisen-5ef6f799d9ba",
@@ -1621,6 +1621,95 @@
       "hasAssessmentEvidence": "E2 | 西安理工大学就业信息网奥克斯校招 | https://job.xaut.edu.cn/info/1091/6133.htm | 2026-09-17"
     },
     {
+      "id": "beisen-e254a809eea6",
+      "company": "奥克斯集团",
+      "title": "【2027秋】电能-制造厂长助理(J16420)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1、本科及以上学历，机械、电气等相关工科专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "浙江省·宁波市",
+      "jobDescription": "1、协助制定并执行工厂生产计划，确保交付目标达成； 2、参与精益生产、成本控制及现场管理优化； 3、推动安全生产、质量管理及团队建设； 4、轮岗学习各制造环节，快速成长为综合管理人才。",
+      "jobRequirements": "1、本科及以上学历，机械、电气等相关工科专业优先 2、具备较强的学习能力、责任心和抗压能力 3、有学生干部、项目实践或制造相关实习经历者优先 4、愿意从基层做起，接受轮岗及异地工作安排",
+      "JD": "1、协助制定并执行工厂生产计划，确保交付目标达成； 2、参与精益生产、成本控制及现场管理优化； 3、推动安全生产、质量管理及团队建设； 4、轮岗学习各制造环节，快速成长为综合管理人才。\n1、本科及以上学历，机械、电气等相关工科专业优先 2、具备较强的学习能力、责任心和抗压能力 3、有学生干部、项目实践或制造相关实习经历者优先 4、愿意从基层做起，接受轮岗及异地工作安排",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、本科及以上学历，机械、电气等相关工科专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "项目"
+      ],
+      "preferenceTags": [],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://auxgroup.zhiye.com/campus/detail?jobAdId=1218058f-fc0e-45f1-a595-70e7d222c2f1",
+      "publishedAt": "2026-08-25",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申→笔试→AI测评→专面→offer",
+      "recruitmentProcessEvidence": "E2 | 西安理工大学就业信息网奥克斯校招 | https://job.xaut.edu.cn/info/1091/6133.htm | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | 西安理工大学就业信息网奥克斯校招 | https://job.xaut.edu.cn/info/1091/6133.htm | 2026-09-17"
+    },
+    {
       "id": "beisen-e9aa406c5a58",
       "company": "奥克斯集团",
       "title": "【2027秋】空调-制冷工程师(J16368)",
@@ -1704,95 +1793,6 @@
       "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://auxgroup.zhiye.com/campus/detail?jobAdId=fd6f4d99-062e-414a-97c8-b1dc9ced80c8",
-      "publishedAt": "2026-08-25",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "网申→笔试→AI测评→专面→offer",
-      "recruitmentProcessEvidence": "E2 | 西安理工大学就业信息网奥克斯校招 | https://job.xaut.edu.cn/info/1091/6133.htm | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E2 | 西安理工大学就业信息网奥克斯校招 | https://job.xaut.edu.cn/info/1091/6133.htm | 2026-09-17"
-    },
-    {
-      "id": "beisen-e254a809eea6",
-      "company": "奥克斯集团",
-      "title": "【2027秋】电能-制造厂长助理(J16420)",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "本科",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "1、本科及以上学历，机械、电气等相关工科专业优先",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "浙江省·宁波市",
-      "jobDescription": "1、协助制定并执行工厂生产计划，确保交付目标达成； 2、参与精益生产、成本控制及现场管理优化； 3、推动安全生产、质量管理及团队建设； 4、轮岗学习各制造环节，快速成长为综合管理人才。",
-      "jobRequirements": "1、本科及以上学历，机械、电气等相关工科专业优先 2、具备较强的学习能力、责任心和抗压能力 3、有学生干部、项目实践或制造相关实习经历者优先 4、愿意从基层做起，接受轮岗及异地工作安排",
-      "JD": "1、协助制定并执行工厂生产计划，确保交付目标达成； 2、参与精益生产、成本控制及现场管理优化； 3、推动安全生产、质量管理及团队建设； 4、轮岗学习各制造环节，快速成长为综合管理人才。\n1、本科及以上学历，机械、电气等相关工科专业优先 2、具备较强的学习能力、责任心和抗压能力 3、有学生干部、项目实践或制造相关实习经历者优先 4、愿意从基层做起，接受轮岗及异地工作安排",
-      "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [
-          "1、本科及以上学历，机械、电气等相关工科专业优先"
-        ],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [],
-      "experienceKeywords": [
-        "项目"
-      ],
-      "preferenceTags": [],
-      "riskTags": [
-        "节奏快"
-      ],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "面议",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": "面议"
-      },
-      "salary": "面议",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://auxgroup.zhiye.com/campus/detail?jobAdId=1218058f-fc0e-45f1-a595-70e7d222c2f1",
       "publishedAt": "2026-08-25",
       "lastVerified": "",
       "sourceType": "official",

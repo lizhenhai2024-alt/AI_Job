@@ -1,7 +1,7 @@
 {
   "company": "京东",
   "count": 40,
-  "updatedAt": "2026-10-26T00:11:34.768Z",
+  "updatedAt": "2026-10-26T16:09:51.665Z",
   "jobs": [
     {
       "id": "jd-c662966ed333",
@@ -1406,100 +1406,6 @@
       "deadline": ""
     },
     {
-      "id": "jd-ba3b53d488a7",
-      "company": "京东",
-      "title": "招标采购",
-      "graduationYear": [
-        "2026",
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "本科",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "统招本科及以上学历",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "北京、广州、成都、杭州、上海、武汉、西安、深圳",
-      "jobDescription": "1. 集团间接性采购全流程管理：包括根据业务需求制定采购计划、跟进招采流程、输出采购结果等工作，保证物流供应、库存水平控制和成本控制，满足公司的采购要求； 2. 供应商管理：采购执行过程中投标单位的资料收集、整理与审核，组织相关考察，定期组织对供应商的执行情况进行评价； 3. 商务支持：跟进招采履约、商务结算、数据分析，及其他招采运营支持性工作； 4. AI应用探索：主动关注AI在采购领域的应用，尝试运用AI工具辅助供应商寻源、报价分析与采购数据分析，提升采购效率与透明度。",
-      "jobRequirements": "1. 2026年10月1日至2027年9月30日期间毕业，统招本科及以上学历； 2. 执行力强，良好的理解、语言表达和沟通协调能力； 3. 具有较强的学习能力、责任心、原则性和团队合作精神； 4. 熟练应用EXCEL等办公工具，有良好的信息收集和分析能力； 5. 了解并能使用AI工具（如通用对话式AI）辅助招投标文档处理及数据分析；有使用AI工具支持采购工作的经历者优先； 6. 对AI新技术保持好奇心，乐于主动学习并快速掌握新的AI知识和功能，积极拥抱新技术； 7. 符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。",
-      "JD": "1. 集团间接性采购全流程管理：包括根据业务需求制定采购计划、跟进招采流程、输出采购结果等工作，保证物流供应、库存水平控制和成本控制，满足公司的采购要求； 2. 供应商管理：采购执行过程中投标单位的资料收集、整理与审核，组织相关考察，定期组织对供应商的执行情况进行评价； 3. 商务支持：跟进招采履约、商务结算、数据分析，及其他招采运营支持性工作； 4. AI应用探索：主动关注AI在采购领域的应用，尝试运用AI工具辅助供应商寻源、报价分析与采购数据分析，提升采购效率与透明度。\n1. 2026年10月1日至2027年9月30日期间毕业，统招本科及以上学历； 2. 执行力强，良好的理解、语言表达和沟通协调能力； 3. 具有较强的学习能力、责任心、原则性和团队合作精神； 4. 熟练应用EXCEL等办公工具，有良好的信息收集和分析能力； 5. 了解并能使用AI工具（如通用对话式AI）辅助招投标文档处理及数据分析；有使用AI工具支持采购工作的经历者优先； 6. 对AI新技术保持好奇心，乐于主动学习并快速掌握新的AI知识和功能，积极拥抱新技术； 7. 符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。",
-      "jdEvidence": {
-        "source": "llm:gemini-free:gemini-3.5-flash-lite",
-        "majorClauses": [
-          "统招本科及以上学历"
-        ],
-        "eligibilityClauses": [
-          "2026年10月1日至2027年9月30日期间毕业，统招本科及以上学历"
-        ],
-        "technicalDuties": [],
-        "businessDuties": [
-          "商务测算",
-          "合同",
-          "物流执行",
-          "资料/流程"
-        ]
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [
-        "Excel",
-        "数据分析"
-      ],
-      "experienceKeywords": [
-        "运营",
-        "数据",
-        "客户"
-      ],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "京东官方2027校园招聘官网",
-      "officialURL": "https://campus.jd.com/#/jobs",
-      "publishedAt": "2026-07-23",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
       "id": "jd-94d09cbd9dfc",
       "company": "京东",
       "title": "用户运营",
@@ -1738,6 +1644,100 @@
       "preferenceTags": [
         "国际业务"
       ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "京东官方2027校园招聘官网",
+      "officialURL": "https://campus.jd.com/#/jobs",
+      "publishedAt": "2026-07-23",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "jd-ba3b53d488a7",
+      "company": "京东",
+      "title": "招标采购",
+      "graduationYear": [
+        "2026",
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "统招本科及以上学历",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "北京、广州、成都、上海、武汉、西安、深圳",
+      "jobDescription": "1. 集团间接性采购全流程管理：包括根据业务需求制定采购计划、跟进招采流程、输出采购结果等工作，保证物流供应、库存水平控制和成本控制，满足公司的采购要求； 2. 供应商管理：采购执行过程中投标单位的资料收集、整理与审核，组织相关考察，定期组织对供应商的执行情况进行评价； 3. 商务支持：跟进招采履约、商务结算、数据分析，及其他招采运营支持性工作； 4. AI应用探索：主动关注AI在采购领域的应用，尝试运用AI工具辅助供应商寻源、报价分析与采购数据分析，提升采购效率与透明度。",
+      "jobRequirements": "1. 2026年10月1日至2027年9月30日期间毕业，统招本科及以上学历； 2. 执行力强，良好的理解、语言表达和沟通协调能力； 3. 具有较强的学习能力、责任心、原则性和团队合作精神； 4. 熟练应用EXCEL等办公工具，有良好的信息收集和分析能力； 5. 了解并能使用AI工具（如通用对话式AI）辅助招投标文档处理及数据分析；有使用AI工具支持采购工作的经历者优先； 6. 对AI新技术保持好奇心，乐于主动学习并快速掌握新的AI知识和功能，积极拥抱新技术； 7. 符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。",
+      "JD": "1. 集团间接性采购全流程管理：包括根据业务需求制定采购计划、跟进招采流程、输出采购结果等工作，保证物流供应、库存水平控制和成本控制，满足公司的采购要求； 2. 供应商管理：采购执行过程中投标单位的资料收集、整理与审核，组织相关考察，定期组织对供应商的执行情况进行评价； 3. 商务支持：跟进招采履约、商务结算、数据分析，及其他招采运营支持性工作； 4. AI应用探索：主动关注AI在采购领域的应用，尝试运用AI工具辅助供应商寻源、报价分析与采购数据分析，提升采购效率与透明度。\n1. 2026年10月1日至2027年9月30日期间毕业，统招本科及以上学历； 2. 执行力强，良好的理解、语言表达和沟通协调能力； 3. 具有较强的学习能力、责任心、原则性和团队合作精神； 4. 熟练应用EXCEL等办公工具，有良好的信息收集和分析能力； 5. 了解并能使用AI工具（如通用对话式AI）辅助招投标文档处理及数据分析；有使用AI工具支持采购工作的经历者优先； 6. 对AI新技术保持好奇心，乐于主动学习并快速掌握新的AI知识和功能，积极拥抱新技术； 7. 符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。",
+      "jdEvidence": {
+        "source": "llm:gemini-free:gemini-3.5-flash-lite",
+        "majorClauses": [
+          "统招本科及以上学历"
+        ],
+        "eligibilityClauses": [
+          "2026年10月1日至2027年9月30日期间毕业，统招本科及以上学历"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "商务测算",
+          "合同",
+          "物流执行",
+          "资料/流程"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "Excel",
+        "数据分析"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "数据",
+        "客户"
+      ],
+      "preferenceTags": [],
       "riskTags": [],
       "headcount": {
         "disclosed": false,

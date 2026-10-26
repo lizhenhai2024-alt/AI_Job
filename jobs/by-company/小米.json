@@ -1,7 +1,7 @@
 {
   "company": "小米",
-  "count": 255,
-  "updatedAt": "2026-10-26T00:11:34.768Z",
+  "count": 254,
+  "updatedAt": "2026-10-26T16:09:51.665Z",
   "jobs": [
     {
       "id": "feishu-4031ce-7670882755622422835",
@@ -3635,6 +3635,104 @@
       "hasAssessmentEvidence": "E1 | 小米招聘官网FAQ | https://hr.xiaomi.com/m/campus/recruitment?tabId=3 | 2026-09-17"
     },
     {
+      "id": "feishu-4031ce-7670930864515860799",
+      "company": "小米",
+      "title": "交付运营专员-汽车",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "北京",
+      "jobDescription": "1.协助交付业务各项目管理和推进，跨部门协调和沟通； 2.协助交付业务内部流程文档化与标准制定； 3.负责内部项目的风险识别和进展监督； 4.负责新车交付业务运营改善和落地追踪。",
+      "jobRequirements": "1.热爱汽车行业，认同小米企业文化和价值观； 2.良好的沟通能力，逻辑思维清晰；具备较强的跨部门沟通协调能力； 3.英语读写流利（需对接海外团队及合同、合规类英文文件），有海外实习经验优先； 4.能熟练使用各类AI工具。",
+      "JD": "1.协助交付业务各项目管理和推进，跨部门协调和沟通； 2.协助交付业务内部流程文档化与标准制定； 3.负责内部项目的风险识别和进展监督； 4.负责新车交付业务运营改善和落地追踪。\n1.热爱汽车行业，认同小米企业文化和价值观； 2.良好的沟通能力，逻辑思维清晰；具备较强的跨部门沟通协调能力； 3.英语读写流利（需对接海外团队及合同、合规类英文文件），有海外实习经验优先； 4.能熟练使用各类AI工具。",
+      "jdEvidence": {
+        "source": "llm:gemini-free-31:gemini-3.1-flash-lite",
+        "majorClauses": [],
+        "eligibilityClauses": [],
+        "technicalDuties": [],
+        "businessDuties": [
+          "合同",
+          "跨文化沟通",
+          "资料/流程",
+          "翻译/本地化",
+          "国际业务"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语",
+        "项目管理",
+        "跨部门沟通"
+      ],
+      "experienceKeywords": [
+        "海外",
+        "运营",
+        "项目",
+        "招聘"
+      ],
+      "preferenceTags": [
+        "国际业务"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "小米官方飞书招聘",
+      "officialURL": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7670930864515860799/detail",
+      "publishedAt": "2026-08-06",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申/内推→在线测评→简历筛选→面试（2-3轮）→Offer发放",
+      "recruitmentProcessEvidence": "E1 | 小米招聘官网校招流程 | https://hr.xiaomi.com/website/campus.html | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E1 | 小米招聘官网FAQ | https://hr.xiaomi.com/m/campus/recruitment?tabId=3 | 2026-09-17"
+    },
+    {
       "id": "feishu-4031ce-7670930765983009078",
       "company": "小米",
       "title": "产品经理-战略运营方向",
@@ -4466,100 +4564,6 @@
       "annualSalary": "未披露",
       "source": "小米官方飞书招聘",
       "officialURL": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7670930864516532543/detail",
-      "publishedAt": "2026-08-06",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "网申/内推→在线测评→简历筛选→面试（2-3轮）→Offer发放",
-      "recruitmentProcessEvidence": "E1 | 小米招聘官网校招流程 | https://hr.xiaomi.com/website/campus.html | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E1 | 小米招聘官网FAQ | https://hr.xiaomi.com/m/campus/recruitment?tabId=3 | 2026-09-17"
-    },
-    {
-      "id": "feishu-4031ce-7670930725599791403",
-      "company": "小米",
-      "title": "供应链计划专员-汽车",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "本科",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "本科及以上学历，供应链管理、物流工程、工业工程、数学/统计学等相关专业优先",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "北京",
-      "jobDescription": "1、计划编制协助： 协助计划员收集销售预测与生产需求，整理并参与编制周/月度生产计划与物料需求计划（MRP）； 2、物料与库存跟踪： 跟踪关键零部件的到货进度与安全库存水位，识别潜在的缺料风险并及时发出预警； 3、库存结构优化： 协助统计呆滞物料（Slow-moving）与库存周转率，参与库存盘点与库存优化分析； 4、供应商交付对接： 协助对接零部件供应商，跟进订单确认与送货计划执行，反馈供应商交付绩效基础数据。",
-      "jobRequirements": "1、应届毕业生，本科及以上学历，供应链管理、物流工程、工业工程、数学/统计学等相关专业优先。 2、逻辑思维极强，熟练掌握 Excel 数据分析，对 MRP/ERP 原理有基础理论认知； 3、具备严谨的数理逻辑与分析预测能力，对数字变化敏感； 4、具备出色的风险预判与应变能力，面对突发缺料能冷静梳理应对方案； 5、良好的跨部门沟通意愿，能与采购、生产、仓储等多方顺畅对接。",
-      "JD": "1、计划编制协助： 协助计划员收集销售预测与生产需求，整理并参与编制周/月度生产计划与物料需求计划（MRP）； 2、物料与库存跟踪： 跟踪关键零部件的到货进度与安全库存水位，识别潜在的缺料风险并及时发出预警； 3、库存结构优化： 协助统计呆滞物料（Slow-moving）与库存周转率，参与库存盘点与库存优化分析； 4、供应商交付对接： 协助对接零部件供应商，跟进订单确认与送货计划执行，反馈供应商交付绩效基础数据。\n1、应届毕业生，本科及以上学历，供应链管理、物流工程、工业工程、数学/统计学等相关专业优先。 2、逻辑思维极强，熟练掌握 Excel 数据分析，对 MRP/ERP 原理有基础理论认知； 3、具备严谨的数理逻辑与分析预测能力，对数字变化敏感； 4、具备出色的风险预判与应变能力，面对突发缺料能冷静梳理应对方案； 5、良好的跨部门沟通意愿，能与采购、生产、仓储等多方顺畅对接。",
-      "jdEvidence": {
-        "source": "llm:deepseek:deepseek-flash",
-        "majorClauses": [
-          "本科及以上学历，供应链管理、物流工程、工业工程、数学/统计学等相关专业优先"
-        ],
-        "eligibilityClauses": [
-          "应届毕业生"
-        ],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [
-        "Excel",
-        "数据分析",
-        "跨部门沟通"
-      ],
-      "experienceKeywords": [
-        "数据",
-        "供应链",
-        "招聘",
-        "物流"
-      ],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "小米官方飞书招聘",
-      "officialURL": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7670930725599791403/detail",
       "publishedAt": "2026-08-06",
       "lastVerified": "",
       "sourceType": "official",
@@ -8811,102 +8815,6 @@
       "hasAssessmentEvidence": "E1 | 小米招聘官网FAQ | https://hr.xiaomi.com/m/campus/recruitment?tabId=3 | 2026-09-17"
     },
     {
-      "id": "feishu-4031ce-7670930463729764650",
-      "company": "小米",
-      "title": "运营专员-汽车",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "本科",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "1、应届毕业生，本科及以上学历，统计学、数据分析、物流管理、财务管理、电子商务等专业优先",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "北京",
-      "jobDescription": "1、数据报表与分析： 负责部门日报、周报及月度运营数据的收集、清洗与汇总，协助生成数据可视化图表供决策参考； 2、对账与费用结算： 协助处理物流承运商及第三方服务商的运费对账、发票审核及报销立项流程，确保账目清晰准确； 3、系统与主数据维护： 协助维护供应链/交付相关系统（ERP/TMS/WMS）的基础主数据，确保系统数据准确无误； 4、行政与流程支持： 协助整理部门 SOP（标准作业程序）文档，跟踪部门重点项目的节点落实，提供日常行政与后勤支持。",
-      "jobRequirements": "1、应届毕业生，本科及以上学历，统计学、数据分析、物流管理、财务管理、电子商务等专业优先； 2、精通 Excel（熟悉数据透视表、常用函数，会 VBA 或 Power BI/Tableau 者优先），具备良好打字与文档撰写能力； 3、极强的细心度与耐心，对数据准确性有“洁癖”； 4、优秀的学习能力，能够快速上手各类供应链软件和公司内部系统； 5、具备良好的团队协作精神，有良好的问题追踪与闭环意识。",
-      "JD": "1、数据报表与分析： 负责部门日报、周报及月度运营数据的收集、清洗与汇总，协助生成数据可视化图表供决策参考； 2、对账与费用结算： 协助处理物流承运商及第三方服务商的运费对账、发票审核及报销立项流程，确保账目清晰准确； 3、系统与主数据维护： 协助维护供应链/交付相关系统（ERP/TMS/WMS）的基础主数据，确保系统数据准确无误； 4、行政与流程支持： 协助整理部门 SOP（标准作业程序）文档，跟踪部门重点项目的节点落实，提供日常行政与后勤支持。\n1、应届毕业生，本科及以上学历，统计学、数据分析、物流管理、财务管理、电子商务等专业优先； 2、精通 Excel（熟悉数据透视表、常用函数，会 VBA 或 Power BI/Tableau 者优先），具备良好打字与文档撰写能力； 3、极强的细心度与耐心，对数据准确性有“洁癖”； 4、优秀的学习能力，能够快速上手各类供应链软件和公司内部系统； 5、具备良好的团队协作精神，有良好的问题追踪与闭环意识。",
-      "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [
-          "1、应届毕业生，本科及以上学历，统计学、数据分析、物流管理、财务管理、电子商务等专业优先"
-        ],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [
-        "Excel",
-        "数据分析"
-      ],
-      "experienceKeywords": [
-        "运营",
-        "项目",
-        "数据",
-        "供应链",
-        "招聘",
-        "商务",
-        "物流"
-      ],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "小米官方飞书招聘",
-      "officialURL": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7670930463729764650/detail",
-      "publishedAt": "2026-08-06",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "网申/内推→在线测评→简历筛选→面试（2-3轮）→Offer发放",
-      "recruitmentProcessEvidence": "E1 | 小米招聘官网校招流程 | https://hr.xiaomi.com/website/campus.html | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E1 | 小米招聘官网FAQ | https://hr.xiaomi.com/m/campus/recruitment?tabId=3 | 2026-09-17"
-    },
-    {
       "id": "feishu-4031ce-7670928601491786003",
       "company": "小米",
       "title": "资源开发专员",
@@ -10952,9 +10860,9 @@
       "hasAssessmentEvidence": "E1 | 小米招聘官网FAQ | https://hr.xiaomi.com/m/campus/recruitment?tabId=3 | 2026-09-17"
     },
     {
-      "id": "feishu-4031ce-7670930864515860799",
+      "id": "feishu-4031ce-7670930463729764650",
       "company": "小米",
-      "title": "交付运营专员-汽车",
+      "title": "运营专员-汽车",
       "graduationYear": [
         "2027"
       ],
@@ -10964,11 +10872,9 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "大学本科及以上学历，英文能够作为工作语言；供应链管理、物流管理等相关专业，对供应链、物流基础知识有一定的认知和了解",
-        "hardRestriction": true,
-        "hardClauses": [
-          "供应链管理、物流管理等相关专业"
-        ]
+        "raw": "1、应届毕业生，本科及以上学历，专业不限；国际贸易、市场营销、汽车工程、工商管理等相关专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -10976,18 +10882,24 @@
         "minorLanguageRequired": false
       },
       "location": "北京",
-      "jobDescription": "1、负责配件供应链体系文件归档管理； 2、负责配件采购、调拨计划、配件物流运营数据收集和统计分析； 3、负责配件运营改善对策制定和改善跟踪； 4、负责配件运营管理报告制定。",
-      "jobRequirements": "1、大学本科及以上学历，英文能够作为工作语言； 2、供应链管理、物流管理等相关专业，对供应链、物流基础知识有一定的认知和了解； 3、热爱汽车行业，认同小米企业文化和价值观； 4、良好的沟通能力，逻辑思维清晰； 5、能熟练操作office办公软件。",
-      "JD": "1、负责配件供应链体系文件归档管理； 2、负责配件采购、调拨计划、配件物流运营数据收集和统计分析； 3、负责配件运营改善对策制定和改善跟踪； 4、负责配件运营管理报告制定。\n1、大学本科及以上学历，英文能够作为工作语言； 2、供应链管理、物流管理等相关专业，对供应链、物流基础知识有一定的认知和了解； 3、热爱汽车行业，认同小米企业文化和价值观； 4、良好的沟通能力，逻辑思维清晰； 5、能熟练操作office办公软件。",
+      "jobDescription": "1、协助完成汽车出海业务相关的日常运营事务，包括会议组织、日程协调、文档整理与归档等。 2、参与培训及新人导入的流程梳理，协助撰写、翻译及优化相关的方案/SOP/运营管理文档等中英文材料。 3、协助培训项目的策划与落地，包括培训需求收集、课程排期、讲师协调、材料准备、现场组织（线上/线下）、培训后反馈收集及数据统计等。 4、配合项目组各部门完成信息收集与同步、任务推进，跟进重点事项的落实进度。 5、协助完成汽车出海项目阶段性任务，如海外市场调研筹备、行程安排、供应商沟通、翻译与本地化内容整理等。 6、根据领导安排，完成与汽车出海业务相关的其他支持性工作。",
+      "jobRequirements": "1、应届毕业生，本科及以上学历，专业不限。国际贸易、市场营销、汽车工程、工商管理等相关专业优先。 2、具备良好的英语读写及日常工作沟通能力，能熟练处理英文资料及邮件；掌握第二外语者优先。 3、熟练使用Office办公软件，具备基本的数据处理、海报制作、视频制作、AI能力。 4、细致耐心，责任心强，具备较好的执行力，有良好的问题追踪和闭环意识；主动学习，能够快速上手，逻辑清晰，善于沟通与团队协作；有活动组织、培训支持、社团或班级事务经验者优先；对汽车行业或海外业务感兴趣，有相关实习或项目经验者优先。",
+      "JD": "1、协助完成汽车出海业务相关的日常运营事务，包括会议组织、日程协调、文档整理与归档等。 2、参与培训及新人导入的流程梳理，协助撰写、翻译及优化相关的方案/SOP/运营管理文档等中英文材料。 3、协助培训项目的策划与落地，包括培训需求收集、课程排期、讲师协调、材料准备、现场组织（线上/线下）、培训后反馈收集及数据统计等。 4、配合项目组各部门完成信息收集与同步、任务推进，跟进重点事项的落实进度。 5、协助完成汽车出海项目阶段性任务，如海外市场调研筹备、行程安排、供应商沟通、翻译与本地化内容整理等。 6、根据领导安排，完成与汽车出海业务相关的其他支持性工作。\n1、应届毕业生，本科及以上学历，专业不限。国际贸易、市场营销、汽车工程、工商管理等相关专业优先。 2、具备良好的英语读写及日常工作沟通能力，能熟练处理英文资料及邮件；掌握第二外语者优先。 3、熟练使用Office办公软件，具备基本的数据处理、海报制作、视频制作、AI能力。 4、细致耐心，责任心强，具备较好的执行力，有良好的问题追踪和闭环意识；主动学习，能够快速上手，逻辑清晰，善于沟通与团队协作；有活动组织、培训支持、社团或班级事务经验者优先；对汽车行业或海外业务感兴趣，有相关实习或项目经验者优先。",
       "jdEvidence": {
-        "source": "llm:deepseek:deepseek-flash",
+        "source": "regex-v1",
         "majorClauses": [
-          "大学本科及以上学历，英文能够作为工作语言",
-          "供应链管理、物流管理等相关专业，对供应链、物流基础知识有一定的认知和了解"
+          "1、应届毕业生，本科及以上学历，专业不限",
+          "国际贸易、市场营销、汽车工程、工商管理等相关专业优先"
         ],
-        "eligibilityClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
         "technicalDuties": [],
-        "businessDuties": []
+        "businessDuties": [
+          "资料/流程",
+          "翻译/本地化",
+          "国际业务"
+        ]
       },
       "roleFamily": [
         "其他"
@@ -10996,13 +10908,20 @@
         "英语"
       ],
       "experienceKeywords": [
+        "海外",
         "运营",
+        "内容",
+        "项目",
+        "市场",
         "数据",
-        "供应链",
-        "招聘",
-        "物流"
+        "营销",
+        "招聘"
       ],
-      "preferenceTags": [],
+      "preferenceTags": [
+        "国际业务",
+        "跨文化",
+        "出海"
+      ],
       "riskTags": [],
       "headcount": {
         "disclosed": false,
@@ -11035,7 +10954,7 @@
       "monthlySalary": "未披露",
       "annualSalary": "未披露",
       "source": "小米官方飞书招聘",
-      "officialURL": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7670930864515860799/detail",
+      "officialURL": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7670930463729764650/detail",
       "publishedAt": "2026-08-06",
       "lastVerified": "",
       "sourceType": "official",

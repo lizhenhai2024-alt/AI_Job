@@ -1,7 +1,7 @@
 {
   "company": "零跑汽车",
-  "count": 42,
-  "updatedAt": "2026-10-26T00:11:34.768Z",
+  "count": 43,
+  "updatedAt": "2026-10-26T16:09:51.665Z",
   "jobs": [
     {
       "id": "beisen-c36e90eb3861",
@@ -1116,6 +1116,99 @@
       "source": "公司官方北森校招官网",
       "officialURL": "https://leapmotor.zhiye.com/campus/detail?jobAdId=49c636ff-176c-41bb-8259-32a815856c2d",
       "publishedAt": "2026-09-23",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申/内推→测评/笔试（以岗位需求为准）→面试（初复试）→OFFER/三方（10月开启）",
+      "recruitmentProcessEvidence": "E2 | 零跑汽车官方校招门户 | https://leapmotor.zhiye.com/campus | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E1 | 零跑汽车官方校招Q&A | https://leapmotor.zhiye.com/intern | 2026-09-17"
+    },
+    {
+      "id": "beisen-1e34d914591f",
+      "company": "零跑汽车",
+      "title": "校招-物流工程师（设变方向）(J18266)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1、全日制本科及以上学历，物流管理相关专业，英语口语良好",
+        "hardRestriction": true,
+        "hardClauses": [
+          "物流管理相关专业"
+        ]
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "浙江省·金华市·金东区",
+      "jobDescription": "负责物流制造变更管理及试装管理工作。 • 负责变更管理的流程体系及制度规范的制定； • 负责设计变更全过程的管控，推进及追踪设计变更问题协调； • 负责车型项目PPV阶段后设变信息的管理、风险识别。 • 负责车型项目PPV阶段后物流模块变更工作跟踪汇报。 • 负责按变更实施方案，协调推动试装和断点物料准确完成； • 负责制造变更和临时变更单物流内部传递，保证切换信息及时传达； • 负责对各专业进行变更流程业务培训，变更管理系统的应用支持。 • 负责物流IT系统业务规划，配合IT对SAP、MSE、WMS系统进行二次开发。 • 上级交办其它事项",
+      "jobRequirements": "1、全日制本科及以上学历，物流管理相关专业，英语口语良好。 2、了解仓储基础管理、工程变更管理相关知识； 3、办公软件（SAP/MES/WMS等系统操作；、Excel、Word、PPT）工具",
+      "JD": "负责物流制造变更管理及试装管理工作。 • 负责变更管理的流程体系及制度规范的制定； • 负责设计变更全过程的管控，推进及追踪设计变更问题协调； • 负责车型项目PPV阶段后设变信息的管理、风险识别。 • 负责车型项目PPV阶段后物流模块变更工作跟踪汇报。 • 负责按变更实施方案，协调推动试装和断点物料准确完成； • 负责制造变更和临时变更单物流内部传递，保证切换信息及时传达； • 负责对各专业进行变更流程业务培训，变更管理系统的应用支持。 • 负责物流IT系统业务规划，配合IT对SAP、MSE、WMS系统进行二次开发。 • 上级交办其它事项\n1、全日制本科及以上学历，物流管理相关专业，英语口语良好。 2、了解仓储基础管理、工程变更管理相关知识； 3、办公软件（SAP/MES/WMS等系统操作；、Excel、Word、PPT）工具",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、全日制本科及以上学历，物流管理相关专业，英语口语良好"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语",
+        "Excel",
+        "PPT"
+      ],
+      "experienceKeywords": [
+        "项目"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "2",
+        "min": 2,
+        "max": 2,
+        "scope": "job",
+        "display": "2人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "2 2 负责物流制造变更管理及试装管理工作。 • 负责变更管理的流程体系及制度规范的制定；"
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "7K-9K 元/月",
+        "monthlyMin": 7000,
+        "monthlyMax": 9000,
+        "annualMin": 84000,
+        "annualMax": 108000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "7k–9k/月",
+        "annualDisplay": "8.4万–10.8万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "7K-9K 元/月 公司官方北森校招岗位；识别关键词：英语、Exc"
+      },
+      "salary": "7K-9K 元/月",
+      "monthlySalary": "7k–9k/月",
+      "annualSalary": "8.4万–10.8万/年（按12薪推算）",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://leapmotor.zhiye.com/campus/detail?jobAdId=12b937bf-001a-49f9-8216-7542a39cd9fc",
+      "publishedAt": "2026-08-28",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "",
