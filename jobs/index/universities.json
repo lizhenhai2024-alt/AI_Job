@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-25T01:19:58.683Z",
+  "updatedAt": "2026-10-26T01:23:36.695Z",
   "totalUniversities": 12,
   "universities": [
     {
@@ -26,7 +26,7 @@
       "segments": [
         "外语外贸特色高校"
       ],
-      "count": 11,
+      "count": 9,
       "file": "jobs/by-university/广东外语外贸大学.json"
     },
     {
@@ -36,7 +36,7 @@
         "211",
         "双一流"
       ],
-      "count": 61,
+      "count": 62,
       "file": "jobs/by-university/湖南大学.json"
     },
     {
@@ -113,7 +113,7 @@
         "211",
         "双一流"
       ],
-      "count": 2,
+      "count": 4,
       "file": "jobs/by-university/中山大学.json"
     }
   ]
