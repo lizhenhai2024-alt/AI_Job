@@ -74,7 +74,7 @@ export const sourceDiscovery = [
     "officialUrl": "https://polyharmony.zhiye.com/",
     "reason": "高校详情页明确给出北森招聘入口；等价官方源已存在",
     "attempts": 0,
-    "lastCheckedAt": "2026-10-26T20:30:45.022Z",
+    "lastCheckedAt": "2026-10-27T01:32:50.607Z",
     "nextCheckAfter": ""
   },
   {
@@ -758,6 +758,17 @@ export const sourceDiscovery = [
     "attempts": 11,
     "lastCheckedAt": "2026-09-10T12:55:11.942Z",
     "nextCheckAfter": "2026-09-13T12:55:11.942Z"
+  },
+  {
+    "name": "平安银行股份有限公司北京分行",
+    "status": "高校自动发现",
+    "state": "needs_adapter",
+    "provider": "",
+    "officialUrl": "https://campus.pingan.com/pabbj/position",
+    "reason": "已发现公司官方招聘入口，但当前站点 campus.pingan.com 尚无自动抓取适配器",
+    "attempts": 0,
+    "lastCheckedAt": "2026-10-27T01:32:50.607Z",
+    "nextCheckAfter": "2026-10-28T01:32:50.611Z"
   },
   {
     "name": "奇安信",
@@ -1554,7 +1565,7 @@ export const sourceDiscovery = [
 ];
 
 export const sourceDiscoveryMeta = {
-  "updatedAt": "2026-10-26T23:53:19.005Z",
+  "updatedAt": "2026-10-27T01:32:50.607Z",
   "lastRun": {
     "processed": 12,
     "sourcesAdded": 0,

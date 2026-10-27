@@ -1,7 +1,7 @@
 {
   "company": "中国人寿",
   "count": 392,
-  "updatedAt": "2026-10-26T20:30:49.361Z",
+  "updatedAt": "2026-10-27T01:32:53.194Z",
   "jobs": [
     {
       "id": "beisen-7f7410a39b95",
@@ -4473,91 +4473,6 @@
       "deadline": ""
     },
     {
-      "id": "beisen-bc4d1cdd1c7f",
-      "company": "中国人寿",
-      "title": "人力资源岗(朔州市本部)",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "本科",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "大学本科及以上学历应届毕业生。；具有人力资源管理师或相关专业的资格证书者优先。",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "山西省·朔州市",
-      "jobDescription": "工作职责： 1.负责所在省、市公司的机构与编制管理工作，修改及完善人员管理、用工管理制度和管理流程，并监督执行情况； 2.负责员工管理工作，包括员工绩效、薪酬、福利、教育培训等相关工作，员工劳动合同签订、入职、离职、转正、晋升等； 3.负责行政管理工作，文档及档案管理、会议管理、日常接待外联等及公司领导批示、决议及交办事项的协调、催办及督办工作； 4.负责品牌宣传类工作，品牌宣传方案制定、规划、组织实施及效果评估。",
-      "jobRequirements": "资格要求： 1.大学本科及以上学历应届毕业生。 2.具备良好的组织沟通和协调能力、强烈的责任心及良好的职业操守。 3.具有人力资源管理师或相关专业的资格证书者优先。 4.学生干部、社团负责人优先；具有大型企业实习经验者优先；具有相关科研项目经验者优先。",
-      "JD": "工作职责： 1.负责所在省、市公司的机构与编制管理工作，修改及完善人员管理、用工管理制度和管理流程，并监督执行情况； 2.负责员工管理工作，包括员工绩效、薪酬、福利、教育培训等相关工作，员工劳动合同签订、入职、离职、转正、晋升等； 3.负责行政管理工作，文档及档案管理、会议管理、日常接待外联等及公司领导批示、决议及交办事项的协调、催办及督办工作； 4.负责品牌宣传类工作，品牌宣传方案制定、规划、组织实施及效果评估。\n资格要求： 1.大学本科及以上学历应届毕业生。 2.具备良好的组织沟通和协调能力、强烈的责任心及良好的职业操守。 3.具有人力资源管理师或相关专业的资格证书者优先。 4.学生干部、社团负责人优先；具有大型企业实习经验者优先；具有相关科研项目经验者优先。",
-      "jdEvidence": {
-        "source": "llm:deepseek:deepseek-flash",
-        "majorClauses": [
-          "大学本科及以上学历应届毕业生。",
-          "具有人力资源管理师或相关专业的资格证书者优先。"
-        ],
-        "eligibilityClauses": [
-          "大学本科及以上学历应届毕业生。"
-        ],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "HR"
-      ],
-      "skills": [],
-      "experienceKeywords": [
-        "项目",
-        "品牌"
-      ],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": true,
-        "raw": "1",
-        "min": 1,
-        "max": 1,
-        "scope": "job",
-        "display": "1人",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "high",
-        "evidence": "1 1 工作职责： 1.负责所在省、市公司的机构与编制管理工作，修改及完善人员管理、用工管"
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "面议",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": "面议"
-      },
-      "salary": "面议",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://chinalife.zhiye.com/campus/detail?jobAdId=0cb2cbaa-72a9-4d57-a933-2f5f577d5904",
-      "publishedAt": "2026-09-08",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
       "id": "beisen-617c16f348bb",
       "company": "中国人寿",
       "title": "市场拓展岗（营销）（克山）",
@@ -7850,6 +7765,91 @@
       "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://chinalife.zhiye.com/campus/detail?jobAdId=eb0a06c5-351b-4877-ad30-2920dc4db4bf",
+      "publishedAt": "2026-09-08",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-bc4d1cdd1c7f",
+      "company": "中国人寿",
+      "title": "人力资源岗(朔州市本部)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "大学本科及以上学历应届毕业生。；具有人力资源管理师或相关专业的资格证书者优先。",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "山西省·朔州市",
+      "jobDescription": "工作职责： 1.负责所在省、市公司的机构与编制管理工作，修改及完善人员管理、用工管理制度和管理流程，并监督执行情况； 2.负责员工管理工作，包括员工绩效、薪酬、福利、教育培训等相关工作，员工劳动合同签订、入职、离职、转正、晋升等； 3.负责行政管理工作，文档及档案管理、会议管理、日常接待外联等及公司领导批示、决议及交办事项的协调、催办及督办工作； 4.负责品牌宣传类工作，品牌宣传方案制定、规划、组织实施及效果评估。",
+      "jobRequirements": "资格要求： 1.大学本科及以上学历应届毕业生。 2.具备良好的组织沟通和协调能力、强烈的责任心及良好的职业操守。 3.具有人力资源管理师或相关专业的资格证书者优先。 4.学生干部、社团负责人优先；具有大型企业实习经验者优先；具有相关科研项目经验者优先。",
+      "JD": "工作职责： 1.负责所在省、市公司的机构与编制管理工作，修改及完善人员管理、用工管理制度和管理流程，并监督执行情况； 2.负责员工管理工作，包括员工绩效、薪酬、福利、教育培训等相关工作，员工劳动合同签订、入职、离职、转正、晋升等； 3.负责行政管理工作，文档及档案管理、会议管理、日常接待外联等及公司领导批示、决议及交办事项的协调、催办及督办工作； 4.负责品牌宣传类工作，品牌宣传方案制定、规划、组织实施及效果评估。\n资格要求： 1.大学本科及以上学历应届毕业生。 2.具备良好的组织沟通和协调能力、强烈的责任心及良好的职业操守。 3.具有人力资源管理师或相关专业的资格证书者优先。 4.学生干部、社团负责人优先；具有大型企业实习经验者优先；具有相关科研项目经验者优先。",
+      "jdEvidence": {
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "大学本科及以上学历应届毕业生。",
+          "具有人力资源管理师或相关专业的资格证书者优先。"
+        ],
+        "eligibilityClauses": [
+          "大学本科及以上学历应届毕业生。"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "HR"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "项目",
+        "品牌"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 工作职责： 1.负责所在省、市公司的机构与编制管理工作，修改及完善人员管理、用工管"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://chinalife.zhiye.com/campus/detail?jobAdId=0cb2cbaa-72a9-4d57-a933-2f5f577d5904",
       "publishedAt": "2026-09-08",
       "lastVerified": "",
       "sourceType": "official",
@@ -13520,89 +13520,6 @@
       "deadline": ""
     },
     {
-      "id": "beisen-a7afe09b9d57",
-      "company": "中国人寿",
-      "title": "营销管理岗(省本部)",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "本科",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "大学本科及以上学历应届毕业生。",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "山西省·太原市",
-      "jobDescription": "工作职责： 1.制定方案企划，推动销售产品策略组织实施，提升销售组织运作能力； 2.研发推广人力发展技术体系，制定队伍建设方案及配套资源，销售队伍招募、育成、晋升全流程管理与支撑； 3.推动制度执行管控和制度经营，激发队伍发展内生动力，提升执行效率； 4.夯实基层单位管理基础，推进规范化管理流程，提升专业化经营水平。",
-      "jobRequirements": "资格要求： 1.大学本科及以上学历应届毕业生。 2.具备良好的组织沟通和协调能力、强烈的责任心及良好的职业操守。 3.学生干部、社团负责人优先。 4.具有大型企业实习经验者或者具有保险行业实习经验者优先。",
-      "JD": "工作职责： 1.制定方案企划，推动销售产品策略组织实施，提升销售组织运作能力； 2.研发推广人力发展技术体系，制定队伍建设方案及配套资源，销售队伍招募、育成、晋升全流程管理与支撑； 3.推动制度执行管控和制度经营，激发队伍发展内生动力，提升执行效率； 4.夯实基层单位管理基础，推进规范化管理流程，提升专业化经营水平。\n资格要求： 1.大学本科及以上学历应届毕业生。 2.具备良好的组织沟通和协调能力、强烈的责任心及良好的职业操守。 3.学生干部、社团负责人优先。 4.具有大型企业实习经验者或者具有保险行业实习经验者优先。",
-      "jdEvidence": {
-        "source": "llm:deepseek:deepseek-flash",
-        "majorClauses": [
-          "大学本科及以上学历应届毕业生。"
-        ],
-        "eligibilityClauses": [
-          "大学本科及以上学历应届毕业生。"
-        ],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [],
-      "experienceKeywords": [
-        "营销"
-      ],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": true,
-        "raw": "2",
-        "min": 2,
-        "max": 2,
-        "scope": "job",
-        "display": "2人",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "high",
-        "evidence": "2 2 工作职责： 1.制定方案企划，推动销售产品策略组织实施，提升销售组织运作能力； 2"
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "面议",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": "面议"
-      },
-      "salary": "面议",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://chinalife.zhiye.com/campus/detail?jobAdId=6ea163ad-8c42-43a1-9c85-748d1ec4330c",
-      "publishedAt": "2026-09-08",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
       "id": "beisen-a5e469621d85",
       "company": "中国人寿",
       "title": "营销管理岗",
@@ -14014,89 +13931,6 @@
       "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://chinalife.zhiye.com/campus/detail?jobAdId=5b8553cb-c3b4-4c23-887b-45cceaccf26c",
-      "publishedAt": "2026-09-08",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "beisen-416868a0c848",
-      "company": "中国人寿",
-      "title": "营销管理岗(朔州右玉)",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "本科",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "大学本科及以上学历应届毕业生",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "山西省·朔州市",
-      "jobDescription": "工作职责： 1.制定方案企划，推动销售产品策略组织实施，提升销售组织运作能力； 2.研发推广人力发展技术体系，制定队伍建设方案及配套资源，销售队伍招募、育成、晋升全流程管理与支撑； 3.推动制度执行管控和制度经营，激发队伍发展内生动力，提升执行效率； 4.夯实基层单位管理基础，推进规范化管理流程，提升专业化经营水平。",
-      "jobRequirements": "资格要求： 1.大学本科及以上学历应届毕业生。 2.具备良好的组织沟通和协调能力、强烈的责任心及良好的职业操守。 3.学生干部、社团负责人优先。 4.具有大型企业实习经验者或者具有保险行业实习经验者优先。",
-      "JD": "工作职责： 1.制定方案企划，推动销售产品策略组织实施，提升销售组织运作能力； 2.研发推广人力发展技术体系，制定队伍建设方案及配套资源，销售队伍招募、育成、晋升全流程管理与支撑； 3.推动制度执行管控和制度经营，激发队伍发展内生动力，提升执行效率； 4.夯实基层单位管理基础，推进规范化管理流程，提升专业化经营水平。\n资格要求： 1.大学本科及以上学历应届毕业生。 2.具备良好的组织沟通和协调能力、强烈的责任心及良好的职业操守。 3.学生干部、社团负责人优先。 4.具有大型企业实习经验者或者具有保险行业实习经验者优先。",
-      "jdEvidence": {
-        "source": "llm:deepseek:deepseek-flash",
-        "majorClauses": [
-          "大学本科及以上学历应届毕业生"
-        ],
-        "eligibilityClauses": [
-          "大学本科及以上学历应届毕业生"
-        ],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [],
-      "experienceKeywords": [
-        "营销"
-      ],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": true,
-        "raw": "1",
-        "min": 1,
-        "max": 1,
-        "scope": "job",
-        "display": "1人",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "high",
-        "evidence": "1 1 工作职责： 1.制定方案企划，推动销售产品策略组织实施，提升销售组织运作能力； 2"
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "面议",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": "面议"
-      },
-      "salary": "面议",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://chinalife.zhiye.com/campus/detail?jobAdId=e0cf4419-8922-4477-b25e-144a1fda60b5",
       "publishedAt": "2026-09-08",
       "lastVerified": "",
       "sourceType": "official",
@@ -14767,89 +14601,6 @@
       "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://chinalife.zhiye.com/campus/detail?jobAdId=a5533bf7-1ff7-4320-9e0e-db077c41364b",
-      "publishedAt": "2026-09-08",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "beisen-535cfaf1a3e7",
-      "company": "中国人寿",
-      "title": "营销管理岗(晋中寿阳)",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "本科",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "大学本科及以上学历应届毕业生。",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "山西省·晋中市",
-      "jobDescription": "工作职责： 1.制定方案企划，推动销售产品策略组织实施，提升销售组织运作能力； 2.研发推广人力发展技术体系，制定队伍建设方案及配套资源，销售队伍招募、育成、晋升全流程管理与支撑； 3.推动制度执行管控和制度经营，激发队伍发展内生动力，提升执行效率； 4.夯实基层单位管理基础，推进规范化管理流程，提升专业化经营水平。",
-      "jobRequirements": "资格要求： 1.大学本科及以上学历应届毕业生。 2.具备良好的组织沟通和协调能力、强烈的责任心及良好的职业操守。 3.学生干部、社团负责人优先。 4.具有大型企业实习经验者或者具有保险行业实习经验者优先。",
-      "JD": "工作职责： 1.制定方案企划，推动销售产品策略组织实施，提升销售组织运作能力； 2.研发推广人力发展技术体系，制定队伍建设方案及配套资源，销售队伍招募、育成、晋升全流程管理与支撑； 3.推动制度执行管控和制度经营，激发队伍发展内生动力，提升执行效率； 4.夯实基层单位管理基础，推进规范化管理流程，提升专业化经营水平。\n资格要求： 1.大学本科及以上学历应届毕业生。 2.具备良好的组织沟通和协调能力、强烈的责任心及良好的职业操守。 3.学生干部、社团负责人优先。 4.具有大型企业实习经验者或者具有保险行业实习经验者优先。",
-      "jdEvidence": {
-        "source": "llm:deepseek:deepseek-flash",
-        "majorClauses": [
-          "大学本科及以上学历应届毕业生。"
-        ],
-        "eligibilityClauses": [
-          "大学本科及以上学历应届毕业生。"
-        ],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [],
-      "experienceKeywords": [
-        "营销"
-      ],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": true,
-        "raw": "1",
-        "min": 1,
-        "max": 1,
-        "scope": "job",
-        "display": "1人",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "high",
-        "evidence": "1 1 工作职责： 1.制定方案企划，推动销售产品策略组织实施，提升销售组织运作能力； 2"
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "面议",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": "面议"
-      },
-      "salary": "面议",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://chinalife.zhiye.com/campus/detail?jobAdId=4e2f108e-67d5-4f77-92cd-ef0e7e3f2afb",
       "publishedAt": "2026-09-08",
       "lastVerified": "",
       "sourceType": "official",
@@ -16780,6 +16531,255 @@
       "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://chinalife.zhiye.com/campus/detail?jobAdId=b3a67afa-7cf0-4ecb-a595-3da754a8a17f",
+      "publishedAt": "2026-09-08",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-a7afe09b9d57",
+      "company": "中国人寿",
+      "title": "营销管理岗(省本部)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "大学本科及以上学历应届毕业生。",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "山西省·太原市",
+      "jobDescription": "工作职责： 1.制定方案企划，推动销售产品策略组织实施，提升销售组织运作能力； 2.研发推广人力发展技术体系，制定队伍建设方案及配套资源，销售队伍招募、育成、晋升全流程管理与支撑； 3.推动制度执行管控和制度经营，激发队伍发展内生动力，提升执行效率； 4.夯实基层单位管理基础，推进规范化管理流程，提升专业化经营水平。",
+      "jobRequirements": "资格要求： 1.大学本科及以上学历应届毕业生。 2.具备良好的组织沟通和协调能力、强烈的责任心及良好的职业操守。 3.学生干部、社团负责人优先。 4.具有大型企业实习经验者或者具有保险行业实习经验者优先。",
+      "JD": "工作职责： 1.制定方案企划，推动销售产品策略组织实施，提升销售组织运作能力； 2.研发推广人力发展技术体系，制定队伍建设方案及配套资源，销售队伍招募、育成、晋升全流程管理与支撑； 3.推动制度执行管控和制度经营，激发队伍发展内生动力，提升执行效率； 4.夯实基层单位管理基础，推进规范化管理流程，提升专业化经营水平。\n资格要求： 1.大学本科及以上学历应届毕业生。 2.具备良好的组织沟通和协调能力、强烈的责任心及良好的职业操守。 3.学生干部、社团负责人优先。 4.具有大型企业实习经验者或者具有保险行业实习经验者优先。",
+      "jdEvidence": {
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "大学本科及以上学历应届毕业生。"
+        ],
+        "eligibilityClauses": [
+          "大学本科及以上学历应届毕业生。"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "营销"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "2",
+        "min": 2,
+        "max": 2,
+        "scope": "job",
+        "display": "2人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "2 2 工作职责： 1.制定方案企划，推动销售产品策略组织实施，提升销售组织运作能力； 2"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://chinalife.zhiye.com/campus/detail?jobAdId=6ea163ad-8c42-43a1-9c85-748d1ec4330c",
+      "publishedAt": "2026-09-08",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-416868a0c848",
+      "company": "中国人寿",
+      "title": "营销管理岗(朔州右玉)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "大学本科及以上学历应届毕业生",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "山西省·朔州市",
+      "jobDescription": "工作职责： 1.制定方案企划，推动销售产品策略组织实施，提升销售组织运作能力； 2.研发推广人力发展技术体系，制定队伍建设方案及配套资源，销售队伍招募、育成、晋升全流程管理与支撑； 3.推动制度执行管控和制度经营，激发队伍发展内生动力，提升执行效率； 4.夯实基层单位管理基础，推进规范化管理流程，提升专业化经营水平。",
+      "jobRequirements": "资格要求： 1.大学本科及以上学历应届毕业生。 2.具备良好的组织沟通和协调能力、强烈的责任心及良好的职业操守。 3.学生干部、社团负责人优先。 4.具有大型企业实习经验者或者具有保险行业实习经验者优先。",
+      "JD": "工作职责： 1.制定方案企划，推动销售产品策略组织实施，提升销售组织运作能力； 2.研发推广人力发展技术体系，制定队伍建设方案及配套资源，销售队伍招募、育成、晋升全流程管理与支撑； 3.推动制度执行管控和制度经营，激发队伍发展内生动力，提升执行效率； 4.夯实基层单位管理基础，推进规范化管理流程，提升专业化经营水平。\n资格要求： 1.大学本科及以上学历应届毕业生。 2.具备良好的组织沟通和协调能力、强烈的责任心及良好的职业操守。 3.学生干部、社团负责人优先。 4.具有大型企业实习经验者或者具有保险行业实习经验者优先。",
+      "jdEvidence": {
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "大学本科及以上学历应届毕业生"
+        ],
+        "eligibilityClauses": [
+          "大学本科及以上学历应届毕业生"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "营销"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 工作职责： 1.制定方案企划，推动销售产品策略组织实施，提升销售组织运作能力； 2"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://chinalife.zhiye.com/campus/detail?jobAdId=e0cf4419-8922-4477-b25e-144a1fda60b5",
+      "publishedAt": "2026-09-08",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-535cfaf1a3e7",
+      "company": "中国人寿",
+      "title": "营销管理岗(晋中寿阳)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "大学本科及以上学历应届毕业生。",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "山西省·晋中市",
+      "jobDescription": "工作职责： 1.制定方案企划，推动销售产品策略组织实施，提升销售组织运作能力； 2.研发推广人力发展技术体系，制定队伍建设方案及配套资源，销售队伍招募、育成、晋升全流程管理与支撑； 3.推动制度执行管控和制度经营，激发队伍发展内生动力，提升执行效率； 4.夯实基层单位管理基础，推进规范化管理流程，提升专业化经营水平。",
+      "jobRequirements": "资格要求： 1.大学本科及以上学历应届毕业生。 2.具备良好的组织沟通和协调能力、强烈的责任心及良好的职业操守。 3.学生干部、社团负责人优先。 4.具有大型企业实习经验者或者具有保险行业实习经验者优先。",
+      "JD": "工作职责： 1.制定方案企划，推动销售产品策略组织实施，提升销售组织运作能力； 2.研发推广人力发展技术体系，制定队伍建设方案及配套资源，销售队伍招募、育成、晋升全流程管理与支撑； 3.推动制度执行管控和制度经营，激发队伍发展内生动力，提升执行效率； 4.夯实基层单位管理基础，推进规范化管理流程，提升专业化经营水平。\n资格要求： 1.大学本科及以上学历应届毕业生。 2.具备良好的组织沟通和协调能力、强烈的责任心及良好的职业操守。 3.学生干部、社团负责人优先。 4.具有大型企业实习经验者或者具有保险行业实习经验者优先。",
+      "jdEvidence": {
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "大学本科及以上学历应届毕业生。"
+        ],
+        "eligibilityClauses": [
+          "大学本科及以上学历应届毕业生。"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "营销"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 工作职责： 1.制定方案企划，推动销售产品策略组织实施，提升销售组织运作能力； 2"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://chinalife.zhiye.com/campus/detail?jobAdId=4e2f108e-67d5-4f77-92cd-ef0e7e3f2afb",
       "publishedAt": "2026-09-08",
       "lastVerified": "",
       "sourceType": "official",
@@ -29037,87 +29037,6 @@
       "deadline": ""
     },
     {
-      "id": "beisen-65895962b3d4",
-      "company": "中国人寿",
-      "title": "法律与风险管理岗(阳泉市本部)",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "本科",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "大学本科及以上学历应届毕业生",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "山西省·阳泉市",
-      "jobDescription": "工作职责： 1.负责协调公司合规工作，完成监管机构的合规要求及日常报告； 2.根据监管机构要求，撰写相关汇报文件及报告； 3.评估公司潜在的合规风险及内部监控的不足，及时提出有效而可行的方案； 4.协助制定及推行公司内部的合规、风险控制政策及规定； 5.审查公司各项经营活动是否符合法律、法规、监管规定以及公司内部各项规定。",
-      "jobRequirements": "资格要求： 1.大学本科及以上学历应届毕业生。 2.具备良好的组织沟通、协调和表达能力、具有强烈的责任心及良好的职业操守。 3.具有耐心细致的工作态度和一定的承压能力。",
-      "JD": "工作职责： 1.负责协调公司合规工作，完成监管机构的合规要求及日常报告； 2.根据监管机构要求，撰写相关汇报文件及报告； 3.评估公司潜在的合规风险及内部监控的不足，及时提出有效而可行的方案； 4.协助制定及推行公司内部的合规、风险控制政策及规定； 5.审查公司各项经营活动是否符合法律、法规、监管规定以及公司内部各项规定。\n资格要求： 1.大学本科及以上学历应届毕业生。 2.具备良好的组织沟通、协调和表达能力、具有强烈的责任心及良好的职业操守。 3.具有耐心细致的工作态度和一定的承压能力。",
-      "jdEvidence": {
-        "source": "llm:deepseek:deepseek-flash",
-        "majorClauses": [
-          "大学本科及以上学历应届毕业生"
-        ],
-        "eligibilityClauses": [
-          "大学本科及以上学历应届毕业生"
-        ],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [],
-      "experienceKeywords": [],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": true,
-        "raw": "1",
-        "min": 1,
-        "max": 1,
-        "scope": "job",
-        "display": "1人",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "high",
-        "evidence": "1 1 工作职责： 1.负责协调公司合规工作，完成监管机构的合规要求及日常报告； 2.根据"
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "面议",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": "面议"
-      },
-      "salary": "面议",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://chinalife.zhiye.com/campus/detail?jobAdId=a1bafa21-155e-400f-ab4d-7f37ae99ed9e",
-      "publishedAt": "2026-09-08",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
       "id": "beisen-f057362307e3",
       "company": "中国人寿",
       "title": "合规管理岗（市本级）",
@@ -29353,87 +29272,6 @@
       "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://chinalife.zhiye.com/campus/detail?jobAdId=05fc9614-c17a-4499-af88-1d79dd1fa7f5",
-      "publishedAt": "2026-09-08",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "beisen-db0e64b8663f",
-      "company": "中国人寿",
-      "title": "法律与风险管理岗(朔州市本部)",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "本科",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "大学本科及以上学历应届毕业生",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "山西省·朔州市",
-      "jobDescription": "工作职责： 1.负责协调公司合规工作，完成监管机构的合规要求及日常报告； 2.根据监管机构要求，撰写相关汇报文件及报告； 3.评估公司潜在的合规风险及内部监控的不足，及时提出有效而可行的方案； 4.协助制定及推行公司内部的合规、风险控制政策及规定； 5.审查公司各项经营活动是否符合法律、法规、监管规定以及公司内部各项规定。",
-      "jobRequirements": "资格要求： 1.大学本科及以上学历应届毕业生。 2.具备良好的组织沟通、协调和表达能力、具有强烈的责任心及良好的职业操守。 3.具有耐心细致的工作态度和一定的承压能力。",
-      "JD": "工作职责： 1.负责协调公司合规工作，完成监管机构的合规要求及日常报告； 2.根据监管机构要求，撰写相关汇报文件及报告； 3.评估公司潜在的合规风险及内部监控的不足，及时提出有效而可行的方案； 4.协助制定及推行公司内部的合规、风险控制政策及规定； 5.审查公司各项经营活动是否符合法律、法规、监管规定以及公司内部各项规定。\n资格要求： 1.大学本科及以上学历应届毕业生。 2.具备良好的组织沟通、协调和表达能力、具有强烈的责任心及良好的职业操守。 3.具有耐心细致的工作态度和一定的承压能力。",
-      "jdEvidence": {
-        "source": "llm:deepseek:deepseek-flash",
-        "majorClauses": [
-          "大学本科及以上学历应届毕业生"
-        ],
-        "eligibilityClauses": [
-          "大学本科及以上学历应届毕业生"
-        ],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [],
-      "experienceKeywords": [],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": true,
-        "raw": "1",
-        "min": 1,
-        "max": 1,
-        "scope": "job",
-        "display": "1人",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "high",
-        "evidence": "1 1 工作职责： 1.负责协调公司合规工作，完成监管机构的合规要求及日常报告； 2.根据"
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "面议",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": "面议"
-      },
-      "salary": "面议",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://chinalife.zhiye.com/campus/detail?jobAdId=e51ec4f9-d6e6-44a9-a3c1-0329bf314537",
       "publishedAt": "2026-09-08",
       "lastVerified": "",
       "sourceType": "official",
@@ -31036,6 +30874,168 @@
       "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://chinalife.zhiye.com/campus/detail?jobAdId=24ff4cb4-0185-4557-a7be-e3a3c3b8d0e8",
+      "publishedAt": "2026-09-08",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-65895962b3d4",
+      "company": "中国人寿",
+      "title": "法律与风险管理岗(阳泉市本部)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "大学本科及以上学历应届毕业生",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "山西省·阳泉市",
+      "jobDescription": "工作职责： 1.负责协调公司合规工作，完成监管机构的合规要求及日常报告； 2.根据监管机构要求，撰写相关汇报文件及报告； 3.评估公司潜在的合规风险及内部监控的不足，及时提出有效而可行的方案； 4.协助制定及推行公司内部的合规、风险控制政策及规定； 5.审查公司各项经营活动是否符合法律、法规、监管规定以及公司内部各项规定。",
+      "jobRequirements": "资格要求： 1.大学本科及以上学历应届毕业生。 2.具备良好的组织沟通、协调和表达能力、具有强烈的责任心及良好的职业操守。 3.具有耐心细致的工作态度和一定的承压能力。",
+      "JD": "工作职责： 1.负责协调公司合规工作，完成监管机构的合规要求及日常报告； 2.根据监管机构要求，撰写相关汇报文件及报告； 3.评估公司潜在的合规风险及内部监控的不足，及时提出有效而可行的方案； 4.协助制定及推行公司内部的合规、风险控制政策及规定； 5.审查公司各项经营活动是否符合法律、法规、监管规定以及公司内部各项规定。\n资格要求： 1.大学本科及以上学历应届毕业生。 2.具备良好的组织沟通、协调和表达能力、具有强烈的责任心及良好的职业操守。 3.具有耐心细致的工作态度和一定的承压能力。",
+      "jdEvidence": {
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "大学本科及以上学历应届毕业生"
+        ],
+        "eligibilityClauses": [
+          "大学本科及以上学历应届毕业生"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 工作职责： 1.负责协调公司合规工作，完成监管机构的合规要求及日常报告； 2.根据"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://chinalife.zhiye.com/campus/detail?jobAdId=a1bafa21-155e-400f-ab4d-7f37ae99ed9e",
+      "publishedAt": "2026-09-08",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-db0e64b8663f",
+      "company": "中国人寿",
+      "title": "法律与风险管理岗(朔州市本部)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "大学本科及以上学历应届毕业生",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "山西省·朔州市",
+      "jobDescription": "工作职责： 1.负责协调公司合规工作，完成监管机构的合规要求及日常报告； 2.根据监管机构要求，撰写相关汇报文件及报告； 3.评估公司潜在的合规风险及内部监控的不足，及时提出有效而可行的方案； 4.协助制定及推行公司内部的合规、风险控制政策及规定； 5.审查公司各项经营活动是否符合法律、法规、监管规定以及公司内部各项规定。",
+      "jobRequirements": "资格要求： 1.大学本科及以上学历应届毕业生。 2.具备良好的组织沟通、协调和表达能力、具有强烈的责任心及良好的职业操守。 3.具有耐心细致的工作态度和一定的承压能力。",
+      "JD": "工作职责： 1.负责协调公司合规工作，完成监管机构的合规要求及日常报告； 2.根据监管机构要求，撰写相关汇报文件及报告； 3.评估公司潜在的合规风险及内部监控的不足，及时提出有效而可行的方案； 4.协助制定及推行公司内部的合规、风险控制政策及规定； 5.审查公司各项经营活动是否符合法律、法规、监管规定以及公司内部各项规定。\n资格要求： 1.大学本科及以上学历应届毕业生。 2.具备良好的组织沟通、协调和表达能力、具有强烈的责任心及良好的职业操守。 3.具有耐心细致的工作态度和一定的承压能力。",
+      "jdEvidence": {
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "大学本科及以上学历应届毕业生"
+        ],
+        "eligibilityClauses": [
+          "大学本科及以上学历应届毕业生"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 工作职责： 1.负责协调公司合规工作，完成监管机构的合规要求及日常报告； 2.根据"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://chinalife.zhiye.com/campus/detail?jobAdId=e51ec4f9-d6e6-44a9-a3c1-0329bf314537",
       "publishedAt": "2026-09-08",
       "lastVerified": "",
       "sourceType": "official",

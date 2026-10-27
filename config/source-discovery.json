@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-26T23:53:19.005Z",
+  "updatedAt": "2026-10-27T01:32:50.607Z",
   "companies": {
     "lazada": {
       "name": "Lazada",
@@ -2535,7 +2535,7 @@
         "sourceUrl": "https://jobs.blcu.edu.cn/front/zpxx.jspa?tid=2110544240625545217",
         "graduationYear": "2027"
       },
-      "lastCheckedAt": "2026-10-26T20:30:45.022Z",
+      "lastCheckedAt": "2026-10-27T01:32:50.607Z",
       "nextCheckAfter": ""
     },
     "深圳市杰和发展": {
@@ -2777,6 +2777,21 @@
       },
       "lastCheckedAt": "2026-10-26T00:11:32.513Z",
       "nextCheckAfter": ""
+    },
+    "平安银行北京分行": {
+      "name": "平安银行股份有限公司北京分行",
+      "status": "高校自动发现",
+      "state": "needs_adapter",
+      "provider": "",
+      "officialUrl": "https://campus.pingan.com/pabbj/position",
+      "reason": "已发现公司官方招聘入口，但当前站点 campus.pingan.com 尚无自动抓取适配器",
+      "universityEvidence": {
+        "school": "北京语言大学",
+        "sourceUrl": "https://jobs.blcu.edu.cn/front/zpxx.jspa?tid=2114565025103048706",
+        "graduationYear": "2027"
+      },
+      "lastCheckedAt": "2026-10-27T01:32:50.607Z",
+      "nextCheckAfter": "2026-10-28T01:32:50.611Z"
     }
   },
   "lastRun": {
@@ -2787,10 +2802,10 @@
     "forceRetry": false
   },
   "lastUniversityBridge": {
-    "candidates": 1,
+    "candidates": 2,
     "sourcesAdded": 0,
     "sourcesRepaired": 0,
-    "queued": 0,
-    "updatedAt": "2026-10-26T20:30:45.022Z"
+    "queued": 1,
+    "updatedAt": "2026-10-27T01:32:50.607Z"
   }
 }

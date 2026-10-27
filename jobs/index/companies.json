@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-26T20:30:49.361Z",
-  "totalJobs": 6693,
-  "totalCompanies": 140,
+  "updatedAt": "2026-10-27T01:32:53.194Z",
+  "totalJobs": 6695,
+  "totalCompanies": 141,
   "companies": [
     {
       "company": "阿里巴巴",
@@ -338,7 +338,7 @@
       "company": "美团",
       "slug": "美团",
       "file": "jobs/by-company/美团.json",
-      "count": 53
+      "count": 54
     },
     {
       "company": "蒙牛",
@@ -387,6 +387,12 @@
       "slug": "拼多多",
       "file": "jobs/by-company/拼多多.json",
       "count": 26
+    },
+    {
+      "company": "平安银行股份有限公司北京分行",
+      "slug": "平安银行股份有限公司北京分行",
+      "file": "jobs/by-company/平安银行股份有限公司北京分行.json",
+      "count": 1
     },
     {
       "company": "普渡机器人",

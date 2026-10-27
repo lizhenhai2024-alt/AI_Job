@@ -7,12 +7,26 @@ export const companyRequests = [
     "focus": [],
     "note": "北京语言大学自动发现；源页面：https://jobs.blcu.edu.cn/front/zpxx.jspa?tid=2110544240625545217",
     "requestedAt": "2026-10-12T18:44:26.467Z",
-    "updatedAt": "2026-10-26T20:30:45.022Z",
+    "updatedAt": "2026-10-27T01:32:50.607Z",
     "status": "高校发现·官方源已注册",
     "provider": "beisen",
     "sourceRegistered": true,
     "sourceAlreadyExists": false,
     "analysis": "高校详情页明确给出北森招聘入口；等价官方源已存在"
+  },
+  {
+    "id": "auto-0bcbc7dbbdb2",
+    "name": "平安银行股份有限公司北京分行",
+    "careerUrl": "https://campus.pingan.com/pabbj/position",
+    "focus": [],
+    "note": "北京语言大学自动发现；源页面：https://jobs.blcu.edu.cn/front/zpxx.jspa?tid=2114565025103048706",
+    "requestedAt": "2026-10-27T01:32:50.607Z",
+    "updatedAt": "2026-10-27T01:32:50.607Z",
+    "status": "高校发现·待官方源适配",
+    "provider": "",
+    "sourceRegistered": false,
+    "sourceAlreadyExists": false,
+    "analysis": "已发现公司官方招聘入口，但当前站点 campus.pingan.com 尚无自动抓取适配器"
   },
   {
     "id": "auto-dfeab8d0640a",
