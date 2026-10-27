@@ -1,7 +1,7 @@
 {
   "company": "中国人寿",
   "count": 392,
-  "updatedAt": "2026-10-27T01:32:53.194Z",
+  "updatedAt": "2026-10-27T15:26:37.597Z",
   "jobs": [
     {
       "id": "beisen-7f7410a39b95",
@@ -16537,6 +16537,175 @@
       "deadline": ""
     },
     {
+      "id": "beisen-b939518927b2",
+      "company": "中国人寿",
+      "title": "“展翼计划”销售管理人才项目（四营）",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "大学本科及以上学历应届毕业生",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "重庆",
+      "jobDescription": "“展翼计划”项目成员作为中国人寿保险股份有限公司为大中城市崛起重点培养的销售管理专业人才，将通过参加总公司牵头组织的两年专项人才培养计划，快速成长成为中国人寿大中城市振兴发展的重要支撑力量。 工作职责：负责所在城市支公司销售人力发展、销售人员管理、市场拓展、销售支持、绩效管理等相关工作。",
+      "jobRequirements": "1.大学本科及以上学历应届毕业生。 2.对保险行业及销售管理有较强的兴趣，具备强烈的责任心和良好的职业操守。 3.领导能力、抗压能力和沟通能力突出者优先。 4.学生干部、社团负责人优先。 5.具有大型企业实习经验者或保险行业实习经验者优先。",
+      "JD": "“展翼计划”项目成员作为中国人寿保险股份有限公司为大中城市崛起重点培养的销售管理专业人才，将通过参加总公司牵头组织的两年专项人才培养计划，快速成长成为中国人寿大中城市振兴发展的重要支撑力量。 工作职责：负责所在城市支公司销售人力发展、销售人员管理、市场拓展、销售支持、绩效管理等相关工作。\n1.大学本科及以上学历应届毕业生。 2.对保险行业及销售管理有较强的兴趣，具备强烈的责任心和良好的职业操守。 3.领导能力、抗压能力和沟通能力突出者优先。 4.学生干部、社团负责人优先。 5.具有大型企业实习经验者或保险行业实习经验者优先。",
+      "jdEvidence": {
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "大学本科及以上学历应届毕业生"
+        ],
+        "eligibilityClauses": [
+          "大学本科及以上学历应届毕业生"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "项目",
+        "市场"
+      ],
+      "preferenceTags": [],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 “展翼计划”项目成员作为中国人寿保险股份有限公司为大中城市崛起重点培养的销售管理专"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://chinalife.zhiye.com/campus/detail?jobAdId=8b93bff7-a101-44ba-b792-45b0f80c97a3",
+      "publishedAt": "2026-09-08",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-7411d1044aa4",
+      "company": "中国人寿",
+      "title": "“展翼计划”营销管理岗（织金）",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "大学本科及以上学历应届毕业生",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "贵州省·毕节市",
+      "jobDescription": "工作职责： 1.制定方案企划，推动销售产品策略组织实施，提升销售组织运作能力； 2.研发推广人力发展技术体系，制定队伍建设方案及配套资源，销售队伍招募、育成、晋升全流程管理与支撑； 3.推动制度执行管控和制度经营，激发队伍发展内生动力，提升执行效率； 4.夯实基层单位管理基础，推进规范化管理流程，提升专业化经营水平。",
+      "jobRequirements": "资格要求： 1.大学本科及以上学历应届毕业生。 2.具备良好的组织沟通和协调能力、强烈的责任心及良好的职业操守。 3.学生干部、社团负责人优先。 4.具有大型企业实习经验者或者具有保险行业实习经验者优先。",
+      "JD": "工作职责： 1.制定方案企划，推动销售产品策略组织实施，提升销售组织运作能力； 2.研发推广人力发展技术体系，制定队伍建设方案及配套资源，销售队伍招募、育成、晋升全流程管理与支撑； 3.推动制度执行管控和制度经营，激发队伍发展内生动力，提升执行效率； 4.夯实基层单位管理基础，推进规范化管理流程，提升专业化经营水平。\n资格要求： 1.大学本科及以上学历应届毕业生。 2.具备良好的组织沟通和协调能力、强烈的责任心及良好的职业操守。 3.学生干部、社团负责人优先。 4.具有大型企业实习经验者或者具有保险行业实习经验者优先。",
+      "jdEvidence": {
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "大学本科及以上学历应届毕业生"
+        ],
+        "eligibilityClauses": [
+          "大学本科及以上学历应届毕业生"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "营销"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 工作职责： 1.制定方案企划，推动销售产品策略组织实施，提升销售组织运作能力； 2"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://chinalife.zhiye.com/campus/detail?jobAdId=c58665a5-b95f-4cae-b49a-fd5d2d082f26",
+      "publishedAt": "2026-09-08",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
       "id": "beisen-a7afe09b9d57",
       "company": "中国人寿",
       "title": "营销管理岗(省本部)",
@@ -16780,175 +16949,6 @@
       "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://chinalife.zhiye.com/campus/detail?jobAdId=4e2f108e-67d5-4f77-92cd-ef0e7e3f2afb",
-      "publishedAt": "2026-09-08",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "beisen-b939518927b2",
-      "company": "中国人寿",
-      "title": "“展翼计划”销售管理人才项目（四营）",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "本科",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "大学本科及以上学历应届毕业生",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "重庆",
-      "jobDescription": "“展翼计划”项目成员作为中国人寿保险股份有限公司为大中城市崛起重点培养的销售管理专业人才，将通过参加总公司牵头组织的两年专项人才培养计划，快速成长成为中国人寿大中城市振兴发展的重要支撑力量。 工作职责：负责所在城市支公司销售人力发展、销售人员管理、市场拓展、销售支持、绩效管理等相关工作。",
-      "jobRequirements": "1.大学本科及以上学历应届毕业生。 2.对保险行业及销售管理有较强的兴趣，具备强烈的责任心和良好的职业操守。 3.领导能力、抗压能力和沟通能力突出者优先。 4.学生干部、社团负责人优先。 5.具有大型企业实习经验者或保险行业实习经验者优先。",
-      "JD": "“展翼计划”项目成员作为中国人寿保险股份有限公司为大中城市崛起重点培养的销售管理专业人才，将通过参加总公司牵头组织的两年专项人才培养计划，快速成长成为中国人寿大中城市振兴发展的重要支撑力量。 工作职责：负责所在城市支公司销售人力发展、销售人员管理、市场拓展、销售支持、绩效管理等相关工作。\n1.大学本科及以上学历应届毕业生。 2.对保险行业及销售管理有较强的兴趣，具备强烈的责任心和良好的职业操守。 3.领导能力、抗压能力和沟通能力突出者优先。 4.学生干部、社团负责人优先。 5.具有大型企业实习经验者或保险行业实习经验者优先。",
-      "jdEvidence": {
-        "source": "llm:deepseek:deepseek-flash",
-        "majorClauses": [
-          "大学本科及以上学历应届毕业生"
-        ],
-        "eligibilityClauses": [
-          "大学本科及以上学历应届毕业生"
-        ],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [],
-      "experienceKeywords": [
-        "项目",
-        "市场"
-      ],
-      "preferenceTags": [],
-      "riskTags": [
-        "节奏快"
-      ],
-      "headcount": {
-        "disclosed": true,
-        "raw": "1",
-        "min": 1,
-        "max": 1,
-        "scope": "job",
-        "display": "1人",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "high",
-        "evidence": "1 1 “展翼计划”项目成员作为中国人寿保险股份有限公司为大中城市崛起重点培养的销售管理专"
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "面议",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": "面议"
-      },
-      "salary": "面议",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://chinalife.zhiye.com/campus/detail?jobAdId=8b93bff7-a101-44ba-b792-45b0f80c97a3",
-      "publishedAt": "2026-09-08",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "beisen-7411d1044aa4",
-      "company": "中国人寿",
-      "title": "“展翼计划”营销管理岗（织金）",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "本科",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "大学本科及以上学历应届毕业生",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "贵州省·毕节市",
-      "jobDescription": "工作职责： 1.制定方案企划，推动销售产品策略组织实施，提升销售组织运作能力； 2.研发推广人力发展技术体系，制定队伍建设方案及配套资源，销售队伍招募、育成、晋升全流程管理与支撑； 3.推动制度执行管控和制度经营，激发队伍发展内生动力，提升执行效率； 4.夯实基层单位管理基础，推进规范化管理流程，提升专业化经营水平。",
-      "jobRequirements": "资格要求： 1.大学本科及以上学历应届毕业生。 2.具备良好的组织沟通和协调能力、强烈的责任心及良好的职业操守。 3.学生干部、社团负责人优先。 4.具有大型企业实习经验者或者具有保险行业实习经验者优先。",
-      "JD": "工作职责： 1.制定方案企划，推动销售产品策略组织实施，提升销售组织运作能力； 2.研发推广人力发展技术体系，制定队伍建设方案及配套资源，销售队伍招募、育成、晋升全流程管理与支撑； 3.推动制度执行管控和制度经营，激发队伍发展内生动力，提升执行效率； 4.夯实基层单位管理基础，推进规范化管理流程，提升专业化经营水平。\n资格要求： 1.大学本科及以上学历应届毕业生。 2.具备良好的组织沟通和协调能力、强烈的责任心及良好的职业操守。 3.学生干部、社团负责人优先。 4.具有大型企业实习经验者或者具有保险行业实习经验者优先。",
-      "jdEvidence": {
-        "source": "llm:deepseek:deepseek-flash",
-        "majorClauses": [
-          "大学本科及以上学历应届毕业生"
-        ],
-        "eligibilityClauses": [
-          "大学本科及以上学历应届毕业生"
-        ],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [],
-      "experienceKeywords": [
-        "营销"
-      ],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": true,
-        "raw": "1",
-        "min": 1,
-        "max": 1,
-        "scope": "job",
-        "display": "1人",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "high",
-        "evidence": "1 1 工作职责： 1.制定方案企划，推动销售产品策略组织实施，提升销售组织运作能力； 2"
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "面议",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": "面议"
-      },
-      "salary": "面议",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://chinalife.zhiye.com/campus/detail?jobAdId=c58665a5-b95f-4cae-b49a-fd5d2d082f26",
       "publishedAt": "2026-09-08",
       "lastVerified": "",
       "sourceType": "official",

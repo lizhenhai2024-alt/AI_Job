@@ -1,7 +1,7 @@
 {
   "company": "新东方深圳学校",
-  "count": 471,
-  "updatedAt": "2026-10-27T01:32:53.194Z",
+  "count": 472,
+  "updatedAt": "2026-10-27T15:26:37.597Z",
   "jobs": [
     {
       "id": "beisen-123667d26f64",
@@ -1864,6 +1864,89 @@
       "source": "公司官方北森校招官网",
       "officialURL": "https://xdf.zhiye.com/campus/detail?jobAdId=b450ebde-b297-4a78-8f75-198d5cd88a3e",
       "publishedAt": "2026-07-27",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-afbbeddb7447",
+      "company": "新东方深圳学校",
+      "title": "校招-2027运营管培生(J67691)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "山东省·青岛市",
+      "jobDescription": "1、接听和外呼电话，通过电话邀约家长or学生到校区咨询； 2、接待来访学生or家长，给ta们进行现场介绍相应学段的课程； 3、结合学员需求和特点，制定和规划合适的课程内容和学习方案，引导学生or学生家长签约，完成销售任务； 4、做好成功签单的学生信息管理及数据统计分析，学员数据维护和档案维护，跟盯学员的学习效果并不定期对新老学员进行回访；",
+      "jobRequirements": "（1）沟通能力强，乐于与人沟通 （2）销售意愿强、肯吃苦、抗压能力强 （3）有赚钱意愿，有销售实习经历或者大学有创业经历优先",
+      "JD": "1、接听和外呼电话，通过电话邀约家长or学生到校区咨询； 2、接待来访学生or家长，给ta们进行现场介绍相应学段的课程； 3、结合学员需求和特点，制定和规划合适的课程内容和学习方案，引导学生or学生家长签约，完成销售任务； 4、做好成功签单的学生信息管理及数据统计分析，学员数据维护和档案维护，跟盯学员的学习效果并不定期对新老学员进行回访；\n（1）沟通能力强，乐于与人沟通 （2）销售意愿强、肯吃苦、抗压能力强 （3）有赚钱意愿，有销售实习经历或者大学有创业经历优先",
+      "jdEvidence": {
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [],
+        "eligibilityClauses": [],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "运营",
+        "内容",
+        "数据"
+      ],
+      "preferenceTags": [],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": true,
+        "raw": "20",
+        "min": 20,
+        "max": 20,
+        "scope": "job",
+        "display": "20人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "20 20 1、接听和外呼电话，通过电话邀约家长or学生到校区咨询； 2、接待来访学生or家"
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "7K-8K 元/月",
+        "monthlyMin": 7000,
+        "monthlyMax": 8000,
+        "annualMin": 84000,
+        "annualMax": 96000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "7k–8k/月",
+        "annualDisplay": "8.4万–9.6万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "7K-8K 元/月 公司官方北森校招岗位；投递前请打开官方职位页确"
+      },
+      "salary": "7K-8K 元/月",
+      "monthlySalary": "7k–8k/月",
+      "annualSalary": "8.4万–9.6万/年（按12薪推算）",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://xdf.zhiye.com/campus/detail?jobAdId=cd0c6203-394f-4d70-8921-ac15866d444e",
+      "publishedAt": "2026-10-27",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
@@ -16584,7 +16667,7 @@
       "annualSalary": "7.2万–12万/年（按12薪推算）",
       "source": "公司官方北森校招官网",
       "officialURL": "https://xdf.zhiye.com/campus/detail?jobAdId=cec29b1b-69cd-4b86-92c8-d4c773bd3b4a",
-      "publishedAt": "2026-10-26",
+      "publishedAt": "2026-10-27",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
@@ -16669,7 +16752,7 @@
       "annualSalary": "9.6万–15.6万/年（按12薪推算）",
       "source": "公司官方北森校招官网",
       "officialURL": "https://xdf.zhiye.com/campus/detail?jobAdId=ab598dbc-6a00-4366-99a1-944f1c7f20b4",
-      "publishedAt": "2026-10-26",
+      "publishedAt": "2026-10-27",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
@@ -16756,7 +16839,7 @@
       "annualSalary": "9.6万–15.6万/年（按12薪推算）",
       "source": "公司官方北森校招官网",
       "officialURL": "https://xdf.zhiye.com/campus/detail?jobAdId=63eb84ea-2f03-4b26-ab4a-404576ac333b",
-      "publishedAt": "2026-10-26",
+      "publishedAt": "2026-10-27",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
@@ -31125,7 +31208,7 @@
       "annualSalary": "7.2万–12万/年（按12薪推算）",
       "source": "公司官方北森校招官网",
       "officialURL": "https://xdf.zhiye.com/campus/detail?jobAdId=d6f798aa-dd37-47c8-a3e7-861b44971984",
-      "publishedAt": "2026-10-26",
+      "publishedAt": "2026-10-27",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
@@ -31211,7 +31294,7 @@
       "annualSalary": "7.2万–12万/年（按12薪推算）",
       "source": "公司官方北森校招官网",
       "officialURL": "https://xdf.zhiye.com/campus/detail?jobAdId=c884bda9-bc88-4b23-a154-7c546ceea57f",
-      "publishedAt": "2026-10-26",
+      "publishedAt": "2026-10-27",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
@@ -31297,7 +31380,7 @@
       "annualSalary": "9.6万–15.6万/年（按12薪推算）",
       "source": "公司官方北森校招官网",
       "officialURL": "https://xdf.zhiye.com/campus/detail?jobAdId=2940da90-76f5-42b9-82bc-46b46440a0f0",
-      "publishedAt": "2026-10-26",
+      "publishedAt": "2026-10-27",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
@@ -31383,7 +31466,7 @@
       "annualSalary": "9.6万–15.6万/年（按12薪推算）",
       "source": "公司官方北森校招官网",
       "officialURL": "https://xdf.zhiye.com/campus/detail?jobAdId=134c1268-f2b2-49ac-a1b5-a572a7ad3147",
-      "publishedAt": "2026-10-26",
+      "publishedAt": "2026-10-27",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
@@ -31469,7 +31552,7 @@
       "annualSalary": "9.6万–15.6万/年（按12薪推算）",
       "source": "公司官方北森校招官网",
       "officialURL": "https://xdf.zhiye.com/campus/detail?jobAdId=014b77d2-37f5-4c3e-8f7b-0a057e8ceb90",
-      "publishedAt": "2026-10-26",
+      "publishedAt": "2026-10-27",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
@@ -31555,7 +31638,7 @@
       "annualSalary": "9.6万–15.6万/年（按12薪推算）",
       "source": "公司官方北森校招官网",
       "officialURL": "https://xdf.zhiye.com/campus/detail?jobAdId=05d7ec1c-0dc3-4c03-b360-9f29bcee16e5",
-      "publishedAt": "2026-10-26",
+      "publishedAt": "2026-10-27",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
@@ -31641,7 +31724,7 @@
       "annualSalary": "9.6万–15.6万/年（按12薪推算）",
       "source": "公司官方北森校招官网",
       "officialURL": "https://xdf.zhiye.com/campus/detail?jobAdId=7c1c54b9-6c1c-48ad-b777-a7f1e55dd6bb",
-      "publishedAt": "2026-10-26",
+      "publishedAt": "2026-10-27",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
@@ -31725,7 +31808,7 @@
       "annualSalary": "9.6万–15.6万/年（按12薪推算）",
       "source": "公司官方北森校招官网",
       "officialURL": "https://xdf.zhiye.com/campus/detail?jobAdId=240d19ee-85f5-4be9-a087-6a4c5b462e60",
-      "publishedAt": "2026-10-26",
+      "publishedAt": "2026-10-27",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": ""

@@ -1,7 +1,7 @@
 {
   "company": "九号公司",
   "count": 57,
-  "updatedAt": "2026-10-27T01:32:53.194Z",
+  "updatedAt": "2026-10-27T15:26:37.597Z",
   "jobs": [
     {
       "id": "ninebot-02f1cade5c0f",
@@ -3621,7 +3621,95 @@
       "deadline": ""
     },
     {
-      "id": "ninebot-6751c9776cc1",
+      "id": "ninebot-c5eedaf4e62e",
+      "company": "九号公司",
+      "title": "薪酬专员（集团-人力行政）",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "硕士",
+        "masterRequired": true
+      },
+      "major": {
+        "raw": "1、27届硕士研究生及以上学历，理工科相关专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "北京",
+      "jobDescription": "岗位职责： 1、薪酬数据支持：协助完成月度薪酬数据汇总、核对及基础分析，维护薪酬台账和数据库； 2、报表制作：协助输出薪酬分析报表、人效数据看板，支持季度/年度薪酬回顾； 3、预算管理辅助：参与人工成本预算编制和过程跟踪，协助完成预算执行情况的定期盘点； 4、日常运营：支持薪酬福利相关流程的日常运营，包括社保公积金、个税、考勤等基础数据的整理核验； 5、项目支持：参与薪酬激励项目（调薪、年终奖、股权激励等）的数据准备和方案落地支持。 任职资格： 1、27届硕士研究生及以上学历，理工科相关专业优先； 2、有一定数据分析基础，熟练使用Excel； 3、逻辑清晰、对数据敏感、做事细心踏实。",
+      "jobRequirements": "",
+      "JD": "岗位职责： 1、薪酬数据支持：协助完成月度薪酬数据汇总、核对及基础分析，维护薪酬台账和数据库； 2、报表制作：协助输出薪酬分析报表、人效数据看板，支持季度/年度薪酬回顾； 3、预算管理辅助：参与人工成本预算编制和过程跟踪，协助完成预算执行情况的定期盘点； 4、日常运营：支持薪酬福利相关流程的日常运营，包括社保公积金、个税、考勤等基础数据的整理核验； 5、项目支持：参与薪酬激励项目（调薪、年终奖、股权激励等）的数据准备和方案落地支持。 任职资格： 1、27届硕士研究生及以上学历，理工科相关专业优先； 2、有一定数据分析基础，熟练使用Excel； 3、逻辑清晰、对数据敏感、做事细心踏实。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、27届硕士研究生及以上学历，理工科相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "Excel",
+        "数据分析"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "项目",
+        "数据"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "九号公司官方2027校招官网",
+      "officialURL": "https://app.mokahr.com/campus-recruitment/ninebot/45627?locale=zh-CN#/job/042f97c6-5198-4f99-a470-275dabab6c2f",
+      "publishedAt": "",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "ninebot-b4d37d451de2",
       "company": "九号公司",
       "title": "人才发展专员（电动车）",
       "graduationYear": [
@@ -3707,7 +3795,7 @@
       "monthlySalary": "未披露",
       "annualSalary": "未披露",
       "source": "九号公司官方2027校招官网",
-      "officialURL": "https://app.mokahr.com/campus-recruitment/ninebot/45627?locale=zh-CN#/job/30b0ed20-8bff-4de4-8293-43fa8ea345be",
+      "officialURL": "https://app.mokahr.com/campus-recruitment/ninebot/45627?locale=zh-CN#/job/616c626e-9a7a-480f-bf7e-73bddee8c09f",
       "publishedAt": "",
       "lastVerified": "",
       "sourceType": "official",
@@ -3801,94 +3889,6 @@
       "annualSalary": "未披露",
       "source": "九号公司官方2027校招官网",
       "officialURL": "https://app.mokahr.com/campus-recruitment/ninebot/45627?locale=zh-CN#/job/6ce6997a-42ee-4c7e-a7a3-6a465e0d9091",
-      "publishedAt": "",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "ninebot-c5eedaf4e62e",
-      "company": "九号公司",
-      "title": "薪酬专员（集团-人力行政）",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "硕士",
-        "masterRequired": true
-      },
-      "major": {
-        "raw": "1、27届硕士研究生及以上学历，理工科相关专业优先",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "北京",
-      "jobDescription": "岗位职责： 1、薪酬数据支持：协助完成月度薪酬数据汇总、核对及基础分析，维护薪酬台账和数据库； 2、报表制作：协助输出薪酬分析报表、人效数据看板，支持季度/年度薪酬回顾； 3、预算管理辅助：参与人工成本预算编制和过程跟踪，协助完成预算执行情况的定期盘点； 4、日常运营：支持薪酬福利相关流程的日常运营，包括社保公积金、个税、考勤等基础数据的整理核验； 5、项目支持：参与薪酬激励项目（调薪、年终奖、股权激励等）的数据准备和方案落地支持。 任职资格： 1、27届硕士研究生及以上学历，理工科相关专业优先； 2、有一定数据分析基础，熟练使用Excel； 3、逻辑清晰、对数据敏感、做事细心踏实。",
-      "jobRequirements": "",
-      "JD": "岗位职责： 1、薪酬数据支持：协助完成月度薪酬数据汇总、核对及基础分析，维护薪酬台账和数据库； 2、报表制作：协助输出薪酬分析报表、人效数据看板，支持季度/年度薪酬回顾； 3、预算管理辅助：参与人工成本预算编制和过程跟踪，协助完成预算执行情况的定期盘点； 4、日常运营：支持薪酬福利相关流程的日常运营，包括社保公积金、个税、考勤等基础数据的整理核验； 5、项目支持：参与薪酬激励项目（调薪、年终奖、股权激励等）的数据准备和方案落地支持。 任职资格： 1、27届硕士研究生及以上学历，理工科相关专业优先； 2、有一定数据分析基础，熟练使用Excel； 3、逻辑清晰、对数据敏感、做事细心踏实。",
-      "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [
-          "1、27届硕士研究生及以上学历，理工科相关专业优先"
-        ],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [
-        "Excel",
-        "数据分析"
-      ],
-      "experienceKeywords": [
-        "运营",
-        "项目",
-        "数据"
-      ],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "九号公司官方2027校招官网",
-      "officialURL": "https://app.mokahr.com/campus-recruitment/ninebot/45627?locale=zh-CN#/job/042f97c6-5198-4f99-a470-275dabab6c2f",
       "publishedAt": "",
       "lastVerified": "",
       "sourceType": "official",

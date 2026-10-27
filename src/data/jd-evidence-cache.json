@@ -38327,5 +38327,91 @@
   ],
   "technicalDuties": [],
   "businessDuties": []
+ },
+ "feishu-96da49-7670425234923407658:e30a59d3cd14a108:gemini-3.5-flash-lite": {
+  "source": "llm",
+  "majorClauses": [
+   "本科及以上学历"
+  ],
+  "eligibilityClauses": [
+   "2027届应届生，本科及以上学历"
+  ],
+  "technicalDuties": [
+   "问题根因"
+  ],
+  "businessDuties": [
+   "资料/流程"
+  ]
+ },
+ "beisen-e44f900c105e:0ef209315223e296:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "统招本科及以上学历"
+  ],
+  "eligibilityClauses": [
+   "年龄25岁及以下（2000年1月1日以后出生的）",
+   "应届毕业生应在2025年7月31日前取得学历、学位证书"
+  ],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "beisen-5f4bbfebd0eb:8dc052ca764239ae:gemini-3.5-flash-lite": {
+  "source": "llm",
+  "majorClauses": [
+   "制造管理、智能制造、制造物流等专业"
+  ],
+  "eligibilityClauses": [
+   "国内普通高等院校（2027年毕业）",
+   "本科及以上学历"
+  ],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "beisen-afbbeddb7447:5402ab0e075b0a5a:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [],
+  "eligibilityClauses": [],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "hotjob-197fbfea47d4:425385202256d853:gemini-3.5-flash-lite": {
+  "source": "llm",
+  "majorClauses": [],
+  "eligibilityClauses": [
+   "2027届应届毕业生",
+   "简历接收周期：2026-10-28~2027-04-30"
+  ],
+  "technicalDuties": [],
+  "businessDuties": [
+   "资料/流程"
+  ]
+ },
+ "beisen-eb09da84503b:373dc40e704c5e78:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [],
+  "eligibilityClauses": [],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "feishu-96da49-7670423980151032118:0f63c092c8e65a5b:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "本科及以上学历"
+  ],
+  "eligibilityClauses": [
+   "2027届应届生"
+  ],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "beisen-d2a4f1275f23:38f6b133c22e49c1:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "本科及以上学历",
+   "有社工专业背景者优先"
+  ],
+  "eligibilityClauses": [],
+  "technicalDuties": [],
+  "businessDuties": []
  }
 }

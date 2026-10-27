@@ -1,7 +1,7 @@
 {
   "company": "小鹏汽车",
-  "count": 214,
-  "updatedAt": "2026-10-27T01:32:53.194Z",
+  "count": 216,
+  "updatedAt": "2026-10-27T15:26:37.597Z",
   "jobs": [
     {
       "id": "feishu-1fdf6e-7700948148769048842",
@@ -3006,6 +3006,100 @@
       "source": "小鹏汽车官方飞书招聘",
       "officialURL": "https://xiaopeng.jobs.feishu.cn/campus/m/position/7658239600641853705/detail",
       "publishedAt": "2026-07-03",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申/内推→AI测评→笔试（部分岗位）→面试→offer→签约入职",
+      "recruitmentProcessEvidence": "E2 | 南开大学就业指导中心校招简章 | https://career.nankai.edu.cn/correcruit/content/id/116251.html | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | 南开大学就业指导中心校招简章 | https://career.nankai.edu.cn/correcruit/content/id/116251.html | 2026-09-17"
+    },
+    {
+      "id": "feishu-1fdf6e-7701176159942052139",
+      "company": "小鹏汽车",
+      "title": "【27届校招】招聘培训生（供产质校企合作）",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1、本科及以上，27届毕业生，专业不限",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "广州",
+      "jobDescription": "1、院校合作方向：协助拓展高职院校资源，参与产教融合项目、订单班、产业学院、实训基地落地，跟进实习生录用、报到、稳岗全流程。 2、运营体系方向：协助搭建校招面试、实习生稳岗等标准化流程，参与雇主品牌活动、师课资源建设及技能大赛运营。 3、数据运营：搭建技能人才数据底座与运营看板，跟踪入职规模、留存率、成本优化等核心指标，用数据支撑招聘与培养决策。 4、共性工作：跟踪产教融合政策，参与项目申报；与生产、质量、培训等部门协同。",
+      "jobRequirements": "1、本科及以上，27届毕业生，专业不限； 2、对校企合作、产教融合或技能人才运营有兴趣，有社团、校企项目或活动组织经验者优先； 3、目标感强，沟通与资源整合意识好，有数据分析基础（Excel熟练，了解BI工具加分）； 4、能适应高频出差，了解职业教育政策者优先； 5、务实、有温度，愿意深入制造一线理解业务。",
+      "JD": "1、院校合作方向：协助拓展高职院校资源，参与产教融合项目、订单班、产业学院、实训基地落地，跟进实习生录用、报到、稳岗全流程。 2、运营体系方向：协助搭建校招面试、实习生稳岗等标准化流程，参与雇主品牌活动、师课资源建设及技能大赛运营。 3、数据运营：搭建技能人才数据底座与运营看板，跟踪入职规模、留存率、成本优化等核心指标，用数据支撑招聘与培养决策。 4、共性工作：跟踪产教融合政策，参与项目申报；与生产、质量、培训等部门协同。\n1、本科及以上，27届毕业生，专业不限； 2、对校企合作、产教融合或技能人才运营有兴趣，有社团、校企项目或活动组织经验者优先； 3、目标感强，沟通与资源整合意识好，有数据分析基础（Excel熟练，了解BI工具加分）； 4、能适应高频出差，了解职业教育政策者优先； 5、务实、有温度，愿意深入制造一线理解业务。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、本科及以上，27届毕业生，专业不限"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "Excel",
+        "数据分析"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "项目",
+        "数据",
+        "品牌",
+        "招聘"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "小鹏汽车官方飞书招聘",
+      "officialURL": "https://xiaopeng.jobs.feishu.cn/campus/m/position/7701176159942052139/detail",
+      "publishedAt": "2026-10-27",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "",
@@ -13266,6 +13360,101 @@
       "source": "小鹏汽车官方飞书招聘",
       "officialURL": "https://xiaopeng.jobs.feishu.cn/campus/m/position/7658239811220343049/detail",
       "publishedAt": "2026-07-03",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申/内推→AI测评→笔试（部分岗位）→面试→offer→签约入职",
+      "recruitmentProcessEvidence": "E2 | 南开大学就业指导中心校招简章 | https://career.nankai.edu.cn/correcruit/content/id/116251.html | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | 南开大学就业指导中心校招简章 | https://career.nankai.edu.cn/correcruit/content/id/116251.html | 2026-09-17"
+    },
+    {
+      "id": "feishu-1fdf6e-7701312181262731547",
+      "company": "小鹏汽车",
+      "title": "【27届校招】公域垂媒培训生",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1、本科及以上学历，广告营销专业/数字广告代理实习/数字化运营经验优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "广州",
+      "jobDescription": "1、公域平台流量运营：负责一个及以上公域平台流量运营，包括但不仅限于平台人群洞察、商业机会挖掘、平台线索合作方案规划、日常流量运营及监测； 2、投放素材管理及审核：负责效果广告投放素材的审核，通过行业数据对标，留资效率分析、投放内容优化等，帮助提升投放效率，降低获客成本； 3、投放数据全链路跟踪及费效评估：跟踪线索从入库到订单全流程转化，识别过程的机会点及风险点，全漏斗分析后找到提效机会。渠道运营过程需持续关注费效变化； 4、区域沟通及对接：应对区域的线索规模/质量等诉求，做好业务解析及支持。",
+      "jobRequirements": "1、本科及以上学历，广告营销专业/数字广告代理实习/数字化运营经验优先； 2、熟悉汽车行业为优，对行业环境、用户&竞品情况业务场景有基本认识； 3、逻辑清晰缜密，数据敏感度较高，具备快速学习和数据分析能力，及时定位业务问题，并制定应对策略； 4、具备良好的沟通协作能力、优秀的规划力和执行力，能适应快节奏的工作环境，推动跨部门的项目合作。",
+      "JD": "1、公域平台流量运营：负责一个及以上公域平台流量运营，包括但不仅限于平台人群洞察、商业机会挖掘、平台线索合作方案规划、日常流量运营及监测； 2、投放素材管理及审核：负责效果广告投放素材的审核，通过行业数据对标，留资效率分析、投放内容优化等，帮助提升投放效率，降低获客成本； 3、投放数据全链路跟踪及费效评估：跟踪线索从入库到订单全流程转化，识别过程的机会点及风险点，全漏斗分析后找到提效机会。渠道运营过程需持续关注费效变化； 4、区域沟通及对接：应对区域的线索规模/质量等诉求，做好业务解析及支持。\n1、本科及以上学历，广告营销专业/数字广告代理实习/数字化运营经验优先； 2、熟悉汽车行业为优，对行业环境、用户&竞品情况业务场景有基本认识； 3、逻辑清晰缜密，数据敏感度较高，具备快速学习和数据分析能力，及时定位业务问题，并制定应对策略； 4、具备良好的沟通协作能力、优秀的规划力和执行力，能适应快节奏的工作环境，推动跨部门的项目合作。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、本科及以上学历，广告营销专业/数字广告代理实习/数字化运营经验优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "数据分析"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "内容",
+        "项目",
+        "用户",
+        "数据",
+        "营销",
+        "洞察"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "小鹏汽车官方飞书招聘",
+      "officialURL": "https://xiaopeng.jobs.feishu.cn/campus/m/position/7701312181262731547/detail",
+      "publishedAt": "2026-10-27",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "",

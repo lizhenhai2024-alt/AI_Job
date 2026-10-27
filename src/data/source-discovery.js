@@ -34,6 +34,17 @@ export const sourceDiscovery = [
     "nextCheckAfter": "2026-10-30T14:31:18.651Z"
   },
   {
+    "name": "安东石油技术（集团）有限公司",
+    "status": "高校自动发现",
+    "state": "needs_adapter",
+    "provider": "",
+    "officialUrl": "https://anton.hotjob.cn/",
+    "reason": "已发现公司官方招聘入口，但当前站点 anton.hotjob.cn 尚无自动抓取适配器",
+    "attempts": 0,
+    "lastCheckedAt": "2026-10-27T15:25:59.296Z",
+    "nextCheckAfter": "2026-10-28T15:25:59.300Z"
+  },
+  {
     "name": "百度",
     "status": "主投",
     "state": "needs_adapter",
@@ -767,8 +778,8 @@ export const sourceDiscovery = [
     "officialUrl": "https://campus.pingan.com/pabbj/position",
     "reason": "已发现公司官方招聘入口，但当前站点 campus.pingan.com 尚无自动抓取适配器",
     "attempts": 0,
-    "lastCheckedAt": "2026-10-27T01:32:50.607Z",
-    "nextCheckAfter": "2026-10-28T01:32:50.611Z"
+    "lastCheckedAt": "2026-10-27T15:25:59.296Z",
+    "nextCheckAfter": "2026-10-28T15:25:59.299Z"
   },
   {
     "name": "奇安信",
@@ -1565,7 +1576,7 @@ export const sourceDiscovery = [
 ];
 
 export const sourceDiscoveryMeta = {
-  "updatedAt": "2026-10-27T14:31:18.651Z",
+  "updatedAt": "2026-10-27T15:25:59.296Z",
   "lastRun": {
     "processed": 12,
     "sourcesAdded": 0,

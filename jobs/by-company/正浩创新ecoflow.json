@@ -1,7 +1,7 @@
 {
   "company": "正浩创新EcoFlow",
-  "count": 42,
-  "updatedAt": "2026-10-27T01:32:53.194Z",
+  "count": 41,
+  "updatedAt": "2026-10-27T15:26:37.597Z",
   "jobs": [
     {
       "id": "ecoflow-7678717154627553555",
@@ -90,101 +90,6 @@
       "source": "正浩创新EcoFlow官方2027校招官网",
       "officialURL": "https://jobs.ecoflow.com/602892/position/7678717154627553555/detail",
       "publishedAt": "2026-08-27",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "简历投递→综合素质测评→线上笔试/AI语言面试（部分岗位）→业务一面（部分无领导小组讨论）→业务二面→业务终面及HRBP面→录用谈薪→Offer→三方→入职",
-      "recruitmentProcessEvidence": "E2 | 清华大学就业网正浩创新2027秋招 | https://career.cic.tsinghua.edu.cn/xsglxt/f/jyxt/anony/showZwxxForWx?zpxxid=563738243 | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E2 | 清华大学就业网正浩创新2027秋招 | https://career.cic.tsinghua.edu.cn/xsglxt/f/jyxt/anony/showZwxxForWx?zpxxid=563738243 | 2026-09-17"
-    },
-    {
-      "id": "ecoflow-7677581224823032106",
-      "company": "正浩创新EcoFlow",
-      "title": "物流专员（运输方向）",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "本科",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "物流管理、交通运输、国际贸易等相关专业优先",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "深圳",
-      "jobDescription": "1、负责对接上下游拉通供应与分货计划，合理制定发运计划； 2、负责区域内运输业务开展，包括空海运订舱，拖车报关，单证制作与归档、账单核对等； 3、负责在途监控与签收闭环管理，对接承运商更新物流状态并及时处理异常，对交付时效与质量负责； 4、管理物流供应商绩效，如时效、成本、服务与质量，并输出绩效评估数据； 5、承接部门重点任务，如运作流程优化、区域差异化交付方案制定、区域运输运营质量复盘等。",
-      "jobRequirements": "1、2027届获得本科及以上学历，物流管理、交通运输、国际贸易等相关专业优先； 2、熟练使用 Excel 进行数据分析，具备基础的系统操作（如 SAP、OMS）能力； 3、英语 CET-4 及以上，能阅读英文物流单证； 4、学习能力强，能快速掌握运输流程；具备良好的沟通协调能力，适应跨部门协作；对数字敏感，注重细节。",
-      "JD": "1、负责对接上下游拉通供应与分货计划，合理制定发运计划； 2、负责区域内运输业务开展，包括空海运订舱，拖车报关，单证制作与归档、账单核对等； 3、负责在途监控与签收闭环管理，对接承运商更新物流状态并及时处理异常，对交付时效与质量负责； 4、管理物流供应商绩效，如时效、成本、服务与质量，并输出绩效评估数据； 5、承接部门重点任务，如运作流程优化、区域差异化交付方案制定、区域运输运营质量复盘等。\n1、2027届获得本科及以上学历，物流管理、交通运输、国际贸易等相关专业优先； 2、熟练使用 Excel 进行数据分析，具备基础的系统操作（如 SAP、OMS）能力； 3、英语 CET-4 及以上，能阅读英文物流单证； 4、学习能力强，能快速掌握运输流程；具备良好的沟通协调能力，适应跨部门协作；对数字敏感，注重细节。",
-      "jdEvidence": {
-        "source": "llm:deepseek:deepseek-flash",
-        "majorClauses": [
-          "物流管理、交通运输、国际贸易等相关专业优先"
-        ],
-        "eligibilityClauses": [
-          "2027届获得本科及以上学历"
-        ],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [
-        "英语",
-        "Excel",
-        "数据分析"
-      ],
-      "experienceKeywords": [
-        "运营",
-        "数据",
-        "供应链"
-      ],
-      "preferenceTags": [
-        "国际业务"
-      ],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "正浩创新EcoFlow官方2027校招官网",
-      "officialURL": "https://jobs.ecoflow.com/602892/position/7677581224823032106/detail",
-      "publishedAt": "2026-08-24",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "",

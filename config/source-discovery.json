@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-27T14:31:18.651Z",
+  "updatedAt": "2026-10-27T15:25:59.296Z",
   "companies": {
     "lazada": {
       "name": "Lazada",
@@ -2772,8 +2772,23 @@
         "sourceUrl": "https://jobs.blcu.edu.cn/front/zpxx.jspa?tid=2114565025103048706",
         "graduationYear": "2027"
       },
-      "lastCheckedAt": "2026-10-27T01:32:50.607Z",
-      "nextCheckAfter": "2026-10-28T01:32:50.611Z"
+      "lastCheckedAt": "2026-10-27T15:25:59.296Z",
+      "nextCheckAfter": "2026-10-28T15:25:59.299Z"
+    },
+    "安东石油": {
+      "name": "安东石油技术（集团）有限公司",
+      "status": "高校自动发现",
+      "state": "needs_adapter",
+      "provider": "",
+      "officialUrl": "https://anton.hotjob.cn/",
+      "reason": "已发现公司官方招聘入口，但当前站点 anton.hotjob.cn 尚无自动抓取适配器",
+      "universityEvidence": {
+        "school": "北京语言大学",
+        "sourceUrl": "https://jobs.blcu.edu.cn/front/zpxx.jspa?tid=2113150980995117057",
+        "graduationYear": "2027"
+      },
+      "lastCheckedAt": "2026-10-27T15:25:59.296Z",
+      "nextCheckAfter": "2026-10-28T15:25:59.300Z"
     }
   },
   "lastRun": {
@@ -2787,7 +2802,7 @@
     "candidates": 2,
     "sourcesAdded": 0,
     "sourcesRepaired": 0,
-    "queued": 1,
-    "updatedAt": "2026-10-27T01:32:50.607Z"
+    "queued": 2,
+    "updatedAt": "2026-10-27T15:25:59.296Z"
   }
 }

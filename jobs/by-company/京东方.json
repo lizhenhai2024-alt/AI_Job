@@ -1,7 +1,7 @@
 {
   "company": "京东方",
-  "count": 63,
-  "updatedAt": "2026-10-27T01:32:53.194Z",
+  "count": 66,
+  "updatedAt": "2026-10-27T15:26:37.597Z",
   "jobs": [
     {
       "id": "beisen-2be429ffbb1a",
@@ -367,6 +367,312 @@
       "source": "公司官方北森校招官网",
       "officialURL": "https://campus.boe.com/campus/detail?jobAdId=085e6104-c624-4f02-822f-a01b7636ed7e",
       "publishedAt": "2026-09-02",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "简历投递→在线测评→（部分岗位AI面试）→面试→签约→体检→入职",
+      "recruitmentProcessEvidence": "E2 | 吉林大学就业网京东方2027校招 | https://jdjyw.jlu.edu.cn/portal/jyzp/recruit/details?id=ff28a962b62d4eddaf1d68767e0c054d | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | 吉林大学就业网京东方2027校招 | https://jdjyw.jlu.edu.cn/portal/jyzp/recruit/details?id=ff28a962b62d4eddaf1d68767e0c054d | 2026-09-17"
+    },
+    {
+      "id": "beisen-5fe1db4adad0",
+      "company": "京东方",
+      "title": "【显示器件及物联网创新】销售经理（俄罗斯）(J54731)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1. 本科及以上学历，理工科或商科相关专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "英语、俄语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "俄罗斯联邦",
+      "jobDescription": "1.运用好中国文化背景和本地文化熟悉的优势，做好集团战略在区域市场的落地； 2.洞察所在区域市场与客户，深耕新区域，迅速进攻拓展业务； 3.建立和维护客户关系，沟通客户需求达成销售，跟进客户项目导入，达成销售指标； 4.协调资源确保流程顺畅，推进项目管理，细化交付回款，应对流程异常。 1. Leverage the advantages of a Chinese cultural background and familiarity with local culture to effectively implement the Group's strategy in the regional market; 2. Gain insight into the regional market and customers, deepen penetration into new regions, and rapidly expand business; 3. Establish and maintain customer relationships, communicate with customers to understand their needs and achieve sales, follow up on customer project introduction, and meet sales targets; 4. Coordinate resources to ensure smooth processes, advance project management, refine delivery and payment collection, and address process anomalies.",
+      "jobRequirements": "1. 本科及以上学历，理工科或商科相关专业优先； 2. 英语、俄语可作为工作语言（中文为加分项）； 3. 具备良好的商业敏感度、逻辑思维和跨文化沟通意识，有海外学习或国际项目经历者优先； 4. 具备良好的团队协作能力； 5. 具备良好的谈判意识与沟通能力； 6. 能接受国内及国际出差。 1. Bachelor's degree or above, preferably in STEM or business-related fields; 2. English and Russian can be used as working languages (Chinese is a plus); 3. Good business acumen, logical thinking, and cross-cultural communication awareness; overseas study or international project experience is preferred; 4. Strong teamwork skills; 5. Good negotiation awareness and communication skills; 6. Willing to travel domestically and internationally.",
+      "JD": "1.运用好中国文化背景和本地文化熟悉的优势，做好集团战略在区域市场的落地； 2.洞察所在区域市场与客户，深耕新区域，迅速进攻拓展业务； 3.建立和维护客户关系，沟通客户需求达成销售，跟进客户项目导入，达成销售指标； 4.协调资源确保流程顺畅，推进项目管理，细化交付回款，应对流程异常。 1. Leverage the advantages of a Chinese cultural background and familiarity with local culture to effectively implement the Group's strategy in the regional market; 2. Gain insight into the regional market and customers, deepen penetration into new regions, and rapidly expand business; 3. Establish and maintain customer relationships, communicate with customers to understand their needs and achieve sales, follow up on customer project introduction, and meet sales targets; 4. Coordinate resources to ensure smooth processes, advance project management, refine delivery and payment collection, and address process anomalies.\n1. 本科及以上学历，理工科或商科相关专业优先； 2. 英语、俄语可作为工作语言（中文为加分项）； 3. 具备良好的商业敏感度、逻辑思维和跨文化沟通意识，有海外学习或国际项目经历者优先； 4. 具备良好的团队协作能力； 5. 具备良好的谈判意识与沟通能力； 6. 能接受国内及国际出差。 1. Bachelor's degree or above, preferably in STEM or business-related fields; 2. English and Russian can be used as working languages (Chinese is a plus); 3. Good business acumen, logical thinking, and cross-cultural communication awareness; overseas study or international project experience is preferred; 4. Strong teamwork skills; 5. Good negotiation awareness and communication skills; 6. Willing to travel domestically and internationally.",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1. 本科及以上学历，理工科或商科相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "跨文化沟通",
+          "客户关系"
+        ]
+      },
+      "roleFamily": [
+        "销售"
+      ],
+      "skills": [
+        "英语",
+        "项目管理"
+      ],
+      "experienceKeywords": [
+        "海外",
+        "项目",
+        "市场",
+        "跨文化",
+        "客户"
+      ],
+      "preferenceTags": [
+        "国际业务",
+        "跨文化"
+      ],
+      "riskTags": [
+        "纯销售"
+      ],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 1.运用好中国文化背景和本地文化熟悉的优势，做好集团战略在区域市场的落地； 2.洞"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://campus.boe.com/campus/detail?jobAdId=f6d1a0e6-7f9f-4d91-88ad-048e8caea7e9",
+      "publishedAt": "2026-10-27",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "简历投递→在线测评→（部分岗位AI面试）→面试→签约→体检→入职",
+      "recruitmentProcessEvidence": "E2 | 吉林大学就业网京东方2027校招 | https://jdjyw.jlu.edu.cn/portal/jyzp/recruit/details?id=ff28a962b62d4eddaf1d68767e0c054d | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | 吉林大学就业网京东方2027校招 | https://jdjyw.jlu.edu.cn/portal/jyzp/recruit/details?id=ff28a962b62d4eddaf1d68767e0c054d | 2026-09-17"
+    },
+    {
+      "id": "beisen-20acc7c912a7",
+      "company": "京东方",
+      "title": "【显示器件及物联网创新】销售经理（法国）(J54730)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1. 本科及以上学历，理工科或商科相关专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "英语、法语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "法国",
+      "jobDescription": "1.运用好中国文化背景和本地文化熟悉的优势，做好集团战略在区域市场的落地； 2.洞察所在区域市场与客户，深耕新区域，迅速进攻拓展业务； 3.建立和维护客户关系，沟通客户需求达成销售，跟进客户项目导入，达成销售指标； 4.协调资源确保流程顺畅，推进项目管理，细化交付回款，应对流程异常。 1. Leverage the advantages of a Chinese cultural background and familiarity with local culture to effectively implement the Group's strategy in the regional market; 2. Gain insight into the regional market and customers, deepen penetration into new regions, and rapidly expand business; 3. Establish and maintain customer relationships, communicate with customers to understand their needs and achieve sales, follow up on customer project introduction, and meet sales targets; 4. Coordinate resources to ensure smooth processes, advance project management, refine delivery and payment collection, and address process anomalies.",
+      "jobRequirements": "1. 本科及以上学历，理工科或商科相关专业优先； 2. 英语、法语可作为工作语言（中文为加分项）； 3. 具备良好的商业敏感度、逻辑思维和跨文化沟通意识，有海外学习或国际项目经历者优先； 4. 具备良好的团队协作能力； 5. 具备良好的谈判意识与沟通能力； 6. 能接受国内及国际出差。 1. Bachelor's degree or above, preferably in STEM or business-related fields; 2. English and French can be used as working languages (Chinese is a plus); 3. Good business acumen, logical thinking, and cross-cultural communication awareness; overseas study or international project experience is preferred; 4. Strong teamwork skills; 5. Good negotiation awareness and communication skills; 6. Willing to travel domestically and internationally.",
+      "JD": "1.运用好中国文化背景和本地文化熟悉的优势，做好集团战略在区域市场的落地； 2.洞察所在区域市场与客户，深耕新区域，迅速进攻拓展业务； 3.建立和维护客户关系，沟通客户需求达成销售，跟进客户项目导入，达成销售指标； 4.协调资源确保流程顺畅，推进项目管理，细化交付回款，应对流程异常。 1. Leverage the advantages of a Chinese cultural background and familiarity with local culture to effectively implement the Group's strategy in the regional market; 2. Gain insight into the regional market and customers, deepen penetration into new regions, and rapidly expand business; 3. Establish and maintain customer relationships, communicate with customers to understand their needs and achieve sales, follow up on customer project introduction, and meet sales targets; 4. Coordinate resources to ensure smooth processes, advance project management, refine delivery and payment collection, and address process anomalies.\n1. 本科及以上学历，理工科或商科相关专业优先； 2. 英语、法语可作为工作语言（中文为加分项）； 3. 具备良好的商业敏感度、逻辑思维和跨文化沟通意识，有海外学习或国际项目经历者优先； 4. 具备良好的团队协作能力； 5. 具备良好的谈判意识与沟通能力； 6. 能接受国内及国际出差。 1. Bachelor's degree or above, preferably in STEM or business-related fields; 2. English and French can be used as working languages (Chinese is a plus); 3. Good business acumen, logical thinking, and cross-cultural communication awareness; overseas study or international project experience is preferred; 4. Strong teamwork skills; 5. Good negotiation awareness and communication skills; 6. Willing to travel domestically and internationally.",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1. 本科及以上学历，理工科或商科相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "跨文化沟通",
+          "客户关系"
+        ]
+      },
+      "roleFamily": [
+        "销售"
+      ],
+      "skills": [
+        "英语",
+        "项目管理"
+      ],
+      "experienceKeywords": [
+        "海外",
+        "项目",
+        "市场",
+        "跨文化",
+        "客户"
+      ],
+      "preferenceTags": [
+        "国际业务",
+        "跨文化"
+      ],
+      "riskTags": [
+        "纯销售"
+      ],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 1.运用好中国文化背景和本地文化熟悉的优势，做好集团战略在区域市场的落地； 2.洞"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://campus.boe.com/campus/detail?jobAdId=ac970825-4b5e-4567-8b21-46a93ab6a018",
+      "publishedAt": "2026-10-27",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "简历投递→在线测评→（部分岗位AI面试）→面试→签约→体检→入职",
+      "recruitmentProcessEvidence": "E2 | 吉林大学就业网京东方2027校招 | https://jdjyw.jlu.edu.cn/portal/jyzp/recruit/details?id=ff28a962b62d4eddaf1d68767e0c054d | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | 吉林大学就业网京东方2027校招 | https://jdjyw.jlu.edu.cn/portal/jyzp/recruit/details?id=ff28a962b62d4eddaf1d68767e0c054d | 2026-09-17"
+    },
+    {
+      "id": "beisen-eb6b56d300eb",
+      "company": "京东方",
+      "title": "【显示器件及物联网创新】销售经理（德国）(J54729)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1. 本科及以上学历，理工科或商科相关专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "英语、德语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "德国",
+      "jobDescription": "1.运用好中国文化背景和本地文化熟悉的优势，做好集团战略在区域市场的落地； 2.洞察所在区域市场与客户，深耕新区域，迅速进攻拓展业务； 3.建立和维护客户关系，沟通客户需求达成销售，跟进客户项目导入，达成销售指标； 4.协调资源确保流程顺畅，推进项目管理，细化交付回款，应对流程异常。 1. Leverage the advantages of a Chinese cultural background and familiarity with local culture to effectively implement the Group's strategy in the regional market; 2. Gain insight into the regional market and customers, deepen penetration into new regions, and rapidly expand business; 3. Establish and maintain customer relationships, communicate with customers to understand their needs and achieve sales, follow up on customer project introduction, and meet sales targets; 4. Coordinate resources to ensure smooth processes, advance project management, refine delivery and payment collection, and address process anomalies.",
+      "jobRequirements": "1. 本科及以上学历，理工科或商科相关专业优先； 2. 英语、德语可作为工作语言（中文为加分项），工作地为德国法兰克福； 3. 具备良好的商业敏感度、逻辑思维和跨文化沟通意识，有海外学习或国际项目经历者优先； 4. 具备良好的团队协作能力； 5. 具备良好的谈判意识与沟通能力； 6. 能接受国内及国际出差。 1. Bachelor's degree or above, preferably in STEM or business-related fields; 2. English and German can be used as working languages (Chinese is a plus); 3. Good business acumen, logical thinking, and cross-cultural communication awareness; overseas study or international project experience is preferred; 4. Strong teamwork skills; 5. Good negotiation awareness and communication skills; 6. Willing to travel domestically and internationally.",
+      "JD": "1.运用好中国文化背景和本地文化熟悉的优势，做好集团战略在区域市场的落地； 2.洞察所在区域市场与客户，深耕新区域，迅速进攻拓展业务； 3.建立和维护客户关系，沟通客户需求达成销售，跟进客户项目导入，达成销售指标； 4.协调资源确保流程顺畅，推进项目管理，细化交付回款，应对流程异常。 1. Leverage the advantages of a Chinese cultural background and familiarity with local culture to effectively implement the Group's strategy in the regional market; 2. Gain insight into the regional market and customers, deepen penetration into new regions, and rapidly expand business; 3. Establish and maintain customer relationships, communicate with customers to understand their needs and achieve sales, follow up on customer project introduction, and meet sales targets; 4. Coordinate resources to ensure smooth processes, advance project management, refine delivery and payment collection, and address process anomalies.\n1. 本科及以上学历，理工科或商科相关专业优先； 2. 英语、德语可作为工作语言（中文为加分项），工作地为德国法兰克福； 3. 具备良好的商业敏感度、逻辑思维和跨文化沟通意识，有海外学习或国际项目经历者优先； 4. 具备良好的团队协作能力； 5. 具备良好的谈判意识与沟通能力； 6. 能接受国内及国际出差。 1. Bachelor's degree or above, preferably in STEM or business-related fields; 2. English and German can be used as working languages (Chinese is a plus); 3. Good business acumen, logical thinking, and cross-cultural communication awareness; overseas study or international project experience is preferred; 4. Strong teamwork skills; 5. Good negotiation awareness and communication skills; 6. Willing to travel domestically and internationally.",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1. 本科及以上学历，理工科或商科相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "跨文化沟通",
+          "客户关系"
+        ]
+      },
+      "roleFamily": [
+        "销售"
+      ],
+      "skills": [
+        "英语",
+        "项目管理"
+      ],
+      "experienceKeywords": [
+        "海外",
+        "项目",
+        "市场",
+        "跨文化",
+        "客户"
+      ],
+      "preferenceTags": [
+        "国际业务",
+        "跨文化"
+      ],
+      "riskTags": [
+        "纯销售"
+      ],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 1.运用好中国文化背景和本地文化熟悉的优势，做好集团战略在区域市场的落地； 2.洞"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://campus.boe.com/campus/detail?jobAdId=f482911d-b3f0-4fbc-89e5-b8a0a2d7ed95",
+      "publishedAt": "2026-10-27",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "",
@@ -2990,96 +3296,6 @@
       "hasAssessmentEvidence": "E2 | 吉林大学就业网京东方2027校招 | https://jdjyw.jlu.edu.cn/portal/jyzp/recruit/details?id=ff28a962b62d4eddaf1d68767e0c054d | 2026-09-17"
     },
     {
-      "id": "beisen-7d2d5f6e9788",
-      "company": "京东方",
-      "title": "【创新业务】销售支援专员（北京）(J53512)",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "2、专业不限",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "北京",
-      "jobDescription": "合同与回款管理、客户响应处理 1、合同及订单管理：协助销售与客户拟定合同条款，跟进完成客户合同、订单审批程。协同销售完成客户的合同变更，包括合同续约、增购、终止等。维护客户台账； 2、回款管理：负责完成客户催款回款，包括对账、发票及费用减免等，配合完成各类数据统计分析； 3、客户响应处理：客户投诉处理、客户参观及维护入室申请处理、客户授权操作管理、客户设备上下架及替换管理、资源备案管理、出具故障报告、客户测试管理，实现客户诉求快速响应与及时有效处理，提高客户满意度。",
-      "jobRequirements": "1、本科应届毕业生； 2、专业不限； 3、专业基础扎实，成绩优秀，无不及格科目； 4、正直、诚信、有激情、专注、具备良好的团队精神、沟通和表达能力； 5、有较好的英语能力（英语四级及以上）。",
-      "JD": "合同与回款管理、客户响应处理 1、合同及订单管理：协助销售与客户拟定合同条款，跟进完成客户合同、订单审批程。协同销售完成客户的合同变更，包括合同续约、增购、终止等。维护客户台账； 2、回款管理：负责完成客户催款回款，包括对账、发票及费用减免等，配合完成各类数据统计分析； 3、客户响应处理：客户投诉处理、客户参观及维护入室申请处理、客户授权操作管理、客户设备上下架及替换管理、资源备案管理、出具故障报告、客户测试管理，实现客户诉求快速响应与及时有效处理，提高客户满意度。\n1、本科应届毕业生； 2、专业不限； 3、专业基础扎实，成绩优秀，无不及格科目； 4、正直、诚信、有激情、专注、具备良好的团队精神、沟通和表达能力； 5、有较好的英语能力（英语四级及以上）。",
-      "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [
-          "2、专业不限"
-        ],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [
-        "英语"
-      ],
-      "experienceKeywords": [
-        "数据",
-        "客户"
-      ],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": true,
-        "raw": "1",
-        "min": 1,
-        "max": 1,
-        "scope": "job",
-        "display": "1人",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "high",
-        "evidence": "1 1 合同与回款管理、客户响应处理 1、合同及订单管理：协助销售与客户拟定合同条款，跟进"
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "面议",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": "面议"
-      },
-      "salary": "面议",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://campus.boe.com/campus/detail?jobAdId=4193c29a-d025-4da5-a3d6-e825d951feb4",
-      "publishedAt": "2026-09-02",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "简历投递→在线测评→（部分岗位AI面试）→面试→签约→体检→入职",
-      "recruitmentProcessEvidence": "E2 | 吉林大学就业网京东方2027校招 | https://jdjyw.jlu.edu.cn/portal/jyzp/recruit/details?id=ff28a962b62d4eddaf1d68767e0c054d | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E2 | 吉林大学就业网京东方2027校招 | https://jdjyw.jlu.edu.cn/portal/jyzp/recruit/details?id=ff28a962b62d4eddaf1d68767e0c054d | 2026-09-17"
-    },
-    {
       "id": "beisen-2511f690fa31",
       "company": "京东方",
       "title": "【显示器件及物联网创新】销售管理工程师（北京）(J54043)",
@@ -3365,6 +3581,106 @@
       "source": "公司官方北森校招官网",
       "officialURL": "https://campus.boe.com/campus/detail?jobAdId=5008f327-5eb9-42f9-991b-685d5b7b06e1",
       "publishedAt": "2026-09-02",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "简历投递→在线测评→（部分岗位AI面试）→面试→签约→体检→入职",
+      "recruitmentProcessEvidence": "E2 | 吉林大学就业网京东方2027校招 | https://jdjyw.jlu.edu.cn/portal/jyzp/recruit/details?id=ff28a962b62d4eddaf1d68767e0c054d | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | 吉林大学就业网京东方2027校招 | https://jdjyw.jlu.edu.cn/portal/jyzp/recruit/details?id=ff28a962b62d4eddaf1d68767e0c054d | 2026-09-17"
+    },
+    {
+      "id": "beisen-2643665550b1",
+      "company": "京东方",
+      "title": "【显示器件及物联网创新】销售经理（巴西）(J54725)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1. 本科及以上学历，理工科或商科相关专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "英语、葡萄牙语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "巴西",
+      "jobDescription": "1.开拓BOE在南美市场的传感、商用显示及LED等创新业务，完成销售目标； 2.负责渠道及客户伙伴的开发、维护和监督管理； 3.负责订单谈判、跟进项目进展和完成，处理客户采购的风险评估和控制； 4.及时洞察南美洲的行业/市场/客户等信息。 1. Develop BOE's innovative businesses in sensing, commercial display, and LED in the South American market, and achieve sales targets; 2. Responsible for the development, maintenance, and supervision of channels and customer partners; 3. Responsible for order negotiation, following up on project progress and completion, and handling risk assessment and control of customer procurement; 4. Timely insight into industry/market/customer information in South America.",
+      "jobRequirements": "1. 本科及以上学历，理工科或商科相关专业优先； 2. 英语、葡语可作为工作语言（中文为加分项），工作地为巴西圣保罗； 3. 具备良好的商业敏感度、逻辑思维和跨文化沟通意识，有海外学习或国际项目经历者优先； 4. 具备良好的团队协作能力； 5. 具备良好的谈判意识与沟通能力； 6. 能接受国内及国际出差。 1. Bachelor's degree or above, preferably in STEM or business-related fields; 2. English and Portuguese can be used as working languages (Chinese is a plus); 3. Good business acumen, logical thinking, and cross-cultural communication awareness; overseas study or international project experience is preferred; 4. Strong teamwork skills; 5. Good negotiation awareness and communication skills; 6. Willing to travel domestically and internationally.",
+      "JD": "1.开拓BOE在南美市场的传感、商用显示及LED等创新业务，完成销售目标； 2.负责渠道及客户伙伴的开发、维护和监督管理； 3.负责订单谈判、跟进项目进展和完成，处理客户采购的风险评估和控制； 4.及时洞察南美洲的行业/市场/客户等信息。 1. Develop BOE's innovative businesses in sensing, commercial display, and LED in the South American market, and achieve sales targets; 2. Responsible for the development, maintenance, and supervision of channels and customer partners; 3. Responsible for order negotiation, following up on project progress and completion, and handling risk assessment and control of customer procurement; 4. Timely insight into industry/market/customer information in South America.\n1. 本科及以上学历，理工科或商科相关专业优先； 2. 英语、葡语可作为工作语言（中文为加分项），工作地为巴西圣保罗； 3. 具备良好的商业敏感度、逻辑思维和跨文化沟通意识，有海外学习或国际项目经历者优先； 4. 具备良好的团队协作能力； 5. 具备良好的谈判意识与沟通能力； 6. 能接受国内及国际出差。 1. Bachelor's degree or above, preferably in STEM or business-related fields; 2. English and Portuguese can be used as working languages (Chinese is a plus); 3. Good business acumen, logical thinking, and cross-cultural communication awareness; overseas study or international project experience is preferred; 4. Strong teamwork skills; 5. Good negotiation awareness and communication skills; 6. Willing to travel domestically and internationally.",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1. 本科及以上学历，理工科或商科相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "跨文化沟通"
+        ]
+      },
+      "roleFamily": [
+        "销售"
+      ],
+      "skills": [
+        "英语"
+      ],
+      "experienceKeywords": [
+        "海外",
+        "项目",
+        "市场",
+        "跨文化",
+        "客户"
+      ],
+      "preferenceTags": [
+        "国际业务",
+        "跨文化"
+      ],
+      "riskTags": [
+        "纯销售"
+      ],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 1.开拓BOE在南美市场的传感、商用显示及LED等创新业务，完成销售目标； 2.负"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://campus.boe.com/campus/detail?jobAdId=4c6b6d0a-b33d-403b-930e-bb4bc759fb0a",
+      "publishedAt": "2026-10-27",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "",

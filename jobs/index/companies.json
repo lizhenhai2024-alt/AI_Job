@@ -1,14 +1,20 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-27T01:32:53.194Z",
-  "totalJobs": 6695,
-  "totalCompanies": 141,
+  "updatedAt": "2026-10-27T15:26:37.597Z",
+  "totalJobs": 6817,
+  "totalCompanies": 142,
   "companies": [
     {
       "company": "阿里巴巴",
       "slug": "阿里巴巴",
       "file": "jobs/by-company/阿里巴巴.json",
-      "count": 114
+      "count": 113
+    },
+    {
+      "company": "安东石油技术（集团）有限公司",
+      "slug": "安东石油技术-集团",
+      "file": "jobs/by-company/安东石油技术-集团.json",
+      "count": 1
     },
     {
       "company": "安克创新",
@@ -50,7 +56,7 @@
       "company": "保利和润房地产投资顾问有限公司",
       "slug": "保利和润房地产投资顾问",
       "file": "jobs/by-company/保利和润房地产投资顾问.json",
-      "count": 48
+      "count": 47
     },
     {
       "company": "比亚迪",
@@ -158,7 +164,7 @@
       "company": "顾家家居",
       "slug": "顾家家居",
       "file": "jobs/by-company/顾家家居.json",
-      "count": 16
+      "count": 19
     },
     {
       "company": "广州地铁集团有限公司",
@@ -182,7 +188,7 @@
       "company": "海信",
       "slug": "海信",
       "file": "jobs/by-company/海信.json",
-      "count": 123
+      "count": 124
     },
     {
       "company": "杭州伸美品牌管理有限公司",
@@ -200,7 +206,7 @@
       "company": "湖南长银五八消费金融股份有限公司",
       "slug": "湖南长银五八消费金融股份",
       "file": "jobs/by-company/湖南长银五八消费金融股份.json",
-      "count": 43
+      "count": 44
     },
     {
       "company": "华勤技术",
@@ -224,7 +230,7 @@
       "company": "吉利汽车",
       "slug": "吉利汽车",
       "file": "jobs/by-company/吉利汽车.json",
-      "count": 209
+      "count": 299
     },
     {
       "company": "极兔速递",
@@ -254,7 +260,7 @@
       "company": "京东方",
       "slug": "京东方",
       "file": "jobs/by-company/京东方.json",
-      "count": 63
+      "count": 66
     },
     {
       "company": "京人才·新未来——京新药业",
@@ -320,7 +326,7 @@
       "company": "零跑汽车",
       "slug": "零跑汽车",
       "file": "jobs/by-company/零跑汽车.json",
-      "count": 43
+      "count": 44
     },
     {
       "company": "绿盟科技",
@@ -338,7 +344,7 @@
       "company": "美团",
       "slug": "美团",
       "file": "jobs/by-company/美团.json",
-      "count": 54
+      "count": 53
     },
     {
       "company": "蒙牛",
@@ -488,7 +494,7 @@
       "company": "深圳市艾丽斯卡文化创意有限公司",
       "slug": "深圳市艾丽斯卡文化创意",
       "file": "jobs/by-company/深圳市艾丽斯卡文化创意.json",
-      "count": 8
+      "count": 9
     },
     {
       "company": "深圳市汇川技术股份有限公司",
@@ -506,7 +512,7 @@
       "company": "深圳市鹏芯微集成电路制造有限公司",
       "slug": "深圳市鹏芯微集成电路制造",
       "file": "jobs/by-company/深圳市鹏芯微集成电路制造.json",
-      "count": 1
+      "count": 3
     },
     {
       "company": "盛趣游戏",
@@ -554,7 +560,7 @@
       "company": "泰康保险",
       "slug": "泰康保险",
       "file": "jobs/by-company/泰康保险.json",
-      "count": 337
+      "count": 339
     },
     {
       "company": "特斯拉中国",
@@ -590,7 +596,7 @@
       "company": "微步在线",
       "slug": "微步在线",
       "file": "jobs/by-company/微步在线.json",
-      "count": 41
+      "count": 40
     },
     {
       "company": "蔚来",
@@ -614,7 +620,7 @@
       "company": "小鹏汽车",
       "slug": "小鹏汽车",
       "file": "jobs/by-company/小鹏汽车.json",
-      "count": 214
+      "count": 216
     },
     {
       "company": "携程集团",
@@ -638,7 +644,7 @@
       "company": "新东方深圳学校",
       "slug": "新东方深圳学校",
       "file": "jobs/by-company/新东方深圳学校.json",
-      "count": 471
+      "count": 472
     },
     {
       "company": "新华三集团",
@@ -728,7 +734,7 @@
       "company": "正浩创新EcoFlow",
       "slug": "正浩创新ecoflow",
       "file": "jobs/by-company/正浩创新ecoflow.json",
-      "count": 42
+      "count": 41
     },
     {
       "company": "致欧家居",
@@ -740,7 +746,7 @@
       "company": "中国路桥",
       "slug": "中国路桥",
       "file": "jobs/by-company/中国路桥.json",
-      "count": 165
+      "count": 166
     },
     {
       "company": "中国人民保险集团",
@@ -836,7 +842,7 @@
       "company": "Shopee",
       "slug": "shopee",
       "file": "jobs/by-company/shopee.json",
-      "count": 6
+      "count": 24
     },
     {
       "company": "TCL华星光电",

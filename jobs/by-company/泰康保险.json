@@ -1,7 +1,7 @@
 {
   "company": "泰康保险",
-  "count": 337,
-  "updatedAt": "2026-10-27T01:32:53.194Z",
+  "count": 339,
+  "updatedAt": "2026-10-27T15:26:37.597Z",
   "jobs": [
     {
       "id": "beisen-8c5d8168b055",
@@ -15536,6 +15536,171 @@
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "2028-06-08"
+    },
+    {
+      "id": "beisen-d2a4f1275f23",
+      "company": "泰康保险",
+      "title": "之家-秦园-文娱活动师【2027届】(J85530)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "本科及以上学历；有社工专业背景者优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "西安",
+      "jobDescription": "1、研究居民的课程与活动需求,设计、开发并组织艺术、签益智、休闲等各类活动; 2、协助居民创建和发展各类俱乐部,开展自主活动; 3、参与社区居民大型庆典活动的组织策划。",
+      "jobRequirements": "1、本科及以上学历; 2、对养老行业有热情,具备服务意识,有亲和力,有耐心; 3、有社工专业背景者优先,有文艺特长或文体活动组织经验优先。",
+      "JD": "1、研究居民的课程与活动需求,设计、开发并组织艺术、签益智、休闲等各类活动; 2、协助居民创建和发展各类俱乐部,开展自主活动; 3、参与社区居民大型庆典活动的组织策划。\n1、本科及以上学历; 2、对养老行业有热情,具备服务意识,有亲和力,有耐心; 3、有社工专业背景者优先,有文艺特长或文体活动组织经验优先。",
+      "jdEvidence": {
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科及以上学历",
+          "有社工专业背景者优先"
+        ],
+        "eligibilityClauses": [],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 1、研究居民的课程与活动需求,设计、开发并组织艺术、签益智、休闲等各类活动; 2、"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://jobtaikang.zhiye.com/campus/detail?jobAdId=861a67ff-7206-4468-8fd7-cf85eabcc25a",
+      "publishedAt": "2026-10-27",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-776d7e1aff21",
+      "company": "泰康保险",
+      "title": "人寿-贵州分公司-组训岗位(2027校招)(J90261)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "本科或以上学历,金融、保险、市场、教育等相关专业",
+        "hardRestriction": true,
+        "hardClauses": [
+          "金融、保险、市场、教育等相关专业"
+        ]
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "贵州省·贵阳市/遵义市/安顺市/毕节市/黔东南苗族侗族自治州/六盘水市/铜仁市/黔西南布依族苗族自治州/黔南布依族苗族自治州",
+      "jobDescription": "聚焦四级机构业务的开拓、队伍招募及训练,实现机构业务目标。",
+      "jobRequirements": "本科或以上学历,金融、保险、市场、教育等相关专业;熟悉寿险各种业务各知识、丰富的寿险培训经验、具有较强的市场洞察力、组织协调能力、沟通能力和管理能力。",
+      "JD": "聚焦四级机构业务的开拓、队伍招募及训练,实现机构业务目标。\n本科或以上学历,金融、保险、市场、教育等相关专业;熟悉寿险各种业务各知识、丰富的寿险培训经验、具有较强的市场洞察力、组织协调能力、沟通能力和管理能力。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "本科或以上学历,金融、保险、市场、教育等相关专业"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "市场"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://jobtaikang.zhiye.com/campus/detail?jobAdId=e931074a-601b-4130-8c21-7906e63bd11b",
+      "publishedAt": "2026-10-27",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
     },
     {
       "id": "beisen-a519d1e26185",

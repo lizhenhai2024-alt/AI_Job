@@ -1,7 +1,7 @@
 {
   "company": "TCL华星光电",
   "count": 79,
-  "updatedAt": "2026-10-27T01:32:53.194Z",
+  "updatedAt": "2026-10-27T15:26:37.597Z",
   "jobs": [
     {
       "id": "hotjob-779fe73e5dfa",
@@ -499,7 +499,7 @@
       "annualSalary": "未披露",
       "source": "公司官方HotJob校招官网",
       "officialURL": "https://wecruit.hotjob.cn/SU64893571bef57c16d356b99e/mc/detail?postId=6adb56a2f0cfabf2b4031f0b&recruitType=1",
-      "publishedAt": "2026-10-26",
+      "publishedAt": "2026-10-27",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "2027-10-23",
@@ -914,6 +914,103 @@
       "hasAssessmentEvidence": "E2 | TCL官方校招门户 | https://campus.tcl.com/campus/spring.html | 2026-09-17"
     },
     {
+      "id": "hotjob-448548fd3c6d",
+      "company": "TCL华星光电",
+      "title": "海外产品规划管培生",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "全日制统招本科及以上学历，工科、商科类专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "英语、西班牙语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "深圳",
+      "jobDescription": "1. 市场策略：进行市场调研、行业分析、竞品分析，协助确定产品定位和市场策略； 2. 数据分析：实时监控分析销售情况，统计分析市场数据并输出相关报告； 3. 跨部门协作：协调不同部门，组织并拉通各部门进行周期性项目会议； 4. 营销执行：协同市场团队，针对产品策划上市营销活动，把控预算与效果； 5. 销售支持：协同销售团队，输出并执行产品在区域内上市以及业务拓展规划。",
+      "jobRequirements": "1. 全日制统招本科及以上学历，工科、商科类专业优先； 2. 热爱3C电子产品相关的工作，有相关技术背景优先； 3. 具备较强的学习能力与执行能力，有较强的团队协作能力； 4. 积极主动，靠谱当责，工作严谨； 5. 英语听说读写可以作为工作语言，西班牙语为加分项； 6. 可以接受海外出差或者外派。",
+      "JD": "1. 市场策略：进行市场调研、行业分析、竞品分析，协助确定产品定位和市场策略； 2. 数据分析：实时监控分析销售情况，统计分析市场数据并输出相关报告； 3. 跨部门协作：协调不同部门，组织并拉通各部门进行周期性项目会议； 4. 营销执行：协同市场团队，针对产品策划上市营销活动，把控预算与效果； 5. 销售支持：协同销售团队，输出并执行产品在区域内上市以及业务拓展规划。\n1. 全日制统招本科及以上学历，工科、商科类专业优先； 2. 热爱3C电子产品相关的工作，有相关技术背景优先； 3. 具备较强的学习能力与执行能力，有较强的团队协作能力； 4. 积极主动，靠谱当责，工作严谨； 5. 英语听说读写可以作为工作语言，西班牙语为加分项； 6. 可以接受海外出差或者外派。",
+      "jdEvidence": {
+        "source": "llm:gemini-free:gemini-3.5-flash-lite",
+        "majorClauses": [
+          "全日制统招本科及以上学历，工科、商科类专业优先"
+        ],
+        "eligibilityClauses": [],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语",
+        "数据分析"
+      ],
+      "experienceKeywords": [
+        "海外",
+        "项目",
+        "市场",
+        "数据",
+        "营销",
+        "分析"
+      ],
+      "preferenceTags": [
+        "国际业务"
+      ],
+      "riskTags": [
+        "海外出差"
+      ],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方HotJob校招官网",
+      "officialURL": "https://wecruit.hotjob.cn/SU64893571bef57c16d356b99e/mc/detail?postId=6a8aa5d71ad6db7cf833c222&recruitType=1",
+      "publishedAt": "2026-10-27",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "2026-11-03",
+      "recruitmentProcess": "在线网申→在线测评→简历筛选→笔试（研发岗）→一面→二面→offer",
+      "recruitmentProcessEvidence": "E2 | TCL招聘官网琥珀计划页 | https://zhaopin.tcl.com/campus/amber.html | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | TCL官方校招门户 | https://campus.tcl.com/campus/spring.html | 2026-09-17"
+    },
+    {
       "id": "hotjob-86145856422a",
       "company": "TCL华星光电",
       "title": "零售运营管培生（培训方向）",
@@ -1009,103 +1106,6 @@
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "2027-10-26",
-      "recruitmentProcess": "在线网申→在线测评→简历筛选→笔试（研发岗）→一面→二面→offer",
-      "recruitmentProcessEvidence": "E2 | TCL招聘官网琥珀计划页 | https://zhaopin.tcl.com/campus/amber.html | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E2 | TCL官方校招门户 | https://campus.tcl.com/campus/spring.html | 2026-09-17"
-    },
-    {
-      "id": "hotjob-448548fd3c6d",
-      "company": "TCL华星光电",
-      "title": "海外产品规划管培生",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "本科",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "全日制统招本科及以上学历，工科、商科类专业优先",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "英语、西班牙语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "深圳",
-      "jobDescription": "1. 市场策略：进行市场调研、行业分析、竞品分析，协助确定产品定位和市场策略； 2. 数据分析：实时监控分析销售情况，统计分析市场数据并输出相关报告； 3. 跨部门协作：协调不同部门，组织并拉通各部门进行周期性项目会议； 4. 营销执行：协同市场团队，针对产品策划上市营销活动，把控预算与效果； 5. 销售支持：协同销售团队，输出并执行产品在区域内上市以及业务拓展规划。",
-      "jobRequirements": "1. 全日制统招本科及以上学历，工科、商科类专业优先； 2. 热爱3C电子产品相关的工作，有相关技术背景优先； 3. 具备较强的学习能力与执行能力，有较强的团队协作能力； 4. 积极主动，靠谱当责，工作严谨； 5. 英语听说读写可以作为工作语言，西班牙语为加分项； 6. 可以接受海外出差或者外派。",
-      "JD": "1. 市场策略：进行市场调研、行业分析、竞品分析，协助确定产品定位和市场策略； 2. 数据分析：实时监控分析销售情况，统计分析市场数据并输出相关报告； 3. 跨部门协作：协调不同部门，组织并拉通各部门进行周期性项目会议； 4. 营销执行：协同市场团队，针对产品策划上市营销活动，把控预算与效果； 5. 销售支持：协同销售团队，输出并执行产品在区域内上市以及业务拓展规划。\n1. 全日制统招本科及以上学历，工科、商科类专业优先； 2. 热爱3C电子产品相关的工作，有相关技术背景优先； 3. 具备较强的学习能力与执行能力，有较强的团队协作能力； 4. 积极主动，靠谱当责，工作严谨； 5. 英语听说读写可以作为工作语言，西班牙语为加分项； 6. 可以接受海外出差或者外派。",
-      "jdEvidence": {
-        "source": "llm:gemini-free:gemini-3.5-flash-lite",
-        "majorClauses": [
-          "全日制统招本科及以上学历，工科、商科类专业优先"
-        ],
-        "eligibilityClauses": [],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [
-        "英语",
-        "数据分析"
-      ],
-      "experienceKeywords": [
-        "海外",
-        "项目",
-        "市场",
-        "数据",
-        "营销",
-        "分析"
-      ],
-      "preferenceTags": [
-        "国际业务"
-      ],
-      "riskTags": [
-        "海外出差"
-      ],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "公司官方HotJob校招官网",
-      "officialURL": "https://wecruit.hotjob.cn/SU64893571bef57c16d356b99e/mc/detail?postId=6a8aa5d71ad6db7cf833c222&recruitType=1",
-      "publishedAt": "2026-10-26",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "2026-11-03",
       "recruitmentProcess": "在线网申→在线测评→简历筛选→笔试（研发岗）→一面→二面→offer",
       "recruitmentProcessEvidence": "E2 | TCL招聘官网琥珀计划页 | https://zhaopin.tcl.com/campus/amber.html | 2026-09-17",
       "hasAssessment": "有",
@@ -1576,7 +1576,7 @@
       "annualSalary": "未披露",
       "source": "公司官方HotJob校招官网",
       "officialURL": "https://wecruit.hotjob.cn/SU64893571bef57c16d356b99e/mc/detail?postId=6a8a7a2568cc6f624f73501a&recruitType=1",
-      "publishedAt": "2026-10-26",
+      "publishedAt": "2026-10-27",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "2026-11-03",
@@ -1673,7 +1673,7 @@
       "annualSalary": "未披露",
       "source": "公司官方HotJob校招官网",
       "officialURL": "https://wecruit.hotjob.cn/SU64893571bef57c16d356b99e/mc/detail?postId=6a8a7a4a1ad6db7cf833b64a&recruitType=1",
-      "publishedAt": "2026-10-26",
+      "publishedAt": "2026-10-27",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "2026-11-03",
@@ -1973,6 +1973,101 @@
       "hasAssessmentEvidence": "E2 | TCL官方校招门户 | https://campus.tcl.com/campus/spring.html | 2026-09-17"
     },
     {
+      "id": "hotjob-73f3824012ac",
+      "company": "TCL华星光电",
+      "title": "海外销售管培生（西语）",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "全日制统招本科及以上学历",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "西班牙语",
+        "english": false,
+        "minorLanguageRequired": true
+      },
+      "location": "深圳",
+      "jobDescription": "1. 市场洞察：收集整理海外市场信息，洞察消费市场，协助输出海外本地销售策略； 2. 订单管理：负责客户订单、生产、走货等业务流程跟进； 3. 销售经营：针对周期性市场经营目标，做渠道渗透率、销售额、市场份额等分析，达成经营指标； 4. 市场营销：规划市场预算投入，提升当地品牌知名度; 5. 完成领导上级交办的其他任务。",
+      "jobRequirements": "1. 全日制统招本科及以上学历； 2. 热爱海外销售并富有激情，有相关海外市场营销，海外市场销售实践优先； 3. 具备较强的学习能力与执行能力，有较强的团队协作能力； 4. 积极主动，靠谱当责，工作严谨； 5. 西班牙语听说读写可以作为工作语言； 6. 可以接受海外出差或者外派。",
+      "JD": "1. 市场洞察：收集整理海外市场信息，洞察消费市场，协助输出海外本地销售策略； 2. 订单管理：负责客户订单、生产、走货等业务流程跟进； 3. 销售经营：针对周期性市场经营目标，做渠道渗透率、销售额、市场份额等分析，达成经营指标； 4. 市场营销：规划市场预算投入，提升当地品牌知名度; 5. 完成领导上级交办的其他任务。\n1. 全日制统招本科及以上学历； 2. 热爱海外销售并富有激情，有相关海外市场营销，海外市场销售实践优先； 3. 具备较强的学习能力与执行能力，有较强的团队协作能力； 4. 积极主动，靠谱当责，工作严谨； 5. 西班牙语听说读写可以作为工作语言； 6. 可以接受海外出差或者外派。",
+      "jdEvidence": {
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "全日制统招本科及以上学历"
+        ],
+        "eligibilityClauses": [],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "海外",
+        "市场",
+        "营销",
+        "品牌",
+        "客户",
+        "分析"
+      ],
+      "preferenceTags": [
+        "国际业务",
+        "跨文化"
+      ],
+      "riskTags": [
+        "海外出差"
+      ],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方HotJob校招官网",
+      "officialURL": "https://wecruit.hotjob.cn/SU64893571bef57c16d356b99e/mc/detail?postId=6a8a7a261ad6db7cf833b601&recruitType=1",
+      "publishedAt": "2026-10-27",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "2026-11-03",
+      "recruitmentProcess": "在线网申→在线测评→简历筛选→笔试（研发岗）→一面→二面→offer",
+      "recruitmentProcessEvidence": "E2 | TCL招聘官网琥珀计划页 | https://zhaopin.tcl.com/campus/amber.html | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | TCL官方校招门户 | https://campus.tcl.com/campus/spring.html | 2026-09-17"
+    },
+    {
       "id": "hotjob-87407bfb70ed",
       "company": "TCL华星光电",
       "title": "产品培训管培生",
@@ -2068,101 +2163,6 @@
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "2027-10-26",
-      "recruitmentProcess": "在线网申→在线测评→简历筛选→笔试（研发岗）→一面→二面→offer",
-      "recruitmentProcessEvidence": "E2 | TCL招聘官网琥珀计划页 | https://zhaopin.tcl.com/campus/amber.html | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E2 | TCL官方校招门户 | https://campus.tcl.com/campus/spring.html | 2026-09-17"
-    },
-    {
-      "id": "hotjob-73f3824012ac",
-      "company": "TCL华星光电",
-      "title": "海外销售管培生（西语）",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "本科",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "全日制统招本科及以上学历",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "西班牙语",
-        "english": false,
-        "minorLanguageRequired": true
-      },
-      "location": "深圳",
-      "jobDescription": "1. 市场洞察：收集整理海外市场信息，洞察消费市场，协助输出海外本地销售策略； 2. 订单管理：负责客户订单、生产、走货等业务流程跟进； 3. 销售经营：针对周期性市场经营目标，做渠道渗透率、销售额、市场份额等分析，达成经营指标； 4. 市场营销：规划市场预算投入，提升当地品牌知名度; 5. 完成领导上级交办的其他任务。",
-      "jobRequirements": "1. 全日制统招本科及以上学历； 2. 热爱海外销售并富有激情，有相关海外市场营销，海外市场销售实践优先； 3. 具备较强的学习能力与执行能力，有较强的团队协作能力； 4. 积极主动，靠谱当责，工作严谨； 5. 西班牙语听说读写可以作为工作语言； 6. 可以接受海外出差或者外派。",
-      "JD": "1. 市场洞察：收集整理海外市场信息，洞察消费市场，协助输出海外本地销售策略； 2. 订单管理：负责客户订单、生产、走货等业务流程跟进； 3. 销售经营：针对周期性市场经营目标，做渠道渗透率、销售额、市场份额等分析，达成经营指标； 4. 市场营销：规划市场预算投入，提升当地品牌知名度; 5. 完成领导上级交办的其他任务。\n1. 全日制统招本科及以上学历； 2. 热爱海外销售并富有激情，有相关海外市场营销，海外市场销售实践优先； 3. 具备较强的学习能力与执行能力，有较强的团队协作能力； 4. 积极主动，靠谱当责，工作严谨； 5. 西班牙语听说读写可以作为工作语言； 6. 可以接受海外出差或者外派。",
-      "jdEvidence": {
-        "source": "llm:deepseek:deepseek-flash",
-        "majorClauses": [
-          "全日制统招本科及以上学历"
-        ],
-        "eligibilityClauses": [],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [],
-      "experienceKeywords": [
-        "海外",
-        "市场",
-        "营销",
-        "品牌",
-        "客户",
-        "分析"
-      ],
-      "preferenceTags": [
-        "国际业务",
-        "跨文化"
-      ],
-      "riskTags": [
-        "海外出差"
-      ],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "公司官方HotJob校招官网",
-      "officialURL": "https://wecruit.hotjob.cn/SU64893571bef57c16d356b99e/mc/detail?postId=6a8a7a261ad6db7cf833b601&recruitType=1",
-      "publishedAt": "2026-10-26",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "2026-11-03",
       "recruitmentProcess": "在线网申→在线测评→简历筛选→笔试（研发岗）→一面→二面→offer",
       "recruitmentProcessEvidence": "E2 | TCL招聘官网琥珀计划页 | https://zhaopin.tcl.com/campus/amber.html | 2026-09-17",
       "hasAssessment": "有",
