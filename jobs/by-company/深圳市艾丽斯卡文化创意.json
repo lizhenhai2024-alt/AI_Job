@@ -1,8 +1,90 @@
 {
   "company": "深圳市艾丽斯卡文化创意有限公司",
-  "count": 9,
-  "updatedAt": "2026-10-27T15:26:37.597Z",
+  "count": 10,
+  "updatedAt": "2026-10-27T20:10:21.844Z",
   "jobs": [
+    {
+      "id": "university-33aa3674e0cdab",
+      "company": "深圳市艾丽斯卡文化创意有限公司",
+      "title": "市场营销岗",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1.2027届应届毕业生，本科及以上，专业不限（市场营销、传播、广告、文学等专业优先）",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "深圳",
+      "jobDescription": "广东外语外贸大学就业信息网发现的招聘信息。该渠道用于岗位发现与交叉取证；正式投递前仍需回公司官方校招官网核验具体岗位、届别与要求。",
+      "jobRequirements": "",
+      "JD": "广东外语外贸大学就业信息网发现的招聘信息。该渠道用于岗位发现与交叉取证；正式投递前仍需回公司官方校招官网核验具体岗位、届别与要求。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1.2027届应届毕业生，本科及以上，专业不限（市场营销、传播、广告、文学等专业优先）"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "内容运营",
+        "市场"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "二手岗位来源，待官网复核",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "二手岗位来源，待官网复核",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "广东外语外贸大学就业信息网",
+      "officialURL": "https://career.gdufs.edu.cn/web/Index/job-detail?id=11314",
+      "publishedAt": "",
+      "lastVerified": "",
+      "sourceType": "secondary",
+      "deadline": ""
+    },
     {
       "id": "feishu-c0cde7-7690518503984482586",
       "company": "深圳市艾丽斯卡文化创意有限公司",

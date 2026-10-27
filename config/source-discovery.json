@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-27T15:25:59.296Z",
+  "updatedAt": "2026-10-27T20:10:17.538Z",
   "companies": {
     "lazada": {
       "name": "Lazada",
@@ -2499,10 +2499,10 @@
       "reason": "高校详情页明确给出飞书招聘入口；等价官方源已存在",
       "universityEvidence": {
         "school": "广东外语外贸大学",
-        "sourceUrl": "https://career.gdufs.edu.cn/web/Index/job-detail?id=11309",
+        "sourceUrl": "https://career.gdufs.edu.cn/web/Index/job-detail?id=11314",
         "graduationYear": "2027"
       },
-      "lastCheckedAt": "2026-10-26T00:11:32.513Z",
+      "lastCheckedAt": "2026-10-27T20:10:17.538Z",
       "nextCheckAfter": ""
     },
     "保利和润房地产投资顾问": {
@@ -2754,10 +2754,10 @@
       "reason": "高校详情页明确给出Moka校园招聘入口；等价官方源已存在",
       "universityEvidence": {
         "school": "广东外语外贸大学",
-        "sourceUrl": "https://career.gdufs.edu.cn/web/Index/job-detail?id=11342",
+        "sourceUrl": "https://career.gdufs.edu.cn/web/Index/job-detail?id=11340",
         "graduationYear": "2027"
       },
-      "lastCheckedAt": "2026-10-26T00:11:32.513Z",
+      "lastCheckedAt": "2026-10-27T20:10:17.538Z",
       "nextCheckAfter": ""
     },
     "平安银行北京分行": {
@@ -2772,8 +2772,8 @@
         "sourceUrl": "https://jobs.blcu.edu.cn/front/zpxx.jspa?tid=2114565025103048706",
         "graduationYear": "2027"
       },
-      "lastCheckedAt": "2026-10-27T15:25:59.296Z",
-      "nextCheckAfter": "2026-10-28T15:25:59.299Z"
+      "lastCheckedAt": "2026-10-27T20:10:17.538Z",
+      "nextCheckAfter": "2026-10-28T20:10:17.542Z"
     },
     "安东石油": {
       "name": "安东石油技术（集团）有限公司",
@@ -2787,8 +2787,8 @@
         "sourceUrl": "https://jobs.blcu.edu.cn/front/zpxx.jspa?tid=2113150980995117057",
         "graduationYear": "2027"
       },
-      "lastCheckedAt": "2026-10-27T15:25:59.296Z",
-      "nextCheckAfter": "2026-10-28T15:25:59.300Z"
+      "lastCheckedAt": "2026-10-27T20:10:17.538Z",
+      "nextCheckAfter": "2026-10-28T20:10:17.543Z"
     }
   },
   "lastRun": {
@@ -2799,10 +2799,10 @@
     "forceRetry": false
   },
   "lastUniversityBridge": {
-    "candidates": 2,
+    "candidates": 7,
     "sourcesAdded": 0,
     "sourcesRepaired": 0,
     "queued": 2,
-    "updatedAt": "2026-10-27T15:25:59.296Z"
+    "updatedAt": "2026-10-27T20:10:17.538Z"
   }
 }
