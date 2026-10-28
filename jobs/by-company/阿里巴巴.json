@@ -1,7 +1,7 @@
 {
   "company": "阿里巴巴",
   "count": 113,
-  "updatedAt": "2026-10-28T16:29:34.952Z",
+  "updatedAt": "2026-10-28T20:12:25.632Z",
   "jobs": [
     {
       "id": "alibaba-56983b82e44a",
@@ -3938,99 +3938,6 @@
       "hasAssessmentEvidence": "E2 | 中国地质大学就业网校招公告 | https://jiuye.cugb.edu.cn/Zhaopin/xiaozhao.html?id=8a53b06b-670b-0721-65e4-b6bf87f600af | 2026-09-17"
     },
     {
-      "id": "alibaba-e94ea3438669",
-      "company": "阿里巴巴",
-      "title": "产品经理-搜推策略",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "本科",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "本科以上学历",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "北京",
-      "jobDescription": "1. 负责搜索推荐日常数据分析及用户需求洞察，并转化为产品方案持续提升搜索推荐能力； 2. 推动大模型、多模态技术在搜索推荐等核心场景的落地，打造AI驱动的下一代搜索推荐体验； 3. 协同运营、算法、工程团队高效推动项目高质量落地，对项目目标负责。",
-      "jobRequirements": "1. 本科以上学历，有C端产品实习经验； 2. 具备足够的大盘视野，能看到全局增长空间，捕捉业务增长点； 3. 具备较强的数据分析能力，善于运用数据驱动产品优化； 4. 责任心强，具有坚持不懈的精神，性格积极乐观，学习能力强、抗压能力强。",
-      "JD": "1. 负责搜索推荐日常数据分析及用户需求洞察，并转化为产品方案持续提升搜索推荐能力； 2. 推动大模型、多模态技术在搜索推荐等核心场景的落地，打造AI驱动的下一代搜索推荐体验； 3. 协同运营、算法、工程团队高效推动项目高质量落地，对项目目标负责。\n1. 本科以上学历，有C端产品实习经验； 2. 具备足够的大盘视野，能看到全局增长空间，捕捉业务增长点； 3. 具备较强的数据分析能力，善于运用数据驱动产品优化； 4. 责任心强，具有坚持不懈的精神，性格积极乐观，学习能力强、抗压能力强。",
-      "jdEvidence": {
-        "source": "llm:deepseek:deepseek-flash",
-        "majorClauses": [
-          "本科以上学历"
-        ],
-        "eligibilityClauses": [],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [
-        "数据分析"
-      ],
-      "experienceKeywords": [
-        "运营",
-        "项目",
-        "用户",
-        "数据",
-        "洞察"
-      ],
-      "preferenceTags": [],
-      "riskTags": [
-        "节奏快"
-      ],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "阿里巴巴官方校招官网campus-talent 2027校园招聘",
-      "officialURL": "https://campus-talent.alibaba.com/campus/position/detail?id=199907640094",
-      "publishedAt": "",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "网申/内推→测评/笔试（部分职类）→面试→Offer",
-      "recruitmentProcessEvidence": "E2 | 北师大就业网校招公告 | https://career.bnu.edu.cn/frontpage/mobile/dist/index.html#/recruitmentinfoForm?positionDetailId=20df7750b996483790e460f51854994b | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E2 | 中国地质大学就业网校招公告 | https://jiuye.cugb.edu.cn/Zhaopin/xiaozhao.html?id=8a53b06b-670b-0721-65e4-b6bf87f600af | 2026-09-17"
-    },
-    {
       "id": "alibaba-7ba2eca9e0b5",
       "company": "阿里巴巴",
       "title": "AI Agent产品经理",
@@ -4115,6 +4022,99 @@
       "annualSalary": "未披露",
       "source": "阿里巴巴官方校招官网campus-talent 2027校园招聘",
       "officialURL": "https://campus-talent.alibaba.com/campus/position/detail?id=199907740089",
+      "publishedAt": "",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申/内推→测评/笔试（部分职类）→面试→Offer",
+      "recruitmentProcessEvidence": "E2 | 北师大就业网校招公告 | https://career.bnu.edu.cn/frontpage/mobile/dist/index.html#/recruitmentinfoForm?positionDetailId=20df7750b996483790e460f51854994b | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | 中国地质大学就业网校招公告 | https://jiuye.cugb.edu.cn/Zhaopin/xiaozhao.html?id=8a53b06b-670b-0721-65e4-b6bf87f600af | 2026-09-17"
+    },
+    {
+      "id": "alibaba-e94ea3438669",
+      "company": "阿里巴巴",
+      "title": "产品经理-搜推策略",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "本科以上学历",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "北京",
+      "jobDescription": "1. 负责搜索推荐日常数据分析及用户需求洞察，并转化为产品方案持续提升搜索推荐能力； 2. 推动大模型、多模态技术在搜索推荐等核心场景的落地，打造AI驱动的下一代搜索推荐体验； 3. 协同运营、算法、工程团队高效推动项目高质量落地，对项目目标负责。",
+      "jobRequirements": "1. 本科以上学历，有C端产品实习经验； 2. 具备足够的大盘视野，能看到全局增长空间，捕捉业务增长点； 3. 具备较强的数据分析能力，善于运用数据驱动产品优化； 4. 责任心强，具有坚持不懈的精神，性格积极乐观，学习能力强、抗压能力强。",
+      "JD": "1. 负责搜索推荐日常数据分析及用户需求洞察，并转化为产品方案持续提升搜索推荐能力； 2. 推动大模型、多模态技术在搜索推荐等核心场景的落地，打造AI驱动的下一代搜索推荐体验； 3. 协同运营、算法、工程团队高效推动项目高质量落地，对项目目标负责。\n1. 本科以上学历，有C端产品实习经验； 2. 具备足够的大盘视野，能看到全局增长空间，捕捉业务增长点； 3. 具备较强的数据分析能力，善于运用数据驱动产品优化； 4. 责任心强，具有坚持不懈的精神，性格积极乐观，学习能力强、抗压能力强。",
+      "jdEvidence": {
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科以上学历"
+        ],
+        "eligibilityClauses": [],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "数据分析"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "项目",
+        "用户",
+        "数据",
+        "洞察"
+      ],
+      "preferenceTags": [],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "阿里巴巴官方校招官网campus-talent 2027校园招聘",
+      "officialURL": "https://campus-talent.alibaba.com/campus/position/detail?id=199907640094",
       "publishedAt": "",
       "lastVerified": "",
       "sourceType": "official",

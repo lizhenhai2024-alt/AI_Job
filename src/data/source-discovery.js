@@ -41,8 +41,8 @@ export const sourceDiscovery = [
     "officialUrl": "https://anton.hotjob.cn/",
     "reason": "已发现公司官方招聘入口，但当前站点 anton.hotjob.cn 尚无自动抓取适配器",
     "attempts": 0,
-    "lastCheckedAt": "2026-10-28T16:01:32.429Z",
-    "nextCheckAfter": "2026-10-29T16:01:32.434Z"
+    "lastCheckedAt": "2026-10-28T20:12:15.391Z",
+    "nextCheckAfter": "2026-10-29T20:12:15.395Z"
   },
   {
     "name": "百度",
@@ -778,8 +778,8 @@ export const sourceDiscovery = [
     "officialUrl": "https://campus.pingan.com/pabbj/position",
     "reason": "已发现公司官方招聘入口，但当前站点 campus.pingan.com 尚无自动抓取适配器",
     "attempts": 0,
-    "lastCheckedAt": "2026-10-28T16:01:32.429Z",
-    "nextCheckAfter": "2026-10-29T16:01:32.434Z"
+    "lastCheckedAt": "2026-10-28T20:12:15.391Z",
+    "nextCheckAfter": "2026-10-29T20:12:15.395Z"
   },
   {
     "name": "奇安信",
@@ -1587,7 +1587,7 @@ export const sourceDiscovery = [
 ];
 
 export const sourceDiscoveryMeta = {
-  "updatedAt": "2026-10-28T19:34:04.013Z",
+  "updatedAt": "2026-10-28T20:12:15.391Z",
   "lastRun": {
     "processed": 12,
     "sourcesAdded": 0,
