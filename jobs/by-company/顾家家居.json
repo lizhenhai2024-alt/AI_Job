@@ -1,7 +1,7 @@
 {
   "company": "顾家家居",
-  "count": 19,
-  "updatedAt": "2026-10-27T20:10:21.844Z",
+  "count": 20,
+  "updatedAt": "2026-10-28T01:25:21.117Z",
   "jobs": [
     {
       "id": "moka-a235d792d2b4",
@@ -344,94 +344,6 @@
       "source": "公司官方Moka校招官网",
       "officialURL": "https://app.mokahr.com/campus-recruitment/kuka/172508#/job/b64f3b0a-fe57-4b3e-b236-7558713de37f",
       "publishedAt": "2026-10-27",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "网申投递→线下宣讲/线上AI初试→复试→在线测评→终试→Offer→签约",
-      "recruitmentProcessEvidence": "E3 | 北京理工/对外经贸就业网校招简章 | http://career.bit.edu.cn/frontpage/mobile/dist/index.html#/recruitmentinfoForm?positionDetailId=5352010761af4f339c24507cd2817021& | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E3 | 北京理工就业网校招简章 | http://career.bit.edu.cn/frontpage/mobile/dist/index.html#/recruitmentinfoForm?positionDetailId=5352010761af4f339c24507cd2817021& | 2026-09-17"
-    },
-    {
-      "id": "moka-0cd21a8846ae",
-      "company": "顾家家居",
-      "title": "数据分析-供应链方向",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "杭州",
-      "jobDescription": "顾家家居股份有限公司 校招-信息技术类 杭州市",
-      "jobRequirements": "",
-      "JD": "顾家家居股份有限公司 校招-信息技术类 杭州市",
-      "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [
-        "数据分析"
-      ],
-      "experienceKeywords": [
-        "数据",
-        "供应链"
-      ],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "公司官方Moka校招官网",
-      "officialURL": "https://app.mokahr.com/campus-recruitment/kuka/172508#/job/35579b3d-9143-45c4-b849-b0146d2445d5",
-      "publishedAt": "2026-08-21",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "",
@@ -1576,6 +1488,176 @@
       "source": "公司官方Moka校招官网",
       "officialURL": "https://app.mokahr.com/campus-recruitment/kuka/172508#/job/c9bae6da-7216-4f49-bab2-4010902df1a2",
       "publishedAt": "",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申投递→线下宣讲/线上AI初试→复试→在线测评→终试→Offer→签约",
+      "recruitmentProcessEvidence": "E3 | 北京理工/对外经贸就业网校招简章 | http://career.bit.edu.cn/frontpage/mobile/dist/index.html#/recruitmentinfoForm?positionDetailId=5352010761af4f339c24507cd2817021& | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E3 | 北京理工就业网校招简章 | http://career.bit.edu.cn/frontpage/mobile/dist/index.html#/recruitmentinfoForm?positionDetailId=5352010761af4f339c24507cd2817021& | 2026-09-17"
+    },
+    {
+      "id": "moka-967de4cc069c",
+      "company": "顾家家居",
+      "title": "EHS工程师（印尼籍）",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "待核",
+      "jobDescription": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobRequirements": "",
+      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方Moka校招官网",
+      "officialURL": "https://app.mokahr.com/campus-recruitment/kuka/172508#/job/20b3d422-be5b-4c93-932f-87d3f92d5169",
+      "publishedAt": "",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申投递→线下宣讲/线上AI初试→复试→在线测评→终试→Offer→签约",
+      "recruitmentProcessEvidence": "E3 | 北京理工/对外经贸就业网校招简章 | http://career.bit.edu.cn/frontpage/mobile/dist/index.html#/recruitmentinfoForm?positionDetailId=5352010761af4f339c24507cd2817021& | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E3 | 北京理工就业网校招简章 | http://career.bit.edu.cn/frontpage/mobile/dist/index.html#/recruitmentinfoForm?positionDetailId=5352010761af4f339c24507cd2817021& | 2026-09-17"
+    },
+    {
+      "id": "moka-2121206ede95",
+      "company": "顾家家居",
+      "title": "包装工程（越南籍）",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "待核",
+      "jobDescription": "顾家家居股份有限公司 校招-海外制造技术类 越南基地",
+      "jobRequirements": "",
+      "JD": "顾家家居股份有限公司 校招-海外制造技术类 越南基地",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "海外"
+      ],
+      "preferenceTags": [
+        "国际业务"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方Moka校招官网",
+      "officialURL": "https://app.mokahr.com/campus-recruitment/kuka/172508#/job/8cbb7018-38c7-49ce-a9d7-771e274db664",
+      "publishedAt": "2026-10-28",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "",

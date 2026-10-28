@@ -1,7 +1,7 @@
 {
   "company": "中国路桥",
-  "count": 166,
-  "updatedAt": "2026-10-27T20:10:21.844Z",
+  "count": 170,
+  "updatedAt": "2026-10-28T01:25:21.117Z",
   "jobs": [
     {
       "id": "beisen-fef4dd791a1e",
@@ -3350,6 +3350,95 @@
       "deadline": ""
     },
     {
+      "id": "beisen-d316915c8278",
+      "company": "中国路桥",
+      "title": "2027届校招振华南通分公司文秘综合岗(J48738)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "中文、汉语言文学、行政管理、公共事业管理、企业管理等相关专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "江苏省·南通市",
+      "jobDescription": "1. 负责日常公文起草、审核与归档，包括通知、纪要、请示、报告等各类行政文书； 2. 协助组织协调会议安排、会务保障及会议决议事项的跟踪落实； 3. 承担部门内部综合事务支持工作，包括档案管理、信息汇总、数据统计及跨部门沟通协调； 4. 配合完成公司重要活动、接待任务的筹备与执行，确保流程规范、服务到位； 5. 管理办公用品申领、固定资产台账更新等基础行政事务，保障日常运营有序高效。",
+      "jobRequirements": "1. 2027届应届本科及以上学历毕业生，党员。中文、汉语言文学、行政管理、公共事业管理、企业管理等相关专业优先； 2. 具备良好的文字表达能力与逻辑思维能力，能独立撰写结构清晰、语言规范的公文材料； 3. 熟练使用Office办公软件（Word、Excel、PowerPoint），具备基础的数据处理与文档排版能力； 4. 沟通协调能力强，责任心强，细致严谨，具备较强的执行力与团队协作意识； 5. 具备学生干部经历、大型活动组织经验或相关实习经历者优先。",
+      "JD": "1. 负责日常公文起草、审核与归档，包括通知、纪要、请示、报告等各类行政文书； 2. 协助组织协调会议安排、会务保障及会议决议事项的跟踪落实； 3. 承担部门内部综合事务支持工作，包括档案管理、信息汇总、数据统计及跨部门沟通协调； 4. 配合完成公司重要活动、接待任务的筹备与执行，确保流程规范、服务到位； 5. 管理办公用品申领、固定资产台账更新等基础行政事务，保障日常运营有序高效。\n1. 2027届应届本科及以上学历毕业生，党员。中文、汉语言文学、行政管理、公共事业管理、企业管理等相关专业优先； 2. 具备良好的文字表达能力与逻辑思维能力，能独立撰写结构清晰、语言规范的公文材料； 3. 熟练使用Office办公软件（Word、Excel、PowerPoint），具备基础的数据处理与文档排版能力； 4. 沟通协调能力强，责任心强，细致严谨，具备较强的执行力与团队协作意识； 5. 具备学生干部经历、大型活动组织经验或相关实习经历者优先。",
+      "jdEvidence": {
+        "source": "llm:gemini-free:gemini-3.5-flash-lite",
+        "majorClauses": [
+          "中文、汉语言文学、行政管理、公共事业管理、企业管理等相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "2027届应届本科及以上学历毕业生，党员。"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "资料/流程"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "Excel",
+        "跨部门沟通"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "数据"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "8K-10K 元/月",
+        "monthlyMin": 8000,
+        "monthlyMax": 10000,
+        "annualMin": 96000,
+        "annualMax": 120000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "8k–1万/月",
+        "annualDisplay": "9.6万–12万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "8K-10K 元/月 公司官方北森校招岗位；识别关键词：Excel、"
+      },
+      "salary": "8K-10K 元/月",
+      "monthlySalary": "8k–1万/月",
+      "annualSalary": "9.6万–12万/年（按12薪推算）",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://ccccltd.zhiye.com/campus/detail?jobAdId=5b831883-e575-4662-8b04-d875ccde8f06",
+      "publishedAt": "2026-10-28",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
       "id": "beisen-54720303378d",
       "company": "中国路桥",
       "title": "27届校招-纪检主管岗(J49157)",
@@ -5653,6 +5742,184 @@
       "source": "公司官方北森校招官网",
       "officialURL": "https://ccccltd.zhiye.com/campus/detail?jobAdId=782fd321-8fca-4abb-be45-df3c7e1f29c8",
       "publishedAt": "2026-08-24",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-f337c1c1a263",
+      "company": "中国路桥",
+      "title": "2027届校招振华南通分公司智能制造研究岗(J48727)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1. 2027届应届本科及以上学历毕业生，机械工程、自动化、电气工程及其自动化、控制科学与工程、计算机科学与技术、软件工程、工业工程、智能制造工程等相关专业；2. 具备扎实的专业基础，熟悉PLC编程、工业通信协议（如OPC UA、Modbus）、Python或C#编程语言中至少一种，了解数据库基本操作与数据分析方法",
+        "hardRestriction": true,
+        "hardClauses": [
+          "机械工程、自动化、电气工程及其自动化、控制科学与工程、计算机科学与技术、软件工程、工业工程、智能制造工程等相关专业",
+          "2. 具备扎实的专业基础"
+        ]
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "江苏省·南通市",
+      "jobDescription": "1. 参与智能制造相关技术研究与应用，包括工业物联网、数字孪生、智能产线集成、MES/SCADA系统优化等方向的方案设计与落地支持； 2. 协同研发、生产及信息化团队，开展自动化设备数据采集、分析模型构建及可视化看板开发等工作； 3. 跟踪行业前沿技术动态，参与技术可行性验证、原型开发及标准化文档编制。",
+      "jobRequirements": "1. 2027届应届本科及以上学历毕业生，机械工程、自动化、电气工程及其自动化、控制科学与工程、计算机科学与技术、软件工程、工业工程、智能制造工程等相关专业； 2. 具备扎实的专业基础，熟悉PLC编程、工业通信协议（如OPC UA、Modbus）、Python或C#编程语言中至少一种，了解数据库基本操作与数据分析方法； 3. 具有智能制造、工业互联网、智能装备等相关课程设计、毕业设计或实习经历者优先； 4. 具备良好的逻辑思维能力、跨部门协作意识和持续学习意愿，能适应技术研发类岗位的实践性与迭代性要求。",
+      "JD": "1. 参与智能制造相关技术研究与应用，包括工业物联网、数字孪生、智能产线集成、MES/SCADA系统优化等方向的方案设计与落地支持； 2. 协同研发、生产及信息化团队，开展自动化设备数据采集、分析模型构建及可视化看板开发等工作； 3. 跟踪行业前沿技术动态，参与技术可行性验证、原型开发及标准化文档编制。\n1. 2027届应届本科及以上学历毕业生，机械工程、自动化、电气工程及其自动化、控制科学与工程、计算机科学与技术、软件工程、工业工程、智能制造工程等相关专业； 2. 具备扎实的专业基础，熟悉PLC编程、工业通信协议（如OPC UA、Modbus）、Python或C#编程语言中至少一种，了解数据库基本操作与数据分析方法； 3. 具有智能制造、工业互联网、智能装备等相关课程设计、毕业设计或实习经历者优先； 4. 具备良好的逻辑思维能力、跨部门协作意识和持续学习意愿，能适应技术研发类岗位的实践性与迭代性要求。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1. 2027届应届本科及以上学历毕业生，机械工程、自动化、电气工程及其自动化、控制科学与工程、计算机科学与技术、软件工程、工业工程、智能制造工程等相关专业",
+          "2. 具备扎实的专业基础，熟悉PLC编程、工业通信协议（如OPC UA、Modbus）、Python或C#编程语言中至少一种，了解数据库基本操作与数据分析方法"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "数据分析"
+      ],
+      "experienceKeywords": [
+        "数据"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "8K-10K 元/月",
+        "monthlyMin": 8000,
+        "monthlyMax": 10000,
+        "annualMin": 96000,
+        "annualMax": 120000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "8k–1万/月",
+        "annualDisplay": "9.6万–12万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "8K-10K 元/月 公司官方北森校招岗位；识别关键词：数据分析。投"
+      },
+      "salary": "8K-10K 元/月",
+      "monthlySalary": "8k–1万/月",
+      "annualSalary": "9.6万–12万/年（按12薪推算）",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://ccccltd.zhiye.com/campus/detail?jobAdId=e4a44929-1096-46bf-b321-6d12dceacd34",
+      "publishedAt": "2026-10-28",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-fbfa465fc494",
+      "company": "中国路桥",
+      "title": "2027届校招振华南通分公司劳动关系岗(J48740)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1. 本科及以上学历，人力资源管理、劳动与社会保障、工商管理等相关专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "江苏省·南通市",
+      "jobDescription": "1. 协助开展员工入职、转正、调动、离职等全流程劳动关系手续办理，确保操作规范、及时、合规； 2. 参与劳动合同签订、续签、变更及档案管理工作，维护电子与纸质劳动关系档案的完整性与准确性； 3. 协助处理考勤异常、休假审批、工时统计等基础人事运营支持工作，保障数据真实有效； 4. 配合开展员工沟通与政策宣导，解答一线员工关于劳动关系、规章制度等方面的常规咨询； 5. 协助完成劳动关系相关报表编制、数据汇总及阶段性分析，支持人力资源决策与合规管理。",
+      "jobRequirements": "1. 本科及以上学历，人力资源管理、劳动与社会保障、工商管理等相关专业优先； 2. 具备良好的书面表达与沟通协调能力，责任心强，细致严谨，具备较强的服务意识与团队协作精神； 3. 熟悉Office办公软件，能熟练运用Excel进行数据整理与基础分析； 4. 对劳动法律法规及企业人力资源实务有初步了解，通过人力资源管理师（四级）或法律职业资格考试相关科目者优先； 5. 具备学生干部经历、党员、校内人力资源类实习或大型校园招聘项目参与经验者优先。",
+      "JD": "1. 协助开展员工入职、转正、调动、离职等全流程劳动关系手续办理，确保操作规范、及时、合规； 2. 参与劳动合同签订、续签、变更及档案管理工作，维护电子与纸质劳动关系档案的完整性与准确性； 3. 协助处理考勤异常、休假审批、工时统计等基础人事运营支持工作，保障数据真实有效； 4. 配合开展员工沟通与政策宣导，解答一线员工关于劳动关系、规章制度等方面的常规咨询； 5. 协助完成劳动关系相关报表编制、数据汇总及阶段性分析，支持人力资源决策与合规管理。\n1. 本科及以上学历，人力资源管理、劳动与社会保障、工商管理等相关专业优先； 2. 具备良好的书面表达与沟通协调能力，责任心强，细致严谨，具备较强的服务意识与团队协作精神； 3. 熟悉Office办公软件，能熟练运用Excel进行数据整理与基础分析； 4. 对劳动法律法规及企业人力资源实务有初步了解，通过人力资源管理师（四级）或法律职业资格考试相关科目者优先； 5. 具备学生干部经历、党员、校内人力资源类实习或大型校园招聘项目参与经验者优先。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1. 本科及以上学历，人力资源管理、劳动与社会保障、工商管理等相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "跨文化沟通"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "Excel"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "项目",
+        "数据"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "6K-8K 元/月",
+        "monthlyMin": 6000,
+        "monthlyMax": 8000,
+        "annualMin": 72000,
+        "annualMax": 96000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "6k–8k/月",
+        "annualDisplay": "7.2万–9.6万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "6K-8K 元/月 公司官方北森校招岗位；识别关键词：Excel。"
+      },
+      "salary": "6K-8K 元/月",
+      "monthlySalary": "6k–8k/月",
+      "annualSalary": "7.2万–9.6万/年（按12薪推算）",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://ccccltd.zhiye.com/campus/detail?jobAdId=5c8b5d83-6b7a-4d55-9360-4858b204a051",
+      "publishedAt": "2026-10-28",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
@@ -10490,6 +10757,89 @@
       "source": "公司官方北森校招官网",
       "officialURL": "https://ccccltd.zhiye.com/campus/detail?jobAdId=4dfa37f6-e08d-4790-8dbb-e9f3f88c12f1",
       "publishedAt": "2026-08-21",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-92ef50411c74",
+      "company": "中国路桥",
+      "title": "2027届校招振华南通分公司统战青工岗(J48741)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1. 2027届全日制本科及以上学历毕业生，思想政治教育、马克思主义理论、行政管理、汉语言文学、新闻传播学、人力资源管理等相关专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "江苏省·南通市",
+      "jobDescription": "1. 协助开展统一战线相关事务性工作，包括政策宣贯、活动组织、信息汇总与材料整理等； 2. 参与青年员工思想引领与成长服务工作，协助策划并执行青年理论学习、志愿服务、文体交流等活动； 3. 配合完成党群部门交办的日常事务，包括会议筹备、档案管理、宣传报道及跨部门协调支持工作。",
+      "jobRequirements": "1. 2027届全日制本科及以上学历毕业生，思想政治教育、马克思主义理论、行政管理、汉语言文学、新闻传播学、人力资源管理等相关专业优先； 2. 具备良好的政治素养和责任意识，认同国有企业价值观，热心群团工作，有学生干部、党团组织或志愿服务经历者优先； 3. 具备较强的沟通表达能力、文字写作能力及组织协调能力，熟练使用Office办公软件，能独立完成基础文案撰写与活动执行； 4. 具有较强的学习能力与团队协作精神，适应基层岗位工作节奏，愿意在南通地区长期发展。",
+      "JD": "1. 协助开展统一战线相关事务性工作，包括政策宣贯、活动组织、信息汇总与材料整理等； 2. 参与青年员工思想引领与成长服务工作，协助策划并执行青年理论学习、志愿服务、文体交流等活动； 3. 配合完成党群部门交办的日常事务，包括会议筹备、档案管理、宣传报道及跨部门协调支持工作。\n1. 2027届全日制本科及以上学历毕业生，思想政治教育、马克思主义理论、行政管理、汉语言文学、新闻传播学、人力资源管理等相关专业优先； 2. 具备良好的政治素养和责任意识，认同国有企业价值观，热心群团工作，有学生干部、党团组织或志愿服务经历者优先； 3. 具备较强的沟通表达能力、文字写作能力及组织协调能力，熟练使用Office办公软件，能独立完成基础文案撰写与活动执行； 4. 具有较强的学习能力与团队协作精神，适应基层岗位工作节奏，愿意在南通地区长期发展。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1. 2027届全日制本科及以上学历毕业生，思想政治教育、马克思主义理论、行政管理、汉语言文学、新闻传播学、人力资源管理等相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "文案"
+      ],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "6K-8K 元/月",
+        "monthlyMin": 6000,
+        "monthlyMax": 8000,
+        "annualMin": 72000,
+        "annualMax": 96000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "6k–8k/月",
+        "annualDisplay": "7.2万–9.6万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "6K-8K 元/月 公司官方北森校招岗位；识别关键词：文案。投递前"
+      },
+      "salary": "6K-8K 元/月",
+      "monthlySalary": "6k–8k/月",
+      "annualSalary": "7.2万–9.6万/年（按12薪推算）",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://ccccltd.zhiye.com/campus/detail?jobAdId=dd6e6cde-5f53-465a-acfb-dec69a0d430a",
+      "publishedAt": "2026-10-28",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
