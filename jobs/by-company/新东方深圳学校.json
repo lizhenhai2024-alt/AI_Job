@@ -1,7 +1,7 @@
 {
   "company": "新东方深圳学校",
-  "count": 472,
-  "updatedAt": "2026-10-28T01:25:21.117Z",
+  "count": 474,
+  "updatedAt": "2026-10-28T16:29:34.952Z",
   "jobs": [
     {
       "id": "beisen-123667d26f64",
@@ -16582,6 +16582,87 @@
       "source": "公司官方北森校招官网",
       "officialURL": "https://xdf.zhiye.com/campus/detail?jobAdId=0be922e2-16c8-45d3-a21a-3569089a5f92",
       "publishedAt": "2026-07-27",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-42867f80883e",
+      "company": "新东方深圳学校",
+      "title": "校招-保定-初中英语学习机班课教师(J67717)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "本科及以上学历，211、985院校，师范类、学科相关专业优先考虑",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "河北省·保定市·竞秀区",
+      "jobDescription": "1、负责对应年级与科目的班课教学相关工作； 2、与家长保持及时、良好的沟通，发现孩子学习中遇到的问题并及时解决； 3、参与学科教研和学校统一组织的培训，根据学校安排，优质高效地执行与教学相关的其他工作。",
+      "jobRequirements": "1、热爱教育行业； 2、学历背景:本科及以上学历，211、985院校，师范类、学科相关专业优先考虑； 3、授课条例清晰，重点突出，生动活泼，井然有序（课堂掌控能力突出）； 4、诚实守信、务实高效，有高度的责任心和良好的团队合作精神； 5、内驱力强，积极主动，具备教师服务意识。",
+      "JD": "1、负责对应年级与科目的班课教学相关工作； 2、与家长保持及时、良好的沟通，发现孩子学习中遇到的问题并及时解决； 3、参与学科教研和学校统一组织的培训，根据学校安排，优质高效地执行与教学相关的其他工作。\n1、热爱教育行业； 2、学历背景:本科及以上学历，211、985院校，师范类、学科相关专业优先考虑； 3、授课条例清晰，重点突出，生动活泼，井然有序（课堂掌控能力突出）； 4、诚实守信、务实高效，有高度的责任心和良好的团队合作精神； 5、内驱力强，积极主动，具备教师服务意识。",
+      "jdEvidence": {
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科及以上学历，211、985院校，师范类、学科相关专业优先考虑"
+        ],
+        "eligibilityClauses": [],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语"
+      ],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 1、负责对应年级与科目的班课教学相关工作； 2、与家长保持及时、良好的沟通，发现孩"
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "8K-12K 元/月",
+        "monthlyMin": 8000,
+        "monthlyMax": 12000,
+        "annualMin": 96000,
+        "annualMax": 144000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "8k–1.2万/月",
+        "annualDisplay": "9.6万–14.4万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "8K-12K 元/月 公司官方北森校招岗位；识别关键词：英语。投递前"
+      },
+      "salary": "8K-12K 元/月",
+      "monthlySalary": "8k–1.2万/月",
+      "annualSalary": "9.6万–14.4万/年（按12薪推算）",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://xdf.zhiye.com/campus/detail?jobAdId=dd628a87-11e4-4aec-a169-2a477e521b1d",
+      "publishedAt": "2026-10-28",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
@@ -33509,6 +33590,85 @@
       "source": "公司官方北森校招官网",
       "officialURL": "https://xdf.zhiye.com/campus/detail?jobAdId=3acd5315-7096-4d51-9386-d0312f8a7605",
       "publishedAt": "2026-09-27",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-b2e121c55a04",
+      "company": "新东方深圳学校",
+      "title": "校招-保定-初中物理学习机班课教师(J66922)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "本科及以上学历，211、985院校，师范类、学科相关专业优先考虑",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "河北省·保定市·竞秀区",
+      "jobDescription": "1、负责对应年级与科目的班课教学相关工作； 2、与家长保持及时、良好的沟通，发现孩子学习中遇到的问题并及时解决； 3、参与学科教研和学校统一组织的培训，根据学校安排，优质高效地执行与教学相关的其他工作。",
+      "jobRequirements": "1、热爱教育行业； 2、学历背景:本科及以上学历，211、985院校，师范类、学科相关专业优先考虑； 3、授课条例清晰，重点突出，生动活泼，井然有序（课堂掌控能力突出）； 4、诚实守信、务实高效，有高度的责任心和良好的团队合作精神； 5、内驱力强，积极主动，具备教师服务意识。",
+      "JD": "1、负责对应年级与科目的班课教学相关工作； 2、与家长保持及时、良好的沟通，发现孩子学习中遇到的问题并及时解决； 3、参与学科教研和学校统一组织的培训，根据学校安排，优质高效地执行与教学相关的其他工作。\n1、热爱教育行业； 2、学历背景:本科及以上学历，211、985院校，师范类、学科相关专业优先考虑； 3、授课条例清晰，重点突出，生动活泼，井然有序（课堂掌控能力突出）； 4、诚实守信、务实高效，有高度的责任心和良好的团队合作精神； 5、内驱力强，积极主动，具备教师服务意识。",
+      "jdEvidence": {
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科及以上学历，211、985院校，师范类、学科相关专业优先考虑"
+        ],
+        "eligibilityClauses": [],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "5",
+        "min": 5,
+        "max": 5,
+        "scope": "job",
+        "display": "5人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "5 5 1、负责对应年级与科目的班课教学相关工作； 2、与家长保持及时、良好的沟通，发现孩"
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "8K-12K 元/月",
+        "monthlyMin": 8000,
+        "monthlyMax": 12000,
+        "annualMin": 96000,
+        "annualMax": 144000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "8k–1.2万/月",
+        "annualDisplay": "9.6万–14.4万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "8K-12K 元/月 公司官方北森校招岗位；投递前请打开官方职位页确"
+      },
+      "salary": "8K-12K 元/月",
+      "monthlySalary": "8k–1.2万/月",
+      "annualSalary": "9.6万–14.4万/年（按12薪推算）",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://xdf.zhiye.com/campus/detail?jobAdId=c60dc6f4-cbf3-465d-8338-9f1fdbf6ccfe",
+      "publishedAt": "2026-09-07",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": ""

@@ -1,7 +1,7 @@
 {
   "company": "长城电源技术有限公司",
-  "count": 8,
-  "updatedAt": "2026-10-28T01:25:21.117Z",
+  "count": 9,
+  "updatedAt": "2026-10-28T16:29:34.952Z",
   "jobs": [
     {
       "id": "beisen-12a98507c564",
@@ -266,6 +266,90 @@
       "source": "公司官方北森校招官网",
       "officialURL": "https://gwpst.zhiye.com/campus/detail?jobAdId=b2f0b760-9150-4e38-a09a-f3c9cd0bf123",
       "publishedAt": "2026-09-01",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-a50c810b3845",
+      "company": "长城电源技术有限公司",
+      "title": "BOM工程师",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "本科及以上学历，通过四六级，成绩优异；",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "jobDescription": "1、负责部门各类文件资料的管理、归类、整理、建档和保管工作； 2、协助研发部门的研发物料管理，为部门工作提供各方面的支持和保障； 3、完成部门领导安排的相关工作。",
+      "jobRequirements": "1、本科及以上学历，通过四六级，成绩优异； 2、熟悉word，excel 等办公软件； 3、工作认真负责，积极主动，具备一定的沟通、组织协调能力。",
+      "JD": "1、负责部门各类文件资料的管理、归类、整理、建档和保管工作； 2、协助研发部门的研发物料管理，为部门工作提供各方面的支持和保障； 3、完成部门领导安排的相关工作。\n1、本科及以上学历，通过四六级，成绩优异； 2、熟悉word，excel 等办公软件； 3、工作认真负责，积极主动，具备一定的沟通、组织协调能力。",
+      "jdEvidence": {
+        "source": "llm:gemini-free:gemini-3.5-flash-lite",
+        "majorClauses": [
+          "本科及以上学历，通过四六级，成绩优异；"
+        ],
+        "eligibilityClauses": [],
+        "technicalDuties": [],
+        "businessDuties": [
+          "资料/流程"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语",
+        "Excel"
+      ],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 1、负责部门各类文件资料的管理、归类、整理、建档和保管工作； 2、协助研发部门的研"
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "6K-8K 元/月",
+        "monthlyMin": 6000,
+        "monthlyMax": 8000,
+        "annualMin": 72000,
+        "annualMax": 96000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "6k–8k/月",
+        "annualDisplay": "7.2万–9.6万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "6K-8K 元/月 公司官方北森校招岗位；识别关键词：英语、Exc"
+      },
+      "salary": "6K-8K 元/月",
+      "monthlySalary": "6k–8k/月",
+      "annualSalary": "7.2万–9.6万/年（按12薪推算）",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://gwpst.zhiye.com/campus/detail?jobAdId=d1370952-28a8-4c7a-af5b-b92c1caf7242",
+      "publishedAt": "2026-10-28",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": ""

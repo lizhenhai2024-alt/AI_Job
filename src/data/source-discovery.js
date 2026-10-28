@@ -41,8 +41,8 @@ export const sourceDiscovery = [
     "officialUrl": "https://anton.hotjob.cn/",
     "reason": "已发现公司官方招聘入口，但当前站点 anton.hotjob.cn 尚无自动抓取适配器",
     "attempts": 0,
-    "lastCheckedAt": "2026-10-28T01:25:16.735Z",
-    "nextCheckAfter": "2026-10-29T01:25:16.740Z"
+    "lastCheckedAt": "2026-10-28T16:01:32.429Z",
+    "nextCheckAfter": "2026-10-29T16:01:32.434Z"
   },
   {
     "name": "百度",
@@ -338,7 +338,7 @@ export const sourceDiscovery = [
     "officialUrl": "https://app.mokahr.com/m/campus-recruitment/shinemage/146829?locale=zh-CN",
     "reason": "高校详情页明确给出Moka校园招聘入口；等价官方源已存在",
     "attempts": 0,
-    "lastCheckedAt": "2026-10-27T20:10:17.538Z",
+    "lastCheckedAt": "2026-10-28T16:01:32.429Z",
     "nextCheckAfter": ""
   },
   {
@@ -778,8 +778,8 @@ export const sourceDiscovery = [
     "officialUrl": "https://campus.pingan.com/pabbj/position",
     "reason": "已发现公司官方招聘入口，但当前站点 campus.pingan.com 尚无自动抓取适配器",
     "attempts": 0,
-    "lastCheckedAt": "2026-10-28T01:25:16.735Z",
-    "nextCheckAfter": "2026-10-29T01:25:16.739Z"
+    "lastCheckedAt": "2026-10-28T16:01:32.429Z",
+    "nextCheckAfter": "2026-10-29T16:01:32.434Z"
   },
   {
     "name": "奇安信",
@@ -978,6 +978,17 @@ export const sourceDiscovery = [
     "attempts": 1,
     "lastCheckedAt": "2026-09-15T13:33:17.800Z",
     "nextCheckAfter": "2026-09-18T13:33:17.800Z"
+  },
+  {
+    "name": "算法工程师-北京中关村科金技术有限公司",
+    "status": "高校自动发现",
+    "state": "source_registered",
+    "provider": "feishu",
+    "officialUrl": "https://weikezhijia.jobs.feishu.cn/952383",
+    "reason": "高校详情页明确给出飞书招聘入口",
+    "attempts": 0,
+    "lastCheckedAt": "2026-10-28T16:01:32.429Z",
+    "nextCheckAfter": ""
   },
   {
     "name": "腾讯",
@@ -1576,7 +1587,7 @@ export const sourceDiscovery = [
 ];
 
 export const sourceDiscoveryMeta = {
-  "updatedAt": "2026-10-28T08:31:55.485Z",
+  "updatedAt": "2026-10-28T16:01:32.429Z",
   "lastRun": {
     "processed": 12,
     "sourcesAdded": 0,

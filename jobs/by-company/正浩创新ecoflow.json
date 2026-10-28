@@ -1,7 +1,7 @@
 {
   "company": "正浩创新EcoFlow",
-  "count": 41,
-  "updatedAt": "2026-10-28T01:25:21.117Z",
+  "count": 40,
+  "updatedAt": "2026-10-28T16:29:34.952Z",
   "jobs": [
     {
       "id": "ecoflow-7678717154627553555",
@@ -183,106 +183,6 @@
       "source": "正浩创新EcoFlow官方2027校招官网",
       "officialURL": "https://jobs.ecoflow.com/602892/position/7678717009148725523/detail",
       "publishedAt": "2026-08-27",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "简历投递→综合素质测评→线上笔试/AI语言面试（部分岗位）→业务一面（部分无领导小组讨论）→业务二面→业务终面及HRBP面→录用谈薪→Offer→三方→入职",
-      "recruitmentProcessEvidence": "E2 | 清华大学就业网正浩创新2027秋招 | https://career.cic.tsinghua.edu.cn/xsglxt/f/jyxt/anony/showZwxxForWx?zpxxid=563738243 | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E2 | 清华大学就业网正浩创新2027秋招 | https://career.cic.tsinghua.edu.cn/xsglxt/f/jyxt/anony/showZwxxForWx?zpxxid=563738243 | 2026-09-17"
-    },
-    {
-      "id": "ecoflow-7677582923860560174",
-      "company": "正浩创新EcoFlow",
-      "title": "助理仓储管理工程师",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "本科",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "物流管理、供应链管理、数学、统计学（数据分析方向）等相关专业优先；海外背景优先，精通英语优先",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "深圳",
-      "jobDescription": "1、全面负责公司海外仓储运营管理，确保仓储物流高效、成本可控，并支持订单履约； 2、领导本地团队，优化仓储流程，协调跨境物流链路，同时与总部及第三方服务商紧密合作，提升客户满意度并推动业务增长； 3、监督海外仓的日常运营，包括入库、存储、分拣、包装、出库及库存盘点，确保流程符合ISO或行业标准； 4、制定并执行仓储SOP（标准作业程序），优化空间利用率和作业效率； 5、协调跨部门（如采购、销售、客服）合作，确保订单准时交付; 6、 对接国际货运代理、清关公司及本地配送服务商，确保头程/尾程物流时效。",
-      "jobRequirements": "1、2027届获得本科及以上学历，物流管理、供应链管理、数学、统计学（数据分析方向）等相关专业优先，海外背景优先，精通英语优先； 2、熟悉库存算法模型（如 EOQ 模型），熟练使用 Excel、Power BI 等工具进行数据可视化；具备基础 SQL 技能者优先； 3、逻辑分析能力强，能通过数据发现业务问题；沟通表达清晰，能有效对接计划、仓储等部门；学习意愿强，适应快速变化的业务需求。",
-      "JD": "1、全面负责公司海外仓储运营管理，确保仓储物流高效、成本可控，并支持订单履约； 2、领导本地团队，优化仓储流程，协调跨境物流链路，同时与总部及第三方服务商紧密合作，提升客户满意度并推动业务增长； 3、监督海外仓的日常运营，包括入库、存储、分拣、包装、出库及库存盘点，确保流程符合ISO或行业标准； 4、制定并执行仓储SOP（标准作业程序），优化空间利用率和作业效率； 5、协调跨部门（如采购、销售、客服）合作，确保订单准时交付; 6、 对接国际货运代理、清关公司及本地配送服务商，确保头程/尾程物流时效。\n1、2027届获得本科及以上学历，物流管理、供应链管理、数学、统计学（数据分析方向）等相关专业优先，海外背景优先，精通英语优先； 2、熟悉库存算法模型（如 EOQ 模型），熟练使用 Excel、Power BI 等工具进行数据可视化；具备基础 SQL 技能者优先； 3、逻辑分析能力强，能通过数据发现业务问题；沟通表达清晰，能有效对接计划、仓储等部门；学习意愿强，适应快速变化的业务需求。",
-      "jdEvidence": {
-        "source": "llm:deepseek:deepseek-flash",
-        "majorClauses": [
-          "物流管理、供应链管理、数学、统计学（数据分析方向）等相关专业优先",
-          "海外背景优先，精通英语优先"
-        ],
-        "eligibilityClauses": [
-          "2027届获得本科及以上学历"
-        ],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [
-        "英语",
-        "Excel",
-        "数据分析",
-        "SQL"
-      ],
-      "experienceKeywords": [
-        "海外",
-        "运营",
-        "数据",
-        "供应链",
-        "客户"
-      ],
-      "preferenceTags": [
-        "国际业务",
-        "出海"
-      ],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "正浩创新EcoFlow官方2027校招官网",
-      "officialURL": "https://jobs.ecoflow.com/602892/position/7677582923860560174/detail",
-      "publishedAt": "2026-08-24",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "",

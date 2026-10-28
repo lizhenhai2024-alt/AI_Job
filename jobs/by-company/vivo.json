@@ -1,7 +1,7 @@
 {
   "company": "vivo",
-  "count": 33,
-  "updatedAt": "2026-10-28T01:25:21.117Z",
+  "count": 35,
+  "updatedAt": "2026-10-28T16:29:34.952Z",
   "jobs": [
     {
       "id": "beisen-055e87e5e911",
@@ -2219,6 +2219,96 @@
       "hasAssessmentEvidence": "E2 | 湖南大学就业网校招公告 | https://scc.hnu.edu.cn/detail/career?id=694321 | 2026-09-17"
     },
     {
+      "id": "beisen-4a0a562bd0f4",
+      "company": "vivo",
+      "title": "艺术创意设计师-27届设计专项",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "美术、设计相关专业本科或以上学历",
+        "hardRestriction": true,
+        "hardClauses": [
+          "美术、设计相关专业本科或以上学历"
+        ]
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "深圳",
+      "jobDescription": "数字化的信息时代，产品是外在的形象建设，UI扮演内在的气质塑造。 UI设计需要整合商业思考，平衡美学价值，用设计的方法推动产品价值的最大化。 致力于打造与品牌文化高度统一的极致用户体验，用独特的品牌化系统语言，创造出更多界面体验的可能性，拉近用户与设计的距离，是vivo UI设计师坚持不懈的追求！ 在这里，你将与我们一起专注于： 1、负责vivo各产品系列线（X\\S\\Y\\iQOO等）壁纸的艺术创意创新工作，打造具有行业领先力及差异化的形象IP； 2、负责OriginOS年度版本视觉概念的创意创新工作（包含但不限于行为壁纸、情景壁纸等），以用户为中心，洞察并挖掘用户审美及关键行为状态，通过具有创造力、表现力的方式，产出符合核心用户喜爱的视觉作品； 3、对接技术团队，平衡感性（美学趋势洞察与判断）和理性（硬件平台下的技术实现和使用逻辑），主动识别创意执行中的风险，保证方案的可落地性； 4、探索创新方法、研究用户人群、挖掘前沿趋势、沉淀设计方法论，助力于用户体验设计。",
+      "jobRequirements": "1、创意执行力：美术、设计相关专业本科或以上学历，能够熟练使用Adobe系列、C4D、Blender、Houdini等软件；综合素质扎实，热爱设计； 2、持续学习力：富于创新、思维灵活，并对先进的设计理念和技术有较强的理解能力；有一定的设计理论知识和对流行趋势敏锐的洞察力； 3、团队协作力：具有良好的沟通能力和团队协作精神。 负责/共享人",
+      "JD": "数字化的信息时代，产品是外在的形象建设，UI扮演内在的气质塑造。 UI设计需要整合商业思考，平衡美学价值，用设计的方法推动产品价值的最大化。 致力于打造与品牌文化高度统一的极致用户体验，用独特的品牌化系统语言，创造出更多界面体验的可能性，拉近用户与设计的距离，是vivo UI设计师坚持不懈的追求！ 在这里，你将与我们一起专注于： 1、负责vivo各产品系列线（X\\S\\Y\\iQOO等）壁纸的艺术创意创新工作，打造具有行业领先力及差异化的形象IP； 2、负责OriginOS年度版本视觉概念的创意创新工作（包含但不限于行为壁纸、情景壁纸等），以用户为中心，洞察并挖掘用户审美及关键行为状态，通过具有创造力、表现力的方式，产出符合核心用户喜爱的视觉作品； 3、对接技术团队，平衡感性（美学趋势洞察与判断）和理性（硬件平台下的技术实现和使用逻辑），主动识别创意执行中的风险，保证方案的可落地性； 4、探索创新方法、研究用户人群、挖掘前沿趋势、沉淀设计方法论，助力于用户体验设计。\n1、创意执行力：美术、设计相关专业本科或以上学历，能够熟练使用Adobe系列、C4D、Blender、Houdini等软件；综合素质扎实，热爱设计； 2、持续学习力：富于创新、思维灵活，并对先进的设计理念和技术有较强的理解能力；有一定的设计理论知识和对流行趋势敏锐的洞察力； 3、团队协作力：具有良好的沟通能力和团队协作精神。 负责/共享人",
+      "jdEvidence": {
+        "source": "llm:gemini-free:gemini-3.5-flash-lite",
+        "majorClauses": [
+          "美术、设计相关专业本科或以上学历"
+        ],
+        "eligibilityClauses": [
+          "艺术创意设计师-27届设计专项"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "用户",
+        "品牌"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "3",
+        "min": 3,
+        "max": 3,
+        "scope": "job",
+        "display": "3人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "3 3 数字化的信息时代，产品是外在的形象建设，UI扮演内在的气质塑造。 UI设计需要整合"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://hr-campus.vivo.com/campus/detail?jobAdId=0ecced05-a6c2-4827-a03a-8f29196808fb",
+      "publishedAt": "2026-10-28",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申与初筛→线上笔试（仅研发岗）→线下面试→Offer发放",
+      "recruitmentProcessEvidence": "E1 | vivo校招官网流程 | https://hr-campus.vivo.com/custom/a67785ee-f8ab-3bfb-379f-2273e31a477e | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | 湖南大学就业网校招公告 | https://scc.hnu.edu.cn/detail/career?id=694321 | 2026-09-17"
+    },
+    {
       "id": "beisen-f1335c40f2be",
       "company": "vivo",
       "title": "艺术创意设计师-27届秋招",
@@ -2850,6 +2940,103 @@
       "source": "公司官方北森校招官网",
       "officialURL": "https://hr-campus.vivo.com/campus/detail?jobAdId=e81494a7-a2a1-47f3-a471-bc865da68421",
       "publishedAt": "2026-08-06",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申与初筛→线上笔试（仅研发岗）→线下面试→Offer发放",
+      "recruitmentProcessEvidence": "E1 | vivo校招官网流程 | https://hr-campus.vivo.com/custom/a67785ee-f8ab-3bfb-379f-2273e31a477e | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | 湖南大学就业网校招公告 | https://scc.hnu.edu.cn/detail/career?id=694321 | 2026-09-17"
+    },
+    {
+      "id": "beisen-743445641d88",
+      "company": "vivo",
+      "title": "CMF设计师-27届设计专项",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "本科及以上学历，工业设计、产品设计、游戏动画、平面设计、服装设计，漫画、插画设计等）",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "东莞",
+      "jobDescription": "工业设计，不应是一种单纯的以商业为目的的行为，而是将艺术美学与商业价值相结合，给予用户更极致丰富的产品体验。致力于打造与品牌文化高度一致的产品设计语言，创造出更多人机交互的可能性，拉近用户与设计的距离，是vivo CMF设计师坚持不懈的追求！ 你将有机会共同打造未来移动科技的极致体验，影响数亿用户的生活方式； 你将有机会找到行业最聚集资深大牛的宝藏营地，学习最核心的设计表达方法与新技术运用的精髓； 你将有机会发现更强大的自己，与vivo共同成长，让每一代产品的辉煌都有你的印记。 在这里，你将与我们一起专注于： 1、深入理解产品设计定位及策略，提出创新性的、高感知的CMF工艺方案； 2、各系列产品的工艺设计和材料的应用，在项目中评估新工艺、新材料应用的可行性，及时开展对新工艺、新材料设计预研和设计验证，跟进产品的整个创意和开发流程，制定工艺技术发展路标； 3、 完善各系列产品生产制程，优化外观表面效果，提升精致精细度，优化成本，保证产品市场竞争力； 4、解决系列项目产品外观品质异常，保证产品顺利生产，提升各外观件的直通率； 5、对全球优质供应商资源进行收集和提炼，为整体产品做好设计资源储备，定期发布供应商技术前沿信息报告。",
+      "jobRequirements": "1、本科及以上学历，工业设计、产品设计、游戏动画、平面设计、服装设计，漫画、插画设计等）； 2、熟练运用相关设计软件，比如CORELDRAW\\PS\\RHINO\\C4D等，擅长平面/3D/渲染； 3、有创新意识，能敏锐捕捉时尚潮流的方向，对产品CMF（即color（颜色）、material（材料）与finishing（表面处理）)有一定了解及强烈的兴趣； 4、诚恳、认真、积极、有责任感，对设计事业充满热情与理想，有良好的沟通能力和团队协作能力。",
+      "JD": "工业设计，不应是一种单纯的以商业为目的的行为，而是将艺术美学与商业价值相结合，给予用户更极致丰富的产品体验。致力于打造与品牌文化高度一致的产品设计语言，创造出更多人机交互的可能性，拉近用户与设计的距离，是vivo CMF设计师坚持不懈的追求！ 你将有机会共同打造未来移动科技的极致体验，影响数亿用户的生活方式； 你将有机会找到行业最聚集资深大牛的宝藏营地，学习最核心的设计表达方法与新技术运用的精髓； 你将有机会发现更强大的自己，与vivo共同成长，让每一代产品的辉煌都有你的印记。 在这里，你将与我们一起专注于： 1、深入理解产品设计定位及策略，提出创新性的、高感知的CMF工艺方案； 2、各系列产品的工艺设计和材料的应用，在项目中评估新工艺、新材料应用的可行性，及时开展对新工艺、新材料设计预研和设计验证，跟进产品的整个创意和开发流程，制定工艺技术发展路标； 3、 完善各系列产品生产制程，优化外观表面效果，提升精致精细度，优化成本，保证产品市场竞争力； 4、解决系列项目产品外观品质异常，保证产品顺利生产，提升各外观件的直通率； 5、对全球优质供应商资源进行收集和提炼，为整体产品做好设计资源储备，定期发布供应商技术前沿信息报告。\n1、本科及以上学历，工业设计、产品设计、游戏动画、平面设计、服装设计，漫画、插画设计等）； 2、熟练运用相关设计软件，比如CORELDRAW\\PS\\RHINO\\C4D等，擅长平面/3D/渲染； 3、有创新意识，能敏锐捕捉时尚潮流的方向，对产品CMF（即color（颜色）、material（材料）与finishing（表面处理）)有一定了解及强烈的兴趣； 4、诚恳、认真、积极、有责任感，对设计事业充满热情与理想，有良好的沟通能力和团队协作能力。",
+      "jdEvidence": {
+        "source": "llm:gemini-free:gemini-3.5-flash-lite",
+        "majorClauses": [
+          "本科及以上学历，工业设计、产品设计、游戏动画、平面设计、服装设计，漫画、插画设计等）"
+        ],
+        "eligibilityClauses": [
+          "27届设计专项"
+        ],
+        "technicalDuties": [
+          "技术评估",
+          "开发实现"
+        ],
+        "businessDuties": [
+          "商务测算"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "项目",
+        "市场",
+        "用户",
+        "品牌"
+      ],
+      "preferenceTags": [
+        "国际业务"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "3",
+        "min": 3,
+        "max": 3,
+        "scope": "job",
+        "display": "3人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "3 3 工业设计，不应是一种单纯的以商业为目的的行为，而是将艺术美学与商业价值相结合，给予"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://hr-campus.vivo.com/campus/detail?jobAdId=4480b50a-b630-44db-abb7-9cc7c57b1e77",
+      "publishedAt": "2026-10-28",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "",

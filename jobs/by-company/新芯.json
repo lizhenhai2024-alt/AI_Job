@@ -1,7 +1,7 @@
 {
   "company": "新芯股份",
-  "count": 12,
-  "updatedAt": "2026-10-28T01:25:21.117Z",
+  "count": 13,
+  "updatedAt": "2026-10-28T16:29:34.952Z",
   "jobs": [
     {
       "id": "beisen-7f42e6669c9a",
@@ -602,6 +602,90 @@
       "source": "公司官方北森校招官网",
       "officialURL": "https://whxmc.zhiye.com/campus/detail?jobAdId=a5e71099-bac3-4f30-926b-1968687ec88c",
       "publishedAt": "2026-08-12",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-3eb0d8700da5",
+      "company": "新芯股份",
+      "title": "2027届-XMC-设备技术员(J11743)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "大专学历，微电子、集成电路、材料、化学、物理、光电等。",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "武汉",
+      "jobDescription": "1、工艺监控与异常处理：在线监控机台工艺稳定性，调查分析生产过程中的异常（如缺陷、参数漂移），并采取改善措施预防再发生。 2、Recipe管理与验证：协助建立或维护新产品/新机台的工艺配方（Recipe）；监控机台稳定性，完成机台验收及工艺验证。 3、良率与效率优化：配合收集缺陷信息，分析缺陷来源；协助工程师优化Recipe参数，以提升产能（WPH）和良率。 4、实验与技术支持：执行工程实验，测试新产品；为产线操作员提供工艺指导，并协助处理在线产品的 Hold 与释放。",
+      "jobRequirements": "1、大专学历，微电子、集成电路、材料、化学、物理、光电等。 2、适应倒班与无尘室环境；具备一定的英文读写能力。",
+      "JD": "1、工艺监控与异常处理：在线监控机台工艺稳定性，调查分析生产过程中的异常（如缺陷、参数漂移），并采取改善措施预防再发生。 2、Recipe管理与验证：协助建立或维护新产品/新机台的工艺配方（Recipe）；监控机台稳定性，完成机台验收及工艺验证。 3、良率与效率优化：配合收集缺陷信息，分析缺陷来源；协助工程师优化Recipe参数，以提升产能（WPH）和良率。 4、实验与技术支持：执行工程实验，测试新产品；为产线操作员提供工艺指导，并协助处理在线产品的 Hold 与释放。\n1、大专学历，微电子、集成电路、材料、化学、物理、光电等。 2、适应倒班与无尘室环境；具备一定的英文读写能力。",
+      "jdEvidence": {
+        "source": "llm:gemini-free:gemini-3.5-flash-lite",
+        "majorClauses": [
+          "大专学历，微电子、集成电路、材料、化学、物理、光电等。"
+        ],
+        "eligibilityClauses": [
+          "2027届-XMC-设备技术员(J11743)"
+        ],
+        "technicalDuties": [
+          "问题根因",
+          "开发实现"
+        ],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://whxmc.zhiye.com/campus/detail?jobAdId=a8fc6d23-547f-4a85-8a14-55b379ebbb56",
+      "publishedAt": "2026-10-28",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": ""

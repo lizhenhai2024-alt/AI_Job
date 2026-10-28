@@ -859,6 +859,17 @@
       "maxPages": 30,
       "maxJobs": 3000,
       "monitoringNote": "高校就业网自动发现：广东外语外贸大学"
+    },
+    {
+      "company": "算法工程师-北京中关村科金技术有限公司",
+      "baseUrl": "https://weikezhijia.jobs.feishu.cn",
+      "websitePath": "952383",
+      "graduationYear": "2027",
+      "detailTemplate": "https://weikezhijia.jobs.feishu.cn/952383/m/position/{id}/detail",
+      "pageSize": 100,
+      "maxPages": 30,
+      "maxJobs": 3000,
+      "monitoringNote": "高校就业网自动发现：南开大学"
     }
   ],
   "hotjob": [

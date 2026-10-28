@@ -1,7 +1,7 @@
 {
   "company": "京东",
   "count": 40,
-  "updatedAt": "2026-10-28T01:25:21.117Z",
+  "updatedAt": "2026-10-28T16:29:34.952Z",
   "jobs": [
     {
       "id": "jd-c662966ed333",
@@ -2516,6 +2516,97 @@
       "deadline": ""
     },
     {
+      "id": "jd-dd5dd3bc2769",
+      "company": "京东",
+      "title": "物流产品服务",
+      "graduationYear": [
+        "2026",
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "2. 物流管理、物流工程、管理科学与工程、经管类专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "北京、上海",
+      "jobDescription": "1. 负责为外部客户提供物流类产品或服务的定制化解决方案的方案设计； 2. 负责配合项目落地运营中的产品解决方案的服务及交付； 3. 通过招投标精准支持、项目售后保障、有偿服务支持和阶段性项目支持，为公司识别项目售后阶段风险； 4. 沉淀标准售后产品，快速复制推广，助力公司实现经营目标； 5. AI应用探索：主动运用AI工具辅助方案设计、数据分析与客户需求挖掘，提升解决方案匹配度与交付效率。",
+      "jobRequirements": "1. 2026年10月1日至2027年9月30日期间毕业，统招本科及以上学历； 2. 物流管理、物流工程、管理科学与工程、经管类专业优先； 3. 热爱电商物流行业并愿意长期深耕电商物流行业。具有强烈的事业心、进取心、责任心，并对生活充满正能量，对工作充满激情，有志成为京东该行业领域领军人才； 4. 具有良好的逻辑思维和沟通能力，良好的团队协作意识； 5. 具有高效的执行力，能够积极主动的思考、解决问题； 6. 了解并能使用AI工具（如通用对话式AI、智能数据分析平台等）辅助客户需求分析与方案撰写；有利用AI工具优化物流解决方案的经历者优先； 7. 对AI新技术保持好奇心，乐于主动学习并快速掌握新的AI知识和功能，积极拥抱新技术； 8. 符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。",
+      "JD": "1. 负责为外部客户提供物流类产品或服务的定制化解决方案的方案设计； 2. 负责配合项目落地运营中的产品解决方案的服务及交付； 3. 通过招投标精准支持、项目售后保障、有偿服务支持和阶段性项目支持，为公司识别项目售后阶段风险； 4. 沉淀标准售后产品，快速复制推广，助力公司实现经营目标； 5. AI应用探索：主动运用AI工具辅助方案设计、数据分析与客户需求挖掘，提升解决方案匹配度与交付效率。\n1. 2026年10月1日至2027年9月30日期间毕业，统招本科及以上学历； 2. 物流管理、物流工程、管理科学与工程、经管类专业优先； 3. 热爱电商物流行业并愿意长期深耕电商物流行业。具有强烈的事业心、进取心、责任心，并对生活充满正能量，对工作充满激情，有志成为京东该行业领域领军人才； 4. 具有良好的逻辑思维和沟通能力，良好的团队协作意识； 5. 具有高效的执行力，能够积极主动的思考、解决问题； 6. 了解并能使用AI工具（如通用对话式AI、智能数据分析平台等）辅助客户需求分析与方案撰写；有利用AI工具优化物流解决方案的经历者优先； 7. 对AI新技术保持好奇心，乐于主动学习并快速掌握新的AI知识和功能，积极拥抱新技术； 8. 符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "2. 物流管理、物流工程、管理科学与工程、经管类专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "数据分析",
+        "电商"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "项目",
+        "电商",
+        "数据",
+        "客户"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "京东官方2027校园招聘官网",
+      "officialURL": "https://campus.jd.com/#/jobs",
+      "publishedAt": "2026-07-23",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
       "id": "jd-69e74506b5da",
       "company": "京东",
       "title": "技术产品经理",
@@ -2655,97 +2746,6 @@
         "客户",
         "公关",
         "传播"
-      ],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "京东官方2027校园招聘官网",
-      "officialURL": "https://campus.jd.com/#/jobs",
-      "publishedAt": "2026-07-23",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "jd-dd5dd3bc2769",
-      "company": "京东",
-      "title": "物流产品服务",
-      "graduationYear": [
-        "2026",
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "本科",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "2. 物流管理、物流工程、管理科学与工程、经管类专业优先",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "北京",
-      "jobDescription": "1. 负责为外部客户提供物流类产品或服务的定制化解决方案的方案设计； 2. 负责配合项目落地运营中的产品解决方案的服务及交付； 3. 通过招投标精准支持、项目售后保障、有偿服务支持和阶段性项目支持，为公司识别项目售后阶段风险； 4. 沉淀标准售后产品，快速复制推广，助力公司实现经营目标； 5. AI应用探索：主动运用AI工具辅助方案设计、数据分析与客户需求挖掘，提升解决方案匹配度与交付效率。",
-      "jobRequirements": "1. 2026年10月1日至2027年9月30日期间毕业，统招本科及以上学历； 2. 物流管理、物流工程、管理科学与工程、经管类专业优先； 3. 热爱电商物流行业并愿意长期深耕电商物流行业。具有强烈的事业心、进取心、责任心，并对生活充满正能量，对工作充满激情，有志成为京东该行业领域领军人才； 4. 具有良好的逻辑思维和沟通能力，良好的团队协作意识； 5. 具有高效的执行力，能够积极主动的思考、解决问题； 6. 了解并能使用AI工具（如通用对话式AI、智能数据分析平台等）辅助客户需求分析与方案撰写；有利用AI工具优化物流解决方案的经历者优先； 7. 对AI新技术保持好奇心，乐于主动学习并快速掌握新的AI知识和功能，积极拥抱新技术； 8. 符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。",
-      "JD": "1. 负责为外部客户提供物流类产品或服务的定制化解决方案的方案设计； 2. 负责配合项目落地运营中的产品解决方案的服务及交付； 3. 通过招投标精准支持、项目售后保障、有偿服务支持和阶段性项目支持，为公司识别项目售后阶段风险； 4. 沉淀标准售后产品，快速复制推广，助力公司实现经营目标； 5. AI应用探索：主动运用AI工具辅助方案设计、数据分析与客户需求挖掘，提升解决方案匹配度与交付效率。\n1. 2026年10月1日至2027年9月30日期间毕业，统招本科及以上学历； 2. 物流管理、物流工程、管理科学与工程、经管类专业优先； 3. 热爱电商物流行业并愿意长期深耕电商物流行业。具有强烈的事业心、进取心、责任心，并对生活充满正能量，对工作充满激情，有志成为京东该行业领域领军人才； 4. 具有良好的逻辑思维和沟通能力，良好的团队协作意识； 5. 具有高效的执行力，能够积极主动的思考、解决问题； 6. 了解并能使用AI工具（如通用对话式AI、智能数据分析平台等）辅助客户需求分析与方案撰写；有利用AI工具优化物流解决方案的经历者优先； 7. 对AI新技术保持好奇心，乐于主动学习并快速掌握新的AI知识和功能，积极拥抱新技术； 8. 符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。",
-      "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [
-          "2. 物流管理、物流工程、管理科学与工程、经管类专业优先"
-        ],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [
-        "数据分析",
-        "电商"
-      ],
-      "experienceKeywords": [
-        "运营",
-        "项目",
-        "电商",
-        "数据",
-        "客户"
       ],
       "preferenceTags": [],
       "riskTags": [],

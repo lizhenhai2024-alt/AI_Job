@@ -1,7 +1,7 @@
 {
   "company": "得力集团",
-  "count": 9,
-  "updatedAt": "2026-10-28T01:25:21.117Z",
+  "count": 13,
+  "updatedAt": "2026-10-28T16:29:34.952Z",
   "jobs": [
     {
       "id": "moka-ae8368500c57",
@@ -414,6 +414,366 @@
       "source": "公司官方Moka校招官网",
       "officialURL": "https://app.mokahr.com/campus-recruitment/nbdeli/70019#/job/3e804d37-4530-4bfd-8215-8bdfe9bc0ab3",
       "publishedAt": "2026-09-02",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申/招聘会投递→线上测评→初试→复试→offer签约",
+      "recruitmentProcessEvidence": "E2 | 官方校招简章（吉林大学就业网） | https://jdjyw.jlu.edu.cn/mportal/recruit/details?id=35d967eaac4f4b5fb1bdc019305c7fd9 | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | 官方校招简章 | https://jdjyw.jlu.edu.cn/mportal/recruit/details?id=35d967eaac4f4b5fb1bdc019305c7fd9 | 2026-09-17"
+    },
+    {
+      "id": "moka-22889b3e8e65",
+      "company": "得力集团",
+      "title": "计划管理",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "待核",
+      "jobDescription": "发布于 2026-09-02 产品平面设计 发布于 2026-09-02 硬件工程 发布于 2026-09-02 工程技术 发布于 2026-09-02 物流管理 发布于 2026-09-02 跨境电商运营 发布于 2026-09-02",
+      "jobRequirements": "",
+      "JD": "发布于 2026-09-02 产品平面设计 发布于 2026-09-02 硬件工程 发布于 2026-09-02 工程技术 发布于 2026-09-02 物流管理 发布于 2026-09-02 跨境电商运营 发布于 2026-09-02",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "电商"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "电商"
+      ],
+      "preferenceTags": [
+        "出海"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方Moka校招官网",
+      "officialURL": "https://app.mokahr.com/campus-recruitment/nbdeli/70019#/job/5ddf4c38-adbf-4068-8a15-7fc40b46afb8",
+      "publishedAt": "",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申/招聘会投递→线上测评→初试→复试→offer签约",
+      "recruitmentProcessEvidence": "E2 | 官方校招简章（吉林大学就业网） | https://jdjyw.jlu.edu.cn/mportal/recruit/details?id=35d967eaac4f4b5fb1bdc019305c7fd9 | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | 官方校招简章 | https://jdjyw.jlu.edu.cn/mportal/recruit/details?id=35d967eaac4f4b5fb1bdc019305c7fd9 | 2026-09-17"
+    },
+    {
+      "id": "moka-0952111857b6",
+      "company": "得力集团",
+      "title": "计划管理",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "待核",
+      "jobDescription": "发布于 2026-09-02 产品平面设计 发布于 2026-09-02 硬件工程 发布于 2026-09-02 工程技术 发布于 2026-09-02 物流管理 发布于 2026-09-02 跨境电商运营 发布于 2026-09-02",
+      "jobRequirements": "",
+      "JD": "发布于 2026-09-02 产品平面设计 发布于 2026-09-02 硬件工程 发布于 2026-09-02 工程技术 发布于 2026-09-02 物流管理 发布于 2026-09-02 跨境电商运营 发布于 2026-09-02",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "电商"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "电商"
+      ],
+      "preferenceTags": [
+        "出海"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方Moka校招官网",
+      "officialURL": "https://app.mokahr.com/campus-recruitment/nbdeli/70019#/job/7b948489-9e21-438b-92a0-5dd8ea472795",
+      "publishedAt": "",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申/招聘会投递→线上测评→初试→复试→offer签约",
+      "recruitmentProcessEvidence": "E2 | 官方校招简章（吉林大学就业网） | https://jdjyw.jlu.edu.cn/mportal/recruit/details?id=35d967eaac4f4b5fb1bdc019305c7fd9 | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | 官方校招简章 | https://jdjyw.jlu.edu.cn/mportal/recruit/details?id=35d967eaac4f4b5fb1bdc019305c7fd9 | 2026-09-17"
+    },
+    {
+      "id": "moka-82b02863df2a",
+      "company": "得力集团",
+      "title": "计划管理",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "待核",
+      "jobDescription": "发布于 2026-09-02 产品平面设计 发布于 2026-09-02 硬件工程 发布于 2026-09-02 工程技术 发布于 2026-09-02 物流管理 发布于 2026-09-02 跨境电商运营 发布于 2026-09-02",
+      "jobRequirements": "",
+      "JD": "发布于 2026-09-02 产品平面设计 发布于 2026-09-02 硬件工程 发布于 2026-09-02 工程技术 发布于 2026-09-02 物流管理 发布于 2026-09-02 跨境电商运营 发布于 2026-09-02",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "电商"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "电商"
+      ],
+      "preferenceTags": [
+        "出海"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方Moka校招官网",
+      "officialURL": "https://app.mokahr.com/campus-recruitment/nbdeli/70019#/job/f2c0212b-5d7f-4c17-a55b-15221c944947",
+      "publishedAt": "",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申/招聘会投递→线上测评→初试→复试→offer签约",
+      "recruitmentProcessEvidence": "E2 | 官方校招简章（吉林大学就业网） | https://jdjyw.jlu.edu.cn/mportal/recruit/details?id=35d967eaac4f4b5fb1bdc019305c7fd9 | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | 官方校招简章 | https://jdjyw.jlu.edu.cn/mportal/recruit/details?id=35d967eaac4f4b5fb1bdc019305c7fd9 | 2026-09-17"
+    },
+    {
+      "id": "moka-5bffd7138442",
+      "company": "得力集团",
+      "title": "计划管理",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "待核",
+      "jobDescription": "发布于 2026-09-02 产品平面设计 发布于 2026-09-02 硬件工程 发布于 2026-09-02 工程技术 发布于 2026-09-02 物流管理 发布于 2026-09-02 跨境电商运营 发布于 2026-09-02",
+      "jobRequirements": "",
+      "JD": "发布于 2026-09-02 产品平面设计 发布于 2026-09-02 硬件工程 发布于 2026-09-02 工程技术 发布于 2026-09-02 物流管理 发布于 2026-09-02 跨境电商运营 发布于 2026-09-02",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "电商"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "电商"
+      ],
+      "preferenceTags": [
+        "出海"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方Moka校招官网",
+      "officialURL": "https://app.mokahr.com/campus-recruitment/nbdeli/70019#/job/db1711a8-6e73-4548-9572-f5968bdc8083",
+      "publishedAt": "",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "",

@@ -1,7 +1,7 @@
 {
   "company": "优艾智合",
   "count": 9,
-  "updatedAt": "2026-10-28T01:25:21.117Z",
+  "updatedAt": "2026-10-28T16:29:34.952Z",
   "jobs": [
     {
       "id": "beisen-63aae5c32f21",
@@ -622,6 +622,89 @@
       "deadline": ""
     },
     {
+      "id": "beisen-4c223b4406c6",
+      "company": "优艾智合",
+      "title": "C++工程师（27届校招）",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "本科及以上学历，相关专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "深圳",
+      "jobDescription": "岗位职责: 1. 负责C++语言的软件开发与调试； 2. 参与软件项目的需求分析和系统设计； 3. 编写软件设计文档； 4. 协助团队解决软件开发过程中的问题； 5. 参与软件的迭代开发与维护。",
+      "jobRequirements": "任职要求： 1. 具备良好的分析和解决问题的能力； 2. 能够独立进行软件设计与开发； 3. 具有团队合作精神，能够有效沟通； 4. 具有持续学习的意愿，能够跟踪和应用新技术； 5. 有责任心，能够在压力下工作。 本科及以上学历，相关专业优先",
+      "JD": "岗位职责: 1. 负责C++语言的软件开发与调试； 2. 参与软件项目的需求分析和系统设计； 3. 编写软件设计文档； 4. 协助团队解决软件开发过程中的问题； 5. 参与软件的迭代开发与维护。\n任职要求： 1. 具备良好的分析和解决问题的能力； 2. 能够独立进行软件设计与开发； 3. 具有团队合作精神，能够有效沟通； 4. 具有持续学习的意愿，能够跟踪和应用新技术； 5. 有责任心，能够在压力下工作。 本科及以上学历，相关专业优先",
+      "jdEvidence": {
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科及以上学历，相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "27届校招"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "项目"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://youibot1.zhiye.com/campus/detail?jobAdId=feaafd22-1106-4af7-af71-f29061e7ce13",
+      "publishedAt": "2026-08-21",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
       "id": "beisen-7f1ed51c8b2f",
       "company": "优艾智合",
       "title": "技术应用工程师（27届校招）",
@@ -702,89 +785,6 @@
       "annualSalary": "12万–18万/年（按12薪推算）",
       "source": "公司官方北森校招官网",
       "officialURL": "https://youibot1.zhiye.com/campus/detail?jobAdId=c507755d-67b1-4b79-aef3-fe85e022d7e3",
-      "publishedAt": "2026-08-21",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "beisen-4c223b4406c6",
-      "company": "优艾智合",
-      "title": "C++工程师（27届校招）",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "本科",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "本科及以上学历，相关专业优先",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "深圳",
-      "jobDescription": "岗位职责: 1. 负责C++语言的软件开发与调试； 2. 参与软件项目的需求分析和系统设计； 3. 编写软件设计文档； 4. 协助团队解决软件开发过程中的问题； 5. 参与软件的迭代开发与维护。",
-      "jobRequirements": "任职要求： 1. 具备良好的分析和解决问题的能力； 2. 能够独立进行软件设计与开发； 3. 具有团队合作精神，能够有效沟通； 4. 具有持续学习的意愿，能够跟踪和应用新技术； 5. 有责任心，能够在压力下工作。 本科及以上学历，相关专业优先",
-      "JD": "岗位职责: 1. 负责C++语言的软件开发与调试； 2. 参与软件项目的需求分析和系统设计； 3. 编写软件设计文档； 4. 协助团队解决软件开发过程中的问题； 5. 参与软件的迭代开发与维护。\n任职要求： 1. 具备良好的分析和解决问题的能力； 2. 能够独立进行软件设计与开发； 3. 具有团队合作精神，能够有效沟通； 4. 具有持续学习的意愿，能够跟踪和应用新技术； 5. 有责任心，能够在压力下工作。 本科及以上学历，相关专业优先",
-      "jdEvidence": {
-        "source": "llm:deepseek:deepseek-flash",
-        "majorClauses": [
-          "本科及以上学历，相关专业优先"
-        ],
-        "eligibilityClauses": [
-          "27届校招"
-        ],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [],
-      "experienceKeywords": [
-        "项目"
-      ],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "面议",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": "面议"
-      },
-      "salary": "面议",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://youibot1.zhiye.com/campus/detail?jobAdId=feaafd22-1106-4af7-af71-f29061e7ce13",
       "publishedAt": "2026-08-21",
       "lastVerified": "",
       "sourceType": "official",

@@ -1,7 +1,7 @@
 {
   "company": "宝宝巴士",
-  "count": 23,
-  "updatedAt": "2026-10-28T01:25:21.117Z",
+  "count": 24,
+  "updatedAt": "2026-10-28T16:29:34.952Z",
   "jobs": [
     {
       "id": "beisen-c2c10012bf5f",
@@ -93,6 +93,105 @@
       "source": "公司官方北森校招官网",
       "officialURL": "https://babybus.zhiye.com/campus/detail?jobAdId=aff589de-cec6-4495-94fd-a53b2fce5dde",
       "publishedAt": "2026-10-16",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申/内推→笔试/测评→1-2轮面试→Offer",
+      "recruitmentProcessEvidence": "E1 | 宝宝巴士校招官网 | https://babybus.zhiye.com/campus | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E1 | 宝宝巴士校招官网FAQ | https://babybus.zhiye.com/campus | 2026-09-17"
+    },
+    {
+      "id": "beisen-1672113ee9d8",
+      "company": "宝宝巴士",
+      "title": "印尼语产品运营专员（校招）",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "印尼语相关专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "印尼语",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "福建省·福州市",
+      "jobDescription": "1. 负责儿童产品印尼语研发及本地化，并参与印尼电商运营； 2. 收集并分析印尼市场、竞品及消费者信息，整理调研结论，为业务策略制定提供参考； 3. 将绘本、运营素材等中文内容翻译为印尼语，并结合当地语言习惯及目标读者的年龄特点进行本地化处理； 4. 协同编辑、插画、设计及产品团队推进图书内容与视觉制作，并对接市场推广需求，支持新品上市； 5. 协助完成电商平台店铺开设搭建，参与店铺日常运营，协助复盘并优化运营效果。",
+      "jobRequirements": "1. 本科及以上学历，印尼语相关专业优先； 2. 具备良好的印尼语听说读写能力，持有 UKBI 优异成绩或 BIPA 高级证书者优先； 3. 具备良好的文字功底，对印尼市场、跨境业务和海外电商有兴趣，有儿童文本翻译或电商运营相关经验者优先； 4. 对印尼文化、社会背景及商业环境有一定了解，有印尼生活经历，或具备印尼华侨、华裔背景且熟悉当地语言文化者优先； 5. 具备项目策划意识、沟通能力和执行力，能够主动推进工作、高效管理时间； 6. 具备AI应用思维，能通过工具赋能实现工作提效。",
+      "JD": "1. 负责儿童产品印尼语研发及本地化，并参与印尼电商运营； 2. 收集并分析印尼市场、竞品及消费者信息，整理调研结论，为业务策略制定提供参考； 3. 将绘本、运营素材等中文内容翻译为印尼语，并结合当地语言习惯及目标读者的年龄特点进行本地化处理； 4. 协同编辑、插画、设计及产品团队推进图书内容与视觉制作，并对接市场推广需求，支持新品上市； 5. 协助完成电商平台店铺开设搭建，参与店铺日常运营，协助复盘并优化运营效果。\n1. 本科及以上学历，印尼语相关专业优先； 2. 具备良好的印尼语听说读写能力，持有 UKBI 优异成绩或 BIPA 高级证书者优先； 3. 具备良好的文字功底，对印尼市场、跨境业务和海外电商有兴趣，有儿童文本翻译或电商运营相关经验者优先； 4. 对印尼文化、社会背景及商业环境有一定了解，有印尼生活经历，或具备印尼华侨、华裔背景且熟悉当地语言文化者优先； 5. 具备项目策划意识、沟通能力和执行力，能够主动推进工作、高效管理时间； 6. 具备AI应用思维，能通过工具赋能实现工作提效。",
+      "jdEvidence": {
+        "source": "llm:gemini-free:gemini-3.5-flash-lite",
+        "majorClauses": [
+          "印尼语相关专业优先"
+        ],
+        "eligibilityClauses": [],
+        "technicalDuties": [],
+        "businessDuties": [
+          "翻译/本地化",
+          "客户关系"
+        ]
+      },
+      "roleFamily": [
+        "产品运营"
+      ],
+      "skills": [
+        "电商"
+      ],
+      "experienceKeywords": [
+        "海外",
+        "运营",
+        "内容",
+        "项目",
+        "市场",
+        "电商"
+      ],
+      "preferenceTags": [
+        "国际业务",
+        "跨文化",
+        "出海"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 1. 负责儿童产品印尼语研发及本地化，并参与印尼电商运营； 2. 收集并分析印尼市"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://babybus.zhiye.com/campus/detail?jobAdId=f4d3f55f-f1c1-4a7c-abbf-6a879e570f1a",
+      "publishedAt": "2026-10-28",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "",

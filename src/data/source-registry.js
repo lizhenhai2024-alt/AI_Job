@@ -549,6 +549,10 @@ export const sourceRegistry = [
     "company": "深圳市艾丽斯卡文化创意有限公司"
   },
   {
+    "provider": "feishu",
+    "company": "算法工程师-北京中关村科金技术有限公司"
+  },
+  {
     "provider": "hotjob",
     "company": "Decathlon"
   },
