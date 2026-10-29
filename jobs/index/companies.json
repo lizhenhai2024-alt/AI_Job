@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-29T01:57:00.473Z",
-  "totalJobs": 6890,
-  "totalCompanies": 143,
+  "updatedAt": "2026-10-29T16:36:17.629Z",
+  "totalJobs": 6793,
+  "totalCompanies": 144,
   "companies": [
     {
       "company": "阿里巴巴",
@@ -59,10 +59,16 @@
       "count": 47
     },
     {
+      "company": "北控水务集团",
+      "slug": "北控水务",
+      "file": "jobs/by-company/北控水务.json",
+      "count": 7
+    },
+    {
       "company": "比亚迪",
       "slug": "比亚迪",
       "file": "jobs/by-company/比亚迪.json",
-      "count": 49
+      "count": 48
     },
     {
       "company": "传音控股",
@@ -128,7 +134,7 @@
       "company": "东风汽车集团有限公司",
       "slug": "东风汽车集团",
       "file": "jobs/by-company/东风汽车集团.json",
-      "count": 13
+      "count": 12
     },
     {
       "company": "多维联合集团",
@@ -164,7 +170,7 @@
       "company": "顾家家居",
       "slug": "顾家家居",
       "file": "jobs/by-company/顾家家居.json",
-      "count": 21
+      "count": 23
     },
     {
       "company": "广州地铁集团有限公司",
@@ -188,13 +194,13 @@
       "company": "海信",
       "slug": "海信",
       "file": "jobs/by-company/海信.json",
-      "count": 126
+      "count": 127
     },
     {
       "company": "杭州伸美品牌管理有限公司",
       "slug": "杭州伸美品牌管理",
       "file": "jobs/by-company/杭州伸美品牌管理.json",
-      "count": 6
+      "count": 10
     },
     {
       "company": "杭州宇树科技股份有限公司",
@@ -230,13 +236,13 @@
       "company": "吉利汽车",
       "slug": "吉利汽车",
       "file": "jobs/by-company/吉利汽车.json",
-      "count": 329
+      "count": 218
     },
     {
       "company": "极兔速递",
       "slug": "极兔速递",
       "file": "jobs/by-company/极兔速递.json",
-      "count": 18
+      "count": 19
     },
     {
       "company": "金发科技",
@@ -290,13 +296,13 @@
       "company": "快手",
       "slug": "快手",
       "file": "jobs/by-company/快手.json",
-      "count": 74
+      "count": 75
     },
     {
       "company": "岚图汽车",
       "slug": "岚图汽车",
       "file": "jobs/by-company/岚图汽车.json",
-      "count": 15
+      "count": 13
     },
     {
       "company": "蓝思科技",
@@ -344,7 +350,7 @@
       "company": "美团",
       "slug": "美团",
       "file": "jobs/by-company/美团.json",
-      "count": 53
+      "count": 54
     },
     {
       "company": "蒙牛",
@@ -386,7 +392,7 @@
       "company": "泡泡玛特",
       "slug": "泡泡玛特",
       "file": "jobs/by-company/泡泡玛特.json",
-      "count": 21
+      "count": 22
     },
     {
       "company": "拼多多",
@@ -566,13 +572,13 @@
       "company": "泰康保险",
       "slug": "泰康保险",
       "file": "jobs/by-company/泰康保险.json",
-      "count": 339
+      "count": 342
     },
     {
       "company": "特斯拉中国",
       "slug": "特斯拉中国",
       "file": "jobs/by-company/特斯拉中国.json",
-      "count": 125
+      "count": 127
     },
     {
       "company": "腾讯",
@@ -602,7 +608,7 @@
       "company": "微步在线",
       "slug": "微步在线",
       "file": "jobs/by-company/微步在线.json",
-      "count": 40
+      "count": 37
     },
     {
       "company": "蔚来",
@@ -614,7 +620,7 @@
       "company": "小红书",
       "slug": "小红书",
       "file": "jobs/by-company/小红书.json",
-      "count": 23
+      "count": 22
     },
     {
       "company": "小米",
@@ -626,13 +632,13 @@
       "company": "小鹏汽车",
       "slug": "小鹏汽车",
       "file": "jobs/by-company/小鹏汽车.json",
-      "count": 219
+      "count": 220
     },
     {
       "company": "携程集团",
       "slug": "携程",
       "file": "jobs/by-company/携程.json",
-      "count": 29
+      "count": 28
     },
     {
       "company": "欣锐科技",
@@ -692,7 +698,7 @@
       "company": "伊利",
       "slug": "伊利",
       "file": "jobs/by-company/伊利.json",
-      "count": 158
+      "count": 157
     },
     {
       "company": "英科医疗/英科再生",
@@ -734,7 +740,7 @@
       "company": "兆易创新",
       "slug": "兆易创新",
       "file": "jobs/by-company/兆易创新.json",
-      "count": 8
+      "count": 9
     },
     {
       "company": "正浩创新EcoFlow",
@@ -848,7 +854,7 @@
       "company": "Shopee",
       "slug": "shopee",
       "file": "jobs/by-company/shopee.json",
-      "count": 24
+      "count": 23
     },
     {
       "company": "TCL华星光电",

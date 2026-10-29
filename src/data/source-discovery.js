@@ -41,8 +41,8 @@ export const sourceDiscovery = [
     "officialUrl": "https://anton.hotjob.cn/",
     "reason": "已发现公司官方招聘入口，但当前站点 anton.hotjob.cn 尚无自动抓取适配器",
     "attempts": 0,
-    "lastCheckedAt": "2026-10-29T01:56:56.303Z",
-    "nextCheckAfter": "2026-10-30T01:56:56.306Z"
+    "lastCheckedAt": "2026-10-29T16:08:24.293Z",
+    "nextCheckAfter": "2026-10-30T16:08:24.299Z"
   },
   {
     "name": "百度",
@@ -109,6 +109,17 @@ export const sourceDiscovery = [
     "attempts": 0,
     "lastCheckedAt": "2026-09-16T14:11:16.406Z",
     "nextCheckAfter": "2026-09-17T14:11:16.409Z"
+  },
+  {
+    "name": "北控水务集团",
+    "status": "高校自动发现",
+    "state": "source_registered",
+    "provider": "beisen",
+    "officialUrl": "https://bewg.zhiye.com/4/jobs",
+    "reason": "高校详情页明确给出北森招聘入口",
+    "attempts": 0,
+    "lastCheckedAt": "2026-10-29T16:08:24.293Z",
+    "nextCheckAfter": ""
   },
   {
     "name": "比亚迪股份有限公司",
@@ -338,7 +349,7 @@ export const sourceDiscovery = [
     "officialUrl": "https://app.mokahr.com/m/campus-recruitment/shinemage/146829?locale=zh-CN",
     "reason": "高校详情页明确给出Moka校园招聘入口；等价官方源已存在",
     "attempts": 0,
-    "lastCheckedAt": "2026-10-28T16:01:32.429Z",
+    "lastCheckedAt": "2026-10-29T16:08:24.293Z",
     "nextCheckAfter": ""
   },
   {
@@ -778,8 +789,8 @@ export const sourceDiscovery = [
     "officialUrl": "https://campus.pingan.com/pabbj/position",
     "reason": "已发现公司官方招聘入口，但当前站点 campus.pingan.com 尚无自动抓取适配器",
     "attempts": 0,
-    "lastCheckedAt": "2026-10-29T01:56:56.303Z",
-    "nextCheckAfter": "2026-10-30T01:56:56.306Z"
+    "lastCheckedAt": "2026-10-29T16:08:24.293Z",
+    "nextCheckAfter": "2026-10-30T16:08:24.297Z"
   },
   {
     "name": "奇安信",
@@ -1587,7 +1598,7 @@ export const sourceDiscovery = [
 ];
 
 export const sourceDiscoveryMeta = {
-  "updatedAt": "2026-10-29T08:28:39.389Z",
+  "updatedAt": "2026-10-29T16:08:24.293Z",
   "lastRun": {
     "processed": 12,
     "sourcesAdded": 0,

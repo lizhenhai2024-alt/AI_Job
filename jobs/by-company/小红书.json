@@ -1,7 +1,7 @@
 {
   "company": "小红书",
-  "count": 23,
-  "updatedAt": "2026-10-29T01:57:00.473Z",
+  "count": 22,
+  "updatedAt": "2026-10-29T16:36:17.629Z",
   "jobs": [
     {
       "id": "xiaohongshu-cd19bb446345",
@@ -511,6 +511,101 @@
       "hasAssessmentEvidence": "E4 | 抖音校招笔试攻略 | https://www.iesdouyin.com/share/video/7684619060755501684 | 2026-09-17"
     },
     {
+      "id": "xiaohongshu-149cff11d1d9",
+      "company": "小红书",
+      "title": "【2027校招】决策洞察分析师",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "硕士",
+        "masterRequired": true
+      },
+      "major": {
+        "raw": "1、研究生及以上学历，主修于计算机科学、统计学或数学等相关专业优先，文理兼修者优先考虑（文学、社会学、哲学、心理学等）",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "jobDescription": "我们是谁： 企业智能部Decision Insight：作为“业务决策大脑”的一部分，通过科学的实验分析/数据分析/案例分析等，为小红书公司及各业务的核心决策提供深入的策略洞察和长期的机会洞察，穿透业务关键命题，提升业务决策效率和推动业务增长来建立影响力。 1、负责小红书公司/各业务（社区、商业化、电商）核心决策的数据分析工作，支持业务决策洞察； 2、深入理解社区、商业化、电商业务，输出深度分析驱动产品与策略的迭代； 3、需要跨业务理解和思考复杂问题，对平台生态、长期问题进行刻画、分析、解决。 4、搭建业务数据体系，为业务制定和提升数据应用的价值； 5、建立科学度量能力，解决业务中的科学量化与归因问题； 6、结合行业数据、业界观点和市场趋势，为长期业务发展方向提供战略层面的洞察。",
+      "jobRequirements": "1、研究生及以上学历，主修于计算机科学、统计学或数学等相关专业优先，文理兼修者优先考虑（文学、社会学、哲学、心理学等） 2、有过互联网数据科学、商业分析、战略分析等实习经验优先； 3、精通 SQL 和 Excel，具有从数据查询、聚合、分析到可视化的整套实践经验； 4、逻辑思维强，具备批判性思维和深度思考的能力，能快速掌握的业务理解和洞察能力； 5、沟通能力强，能够影响并推动业务决策，和业务紧密贴合； 6、熟练使用AI工具，并能够搭建完整分析workflow。",
+      "JD": "我们是谁： 企业智能部Decision Insight：作为“业务决策大脑”的一部分，通过科学的实验分析/数据分析/案例分析等，为小红书公司及各业务的核心决策提供深入的策略洞察和长期的机会洞察，穿透业务关键命题，提升业务决策效率和推动业务增长来建立影响力。 1、负责小红书公司/各业务（社区、商业化、电商）核心决策的数据分析工作，支持业务决策洞察； 2、深入理解社区、商业化、电商业务，输出深度分析驱动产品与策略的迭代； 3、需要跨业务理解和思考复杂问题，对平台生态、长期问题进行刻画、分析、解决。 4、搭建业务数据体系，为业务制定和提升数据应用的价值； 5、建立科学度量能力，解决业务中的科学量化与归因问题； 6、结合行业数据、业界观点和市场趋势，为长期业务发展方向提供战略层面的洞察。\n1、研究生及以上学历，主修于计算机科学、统计学或数学等相关专业优先，文理兼修者优先考虑（文学、社会学、哲学、心理学等） 2、有过互联网数据科学、商业分析、战略分析等实习经验优先； 3、精通 SQL 和 Excel，具有从数据查询、聚合、分析到可视化的整套实践经验； 4、逻辑思维强，具备批判性思维和深度思考的能力，能快速掌握的业务理解和洞察能力； 5、沟通能力强，能够影响并推动业务决策，和业务紧密贴合； 6、熟练使用AI工具，并能够搭建完整分析workflow。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、研究生及以上学历，主修于计算机科学、统计学或数学等相关专业优先，文理兼修者优先考虑（文学、社会学、哲学、心理学等）"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "Excel",
+        "数据分析",
+        "SQL",
+        "电商"
+      ],
+      "experienceKeywords": [
+        "市场",
+        "电商",
+        "数据",
+        "招聘"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "小红书官方2027校招官网",
+      "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=22150",
+      "publishedAt": "2026-10-30",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申/内推→笔试→面试→Offer",
+      "recruitmentProcessEvidence": "E2 | 今日头条校招报道 | http://m.toutiao.com/group/7683117729359921727/ | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E4 | 抖音校招笔试攻略 | https://www.iesdouyin.com/share/video/7684619060755501684 | 2026-09-17"
+    },
+    {
       "id": "xiaohongshu-7c1325cc5e9d",
       "company": "小红书",
       "title": "【2027校招】安全运营校招生",
@@ -791,101 +886,6 @@
       "source": "小红书官方2027校招官网",
       "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=22267",
       "publishedAt": "2026-09-28",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "网申/内推→笔试→面试→Offer",
-      "recruitmentProcessEvidence": "E2 | 今日头条校招报道 | http://m.toutiao.com/group/7683117729359921727/ | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E4 | 抖音校招笔试攻略 | https://www.iesdouyin.com/share/video/7684619060755501684 | 2026-09-17"
-    },
-    {
-      "id": "xiaohongshu-149cff11d1d9",
-      "company": "小红书",
-      "title": "【2027校招】决策洞察分析师",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "硕士",
-        "masterRequired": true
-      },
-      "major": {
-        "raw": "1、研究生及以上学历，主修于计算机科学、统计学或数学等相关专业优先，文理兼修者优先考虑（文学、社会学、哲学、心理学等）",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "上海",
-      "jobDescription": "我们是谁： 企业智能部Decision Insight：作为“业务决策大脑”的一部分，通过科学的实验分析/数据分析/案例分析等，为小红书公司及各业务的核心决策提供深入的策略洞察和长期的机会洞察，穿透业务关键命题，提升业务决策效率和推动业务增长来建立影响力。 1、负责小红书公司/各业务（社区、商业化、电商）核心决策的数据分析工作，支持业务决策洞察； 2、深入理解社区、商业化、电商业务，输出深度分析驱动产品与策略的迭代； 3、需要跨业务理解和思考复杂问题，对平台生态、长期问题进行刻画、分析、解决。 4、搭建业务数据体系，为业务制定和提升数据应用的价值； 5、建立科学度量能力，解决业务中的科学量化与归因问题； 6、结合行业数据、业界观点和市场趋势，为长期业务发展方向提供战略层面的洞察。",
-      "jobRequirements": "1、研究生及以上学历，主修于计算机科学、统计学或数学等相关专业优先，文理兼修者优先考虑（文学、社会学、哲学、心理学等） 2、有过互联网数据科学、商业分析、战略分析等实习经验优先； 3、精通 SQL 和 Excel，具有从数据查询、聚合、分析到可视化的整套实践经验； 4、逻辑思维强，具备批判性思维和深度思考的能力，能快速掌握的业务理解和洞察能力； 5、沟通能力强，能够影响并推动业务决策，和业务紧密贴合； 6、熟练使用AI工具，并能够搭建完整分析workflow。",
-      "JD": "我们是谁： 企业智能部Decision Insight：作为“业务决策大脑”的一部分，通过科学的实验分析/数据分析/案例分析等，为小红书公司及各业务的核心决策提供深入的策略洞察和长期的机会洞察，穿透业务关键命题，提升业务决策效率和推动业务增长来建立影响力。 1、负责小红书公司/各业务（社区、商业化、电商）核心决策的数据分析工作，支持业务决策洞察； 2、深入理解社区、商业化、电商业务，输出深度分析驱动产品与策略的迭代； 3、需要跨业务理解和思考复杂问题，对平台生态、长期问题进行刻画、分析、解决。 4、搭建业务数据体系，为业务制定和提升数据应用的价值； 5、建立科学度量能力，解决业务中的科学量化与归因问题； 6、结合行业数据、业界观点和市场趋势，为长期业务发展方向提供战略层面的洞察。\n1、研究生及以上学历，主修于计算机科学、统计学或数学等相关专业优先，文理兼修者优先考虑（文学、社会学、哲学、心理学等） 2、有过互联网数据科学、商业分析、战略分析等实习经验优先； 3、精通 SQL 和 Excel，具有从数据查询、聚合、分析到可视化的整套实践经验； 4、逻辑思维强，具备批判性思维和深度思考的能力，能快速掌握的业务理解和洞察能力； 5、沟通能力强，能够影响并推动业务决策，和业务紧密贴合； 6、熟练使用AI工具，并能够搭建完整分析workflow。",
-      "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [
-          "1、研究生及以上学历，主修于计算机科学、统计学或数学等相关专业优先，文理兼修者优先考虑（文学、社会学、哲学、心理学等）"
-        ],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [
-        "Excel",
-        "数据分析",
-        "SQL",
-        "电商"
-      ],
-      "experienceKeywords": [
-        "市场",
-        "电商",
-        "数据",
-        "招聘"
-      ],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "小红书官方2027校招官网",
-      "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=22150",
-      "publishedAt": "2026-09-22",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "",
@@ -1266,100 +1266,6 @@
       "source": "小红书官方2027校招官网",
       "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=22156",
       "publishedAt": "2026-09-22",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "网申/内推→笔试→面试→Offer",
-      "recruitmentProcessEvidence": "E2 | 今日头条校招报道 | http://m.toutiao.com/group/7683117729359921727/ | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E4 | 抖音校招笔试攻略 | https://www.iesdouyin.com/share/video/7684619060755501684 | 2026-09-17"
-    },
-    {
-      "id": "xiaohongshu-8f0845bf0f78",
-      "company": "小红书",
-      "title": "【2027校招】小红书产品经理培训生（RPT）--企业智能产品",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "本科",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "1. 2027届本科及以上学历，专业不限，计算机、人工智能、信息管理、交互设计等相关专业优先",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "上海",
-      "jobDescription": "关于我们： 我们正在探索下一代 Agentic Enterprise，将大模型、Agent 与真实企业场景结合，让 AI 成为能够理解目标、规划任务、调用工具并持续迭代的“数字同事”。如果你对 AI 产品充满好奇，希望亲手创造出真正改变工作方式的产品，欢迎加入我们。 工作职责： 1. 深入理解企业用户的真实工作场景，发现高价值、可规模化的 Agent 产品机会； 2. 参与 Agent 产品规划与方案设计，将复杂业务问题转化为清晰、可验证、可落地的产品方案； 3. 与研发和业务团队协作，推动大模型、工作流、知识与工具能力在产品中落地； 4. 建立产品效果评估体系，结合用户反馈与数据分析，持续提升任务成功率、结果质量及用户价值； 5. 跟踪大模型与 Agent 行业进展，通过产品原型、真实用户与真实任务，推动创新想法快速验证。",
-      "jobRequirements": "任职要求： 1. 2027届本科及以上学历，专业不限，计算机、人工智能、信息管理、交互设计等相关专业优先； 2. 对 AI、大模型和 Agent 产品有强烈兴趣，对主流AI办公类产品有自己的产品洞察与判断； 3. 对产品有强烈好奇心，具备用户洞察与问题拆解能力，能够从模糊需求中识别核心问题； 4. 有AI动手能力，使用 AI 工具完成过真实项目，或搭建过 Agent、工作流及自动化应用。 5. 了解 Agent相关技术概念或有编程、原型设计、个人作品及创业实践者优先。",
-      "JD": "关于我们： 我们正在探索下一代 Agentic Enterprise，将大模型、Agent 与真实企业场景结合，让 AI 成为能够理解目标、规划任务、调用工具并持续迭代的“数字同事”。如果你对 AI 产品充满好奇，希望亲手创造出真正改变工作方式的产品，欢迎加入我们。 工作职责： 1. 深入理解企业用户的真实工作场景，发现高价值、可规模化的 Agent 产品机会； 2. 参与 Agent 产品规划与方案设计，将复杂业务问题转化为清晰、可验证、可落地的产品方案； 3. 与研发和业务团队协作，推动大模型、工作流、知识与工具能力在产品中落地； 4. 建立产品效果评估体系，结合用户反馈与数据分析，持续提升任务成功率、结果质量及用户价值； 5. 跟踪大模型与 Agent 行业进展，通过产品原型、真实用户与真实任务，推动创新想法快速验证。\n任职要求： 1. 2027届本科及以上学历，专业不限，计算机、人工智能、信息管理、交互设计等相关专业优先； 2. 对 AI、大模型和 Agent 产品有强烈兴趣，对主流AI办公类产品有自己的产品洞察与判断； 3. 对产品有强烈好奇心，具备用户洞察与问题拆解能力，能够从模糊需求中识别核心问题； 4. 有AI动手能力，使用 AI 工具完成过真实项目，或搭建过 Agent、工作流及自动化应用。 5. 了解 Agent相关技术概念或有编程、原型设计、个人作品及创业实践者优先。",
-      "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [
-          "1. 2027届本科及以上学历，专业不限，计算机、人工智能、信息管理、交互设计等相关专业优先"
-        ],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
-        "technicalDuties": [
-          "模型/算法"
-        ],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [
-        "数据分析"
-      ],
-      "experienceKeywords": [
-        "项目",
-        "用户",
-        "数据",
-        "招聘"
-      ],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "小红书官方2027校招官网",
-      "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=22177",
-      "publishedAt": "2026-10-21",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "",

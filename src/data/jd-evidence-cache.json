@@ -38647,5 +38647,80 @@
   "businessDuties": [
    "客户关系"
   ]
+ },
+ "beisen-583fb42f1273:ee29c18eb1421921:gemini-3.1-flash-lite": {
+  "source": "llm",
+  "majorClauses": [
+   "硕士及以上学历，环境、市政工程、给排水、科技管理等相关专业"
+  ],
+  "eligibilityClauses": [
+   "【2027校招】"
+  ],
+  "technicalDuties": [],
+  "businessDuties": [
+   "资料/流程"
+  ]
+ },
+ "beisen-b5cfeed24570:9e602a0fecfa027d:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "硕士及以上学历，人力资源管理、心理学、管理学工业工程等相关专业；"
+  ],
+  "eligibilityClauses": [],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "beisen-091b620df2ac:bd3aaf30a2c3e82c:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "硕士及以上学历，行政管理、企业管理、文秘、档案、公共管理相关专业优先"
+  ],
+  "eligibilityClauses": [],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "hotjob-db609fefc51f:095e5ac1ed939a1a:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "专业不限，重点招聘西班牙语、葡萄牙语、法语、阿拉伯语及印尼、马来语、泰语小语种等专业"
+  ],
+  "eligibilityClauses": [
+   "2026-2027届本科及以上",
+   "简历接收周期：2026-10-29~2027-10-29"
+  ],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "beisen-583e7efb94d7:a55b97552806a5aa:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "硕士及以上学历，给排水、环境工程、环境科学等相关专业"
+  ],
+  "eligibilityClauses": [],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "beisen-3e62ebadbbd0:75801b6ed790874f:gemini-3.1-flash-lite": {
+  "source": "llm",
+  "majorClauses": [
+   "本科及以上。"
+  ],
+  "eligibilityClauses": [
+   "【2027届】"
+  ],
+  "technicalDuties": [],
+  "businessDuties": [
+   "合同",
+   "资料/流程"
+  ]
+ },
+ "feishu-1fdf6e-7663443995359578374:f503134591177472:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [],
+  "eligibilityClauses": [
+   "【27届校招】"
+  ],
+  "technicalDuties": [],
+  "businessDuties": []
  }
 }

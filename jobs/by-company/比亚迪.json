@@ -1,7 +1,7 @@
 {
   "company": "比亚迪",
-  "count": 49,
-  "updatedAt": "2026-10-29T01:57:00.473Z",
+  "count": 48,
+  "updatedAt": "2026-10-29T16:36:17.629Z",
   "jobs": [
     {
       "id": "byd-15eee88d6334",
@@ -3273,97 +3273,6 @@
           "跨文化沟通",
           "资料/流程",
           "翻译/本地化"
-        ]
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [
-        "英语"
-      ],
-      "experienceKeywords": [
-        "项目",
-        "商务",
-        "翻译"
-      ],
-      "preferenceTags": [
-        "国际业务",
-        "跨文化"
-      ],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "比亚迪2027届校园招聘官网",
-      "officialURL": "https://job.byd.com/portal/pc/#/school/schoolPositionList",
-      "publishedAt": "2026-08-20",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "byd-f8f6f720b636",
-      "company": "比亚迪",
-      "title": "高级翻译",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "葡语相关专业优先",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "英语、葡萄牙语",
-        "english": true,
-        "minorLanguageRequired": true
-      },
-      "location": "西安",
-      "jobDescription": "1、负责工厂内各种文件翻译；负责工厂商务沟通中的翻译； 2、负责工厂对内沟通中的翻译和传达以及接待中的现场翻译工作； 3、负责项目内外部沟通，任务下达及反馈； 4、负责协同项目全流程管理，对项目进度进行全要素管控，保障项目指标达成；",
-      "jobRequirements": "学历：硕士； 外语要求：葡萄牙语精通，英语熟练，有较好的文字功底，能翻译外文资料； 专业：葡语相关专业优先 能接受外派巴西。",
-      "JD": "1、负责工厂内各种文件翻译；负责工厂商务沟通中的翻译； 2、负责工厂对内沟通中的翻译和传达以及接待中的现场翻译工作； 3、负责项目内外部沟通，任务下达及反馈； 4、负责协同项目全流程管理，对项目进度进行全要素管控，保障项目指标达成；\n学历：硕士； 外语要求：葡萄牙语精通，英语熟练，有较好的文字功底，能翻译外文资料； 专业：葡语相关专业优先 能接受外派巴西。",
-      "jdEvidence": {
-        "source": "llm:gemini-free:gemini-3.5-flash-lite",
-        "majorClauses": [
-          "葡语相关专业优先"
-        ],
-        "eligibilityClauses": [],
-        "technicalDuties": [],
-        "businessDuties": [
-          "翻译/本地化",
-          "资料/流程"
         ]
       },
       "roleFamily": [

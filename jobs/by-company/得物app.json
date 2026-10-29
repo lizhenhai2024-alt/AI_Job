@@ -1,7 +1,7 @@
 {
   "company": "得物App",
   "count": 133,
-  "updatedAt": "2026-10-29T01:57:00.473Z",
+  "updatedAt": "2026-10-29T16:36:17.629Z",
   "jobs": [
     {
       "id": "feishu-96da49-7670381893178853695",
@@ -1599,105 +1599,6 @@
       "hasAssessmentEvidence": "E1 | 得物校招官网FAQ | https://poizon.jobs.feishu.cn/578078/m/page-shvd6g | 2026-09-17"
     },
     {
-      "id": "feishu-96da49-7670554967485483274",
-      "company": "得物App",
-      "title": "【27届校招】中台运营（效率&精益）",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "本科",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "2027届本科及以上学历，商业分析、计算机、市场营销、管理学等专业优先。",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "上海",
-      "jobDescription": "1.业务追踪与支持： 深入鉴别业务，挖掘业务痛点，通过中台工具、策略及资源调配提供解决方案，助力业务目标达成。 2.数据分析与洞察： 负责中台核心运营数据的监控与分析（履约、质量、效能等），输出分析报告，为管理层决策提供辅助数据支持。 3.流程优化与 SOP 制定： 识别业务流程与跨部门协作中的风险点和低效环节，推动运营流程的SOP建设与优化，规避流程风险、提升组织效率。 4.项目管理与协同： 作为 PMO 角色，推动内部及跨部门（产数、业务、职能）专项项目的落地，确保项目按时、保质完成。",
-      "jobRequirements": "1.2027届本科及以上学历，商业分析、计算机、市场营销、管理学等专业优先。 2.具有数据敏感度，熟练掌握 Excel，掌握SQL者优先。 3.具备优秀的结构化思维能力，能快速厘清复杂业务关系。 4.具备优秀的沟通写作能力，抗压能力强，能适应快节奏变化。 5.具备自驱力，渴望在复杂环境中解决难题，有志于成为行业专家或管理者。",
-      "JD": "1.业务追踪与支持： 深入鉴别业务，挖掘业务痛点，通过中台工具、策略及资源调配提供解决方案，助力业务目标达成。 2.数据分析与洞察： 负责中台核心运营数据的监控与分析（履约、质量、效能等），输出分析报告，为管理层决策提供辅助数据支持。 3.流程优化与 SOP 制定： 识别业务流程与跨部门协作中的风险点和低效环节，推动运营流程的SOP建设与优化，规避流程风险、提升组织效率。 4.项目管理与协同： 作为 PMO 角色，推动内部及跨部门（产数、业务、职能）专项项目的落地，确保项目按时、保质完成。\n1.2027届本科及以上学历，商业分析、计算机、市场营销、管理学等专业优先。 2.具有数据敏感度，熟练掌握 Excel，掌握SQL者优先。 3.具备优秀的结构化思维能力，能快速厘清复杂业务关系。 4.具备优秀的沟通写作能力，抗压能力强，能适应快节奏变化。 5.具备自驱力，渴望在复杂环境中解决难题，有志于成为行业专家或管理者。",
-      "jdEvidence": {
-        "source": "llm:deepseek:deepseek-flash",
-        "majorClauses": [
-          "2027届本科及以上学历，商业分析、计算机、市场营销、管理学等专业优先。"
-        ],
-        "eligibilityClauses": [
-          "2027届本科及以上学历，商业分析、计算机、市场营销、管理学等专业优先。"
-        ],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [
-        "Excel",
-        "数据分析",
-        "SQL",
-        "项目管理"
-      ],
-      "experienceKeywords": [
-        "运营",
-        "项目",
-        "市场",
-        "数据",
-        "营销",
-        "洞察"
-      ],
-      "preferenceTags": [],
-      "riskTags": [
-        "节奏快"
-      ],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "得物App官方飞书招聘",
-      "officialURL": "https://poizon.jobs.feishu.cn/578078/m/position/7670554967485483274/detail",
-      "publishedAt": "2026-08-05",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "投递&内推→笔试/测评→面试→Offer沟通与发放",
-      "recruitmentProcessEvidence": "E2 | 郑州大学就业网校招简章 | https://job.zzu.edu.cn/campus/view/id/1018722 | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E1 | 得物校招官网FAQ | https://poizon.jobs.feishu.cn/578078/m/page-shvd6g | 2026-09-17"
-    },
-    {
       "id": "feishu-96da49-7670553350542706971",
       "company": "得物App",
       "title": "【27届校招】中台运营（奢侈品&腕表方向）",
@@ -2172,6 +2073,105 @@
       "annualSalary": "未披露",
       "source": "得物App官方飞书招聘",
       "officialURL": "https://poizon.jobs.feishu.cn/578078/m/position/7670379931562412297/detail",
+      "publishedAt": "2026-08-05",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "投递&内推→笔试/测评→面试→Offer沟通与发放",
+      "recruitmentProcessEvidence": "E2 | 郑州大学就业网校招简章 | https://job.zzu.edu.cn/campus/view/id/1018722 | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E1 | 得物校招官网FAQ | https://poizon.jobs.feishu.cn/578078/m/page-shvd6g | 2026-09-17"
+    },
+    {
+      "id": "feishu-96da49-7670554967485483274",
+      "company": "得物App",
+      "title": "【27届校招】中台运营（效率&精益）",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "2027届本科及以上学历，商业分析、计算机、市场营销、管理学等专业优先。",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "jobDescription": "1.业务追踪与支持： 深入鉴别业务，挖掘业务痛点，通过中台工具、策略及资源调配提供解决方案，助力业务目标达成。 2.数据分析与洞察： 负责中台核心运营数据的监控与分析（履约、质量、效能等），输出分析报告，为管理层决策提供辅助数据支持。 3.流程优化与 SOP 制定： 识别业务流程与跨部门协作中的风险点和低效环节，推动运营流程的SOP建设与优化，规避流程风险、提升组织效率。 4.项目管理与协同： 作为 PMO 角色，推动内部及跨部门（产数、业务、职能）专项项目的落地，确保项目按时、保质完成。",
+      "jobRequirements": "1.2027届本科及以上学历，商业分析、计算机、市场营销、管理学等专业优先。 2.具有数据敏感度，熟练掌握 Excel，掌握SQL者优先。 3.具备优秀的结构化思维能力，能快速厘清复杂业务关系。 4.具备优秀的沟通写作能力，抗压能力强，能适应快节奏变化。 5.具备自驱力，渴望在复杂环境中解决难题，有志于成为行业专家或管理者。",
+      "JD": "1.业务追踪与支持： 深入鉴别业务，挖掘业务痛点，通过中台工具、策略及资源调配提供解决方案，助力业务目标达成。 2.数据分析与洞察： 负责中台核心运营数据的监控与分析（履约、质量、效能等），输出分析报告，为管理层决策提供辅助数据支持。 3.流程优化与 SOP 制定： 识别业务流程与跨部门协作中的风险点和低效环节，推动运营流程的SOP建设与优化，规避流程风险、提升组织效率。 4.项目管理与协同： 作为 PMO 角色，推动内部及跨部门（产数、业务、职能）专项项目的落地，确保项目按时、保质完成。\n1.2027届本科及以上学历，商业分析、计算机、市场营销、管理学等专业优先。 2.具有数据敏感度，熟练掌握 Excel，掌握SQL者优先。 3.具备优秀的结构化思维能力，能快速厘清复杂业务关系。 4.具备优秀的沟通写作能力，抗压能力强，能适应快节奏变化。 5.具备自驱力，渴望在复杂环境中解决难题，有志于成为行业专家或管理者。",
+      "jdEvidence": {
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "2027届本科及以上学历，商业分析、计算机、市场营销、管理学等专业优先。"
+        ],
+        "eligibilityClauses": [
+          "2027届本科及以上学历，商业分析、计算机、市场营销、管理学等专业优先。"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "Excel",
+        "数据分析",
+        "SQL",
+        "项目管理"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "项目",
+        "市场",
+        "数据",
+        "营销",
+        "洞察"
+      ],
+      "preferenceTags": [],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "得物App官方飞书招聘",
+      "officialURL": "https://poizon.jobs.feishu.cn/578078/m/position/7670554967485483274/detail",
       "publishedAt": "2026-08-05",
       "lastVerified": "",
       "sourceType": "official",
@@ -7578,99 +7578,6 @@
       "hasAssessmentEvidence": "E1 | 得物校招官网FAQ | https://poizon.jobs.feishu.cn/578078/m/page-shvd6g | 2026-09-17"
     },
     {
-      "id": "feishu-96da49-7670553753736743209",
-      "company": "得物App",
-      "title": "【27届校招】用户体验运营",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "本科",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "本科及以上学历",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "上海",
-      "jobDescription": "1.通过分析用户行为和原声，聚类共性问题和风险特征，降低真假客诉和舆情发生 2.对外部舆情或平台新业务进行风险研判，做好事前布防、事中监控预警、事后复盘优化 3.从产品、流程、规则方面推动系统性优化风险预警中发现的问题 4.对于定向客群进行回访，分析服务可优化空间。",
-      "jobRequirements": "1.2027届校招生，本科及以上学历 2.具备较强的洞察力、风险敏感意识，逻辑思维能力和总结提炼能力 3.具备数据敏感度，能熟练使用 EXCEL、Visio 等分析办公软件，掌握 SQL能力优先 4.具备良好的沟通表达能力和团队协作意识，性格乐观开朗。",
-      "JD": "1.通过分析用户行为和原声，聚类共性问题和风险特征，降低真假客诉和舆情发生 2.对外部舆情或平台新业务进行风险研判，做好事前布防、事中监控预警、事后复盘优化 3.从产品、流程、规则方面推动系统性优化风险预警中发现的问题 4.对于定向客群进行回访，分析服务可优化空间。\n1.2027届校招生，本科及以上学历 2.具备较强的洞察力、风险敏感意识，逻辑思维能力和总结提炼能力 3.具备数据敏感度，能熟练使用 EXCEL、Visio 等分析办公软件，掌握 SQL能力优先 4.具备良好的沟通表达能力和团队协作意识，性格乐观开朗。",
-      "jdEvidence": {
-        "source": "llm:deepseek:deepseek-flash",
-        "majorClauses": [
-          "本科及以上学历"
-        ],
-        "eligibilityClauses": [
-          "2027届校招生"
-        ],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [
-        "Excel",
-        "SQL"
-      ],
-      "experienceKeywords": [
-        "运营",
-        "用户",
-        "数据",
-        "洞察"
-      ],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "得物App官方飞书招聘",
-      "officialURL": "https://poizon.jobs.feishu.cn/578078/m/position/7670553753736743209/detail",
-      "publishedAt": "2026-08-05",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "投递&内推→笔试/测评→面试→Offer沟通与发放",
-      "recruitmentProcessEvidence": "E2 | 郑州大学就业网校招简章 | https://job.zzu.edu.cn/campus/view/id/1018722 | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E1 | 得物校招官网FAQ | https://poizon.jobs.feishu.cn/578078/m/page-shvd6g | 2026-09-17"
-    },
-    {
       "id": "feishu-96da49-7670552830009149702",
       "company": "得物App",
       "title": "【27届校招】品牌研究运营（全品类）【成都】",
@@ -9006,6 +8913,99 @@
       "annualSalary": "未披露",
       "source": "得物App官方飞书招聘",
       "officialURL": "https://poizon.jobs.feishu.cn/578078/m/position/7670363746619296042/detail",
+      "publishedAt": "2026-08-05",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "投递&内推→笔试/测评→面试→Offer沟通与发放",
+      "recruitmentProcessEvidence": "E2 | 郑州大学就业网校招简章 | https://job.zzu.edu.cn/campus/view/id/1018722 | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E1 | 得物校招官网FAQ | https://poizon.jobs.feishu.cn/578078/m/page-shvd6g | 2026-09-17"
+    },
+    {
+      "id": "feishu-96da49-7670553753736743209",
+      "company": "得物App",
+      "title": "【27届校招】用户体验运营",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "本科及以上学历",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "jobDescription": "1.通过分析用户行为和原声，聚类共性问题和风险特征，降低真假客诉和舆情发生 2.对外部舆情或平台新业务进行风险研判，做好事前布防、事中监控预警、事后复盘优化 3.从产品、流程、规则方面推动系统性优化风险预警中发现的问题 4.对于定向客群进行回访，分析服务可优化空间。",
+      "jobRequirements": "1.2027届校招生，本科及以上学历 2.具备较强的洞察力、风险敏感意识，逻辑思维能力和总结提炼能力 3.具备数据敏感度，能熟练使用 EXCEL、Visio 等分析办公软件，掌握 SQL能力优先 4.具备良好的沟通表达能力和团队协作意识，性格乐观开朗。",
+      "JD": "1.通过分析用户行为和原声，聚类共性问题和风险特征，降低真假客诉和舆情发生 2.对外部舆情或平台新业务进行风险研判，做好事前布防、事中监控预警、事后复盘优化 3.从产品、流程、规则方面推动系统性优化风险预警中发现的问题 4.对于定向客群进行回访，分析服务可优化空间。\n1.2027届校招生，本科及以上学历 2.具备较强的洞察力、风险敏感意识，逻辑思维能力和总结提炼能力 3.具备数据敏感度，能熟练使用 EXCEL、Visio 等分析办公软件，掌握 SQL能力优先 4.具备良好的沟通表达能力和团队协作意识，性格乐观开朗。",
+      "jdEvidence": {
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科及以上学历"
+        ],
+        "eligibilityClauses": [
+          "2027届校招生"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "Excel",
+        "SQL"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "用户",
+        "数据",
+        "洞察"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "得物App官方飞书招聘",
+      "officialURL": "https://poizon.jobs.feishu.cn/578078/m/position/7670553753736743209/detail",
       "publishedAt": "2026-08-05",
       "lastVerified": "",
       "sourceType": "official",

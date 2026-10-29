@@ -1,7 +1,7 @@
 {
   "company": "顾家家居",
-  "count": 21,
-  "updatedAt": "2026-10-29T01:57:00.473Z",
+  "count": 23,
+  "updatedAt": "2026-10-29T16:36:17.629Z",
   "jobs": [
     {
       "id": "moka-e29ce8694acd",
@@ -613,6 +613,179 @@
       "source": "公司官方Moka校招官网",
       "officialURL": "https://app.mokahr.com/campus-recruitment/kuka/172508#/job/77779a9f-32b6-4d72-845c-15fda7eec31e",
       "publishedAt": "",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申投递→线下宣讲/线上AI初试→复试→在线测评→终试→Offer→签约",
+      "recruitmentProcessEvidence": "E3 | 北京理工/对外经贸就业网校招简章 | http://career.bit.edu.cn/frontpage/mobile/dist/index.html#/recruitmentinfoForm?positionDetailId=5352010761af4f339c24507cd2817021& | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E3 | 北京理工就业网校招简章 | http://career.bit.edu.cn/frontpage/mobile/dist/index.html#/recruitmentinfoForm?positionDetailId=5352010761af4f339c24507cd2817021& | 2026-09-17"
+    },
+    {
+      "id": "moka-530013bc99a1",
+      "company": "顾家家居",
+      "title": "内容营销-内容方向(QY)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "杭州",
+      "jobDescription": "顾家家居股份有限公司 校招-营销类 杭州市",
+      "jobRequirements": "",
+      "JD": "顾家家居股份有限公司 校招-营销类 杭州市",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "内容",
+        "营销"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方Moka校招官网",
+      "officialURL": "https://app.mokahr.com/campus-recruitment/kuka/172508#/job/ca0d30d0-e0e4-4e75-941d-b38cfcb0493a",
+      "publishedAt": "2026-10-29",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申投递→线下宣讲/线上AI初试→复试→在线测评→终试→Offer→签约",
+      "recruitmentProcessEvidence": "E3 | 北京理工/对外经贸就业网校招简章 | http://career.bit.edu.cn/frontpage/mobile/dist/index.html#/recruitmentinfoForm?positionDetailId=5352010761af4f339c24507cd2817021& | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E3 | 北京理工就业网校招简章 | http://career.bit.edu.cn/frontpage/mobile/dist/index.html#/recruitmentinfoForm?positionDetailId=5352010761af4f339c24507cd2817021& | 2026-09-17"
+    },
+    {
+      "id": "moka-1ab688d5af7e",
+      "company": "顾家家居",
+      "title": "外贸营销（英语/韩语/日语）",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "英语、日语、韩语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "杭州",
+      "jobDescription": "顾家家居股份有限公司 校招-营销类 东莞市 杭州市",
+      "jobRequirements": "",
+      "JD": "顾家家居股份有限公司 校招-营销类 东莞市 杭州市",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语"
+      ],
+      "experienceKeywords": [
+        "营销"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方Moka校招官网",
+      "officialURL": "https://app.mokahr.com/campus-recruitment/kuka/172508#/job/a181e665-1390-44d0-b783-02a20cae4156",
+      "publishedAt": "2026-10-29",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "",

@@ -1,7 +1,7 @@
 {
   "company": "蔚来",
   "count": 205,
-  "updatedAt": "2026-10-29T01:57:00.473Z",
+  "updatedAt": "2026-10-29T16:36:17.629Z",
   "jobs": [
     {
       "id": "feishu-49f725-7701606923389372691",
@@ -1248,100 +1248,6 @@
       "hasAssessmentEvidence": "E1 | 蔚来校招官网FAQ | https://campus.nio.com/?theme=dark#/trends | 2026-09-17"
     },
     {
-      "id": "feishu-49f725-7673027213571115290",
-      "company": "蔚来",
-      "title": "校招-产品运营助理",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "本科",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "本科及以上学历",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "上海",
-      "jobDescription": "岗位定义：基于公司战略/管理要求，开展流程、组织、数字化工具等效能提升规划、详细方案制定，并推动效能提升方案的落地实施，实现效能提升目标。 - 负责内容： - 负责蔚来企业级项目管理平台的数字化架构设计，从业务流程、用户体验设计 到 交付落地和上线运营全过程，支持需求传递流程的高效运转； - 负责公司各类研发项目的数字化运营 和 数据分析工作；",
-      "jobRequirements": "- 本科及以上学历 - 有产品思维和较强的逻辑性； - 有项目管理思维，对战略举措优先级进行排序，并制定合理的效能产品项目规划。 - 有产品运营能力，推广产品，对工具产品或项目数据进行管理、分析及洞察，支撑项目和工具的日常运营。 - 良好的学习能力和沟通能力，了解敏捷开发软件交付的专业知识。",
-      "JD": "岗位定义：基于公司战略/管理要求，开展流程、组织、数字化工具等效能提升规划、详细方案制定，并推动效能提升方案的落地实施，实现效能提升目标。 - 负责内容： - 负责蔚来企业级项目管理平台的数字化架构设计，从业务流程、用户体验设计 到 交付落地和上线运营全过程，支持需求传递流程的高效运转； - 负责公司各类研发项目的数字化运营 和 数据分析工作；\n- 本科及以上学历 - 有产品思维和较强的逻辑性； - 有项目管理思维，对战略举措优先级进行排序，并制定合理的效能产品项目规划。 - 有产品运营能力，推广产品，对工具产品或项目数据进行管理、分析及洞察，支撑项目和工具的日常运营。 - 良好的学习能力和沟通能力，了解敏捷开发软件交付的专业知识。",
-      "jdEvidence": {
-        "source": "llm:deepseek:deepseek-flash",
-        "majorClauses": [
-          "本科及以上学历"
-        ],
-        "eligibilityClauses": [],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "产品运营"
-      ],
-      "skills": [
-        "数据分析",
-        "项目管理"
-      ],
-      "experienceKeywords": [
-        "运营",
-        "内容",
-        "项目",
-        "用户",
-        "数据",
-        "洞察",
-        "招聘"
-      ],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "蔚来官方飞书招聘",
-      "officialURL": "https://nio.jobs.feishu.cn/campus/position/7673027213571115290/detail",
-      "publishedAt": "2026-08-12",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "网申&内推→笔试/测评→面试→Offer发放",
-      "recruitmentProcessEvidence": "E1 | 蔚来校招官网招聘动态 | https://campus.nio.com/?theme=dark#/trends | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E1 | 蔚来校招官网FAQ | https://campus.nio.com/?theme=dark#/trends | 2026-09-17"
-    },
-    {
       "id": "feishu-49f725-7673027188023724339",
       "company": "蔚来",
       "title": "校招-直播运营",
@@ -1531,6 +1437,100 @@
       "annualSalary": "未披露",
       "source": "蔚来官方飞书招聘",
       "officialURL": "https://nio.jobs.feishu.cn/campus/position/7673027171800467738/detail",
+      "publishedAt": "2026-08-12",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申&内推→笔试/测评→面试→Offer发放",
+      "recruitmentProcessEvidence": "E1 | 蔚来校招官网招聘动态 | https://campus.nio.com/?theme=dark#/trends | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E1 | 蔚来校招官网FAQ | https://campus.nio.com/?theme=dark#/trends | 2026-09-17"
+    },
+    {
+      "id": "feishu-49f725-7673027213571115290",
+      "company": "蔚来",
+      "title": "校招-产品运营助理",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "本科及以上学历",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "jobDescription": "岗位定义：基于公司战略/管理要求，开展流程、组织、数字化工具等效能提升规划、详细方案制定，并推动效能提升方案的落地实施，实现效能提升目标。 - 负责内容： - 负责蔚来企业级项目管理平台的数字化架构设计，从业务流程、用户体验设计 到 交付落地和上线运营全过程，支持需求传递流程的高效运转； - 负责公司各类研发项目的数字化运营 和 数据分析工作；",
+      "jobRequirements": "- 本科及以上学历 - 有产品思维和较强的逻辑性； - 有项目管理思维，对战略举措优先级进行排序，并制定合理的效能产品项目规划。 - 有产品运营能力，推广产品，对工具产品或项目数据进行管理、分析及洞察，支撑项目和工具的日常运营。 - 良好的学习能力和沟通能力，了解敏捷开发软件交付的专业知识。",
+      "JD": "岗位定义：基于公司战略/管理要求，开展流程、组织、数字化工具等效能提升规划、详细方案制定，并推动效能提升方案的落地实施，实现效能提升目标。 - 负责内容： - 负责蔚来企业级项目管理平台的数字化架构设计，从业务流程、用户体验设计 到 交付落地和上线运营全过程，支持需求传递流程的高效运转； - 负责公司各类研发项目的数字化运营 和 数据分析工作；\n- 本科及以上学历 - 有产品思维和较强的逻辑性； - 有项目管理思维，对战略举措优先级进行排序，并制定合理的效能产品项目规划。 - 有产品运营能力，推广产品，对工具产品或项目数据进行管理、分析及洞察，支撑项目和工具的日常运营。 - 良好的学习能力和沟通能力，了解敏捷开发软件交付的专业知识。",
+      "jdEvidence": {
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科及以上学历"
+        ],
+        "eligibilityClauses": [],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "产品运营"
+      ],
+      "skills": [
+        "数据分析",
+        "项目管理"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "内容",
+        "项目",
+        "用户",
+        "数据",
+        "洞察",
+        "招聘"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "蔚来官方飞书招聘",
+      "officialURL": "https://nio.jobs.feishu.cn/campus/position/7673027213571115290/detail",
       "publishedAt": "2026-08-12",
       "lastVerified": "",
       "sourceType": "official",
@@ -10038,96 +10038,6 @@
       "hasAssessmentEvidence": "E1 | 蔚来校招官网FAQ | https://campus.nio.com/?theme=dark#/trends | 2026-09-17"
     },
     {
-      "id": "feishu-49f725-7673026973983213870",
-      "company": "蔚来",
-      "title": "校招-数字产品-NOMI 体验经理",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "上海",
-      "jobDescription": "核心产品规划与落地:负责蔚来智能座舱AI大模型的产品规划与设计。依托NOMI这一行业核心交互IP,将前沿大模型技术转化为海量量产车上的真实体验,主导端云协同架构下的3车载模型部署、推理优化及个性化服务构建。 复杂需求拆解与闭环:围绕舱内多模态交互、驾驶行为及感知等真实需求,与顶尖算法及工程团队深度协同。 将大模型/AIAgent等前沿技术转化为高可用、可衡量的产品方案,推动车载AI体验的严谨验证与持续迭代。 前瞻策略与工程平衡:持续洞察全球AI技术演进及汽车行业趋势。在算力、功耗、时延等车规级物理限制下,寻找技术创新与用户价值的最优解,制定务实且具前瞻性的智能座舱AI产品策略。",
-      "jobRequirements": "敏锐的AI Sense:对大模型、多模态技术有深刻理解与持续热情。能敏锐捕捉技术边界,并准确判断其与智 能座舱场景的真实业务结合点。 扎实的需求转化能力:具备将主观的座舱体验需求,清晰、精准转化为理性的\"算法建模目标\"与系统工程指标 的实战经验。 严谨的工程落地认知:熟悉车规级系统或大型复杂系统的开发流程,对边缘计算、模型轻量化及端侧算力分配 有实践认知或落地经验。 【加分项】 有AI大模型或智能体(Agent)产品从0到1的成功落地经验,或主导过车载语音、舱内视觉等AI功能规划; 具备较强的数据分析与挖掘能力,熟悉大模型在主动服务、场景化推荐等方向的最佳实践; 重度智能汽车用户,对打磨极致的座舱交互产品有强烈的自我驱动力。",
-      "JD": "核心产品规划与落地:负责蔚来智能座舱AI大模型的产品规划与设计。依托NOMI这一行业核心交互IP,将前沿大模型技术转化为海量量产车上的真实体验,主导端云协同架构下的3车载模型部署、推理优化及个性化服务构建。 复杂需求拆解与闭环:围绕舱内多模态交互、驾驶行为及感知等真实需求,与顶尖算法及工程团队深度协同。 将大模型/AIAgent等前沿技术转化为高可用、可衡量的产品方案,推动车载AI体验的严谨验证与持续迭代。 前瞻策略与工程平衡:持续洞察全球AI技术演进及汽车行业趋势。在算力、功耗、时延等车规级物理限制下,寻找技术创新与用户价值的最优解,制定务实且具前瞻性的智能座舱AI产品策略。\n敏锐的AI Sense:对大模型、多模态技术有深刻理解与持续热情。能敏锐捕捉技术边界,并准确判断其与智 能座舱场景的真实业务结合点。 扎实的需求转化能力:具备将主观的座舱体验需求,清晰、精准转化为理性的\"算法建模目标\"与系统工程指标 的实战经验。 严谨的工程落地认知:熟悉车规级系统或大型复杂系统的开发流程,对边缘计算、模型轻量化及端侧算力分配 有实践认知或落地经验。 【加分项】 有AI大模型或智能体(Agent)产品从0到1的成功落地经验,或主导过车载语音、舱内视觉等AI功能规划; 具备较强的数据分析与挖掘能力,熟悉大模型在主动服务、场景化推荐等方向的最佳实践; 重度智能汽车用户,对打磨极致的座舱交互产品有强烈的自我驱动力。",
-      "jdEvidence": {
-        "source": "llm:deepseek:deepseek-flash",
-        "majorClauses": [],
-        "eligibilityClauses": [],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [
-        "数据分析"
-      ],
-      "experienceKeywords": [
-        "用户",
-        "数据",
-        "洞察",
-        "招聘"
-      ],
-      "preferenceTags": [
-        "国际业务"
-      ],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "蔚来官方飞书招聘",
-      "officialURL": "https://nio.jobs.feishu.cn/campus/position/7673026973983213870/detail",
-      "publishedAt": "2026-08-12",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "网申&内推→笔试/测评→面试→Offer发放",
-      "recruitmentProcessEvidence": "E1 | 蔚来校招官网招聘动态 | https://campus.nio.com/?theme=dark#/trends | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E1 | 蔚来校招官网FAQ | https://campus.nio.com/?theme=dark#/trends | 2026-09-17"
-    },
-    {
       "id": "feishu-49f725-7673026930959206683",
       "company": "蔚来",
       "title": "校招-质量改进工程师F2",
@@ -10216,6 +10126,190 @@
       "annualSalary": "未披露",
       "source": "蔚来官方飞书招聘",
       "officialURL": "https://nio.jobs.feishu.cn/campus/position/7673026930959206683/detail",
+      "publishedAt": "2026-08-12",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申&内推→笔试/测评→面试→Offer发放",
+      "recruitmentProcessEvidence": "E1 | 蔚来校招官网招聘动态 | https://campus.nio.com/?theme=dark#/trends | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E1 | 蔚来校招官网FAQ | https://campus.nio.com/?theme=dark#/trends | 2026-09-17"
+    },
+    {
+      "id": "feishu-49f725-7673026850814069030",
+      "company": "蔚来",
+      "title": "校招-总装同步工程助理工程师",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "专业要求：机械，制造相关专业，有一定的机械和电器知识",
+        "hardRestriction": true,
+        "hardClauses": [
+          "专业要求：机械",
+          "制造相关专业"
+        ]
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "jobDescription": "1、 负责公司新车型及改款车型的总装同步工程分析工作，包括总装模块化分析、通过性分析、工艺分析、人机工程分析、经济性分析等； 2、 负责制定总装整体及各模块制造策略、制造需求（MR）以及make&buy清单，协调产品，质量，物流，生产，采购等部门评估和制定最优的工程工艺方案，并开展落地实施工作； 3、 负责总装新车型项目及改款车型项目的工装预算制定、采购、设计开发及验证交付工作； 4、 负责规划和编制总装新车型项目及改款车型项目中的全生命周期内的生产工艺，包括产品级工艺、工位级工位以及SOS/JES/MDS等工艺文件，确保高效高质量的工艺方案的实施； 5、 负责在项目各节点编制PFMEA、CP文件，用于支持试制及批量生产工作； 6、 负责总装Qcos清单及验证方案制定，并推进完成静态扭矩输出； 7、 负责整车开发过程中总装相关产品设计变更提出、跟踪、批复和流程交接工作； 8、 负责整车开发流程中各种总装制造问题的解决； 9、 支持总装BEC优化改善及目标达成工作。",
+      "jobRequirements": "专业要求：机械，制造相关专业，有一定的机械和电器知识。英语4级以上，能熟练掌握听说读写； 良好的沟通能力和优异的团队合作精神； 面对新事物有挑战精神，学习能力强； 能接受不定期的出差",
+      "JD": "1、 负责公司新车型及改款车型的总装同步工程分析工作，包括总装模块化分析、通过性分析、工艺分析、人机工程分析、经济性分析等； 2、 负责制定总装整体及各模块制造策略、制造需求（MR）以及make&buy清单，协调产品，质量，物流，生产，采购等部门评估和制定最优的工程工艺方案，并开展落地实施工作； 3、 负责总装新车型项目及改款车型项目的工装预算制定、采购、设计开发及验证交付工作； 4、 负责规划和编制总装新车型项目及改款车型项目中的全生命周期内的生产工艺，包括产品级工艺、工位级工位以及SOS/JES/MDS等工艺文件，确保高效高质量的工艺方案的实施； 5、 负责在项目各节点编制PFMEA、CP文件，用于支持试制及批量生产工作； 6、 负责总装Qcos清单及验证方案制定，并推进完成静态扭矩输出； 7、 负责整车开发过程中总装相关产品设计变更提出、跟踪、批复和流程交接工作； 8、 负责整车开发流程中各种总装制造问题的解决； 9、 支持总装BEC优化改善及目标达成工作。\n专业要求：机械，制造相关专业，有一定的机械和电器知识。英语4级以上，能熟练掌握听说读写； 良好的沟通能力和优异的团队合作精神； 面对新事物有挑战精神，学习能力强； 能接受不定期的出差",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "专业要求：机械，制造相关专业，有一定的机械和电器知识"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语"
+      ],
+      "experienceKeywords": [
+        "项目",
+        "招聘",
+        "物流"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "蔚来官方飞书招聘",
+      "officialURL": "https://nio.jobs.feishu.cn/campus/position/7673026850814069030/detail",
+      "publishedAt": "2026-08-12",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申&内推→笔试/测评→面试→Offer发放",
+      "recruitmentProcessEvidence": "E1 | 蔚来校招官网招聘动态 | https://campus.nio.com/?theme=dark#/trends | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E1 | 蔚来校招官网FAQ | https://campus.nio.com/?theme=dark#/trends | 2026-09-17"
+    },
+    {
+      "id": "feishu-49f725-7673026973983213870",
+      "company": "蔚来",
+      "title": "校招-数字产品-NOMI 体验经理",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "jobDescription": "核心产品规划与落地:负责蔚来智能座舱AI大模型的产品规划与设计。依托NOMI这一行业核心交互IP,将前沿大模型技术转化为海量量产车上的真实体验,主导端云协同架构下的3车载模型部署、推理优化及个性化服务构建。 复杂需求拆解与闭环:围绕舱内多模态交互、驾驶行为及感知等真实需求,与顶尖算法及工程团队深度协同。 将大模型/AIAgent等前沿技术转化为高可用、可衡量的产品方案,推动车载AI体验的严谨验证与持续迭代。 前瞻策略与工程平衡:持续洞察全球AI技术演进及汽车行业趋势。在算力、功耗、时延等车规级物理限制下,寻找技术创新与用户价值的最优解,制定务实且具前瞻性的智能座舱AI产品策略。",
+      "jobRequirements": "敏锐的AI Sense:对大模型、多模态技术有深刻理解与持续热情。能敏锐捕捉技术边界,并准确判断其与智 能座舱场景的真实业务结合点。 扎实的需求转化能力:具备将主观的座舱体验需求,清晰、精准转化为理性的\"算法建模目标\"与系统工程指标 的实战经验。 严谨的工程落地认知:熟悉车规级系统或大型复杂系统的开发流程,对边缘计算、模型轻量化及端侧算力分配 有实践认知或落地经验。 【加分项】 有AI大模型或智能体(Agent)产品从0到1的成功落地经验,或主导过车载语音、舱内视觉等AI功能规划; 具备较强的数据分析与挖掘能力,熟悉大模型在主动服务、场景化推荐等方向的最佳实践; 重度智能汽车用户,对打磨极致的座舱交互产品有强烈的自我驱动力。",
+      "JD": "核心产品规划与落地:负责蔚来智能座舱AI大模型的产品规划与设计。依托NOMI这一行业核心交互IP,将前沿大模型技术转化为海量量产车上的真实体验,主导端云协同架构下的3车载模型部署、推理优化及个性化服务构建。 复杂需求拆解与闭环:围绕舱内多模态交互、驾驶行为及感知等真实需求,与顶尖算法及工程团队深度协同。 将大模型/AIAgent等前沿技术转化为高可用、可衡量的产品方案,推动车载AI体验的严谨验证与持续迭代。 前瞻策略与工程平衡:持续洞察全球AI技术演进及汽车行业趋势。在算力、功耗、时延等车规级物理限制下,寻找技术创新与用户价值的最优解,制定务实且具前瞻性的智能座舱AI产品策略。\n敏锐的AI Sense:对大模型、多模态技术有深刻理解与持续热情。能敏锐捕捉技术边界,并准确判断其与智 能座舱场景的真实业务结合点。 扎实的需求转化能力:具备将主观的座舱体验需求,清晰、精准转化为理性的\"算法建模目标\"与系统工程指标 的实战经验。 严谨的工程落地认知:熟悉车规级系统或大型复杂系统的开发流程,对边缘计算、模型轻量化及端侧算力分配 有实践认知或落地经验。 【加分项】 有AI大模型或智能体(Agent)产品从0到1的成功落地经验,或主导过车载语音、舱内视觉等AI功能规划; 具备较强的数据分析与挖掘能力,熟悉大模型在主动服务、场景化推荐等方向的最佳实践; 重度智能汽车用户,对打磨极致的座舱交互产品有强烈的自我驱动力。",
+      "jdEvidence": {
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [],
+        "eligibilityClauses": [],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "数据分析"
+      ],
+      "experienceKeywords": [
+        "用户",
+        "数据",
+        "洞察",
+        "招聘"
+      ],
+      "preferenceTags": [
+        "国际业务"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "蔚来官方飞书招聘",
+      "officialURL": "https://nio.jobs.feishu.cn/campus/position/7673026973983213870/detail",
       "publishedAt": "2026-08-12",
       "lastVerified": "",
       "sourceType": "official",
@@ -10491,100 +10585,6 @@
       "annualSalary": "未披露",
       "source": "蔚来官方飞书招聘",
       "officialURL": "https://nio.jobs.feishu.cn/campus/position/7673027250326210862/detail",
-      "publishedAt": "2026-08-12",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "网申&内推→笔试/测评→面试→Offer发放",
-      "recruitmentProcessEvidence": "E1 | 蔚来校招官网招聘动态 | https://campus.nio.com/?theme=dark#/trends | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E1 | 蔚来校招官网FAQ | https://campus.nio.com/?theme=dark#/trends | 2026-09-17"
-    },
-    {
-      "id": "feishu-49f725-7673026850814069030",
-      "company": "蔚来",
-      "title": "校招-总装同步工程助理工程师",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "专业要求：机械，制造相关专业，有一定的机械和电器知识",
-        "hardRestriction": true,
-        "hardClauses": [
-          "专业要求：机械",
-          "制造相关专业"
-        ]
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "上海",
-      "jobDescription": "1、 负责公司新车型及改款车型的总装同步工程分析工作，包括总装模块化分析、通过性分析、工艺分析、人机工程分析、经济性分析等； 2、 负责制定总装整体及各模块制造策略、制造需求（MR）以及make&buy清单，协调产品，质量，物流，生产，采购等部门评估和制定最优的工程工艺方案，并开展落地实施工作； 3、 负责总装新车型项目及改款车型项目的工装预算制定、采购、设计开发及验证交付工作； 4、 负责规划和编制总装新车型项目及改款车型项目中的全生命周期内的生产工艺，包括产品级工艺、工位级工位以及SOS/JES/MDS等工艺文件，确保高效高质量的工艺方案的实施； 5、 负责在项目各节点编制PFMEA、CP文件，用于支持试制及批量生产工作； 6、 负责总装Qcos清单及验证方案制定，并推进完成静态扭矩输出； 7、 负责整车开发过程中总装相关产品设计变更提出、跟踪、批复和流程交接工作； 8、 负责整车开发流程中各种总装制造问题的解决； 9、 支持总装BEC优化改善及目标达成工作。",
-      "jobRequirements": "专业要求：机械，制造相关专业，有一定的机械和电器知识。英语4级以上，能熟练掌握听说读写； 良好的沟通能力和优异的团队合作精神； 面对新事物有挑战精神，学习能力强； 能接受不定期的出差",
-      "JD": "1、 负责公司新车型及改款车型的总装同步工程分析工作，包括总装模块化分析、通过性分析、工艺分析、人机工程分析、经济性分析等； 2、 负责制定总装整体及各模块制造策略、制造需求（MR）以及make&buy清单，协调产品，质量，物流，生产，采购等部门评估和制定最优的工程工艺方案，并开展落地实施工作； 3、 负责总装新车型项目及改款车型项目的工装预算制定、采购、设计开发及验证交付工作； 4、 负责规划和编制总装新车型项目及改款车型项目中的全生命周期内的生产工艺，包括产品级工艺、工位级工位以及SOS/JES/MDS等工艺文件，确保高效高质量的工艺方案的实施； 5、 负责在项目各节点编制PFMEA、CP文件，用于支持试制及批量生产工作； 6、 负责总装Qcos清单及验证方案制定，并推进完成静态扭矩输出； 7、 负责整车开发过程中总装相关产品设计变更提出、跟踪、批复和流程交接工作； 8、 负责整车开发流程中各种总装制造问题的解决； 9、 支持总装BEC优化改善及目标达成工作。\n专业要求：机械，制造相关专业，有一定的机械和电器知识。英语4级以上，能熟练掌握听说读写； 良好的沟通能力和优异的团队合作精神； 面对新事物有挑战精神，学习能力强； 能接受不定期的出差",
-      "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [
-          "专业要求：机械，制造相关专业，有一定的机械和电器知识"
-        ],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [
-        "英语"
-      ],
-      "experienceKeywords": [
-        "项目",
-        "招聘",
-        "物流"
-      ],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "蔚来官方飞书招聘",
-      "officialURL": "https://nio.jobs.feishu.cn/campus/position/7673026850814069030/detail",
       "publishedAt": "2026-08-12",
       "lastVerified": "",
       "sourceType": "official",
@@ -17880,192 +17880,6 @@
       "hasAssessmentEvidence": "E1 | 蔚来校招官网FAQ | https://campus.nio.com/?theme=dark#/trends | 2026-09-17"
     },
     {
-      "id": "feishu-49f725-7673026973984393518",
-      "company": "蔚来",
-      "title": "校招-数字产品-声音体验经理",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "本科",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "本科及以上学历,专业音乐学院音乐科技专业、声音设计专业优先,音响发烧友优先。",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "上海",
-      "jobDescription": "1.定义整车声音体验,设计声音用户体验场景与功能,书写产品文档和体验细节。 2.创造新颖的声音使用场景和用户价值,丰富用户用车时的声音体验。 3.制定车机系统声音策略与使用规则,维护系统声音库,对所有音频相关信息进行统筹、配置。 4.探索行业最新科技,组织与跟进声音软/硬件供应商(技术类)的合作,确保技术实现和体验落地。 5.跟进各车型项目,安排功能版本的上线与迭代,拉通上下游部门,跟踪开发测试进度,跟进音频优化和调试,确保声音体验定义高品质交付。 6.配合传播和运营需求,撰写技术传播文案,整理各场景推荐歌单。",
-      "jobRequirements": "1.热爱音频产品,丰富的声音产品使用经历。对音响设备,音频硬件有过系统的学习及专题研究,具有良好的音乐素养和音乐审美。 2.有出色的文档撰写能力,逻辑清晰,善于分析对比产品设计,洞察趋势。 3.理解声音设计及音乐制作的流程,熟悉主流DAW音频软件及常用插件 4.有出色的沟通能力、善于表达。自驱的执行力和团队协作能力,乐于换位思考。 5.情绪稳定有担当,具有强大的学习意愿和学习能力,心态良好。 6.本科及以上学历,专业音乐学院音乐科技专业、声音设计专业优先,音响发烧友优先。",
-      "JD": "1.定义整车声音体验,设计声音用户体验场景与功能,书写产品文档和体验细节。 2.创造新颖的声音使用场景和用户价值,丰富用户用车时的声音体验。 3.制定车机系统声音策略与使用规则,维护系统声音库,对所有音频相关信息进行统筹、配置。 4.探索行业最新科技,组织与跟进声音软/硬件供应商(技术类)的合作,确保技术实现和体验落地。 5.跟进各车型项目,安排功能版本的上线与迭代,拉通上下游部门,跟踪开发测试进度,跟进音频优化和调试,确保声音体验定义高品质交付。 6.配合传播和运营需求,撰写技术传播文案,整理各场景推荐歌单。\n1.热爱音频产品,丰富的声音产品使用经历。对音响设备,音频硬件有过系统的学习及专题研究,具有良好的音乐素养和音乐审美。 2.有出色的文档撰写能力,逻辑清晰,善于分析对比产品设计,洞察趋势。 3.理解声音设计及音乐制作的流程,熟悉主流DAW音频软件及常用插件 4.有出色的沟通能力、善于表达。自驱的执行力和团队协作能力,乐于换位思考。 5.情绪稳定有担当,具有强大的学习意愿和学习能力,心态良好。 6.本科及以上学历,专业音乐学院音乐科技专业、声音设计专业优先,音响发烧友优先。",
-      "jdEvidence": {
-        "source": "llm:deepseek:deepseek-flash",
-        "majorClauses": [
-          "本科及以上学历,专业音乐学院音乐科技专业、声音设计专业优先,音响发烧友优先。"
-        ],
-        "eligibilityClauses": [],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [
-        "文案"
-      ],
-      "experienceKeywords": [
-        "运营",
-        "项目",
-        "用户",
-        "洞察",
-        "招聘"
-      ],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "蔚来官方飞书招聘",
-      "officialURL": "https://nio.jobs.feishu.cn/campus/position/7673026973984393518/detail",
-      "publishedAt": "2026-08-12",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "网申&内推→笔试/测评→面试→Offer发放",
-      "recruitmentProcessEvidence": "E1 | 蔚来校招官网招聘动态 | https://campus.nio.com/?theme=dark#/trends | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E1 | 蔚来校招官网FAQ | https://campus.nio.com/?theme=dark#/trends | 2026-09-17"
-    },
-    {
-      "id": "feishu-49f725-7673026973983508782",
-      "company": "蔚来",
-      "title": "校招-数字产品-导航体验经理",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "本科",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "2027届本科及以上学历应届毕业生。",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "上海",
-      "jobDescription": "1.主导全生命周期导航体验:主导从出行场景洞察、PRD输出、硕开发与数据交付、全链路体验验收到上线后持续运营的全生命周期管理。负责将地图底层能力(搜索、算路策略、车道级引导、行程管理等)转化为用户可感知的高品质体验,制定并跟进导航体验的核心质量指标体系,通过路测、用户反馈与数据驱动,持续创造确定性、有安全感的出行体验。 2.ARHUD导航体验定义与打磨:负责ARHUD导航的产品体验定义。结合增强现实、车道级定位与感知能力,设计虚实融合的引导动线、空间化转向指引、安全预警信息层级以及动态光效。通过实车路测、用户反馈分析、竞品对比,持续打磨AR指引的清晰度、直觉感与驾驶安全感。 3.协助打造高效的导航出行空间:设计面向AI时代的智能地图与出行产品框架,定义跨屏(ARHUD、仪表、中控)导航的全局信息策略、层级与一致性。结合车道级导航、智能语音等核心能力,通过软硬一体创新,打造具备高效安全的导航体验。 4.协助构建出行助手AI智能底座:协助前沿技术创新与出行场景落落地,深度探索大语言模型、多模态感知、时空预测及AIAgent技术,协助建设包括用户出行画像、实时时空知识图谱音、跨服务(导航、支付、预约、停车、充电等)等原子能力,将技术边界转化为主动、自然的出行智能老场景,赋予导航与出行服务更高的情绪价值与可靠感。 5.协助多品牌的体验规划:负责多品牌车型的地图导航与出行服务体验规划与协同,在集团统一的智能座舱框架下,平衡各品牌调性、用户画像与功能策略,推动跨品牌的能力复用与体验一致性,同时构建差异化感知点。",
-      "jobRequirements": "1.2027届本科及以上学历应届毕业生。拥有主流地图平台、出行服务平台、智能汽车座舱导航、AR/HUD导航、AI应用产品等相关产品实习或项目经验者优先。 2.对AIAgent、大语言模型技术与应用有浓厚的热情,具备一定的技术理解能力;对于行业主流AI或行业内AI产品的应用有深入的理解和思考; 3.具备较好的审美和交互设计能力,注重用户体验;具备优秀的的逻辑思维及分析能力,能系统性思考,对产品有良好的判断力;能快速学习,敢于创新和打破常规 4.数据驱动意识:理解数据埋点的基本原理与价值,具备用数据度量体验、评估效果的思维习惯。能从用户行为数据中洞察问题、发现机会,敢于用数据说话并推动产品迭代决策,而非仅凭直觉与经验。 5.跨域协同能力:具备优秀的沟通协作与换位思考能力。能主动理解座舱AI、视觉设计、整车工程等不同团队的目标与约束,在多角色项目中清晰表达体验诉求、整合多方资源,推动复杂系统中的体验共识与高质量落地。 6.热爱生活,喜欢出游:有驾照,对智能出行、地图导航、智慧交通及城市探索领域拥有长期的自驱热情。 【加分项】 1.AI出行创作者:曾利用AI工具,为自己或身边人搭建过高频实用的AI出行工作流。比如自动生成周末出游行程规划、沿途美食餐厅智能推荐、多目的地最优路线串联等,热衷于用智能消灭出行中的琐碎与不确定,并持续打磨工作流的实用度与体验细节。 2.出行生活记录者:热爱在社交平台(如小红书)分享深度出游存攻略与导航体验心得。善于用地图标记行程、制作路线图与实用路书,能从大量用户反馈和互动中敏锐捕捉真实出行痛点与爽点,对路线呈现、打卡点标注、视觉叙事有独特审美,并将这种对细节的挑剔与热情带到导航流体验设计中。 3.数据与技术动手能力:具备SQL基础查询能力,或了解Python/R在E数据处理与可视化中的应用。具备良好的技术文档理解能力,能快速理解SDK文档、接口说明与技术方案 岗位亮点 在智能汽车浪潮中,亲手定义下一代出行体验。你将获得: 1.完整产品闭环:在导师带领下,完成从需求挖掘、PRD输出、到开力发交付与数据验证的完整产品链路,建立系统性的产品方法论。 2.跨域实战成长:与AI、设计、整车工程等团队紧密协作,在真实项目中快速成长,积累跨域协同的一线经验 3.前沿赛道深耕:深入理解AI时代智能座舱与地图出行逻辑,积累智能新能源赛道的前沿实战沉淀。 4.校招专属培养:完善的校招生培养体系、开放务实的团队氛围,让你的想法被听见、成长被看见。",
-      "JD": "1.主导全生命周期导航体验:主导从出行场景洞察、PRD输出、硕开发与数据交付、全链路体验验收到上线后持续运营的全生命周期管理。负责将地图底层能力(搜索、算路策略、车道级引导、行程管理等)转化为用户可感知的高品质体验,制定并跟进导航体验的核心质量指标体系,通过路测、用户反馈与数据驱动,持续创造确定性、有安全感的出行体验。 2.ARHUD导航体验定义与打磨:负责ARHUD导航的产品体验定义。结合增强现实、车道级定位与感知能力,设计虚实融合的引导动线、空间化转向指引、安全预警信息层级以及动态光效。通过实车路测、用户反馈分析、竞品对比,持续打磨AR指引的清晰度、直觉感与驾驶安全感。 3.协助打造高效的导航出行空间:设计面向AI时代的智能地图与出行产品框架,定义跨屏(ARHUD、仪表、中控)导航的全局信息策略、层级与一致性。结合车道级导航、智能语音等核心能力,通过软硬一体创新,打造具备高效安全的导航体验。 4.协助构建出行助手AI智能底座:协助前沿技术创新与出行场景落落地,深度探索大语言模型、多模态感知、时空预测及AIAgent技术,协助建设包括用户出行画像、实时时空知识图谱音、跨服务(导航、支付、预约、停车、充电等)等原子能力,将技术边界转化为主动、自然的出行智能老场景,赋予导航与出行服务更高的情绪价值与可靠感。 5.协助多品牌的体验规划:负责多品牌车型的地图导航与出行服务体验规划与协同,在集团统一的智能座舱框架下,平衡各品牌调性、用户画像与功能策略,推动跨品牌的能力复用与体验一致性,同时构建差异化感知点。\n1.2027届本科及以上学历应届毕业生。拥有主流地图平台、出行服务平台、智能汽车座舱导航、AR/HUD导航、AI应用产品等相关产品实习或项目经验者优先。 2.对AIAgent、大语言模型技术与应用有浓厚的热情,具备一定的技术理解能力;对于行业主流AI或行业内AI产品的应用有深入的理解和思考; 3.具备较好的审美和交互设计能力,注重用户体验;具备优秀的的逻辑思维及分析能力,能系统性思考,对产品有良好的判断力;能快速学习,敢于创新和打破常规 4.数据驱动意识:理解数据埋点的基本原理与价值,具备用数据度量体验、评估效果的思维习惯。能从用户行为数据中洞察问题、发现机会,敢于用数据说话并推动产品迭代决策,而非仅凭直觉与经验。 5.跨域协同能力:具备优秀的沟通协作与换位思考能力。能主动理解座舱AI、视觉设计、整车工程等不同团队的目标与约束,在多角色项目中清晰表达体验诉求、整合多方资源,推动复杂系统中的体验共识与高质量落地。 6.热爱生活,喜欢出游:有驾照,对智能出行、地图导航、智慧交通及城市探索领域拥有长期的自驱热情。 【加分项】 1.AI出行创作者:曾利用AI工具,为自己或身边人搭建过高频实用的AI出行工作流。比如自动生成周末出游行程规划、沿途美食餐厅智能推荐、多目的地最优路线串联等,热衷于用智能消灭出行中的琐碎与不确定,并持续打磨工作流的实用度与体验细节。 2.出行生活记录者:热爱在社交平台(如小红书)分享深度出游存攻略与导航体验心得。善于用地图标记行程、制作路线图与实用路书,能从大量用户反馈和互动中敏锐捕捉真实出行痛点与爽点,对路线呈现、打卡点标注、视觉叙事有独特审美,并将这种对细节的挑剔与热情带到导航流体验设计中。 3.数据与技术动手能力:具备SQL基础查询能力,或了解Python/R在E数据处理与可视化中的应用。具备良好的技术文档理解能力,能快速理解SDK文档、接口说明与技术方案 岗位亮点 在智能汽车浪潮中,亲手定义下一代出行体验。你将获得: 1.完整产品闭环:在导师带领下,完成从需求挖掘、PRD输出、到开力发交付与数据验证的完整产品链路,建立系统性的产品方法论。 2.跨域实战成长:与AI、设计、整车工程等团队紧密协作,在真实项目中快速成长,积累跨域协同的一线经验 3.前沿赛道深耕:深入理解AI时代智能座舱与地图出行逻辑,积累智能新能源赛道的前沿实战沉淀。 4.校招专属培养:完善的校招生培养体系、开放务实的团队氛围,让你的想法被听见、成长被看见。",
-      "jdEvidence": {
-        "source": "llm:deepseek:deepseek-flash",
-        "majorClauses": [
-          "2027届本科及以上学历应届毕业生。"
-        ],
-        "eligibilityClauses": [
-          "2027届本科及以上学历应届毕业生。"
-        ],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [
-        "SQL"
-      ],
-      "experienceKeywords": [
-        "运营",
-        "项目",
-        "用户",
-        "数据",
-        "品牌",
-        "洞察",
-        "招聘"
-      ],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "蔚来官方飞书招聘",
-      "officialURL": "https://nio.jobs.feishu.cn/campus/position/7673026973983508782/detail",
-      "publishedAt": "2026-08-12",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "网申&内推→笔试/测评→面试→Offer发放",
-      "recruitmentProcessEvidence": "E1 | 蔚来校招官网招聘动态 | https://campus.nio.com/?theme=dark#/trends | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E1 | 蔚来校招官网FAQ | https://campus.nio.com/?theme=dark#/trends | 2026-09-17"
-    },
-    {
       "id": "feishu-49f725-7673026967621798182",
       "company": "蔚来",
       "title": "校招-整车产品-座椅与附件体验经理",
@@ -18609,6 +18423,192 @@
       "annualSalary": "未披露",
       "source": "蔚来官方飞书招聘",
       "officialURL": "https://nio.jobs.feishu.cn/campus/position/7673026809441224986/detail",
+      "publishedAt": "2026-08-12",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申&内推→笔试/测评→面试→Offer发放",
+      "recruitmentProcessEvidence": "E1 | 蔚来校招官网招聘动态 | https://campus.nio.com/?theme=dark#/trends | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E1 | 蔚来校招官网FAQ | https://campus.nio.com/?theme=dark#/trends | 2026-09-17"
+    },
+    {
+      "id": "feishu-49f725-7673026973984393518",
+      "company": "蔚来",
+      "title": "校招-数字产品-声音体验经理",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "本科及以上学历,专业音乐学院音乐科技专业、声音设计专业优先,音响发烧友优先。",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "jobDescription": "1.定义整车声音体验,设计声音用户体验场景与功能,书写产品文档和体验细节。 2.创造新颖的声音使用场景和用户价值,丰富用户用车时的声音体验。 3.制定车机系统声音策略与使用规则,维护系统声音库,对所有音频相关信息进行统筹、配置。 4.探索行业最新科技,组织与跟进声音软/硬件供应商(技术类)的合作,确保技术实现和体验落地。 5.跟进各车型项目,安排功能版本的上线与迭代,拉通上下游部门,跟踪开发测试进度,跟进音频优化和调试,确保声音体验定义高品质交付。 6.配合传播和运营需求,撰写技术传播文案,整理各场景推荐歌单。",
+      "jobRequirements": "1.热爱音频产品,丰富的声音产品使用经历。对音响设备,音频硬件有过系统的学习及专题研究,具有良好的音乐素养和音乐审美。 2.有出色的文档撰写能力,逻辑清晰,善于分析对比产品设计,洞察趋势。 3.理解声音设计及音乐制作的流程,熟悉主流DAW音频软件及常用插件 4.有出色的沟通能力、善于表达。自驱的执行力和团队协作能力,乐于换位思考。 5.情绪稳定有担当,具有强大的学习意愿和学习能力,心态良好。 6.本科及以上学历,专业音乐学院音乐科技专业、声音设计专业优先,音响发烧友优先。",
+      "JD": "1.定义整车声音体验,设计声音用户体验场景与功能,书写产品文档和体验细节。 2.创造新颖的声音使用场景和用户价值,丰富用户用车时的声音体验。 3.制定车机系统声音策略与使用规则,维护系统声音库,对所有音频相关信息进行统筹、配置。 4.探索行业最新科技,组织与跟进声音软/硬件供应商(技术类)的合作,确保技术实现和体验落地。 5.跟进各车型项目,安排功能版本的上线与迭代,拉通上下游部门,跟踪开发测试进度,跟进音频优化和调试,确保声音体验定义高品质交付。 6.配合传播和运营需求,撰写技术传播文案,整理各场景推荐歌单。\n1.热爱音频产品,丰富的声音产品使用经历。对音响设备,音频硬件有过系统的学习及专题研究,具有良好的音乐素养和音乐审美。 2.有出色的文档撰写能力,逻辑清晰,善于分析对比产品设计,洞察趋势。 3.理解声音设计及音乐制作的流程,熟悉主流DAW音频软件及常用插件 4.有出色的沟通能力、善于表达。自驱的执行力和团队协作能力,乐于换位思考。 5.情绪稳定有担当,具有强大的学习意愿和学习能力,心态良好。 6.本科及以上学历,专业音乐学院音乐科技专业、声音设计专业优先,音响发烧友优先。",
+      "jdEvidence": {
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科及以上学历,专业音乐学院音乐科技专业、声音设计专业优先,音响发烧友优先。"
+        ],
+        "eligibilityClauses": [],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "文案"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "项目",
+        "用户",
+        "洞察",
+        "招聘"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "蔚来官方飞书招聘",
+      "officialURL": "https://nio.jobs.feishu.cn/campus/position/7673026973984393518/detail",
+      "publishedAt": "2026-08-12",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申&内推→笔试/测评→面试→Offer发放",
+      "recruitmentProcessEvidence": "E1 | 蔚来校招官网招聘动态 | https://campus.nio.com/?theme=dark#/trends | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E1 | 蔚来校招官网FAQ | https://campus.nio.com/?theme=dark#/trends | 2026-09-17"
+    },
+    {
+      "id": "feishu-49f725-7673026973983508782",
+      "company": "蔚来",
+      "title": "校招-数字产品-导航体验经理",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "2027届本科及以上学历应届毕业生。",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "jobDescription": "1.主导全生命周期导航体验:主导从出行场景洞察、PRD输出、硕开发与数据交付、全链路体验验收到上线后持续运营的全生命周期管理。负责将地图底层能力(搜索、算路策略、车道级引导、行程管理等)转化为用户可感知的高品质体验,制定并跟进导航体验的核心质量指标体系,通过路测、用户反馈与数据驱动,持续创造确定性、有安全感的出行体验。 2.ARHUD导航体验定义与打磨:负责ARHUD导航的产品体验定义。结合增强现实、车道级定位与感知能力,设计虚实融合的引导动线、空间化转向指引、安全预警信息层级以及动态光效。通过实车路测、用户反馈分析、竞品对比,持续打磨AR指引的清晰度、直觉感与驾驶安全感。 3.协助打造高效的导航出行空间:设计面向AI时代的智能地图与出行产品框架,定义跨屏(ARHUD、仪表、中控)导航的全局信息策略、层级与一致性。结合车道级导航、智能语音等核心能力,通过软硬一体创新,打造具备高效安全的导航体验。 4.协助构建出行助手AI智能底座:协助前沿技术创新与出行场景落落地,深度探索大语言模型、多模态感知、时空预测及AIAgent技术,协助建设包括用户出行画像、实时时空知识图谱音、跨服务(导航、支付、预约、停车、充电等)等原子能力,将技术边界转化为主动、自然的出行智能老场景,赋予导航与出行服务更高的情绪价值与可靠感。 5.协助多品牌的体验规划:负责多品牌车型的地图导航与出行服务体验规划与协同,在集团统一的智能座舱框架下,平衡各品牌调性、用户画像与功能策略,推动跨品牌的能力复用与体验一致性,同时构建差异化感知点。",
+      "jobRequirements": "1.2027届本科及以上学历应届毕业生。拥有主流地图平台、出行服务平台、智能汽车座舱导航、AR/HUD导航、AI应用产品等相关产品实习或项目经验者优先。 2.对AIAgent、大语言模型技术与应用有浓厚的热情,具备一定的技术理解能力;对于行业主流AI或行业内AI产品的应用有深入的理解和思考; 3.具备较好的审美和交互设计能力,注重用户体验;具备优秀的的逻辑思维及分析能力,能系统性思考,对产品有良好的判断力;能快速学习,敢于创新和打破常规 4.数据驱动意识:理解数据埋点的基本原理与价值,具备用数据度量体验、评估效果的思维习惯。能从用户行为数据中洞察问题、发现机会,敢于用数据说话并推动产品迭代决策,而非仅凭直觉与经验。 5.跨域协同能力:具备优秀的沟通协作与换位思考能力。能主动理解座舱AI、视觉设计、整车工程等不同团队的目标与约束,在多角色项目中清晰表达体验诉求、整合多方资源,推动复杂系统中的体验共识与高质量落地。 6.热爱生活,喜欢出游:有驾照,对智能出行、地图导航、智慧交通及城市探索领域拥有长期的自驱热情。 【加分项】 1.AI出行创作者:曾利用AI工具,为自己或身边人搭建过高频实用的AI出行工作流。比如自动生成周末出游行程规划、沿途美食餐厅智能推荐、多目的地最优路线串联等,热衷于用智能消灭出行中的琐碎与不确定,并持续打磨工作流的实用度与体验细节。 2.出行生活记录者:热爱在社交平台(如小红书)分享深度出游存攻略与导航体验心得。善于用地图标记行程、制作路线图与实用路书,能从大量用户反馈和互动中敏锐捕捉真实出行痛点与爽点,对路线呈现、打卡点标注、视觉叙事有独特审美,并将这种对细节的挑剔与热情带到导航流体验设计中。 3.数据与技术动手能力:具备SQL基础查询能力,或了解Python/R在E数据处理与可视化中的应用。具备良好的技术文档理解能力,能快速理解SDK文档、接口说明与技术方案 岗位亮点 在智能汽车浪潮中,亲手定义下一代出行体验。你将获得: 1.完整产品闭环:在导师带领下,完成从需求挖掘、PRD输出、到开力发交付与数据验证的完整产品链路,建立系统性的产品方法论。 2.跨域实战成长:与AI、设计、整车工程等团队紧密协作,在真实项目中快速成长,积累跨域协同的一线经验 3.前沿赛道深耕:深入理解AI时代智能座舱与地图出行逻辑,积累智能新能源赛道的前沿实战沉淀。 4.校招专属培养:完善的校招生培养体系、开放务实的团队氛围,让你的想法被听见、成长被看见。",
+      "JD": "1.主导全生命周期导航体验:主导从出行场景洞察、PRD输出、硕开发与数据交付、全链路体验验收到上线后持续运营的全生命周期管理。负责将地图底层能力(搜索、算路策略、车道级引导、行程管理等)转化为用户可感知的高品质体验,制定并跟进导航体验的核心质量指标体系,通过路测、用户反馈与数据驱动,持续创造确定性、有安全感的出行体验。 2.ARHUD导航体验定义与打磨:负责ARHUD导航的产品体验定义。结合增强现实、车道级定位与感知能力,设计虚实融合的引导动线、空间化转向指引、安全预警信息层级以及动态光效。通过实车路测、用户反馈分析、竞品对比,持续打磨AR指引的清晰度、直觉感与驾驶安全感。 3.协助打造高效的导航出行空间:设计面向AI时代的智能地图与出行产品框架,定义跨屏(ARHUD、仪表、中控)导航的全局信息策略、层级与一致性。结合车道级导航、智能语音等核心能力,通过软硬一体创新,打造具备高效安全的导航体验。 4.协助构建出行助手AI智能底座:协助前沿技术创新与出行场景落落地,深度探索大语言模型、多模态感知、时空预测及AIAgent技术,协助建设包括用户出行画像、实时时空知识图谱音、跨服务(导航、支付、预约、停车、充电等)等原子能力,将技术边界转化为主动、自然的出行智能老场景,赋予导航与出行服务更高的情绪价值与可靠感。 5.协助多品牌的体验规划:负责多品牌车型的地图导航与出行服务体验规划与协同,在集团统一的智能座舱框架下,平衡各品牌调性、用户画像与功能策略,推动跨品牌的能力复用与体验一致性,同时构建差异化感知点。\n1.2027届本科及以上学历应届毕业生。拥有主流地图平台、出行服务平台、智能汽车座舱导航、AR/HUD导航、AI应用产品等相关产品实习或项目经验者优先。 2.对AIAgent、大语言模型技术与应用有浓厚的热情,具备一定的技术理解能力;对于行业主流AI或行业内AI产品的应用有深入的理解和思考; 3.具备较好的审美和交互设计能力,注重用户体验;具备优秀的的逻辑思维及分析能力,能系统性思考,对产品有良好的判断力;能快速学习,敢于创新和打破常规 4.数据驱动意识:理解数据埋点的基本原理与价值,具备用数据度量体验、评估效果的思维习惯。能从用户行为数据中洞察问题、发现机会,敢于用数据说话并推动产品迭代决策,而非仅凭直觉与经验。 5.跨域协同能力:具备优秀的沟通协作与换位思考能力。能主动理解座舱AI、视觉设计、整车工程等不同团队的目标与约束,在多角色项目中清晰表达体验诉求、整合多方资源,推动复杂系统中的体验共识与高质量落地。 6.热爱生活,喜欢出游:有驾照,对智能出行、地图导航、智慧交通及城市探索领域拥有长期的自驱热情。 【加分项】 1.AI出行创作者:曾利用AI工具,为自己或身边人搭建过高频实用的AI出行工作流。比如自动生成周末出游行程规划、沿途美食餐厅智能推荐、多目的地最优路线串联等,热衷于用智能消灭出行中的琐碎与不确定,并持续打磨工作流的实用度与体验细节。 2.出行生活记录者:热爱在社交平台(如小红书)分享深度出游存攻略与导航体验心得。善于用地图标记行程、制作路线图与实用路书,能从大量用户反馈和互动中敏锐捕捉真实出行痛点与爽点,对路线呈现、打卡点标注、视觉叙事有独特审美,并将这种对细节的挑剔与热情带到导航流体验设计中。 3.数据与技术动手能力:具备SQL基础查询能力,或了解Python/R在E数据处理与可视化中的应用。具备良好的技术文档理解能力,能快速理解SDK文档、接口说明与技术方案 岗位亮点 在智能汽车浪潮中,亲手定义下一代出行体验。你将获得: 1.完整产品闭环:在导师带领下,完成从需求挖掘、PRD输出、到开力发交付与数据验证的完整产品链路,建立系统性的产品方法论。 2.跨域实战成长:与AI、设计、整车工程等团队紧密协作,在真实项目中快速成长,积累跨域协同的一线经验 3.前沿赛道深耕:深入理解AI时代智能座舱与地图出行逻辑,积累智能新能源赛道的前沿实战沉淀。 4.校招专属培养:完善的校招生培养体系、开放务实的团队氛围,让你的想法被听见、成长被看见。",
+      "jdEvidence": {
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "2027届本科及以上学历应届毕业生。"
+        ],
+        "eligibilityClauses": [
+          "2027届本科及以上学历应届毕业生。"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "SQL"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "项目",
+        "用户",
+        "数据",
+        "品牌",
+        "洞察",
+        "招聘"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "蔚来官方飞书招聘",
+      "officialURL": "https://nio.jobs.feishu.cn/campus/position/7673026973983508782/detail",
       "publishedAt": "2026-08-12",
       "lastVerified": "",
       "sourceType": "official",

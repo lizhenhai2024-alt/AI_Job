@@ -481,6 +481,10 @@ export const sourceRegistry = [
     "company": "助理AI算法工程师（"
   },
   {
+    "provider": "beisen",
+    "company": "北控水务集团"
+  },
+  {
     "provider": "feishu",
     "company": "影石Insta360"
   },
