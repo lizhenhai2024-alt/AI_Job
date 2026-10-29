@@ -38624,5 +38624,28 @@
   "businessDuties": [
    "国际业务"
   ]
+ },
+ "beisen-ed7f3041a746:c9d74f560ef9fcf5:gemini-3.5-flash-lite": {
+  "source": "llm",
+  "majorClauses": [
+   "专业要求：供应链管理、物流管理、工业工程、相关专业；"
+  ],
+  "eligibilityClauses": [],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "hotjob-9e53e4a0d203:776b2a9d09b872d0:gemini-3.5-flash-lite": {
+  "source": "llm",
+  "majorClauses": [
+   "专业不限，市场营销、工商管理、数字化等相关专业优先，英语四级及以上水平"
+  ],
+  "eligibilityClauses": [
+   "2027届应届毕业生，本科及以上学历",
+   "简历接收周期：2026-09-23~2027-07-04"
+  ],
+  "technicalDuties": [],
+  "businessDuties": [
+   "客户关系"
+  ]
  }
 }

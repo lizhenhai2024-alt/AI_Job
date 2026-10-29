@@ -1,7 +1,7 @@
 {
   "company": "万兴科技",
-  "count": 31,
-  "updatedAt": "2026-10-28T20:12:25.632Z",
+  "count": 32,
+  "updatedAt": "2026-10-29T01:57:00.473Z",
   "jobs": [
     {
       "id": "beisen-8dcc210b99c3",
@@ -2255,6 +2255,95 @@
       "source": "公司官方北森校招官网",
       "officialURL": "https://wondersharecampus.zhiye.com/campus/detail?jobAdId=94628fb9-2b9c-4ea0-9246-a9e3f7940859",
       "publishedAt": "2026-08-18",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "秋招直招：网申/内推→在线测评→面试(3-4轮)→Offer速递→三方签约；实习转正通道另含实习入职/答辩",
+      "recruitmentProcessEvidence": "E3 | 兰州大学/南开大学就业网校招简章 | https://job.lzu.edu.cn/html/22/article/2026/91240.html | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | 万兴科技校招FAQ官方页 | https://www.wondershare.cn/campus-faq.html | 2026-09-17"
+    },
+    {
+      "id": "beisen-69f170974818",
+      "company": "万兴科技",
+      "title": "人才发展专员",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1、统招本科及以上学历，人力资源管理、工商管理、心理学、社会学等相关专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "深圳",
+      "jobDescription": "1、负责新员工融入引导与关怀，策划和执行培养计划，帮助新员工快速融入团队； 2、协助策划、组织与执行各类员工培训、文化活动及团队建设活动，负责前期准备、现场协调与后期跟进工作； 3、跟踪定期沟通与反馈收集，并对相关数据进行初步整理与分析，输出跟踪报告。",
+      "jobRequirements": "1、统招本科及以上学历，人力资源管理、工商管理、心理学、社会学等相关专业优先； 2、积极主动，责任心强，具备优秀的沟通表达、活动策划、主持演讲能力，逻辑思维清晰，拥有团队协作精神和学习能力； 3、拥有良好的数据分析与信息处理能力， 熟悉Office办公软件及相关AI工具，对人力资源管理有浓厚兴趣，具有人力资源相关实习经验者优先。 4、具备中大型互联网IT公司实习经历者优先。",
+      "JD": "1、负责新员工融入引导与关怀，策划和执行培养计划，帮助新员工快速融入团队； 2、协助策划、组织与执行各类员工培训、文化活动及团队建设活动，负责前期准备、现场协调与后期跟进工作； 3、跟踪定期沟通与反馈收集，并对相关数据进行初步整理与分析，输出跟踪报告。\n1、统招本科及以上学历，人力资源管理、工商管理、心理学、社会学等相关专业优先； 2、积极主动，责任心强，具备优秀的沟通表达、活动策划、主持演讲能力，逻辑思维清晰，拥有团队协作精神和学习能力； 3、拥有良好的数据分析与信息处理能力， 熟悉Office办公软件及相关AI工具，对人力资源管理有浓厚兴趣，具有人力资源相关实习经验者优先。 4、具备中大型互联网IT公司实习经历者优先。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、统招本科及以上学历，人力资源管理、工商管理、心理学、社会学等相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "数据分析"
+      ],
+      "experienceKeywords": [
+        "数据"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "12K-20K 元/月",
+        "monthlyMin": 12000,
+        "monthlyMax": 20000,
+        "annualMin": 144000,
+        "annualMax": 240000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "1.2万–2万/月",
+        "annualDisplay": "14.4万–24万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "12K-20K 元/月 公司官方北森校招岗位；识别关键词：数据分析。投"
+      },
+      "salary": "12K-20K 元/月",
+      "monthlySalary": "1.2万–2万/月",
+      "annualSalary": "14.4万–24万/年（按12薪推算）",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://wondersharecampus.zhiye.com/campus/detail?jobAdId=6904afcf-fe64-4ded-b350-967b1605bff2",
+      "publishedAt": "2026-10-29",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "",
