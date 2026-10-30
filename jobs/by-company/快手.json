@@ -1,7 +1,7 @@
 {
   "company": "快手",
-  "count": 75,
-  "updatedAt": "2026-10-30T01:58:48.081Z",
+  "count": 74,
+  "updatedAt": "2026-10-30T15:51:29.867Z",
   "jobs": [
     {
       "id": "kuaishou-12f8df8d0013",
@@ -2435,97 +2435,6 @@
       "annualSalary": "未披露",
       "source": "快手官方2027校招官网",
       "officialURL": "https://campus.kuaishou.cn#/campus/jobDetail?positionId=50df677966a941439b70e707572e153d",
-      "publishedAt": "2026-08-09",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "投递→测评（认知测评+AI素养测评）→简历筛选→面试→Offer",
-      "recruitmentProcessEvidence": "E2 | 浙江大学就业服务平台 | https://www.career.zju.edu.cn/jyxt/sczp/zpztgl/ckZpgwXq.zf?zpxxbh=5A03D470E12EAD6FE0653A68DD0E9B18 | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E4 | 牛客网校招内推帖 | https://m.nowcoder.com/feed/main/detail/4de1ce25780a4bed9063225a1b415794 | 2026-09-17"
-    },
-    {
-      "id": "kuaishou-e247b348926f",
-      "company": "快手",
-      "title": "项目管理",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "1、本科及以上学历，专业不限",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "北京",
-      "jobDescription": "1、负责项目推进、协调，制定和维护项目管理流程，并监督执行；\n2、参与产品开发需求沟通及讨论，根据需求确定项目迭代排期，给出项目计划；\n3、跟进项目过程中，能够准确把控项目进度，根据实际情况向重要干系人反馈项目信息，对于项目暴露的风险，能够及时发现并有效解决；根据过程存在的问题，督促相关职能进行整改和落实；\n4、推进跨部门的项目合作，对于项目遇到的资源问题、进度问题、开发问题能够有效解决。",
-      "jobRequirements": "",
-      "JD": "1、负责项目推进、协调，制定和维护项目管理流程，并监督执行；\n2、参与产品开发需求沟通及讨论，根据需求确定项目迭代排期，给出项目计划；\n3、跟进项目过程中，能够准确把控项目进度，根据实际情况向重要干系人反馈项目信息，对于项目暴露的风险，能够及时发现并有效解决；根据过程存在的问题，督促相关职能进行整改和落实；\n4、推进跨部门的项目合作，对于项目遇到的资源问题、进度问题、开发问题能够有效解决。",
-      "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [
-          "1、本科及以上学历，专业不限"
-        ],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "项目管理"
-      ],
-      "skills": [
-        "项目管理"
-      ],
-      "experienceKeywords": [
-        "项目"
-      ],
-      "preferenceTags": [],
-      "riskTags": [
-        "节奏快"
-      ],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "快手官方2027校招官网",
-      "officialURL": "https://campus.kuaishou.cn#/campus/jobDetail?positionId=5d54104e59564459b21ae6dee84623f7",
       "publishedAt": "2026-08-09",
       "lastVerified": "",
       "sourceType": "official",
@@ -5992,6 +5901,92 @@
       "hasAssessmentEvidence": "E4 | 牛客网校招内推帖 | https://m.nowcoder.com/feed/main/detail/4de1ce25780a4bed9063225a1b415794 | 2026-09-17"
     },
     {
+      "id": "kuaishou-59e8bb90e977",
+      "company": "快手",
+      "title": "UX设计师",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "北京",
+      "jobDescription": "1、参与快手相关业务产品体验设计工作，通过设计能力的综合运用，全流程参与设计策略到设计落地；\n2、深入理解业务和用户，具备洞察力和自驱力，从场景和数据中洞察设计发力点，并推动落地，提升产品体验。",
+      "jobRequirements": "",
+      "JD": "1、参与快手相关业务产品体验设计工作，通过设计能力的综合运用，全流程参与设计策略到设计落地；\n2、深入理解业务和用户，具备洞察力和自驱力，从场景和数据中洞察设计发力点，并推动落地，提升产品体验。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "用户",
+        "数据"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "快手官方2027校招官网",
+      "officialURL": "https://campus.kuaishou.cn#/campus/jobDetail?positionId=ff4296f03d244542b7412bcfbaf5c1c9",
+      "publishedAt": "2026-08-09",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "投递→测评（认知测评+AI素养测评）→简历筛选→面试→Offer",
+      "recruitmentProcessEvidence": "E2 | 浙江大学就业服务平台 | https://www.career.zju.edu.cn/jyxt/sczp/zpztgl/ckZpgwXq.zf?zpxxbh=5A03D470E12EAD6FE0653A68DD0E9B18 | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E4 | 牛客网校招内推帖 | https://m.nowcoder.com/feed/main/detail/4de1ce25780a4bed9063225a1b415794 | 2026-09-17"
+    },
+    {
       "id": "kuaishou-1de545a6e074",
       "company": "快手",
       "title": "治理策略分析师",
@@ -6070,92 +6065,6 @@
       "annualSalary": "未披露",
       "source": "快手官方2027校招官网",
       "officialURL": "https://campus.kuaishou.cn#/campus/jobDetail?positionId=a92966328e1143ca9d5bff8b0c253cb3",
-      "publishedAt": "2026-08-09",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "投递→测评（认知测评+AI素养测评）→简历筛选→面试→Offer",
-      "recruitmentProcessEvidence": "E2 | 浙江大学就业服务平台 | https://www.career.zju.edu.cn/jyxt/sczp/zpztgl/ckZpgwXq.zf?zpxxbh=5A03D470E12EAD6FE0653A68DD0E9B18 | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E4 | 牛客网校招内推帖 | https://m.nowcoder.com/feed/main/detail/4de1ce25780a4bed9063225a1b415794 | 2026-09-17"
-    },
-    {
-      "id": "kuaishou-59e8bb90e977",
-      "company": "快手",
-      "title": "UX设计师",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "北京",
-      "jobDescription": "1、参与快手相关业务产品体验设计工作，通过设计能力的综合运用，全流程参与设计策略到设计落地；\n2、深入理解业务和用户，具备洞察力和自驱力，从场景和数据中洞察设计发力点，并推动落地，提升产品体验。",
-      "jobRequirements": "",
-      "JD": "1、参与快手相关业务产品体验设计工作，通过设计能力的综合运用，全流程参与设计策略到设计落地；\n2、深入理解业务和用户，具备洞察力和自驱力，从场景和数据中洞察设计发力点，并推动落地，提升产品体验。",
-      "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [],
-      "experienceKeywords": [
-        "用户",
-        "数据"
-      ],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "快手官方2027校招官网",
-      "officialURL": "https://campus.kuaishou.cn#/campus/jobDetail?positionId=ff4296f03d244542b7412bcfbaf5c1c9",
       "publishedAt": "2026-08-09",
       "lastVerified": "",
       "sourceType": "official",

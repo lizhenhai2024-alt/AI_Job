@@ -1,7 +1,7 @@
 {
   "company": "比亚迪",
-  "count": 48,
-  "updatedAt": "2026-10-30T01:58:48.081Z",
+  "count": 47,
+  "updatedAt": "2026-10-30T15:51:29.867Z",
   "jobs": [
     {
       "id": "byd-15eee88d6334",
@@ -2368,92 +2368,6 @@
       "source": "比亚迪2027届校园招聘官网",
       "officialURL": "https://job.byd.com/portal/pc/#/school/schoolPositionList",
       "publishedAt": "2026-09-02",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "byd-14df0fe690c3",
-      "company": "比亚迪",
-      "title": "市场研究工程师",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "本科",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "知识技能要求：熟悉市场分析、产品定义等流程和方法 学历要求：本科及以上 外语要求：CET-4 专业要求：机械类/车辆工程类/电子类等理工科专业优先",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "深圳",
-      "jobDescription": "1、主导分析消费者需求与竞品车型产品力，给出产品开发建议； 2、分析产品市场定位，为产品规划提供支持； 3、参与分析宏观市场与公司战略，为产品规划提供支持； 4、主导实施车型项目立项，完成产品定义、生命周期管理。",
-      "jobRequirements": "知识技能要求：熟悉市场分析、产品定义等流程和方法 学历要求：本科及以上 外语要求：CET-4 专业要求：机械类/车辆工程类/电子类等理工科专业优先",
-      "JD": "1、主导分析消费者需求与竞品车型产品力，给出产品开发建议； 2、分析产品市场定位，为产品规划提供支持； 3、参与分析宏观市场与公司战略，为产品规划提供支持； 4、主导实施车型项目立项，完成产品定义、生命周期管理。\n知识技能要求：熟悉市场分析、产品定义等流程和方法 学历要求：本科及以上 外语要求：CET-4 专业要求：机械类/车辆工程类/电子类等理工科专业优先",
-      "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [
-          "知识技能要求：熟悉市场分析、产品定义等流程和方法 学历要求：本科及以上 外语要求：CET-4 专业要求：机械类/车辆工程类/电子类等理工科专业优先"
-        ],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [
-        "市场分析"
-      ],
-      "experienceKeywords": [
-        "项目",
-        "市场"
-      ],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "比亚迪2027届校园招聘官网",
-      "officialURL": "https://job.byd.com/portal/pc/#/school/schoolPositionList",
-      "publishedAt": "2026-08-25",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": ""

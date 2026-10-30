@@ -1,7 +1,7 @@
 {
   "company": "TCL华星光电",
   "count": 78,
-  "updatedAt": "2026-10-30T01:58:48.081Z",
+  "updatedAt": "2026-10-30T15:51:29.867Z",
   "jobs": [
     {
       "id": "hotjob-779fe73e5dfa",
@@ -298,7 +298,7 @@
       "annualSalary": "未披露",
       "source": "公司官方HotJob校招官网",
       "officialURL": "https://wecruit.hotjob.cn/SU64893571bef57c16d356b99e/mc/detail?postId=6a8a7a0a1ad6db7cf833b5b6&recruitType=1",
-      "publishedAt": "2026-10-26",
+      "publishedAt": "2026-10-30",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "2026-11-06",
@@ -405,6 +405,104 @@
       "hasAssessmentEvidence": "E2 | TCL官方校招门户 | https://campus.tcl.com/campus/spring.html | 2026-09-17"
     },
     {
+      "id": "hotjob-34c00c3d0fb6",
+      "company": "TCL华星光电",
+      "title": "供应链管培生（采购方向）",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "本科及以上学历，专业不限",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "深圳",
+      "jobDescription": "一、屏部品采购策略执行与供应商管理： 1. 供应商季度合作规划，月度、周度供需管理； 2. 与供应商商务谈判，价格及返利管理； 3. 产品导入及质量相关事项推进； 4. 系统供应维护，供需异常协调； 5. 供应商商务、交付绩效考核，供应商相关商务活动安排。 二、面板市场信息收集与分析： 1. 面板行业市场信息整理与分析，分析所负责供应商的产品、产能及营销策略、客户关系等。",
+      "jobRequirements": "1. 本科及以上学历，专业不限； 2. 为人正直，具备良好的时间管理、工作抗压、逻辑分析能力； 3. 熟练掌握Excel、PPT等相关办公软件，积极主动、善于思考，具有较好的逻辑分析能力、学习能力、以及信息收集分析能力； 4. 性格外向，乐于与人沟通，有良好的沟通协调能力； 5. 英语CET-6及以上，具有良好的英语听说读写能力； 6. 对面板行业有兴趣。",
+      "JD": "一、屏部品采购策略执行与供应商管理： 1. 供应商季度合作规划，月度、周度供需管理； 2. 与供应商商务谈判，价格及返利管理； 3. 产品导入及质量相关事项推进； 4. 系统供应维护，供需异常协调； 5. 供应商商务、交付绩效考核，供应商相关商务活动安排。 二、面板市场信息收集与分析： 1. 面板行业市场信息整理与分析，分析所负责供应商的产品、产能及营销策略、客户关系等。\n1. 本科及以上学历，专业不限； 2. 为人正直，具备良好的时间管理、工作抗压、逻辑分析能力； 3. 熟练掌握Excel、PPT等相关办公软件，积极主动、善于思考，具有较好的逻辑分析能力、学习能力、以及信息收集分析能力； 4. 性格外向，乐于与人沟通，有良好的沟通协调能力； 5. 英语CET-6及以上，具有良好的英语听说读写能力； 6. 对面板行业有兴趣。",
+      "jdEvidence": {
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科及以上学历，专业不限"
+        ],
+        "eligibilityClauses": [],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语",
+        "Excel",
+        "PPT"
+      ],
+      "experienceKeywords": [
+        "市场",
+        "营销",
+        "供应链",
+        "客户",
+        "沟通",
+        "分析"
+      ],
+      "preferenceTags": [
+        "国际业务"
+      ],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方HotJob校招官网",
+      "officialURL": "https://wecruit.hotjob.cn/SU64893571bef57c16d356b99e/mc/detail?postId=6a8a7a3d1ad6db7cf833b62a&recruitType=1",
+      "publishedAt": "2026-10-30",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "2026-11-06",
+      "recruitmentProcess": "在线网申→在线测评→简历筛选→笔试（研发岗）→一面→二面→offer",
+      "recruitmentProcessEvidence": "E2 | TCL招聘官网琥珀计划页 | https://zhaopin.tcl.com/campus/amber.html | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | TCL官方校招门户 | https://campus.tcl.com/campus/spring.html | 2026-09-17"
+    },
+    {
       "id": "hotjob-2f96b460bb33",
       "company": "TCL华星光电",
       "title": "海外市场管培生",
@@ -503,104 +601,6 @@
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "2027-10-23",
-      "recruitmentProcess": "在线网申→在线测评→简历筛选→笔试（研发岗）→一面→二面→offer",
-      "recruitmentProcessEvidence": "E2 | TCL招聘官网琥珀计划页 | https://zhaopin.tcl.com/campus/amber.html | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E2 | TCL官方校招门户 | https://campus.tcl.com/campus/spring.html | 2026-09-17"
-    },
-    {
-      "id": "hotjob-34c00c3d0fb6",
-      "company": "TCL华星光电",
-      "title": "供应链管培生（采购方向）",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "本科",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "本科及以上学历，专业不限",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "深圳",
-      "jobDescription": "一、屏部品采购策略执行与供应商管理： 1. 供应商季度合作规划，月度、周度供需管理； 2. 与供应商商务谈判，价格及返利管理； 3. 产品导入及质量相关事项推进； 4. 系统供应维护，供需异常协调； 5. 供应商商务、交付绩效考核，供应商相关商务活动安排。 二、面板市场信息收集与分析： 1. 面板行业市场信息整理与分析，分析所负责供应商的产品、产能及营销策略、客户关系等。",
-      "jobRequirements": "1. 本科及以上学历，专业不限； 2. 为人正直，具备良好的时间管理、工作抗压、逻辑分析能力； 3. 熟练掌握Excel、PPT等相关办公软件，积极主动、善于思考，具有较好的逻辑分析能力、学习能力、以及信息收集分析能力； 4. 性格外向，乐于与人沟通，有良好的沟通协调能力； 5. 英语CET-6及以上，具有良好的英语听说读写能力； 6. 对面板行业有兴趣。",
-      "JD": "一、屏部品采购策略执行与供应商管理： 1. 供应商季度合作规划，月度、周度供需管理； 2. 与供应商商务谈判，价格及返利管理； 3. 产品导入及质量相关事项推进； 4. 系统供应维护，供需异常协调； 5. 供应商商务、交付绩效考核，供应商相关商务活动安排。 二、面板市场信息收集与分析： 1. 面板行业市场信息整理与分析，分析所负责供应商的产品、产能及营销策略、客户关系等。\n1. 本科及以上学历，专业不限； 2. 为人正直，具备良好的时间管理、工作抗压、逻辑分析能力； 3. 熟练掌握Excel、PPT等相关办公软件，积极主动、善于思考，具有较好的逻辑分析能力、学习能力、以及信息收集分析能力； 4. 性格外向，乐于与人沟通，有良好的沟通协调能力； 5. 英语CET-6及以上，具有良好的英语听说读写能力； 6. 对面板行业有兴趣。",
-      "jdEvidence": {
-        "source": "llm:deepseek:deepseek-flash",
-        "majorClauses": [
-          "本科及以上学历，专业不限"
-        ],
-        "eligibilityClauses": [],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [
-        "英语",
-        "Excel",
-        "PPT"
-      ],
-      "experienceKeywords": [
-        "市场",
-        "营销",
-        "供应链",
-        "客户",
-        "沟通",
-        "分析"
-      ],
-      "preferenceTags": [
-        "国际业务"
-      ],
-      "riskTags": [
-        "节奏快"
-      ],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "公司官方HotJob校招官网",
-      "officialURL": "https://wecruit.hotjob.cn/SU64893571bef57c16d356b99e/mc/detail?postId=6a8a7a3d1ad6db7cf833b62a&recruitType=1",
-      "publishedAt": "2026-10-26",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "2026-11-06",
       "recruitmentProcess": "在线网申→在线测评→简历筛选→笔试（研发岗）→一面→二面→offer",
       "recruitmentProcessEvidence": "E2 | TCL招聘官网琥珀计划页 | https://zhaopin.tcl.com/campus/amber.html | 2026-09-17",
       "hasAssessment": "有",
@@ -6765,7 +6765,7 @@
       "annualSalary": "未披露",
       "source": "公司官方HotJob校招官网",
       "officialURL": "https://wecruit.hotjob.cn/SU64893571bef57c16d356b99e/mc/detail?postId=6a8d72051ad6db7cf83c0392&recruitType=1",
-      "publishedAt": "2026-10-26",
+      "publishedAt": "2026-10-30",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "2027-08-25",

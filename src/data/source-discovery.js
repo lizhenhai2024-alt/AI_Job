@@ -41,8 +41,8 @@ export const sourceDiscovery = [
     "officialUrl": "https://anton.hotjob.cn/",
     "reason": "已发现公司官方招聘入口，但当前站点 anton.hotjob.cn 尚无自动抓取适配器",
     "attempts": 0,
-    "lastCheckedAt": "2026-10-30T01:58:45.180Z",
-    "nextCheckAfter": "2026-10-31T01:58:45.183Z"
+    "lastCheckedAt": "2026-10-30T15:51:20.049Z",
+    "nextCheckAfter": "2026-10-31T15:51:20.053Z"
   },
   {
     "name": "百度",
@@ -349,7 +349,7 @@ export const sourceDiscovery = [
     "officialUrl": "https://app.mokahr.com/m/campus-recruitment/shinemage/146829?locale=zh-CN",
     "reason": "高校详情页明确给出Moka校园招聘入口；等价官方源已存在",
     "attempts": 0,
-    "lastCheckedAt": "2026-10-30T01:58:45.180Z",
+    "lastCheckedAt": "2026-10-30T15:51:20.049Z",
     "nextCheckAfter": ""
   },
   {
@@ -789,8 +789,8 @@ export const sourceDiscovery = [
     "officialUrl": "https://campus.pingan.com/pabbj/position",
     "reason": "已发现公司官方招聘入口，但当前站点 campus.pingan.com 尚无自动抓取适配器",
     "attempts": 0,
-    "lastCheckedAt": "2026-10-30T01:58:45.180Z",
-    "nextCheckAfter": "2026-10-31T01:58:45.183Z"
+    "lastCheckedAt": "2026-10-30T15:51:20.049Z",
+    "nextCheckAfter": "2026-10-31T15:51:20.053Z"
   },
   {
     "name": "奇安信",
@@ -1598,7 +1598,7 @@ export const sourceDiscovery = [
 ];
 
 export const sourceDiscoveryMeta = {
-  "updatedAt": "2026-10-30T08:39:16.334Z",
+  "updatedAt": "2026-10-30T15:51:20.049Z",
   "lastRun": {
     "processed": 12,
     "sourcesAdded": 0,

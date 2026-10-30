@@ -1,7 +1,7 @@
 {
   "company": "中国人民保险集团",
-  "count": 248,
-  "updatedAt": "2026-10-30T01:58:48.081Z",
+  "count": 249,
+  "updatedAt": "2026-10-30T15:51:29.867Z",
   "jobs": [
     {
       "id": "beisen-cae8c615acdd",
@@ -18575,6 +18575,91 @@
       "source": "公司官方北森校招官网",
       "officialURL": "https://picc.zhiye.com/campus/detail?jobAdId=d50c1ccf-8179-45ee-88be-e21730214154",
       "publishedAt": "2026-07-31",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-f9e1297e95f6",
+      "company": "中国人民保险集团",
+      "title": "人保财险-安徽省分公司-综合类-理赔类岗位（省理赔运营中心）-2027届校招(J78188)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "2.车辆类、医学类、法律类、机械类等相关专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "安徽省·合肥市",
+      "jobDescription": "1.按公司规定和业务流程对出险案件进行车险查勘定损、人伤案件跟踪，负责小额案件的快速处理工作； 2.核实事故经过及真实性，快速、准确、合理地核定保险事故损失，编制查勘报告，对风险案件进行上报； 3.负责现场施救任务以及其他服务项目的实施,记录并处理客户提出的意见； 4.负责查勘定损环节的客户信息、资料收集和维护，并将资料及时移交给其他相关的工作人员； 5.指引客户后续索赔流程，妥善解答和受理客户咨询与投诉。",
+      "jobRequirements": "1.2027年应届高校毕业生，本科及以上学历； 2.车辆类、医学类、法律类、机械类等相关专业优先； 3.具有较强的沟通及协调能力，强烈的责任心和敬业精神等。",
+      "JD": "1.按公司规定和业务流程对出险案件进行车险查勘定损、人伤案件跟踪，负责小额案件的快速处理工作； 2.核实事故经过及真实性，快速、准确、合理地核定保险事故损失，编制查勘报告，对风险案件进行上报； 3.负责现场施救任务以及其他服务项目的实施,记录并处理客户提出的意见； 4.负责查勘定损环节的客户信息、资料收集和维护，并将资料及时移交给其他相关的工作人员； 5.指引客户后续索赔流程，妥善解答和受理客户咨询与投诉。\n1.2027年应届高校毕业生，本科及以上学历； 2.车辆类、医学类、法律类、机械类等相关专业优先； 3.具有较强的沟通及协调能力，强烈的责任心和敬业精神等。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "2.车辆类、医学类、法律类、机械类等相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "运营",
+        "项目",
+        "客户"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 1.按公司规定和业务流程对出险案件进行车险查勘定损、人伤案件跟踪，负责小额案件的快"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://picc.zhiye.com/campus/detail?jobAdId=737ad4ea-9364-47a5-b91d-2e4517fb7997",
+      "publishedAt": "2026-10-30",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": ""

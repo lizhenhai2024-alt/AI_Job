@@ -1,7 +1,7 @@
 {
   "company": "九号公司",
   "count": 57,
-  "updatedAt": "2026-10-30T01:58:48.081Z",
+  "updatedAt": "2026-10-30T15:51:29.867Z",
   "jobs": [
     {
       "id": "ninebot-02f1cade5c0f",
@@ -299,101 +299,6 @@
       "deadline": ""
     },
     {
-      "id": "ninebot-d50eafd6d8d0",
-      "company": "九号公司",
-      "title": "GTM运营专员（短交通）",
-      "graduationYear": [
-        "2026",
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "本科",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "1. 2026届&2027届统招全日制本科及以上学历，市场营销、工商管理、统计学、工业设计等相关专业优先",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "深圳",
-      "jobDescription": "岗位职责： 1.亚太中东地区的订单支持，CRM系统操作； 2.客户合同、商务关系的维护； 3.与物流配合，实现客户订单发货； 4.产品信息的收集，以及对客户的支持。 任职资格： 1. 2026届&2027届统招全日制本科及以上学历，市场营销、工商管理、统计学、工业设计等相关专业优先； 2. 对短交通/智能硬件行业有浓厚兴趣，了解消费电子产品上市基本逻辑； 3. 具备良好的数据分析能力，熟练使用Excel等办公工具，有相关课程或项目经验优先； 4. 在校期间有学生会、社团组织或市场类实习经历，具备活动策划或项目协调经验优先； 5. 逻辑清晰，沟通表达能力强，具备较强的学习能力和团队协作意识； 6. 英语听说读写流利。",
-      "jobRequirements": "",
-      "JD": "岗位职责： 1.亚太中东地区的订单支持，CRM系统操作； 2.客户合同、商务关系的维护； 3.与物流配合，实现客户订单发货； 4.产品信息的收集，以及对客户的支持。 任职资格： 1. 2026届&2027届统招全日制本科及以上学历，市场营销、工商管理、统计学、工业设计等相关专业优先； 2. 对短交通/智能硬件行业有浓厚兴趣，了解消费电子产品上市基本逻辑； 3. 具备良好的数据分析能力，熟练使用Excel等办公工具，有相关课程或项目经验优先； 4. 在校期间有学生会、社团组织或市场类实习经历，具备活动策划或项目协调经验优先； 5. 逻辑清晰，沟通表达能力强，具备较强的学习能力和团队协作意识； 6. 英语听说读写流利。",
-      "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [
-          "1. 2026届&2027届统招全日制本科及以上学历，市场营销、工商管理、统计学、工业设计等相关专业优先"
-        ],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "GTM"
-      ],
-      "skills": [
-        "英语",
-        "Excel",
-        "数据分析"
-      ],
-      "experienceKeywords": [
-        "运营",
-        "项目",
-        "市场",
-        "数据",
-        "营销",
-        "客户",
-        "产品",
-        "商务"
-      ],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "九号公司官方2027校招官网",
-      "officialURL": "https://app.mokahr.com/campus-recruitment/ninebot/45627?locale=zh-CN#/job/7ac1ad9e-7280-4257-bfc8-2e4c8afc2245",
-      "publishedAt": "",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
       "id": "ninebot-bb649cbc0923",
       "company": "九号公司",
       "title": "电商运营专员（短交通）",
@@ -486,6 +391,101 @@
       "annualSalary": "未披露",
       "source": "九号公司官方2027校招官网",
       "officialURL": "https://app.mokahr.com/campus-recruitment/ninebot/45627?locale=zh-CN#/job/f099090d-0076-40ff-9c21-3e14e97531d8",
+      "publishedAt": "",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "ninebot-d50eafd6d8d0",
+      "company": "九号公司",
+      "title": "GTM运营专员（短交通）",
+      "graduationYear": [
+        "2026",
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1. 2026届&2027届统招全日制本科及以上学历，市场营销、工商管理、统计学、工业设计等相关专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "深圳",
+      "jobDescription": "岗位职责： 1.亚太中东地区的订单支持，CRM系统操作； 2.客户合同、商务关系的维护； 3.与物流配合，实现客户订单发货； 4.产品信息的收集，以及对客户的支持。 任职资格： 1. 2026届&2027届统招全日制本科及以上学历，市场营销、工商管理、统计学、工业设计等相关专业优先； 2. 对短交通/智能硬件行业有浓厚兴趣，了解消费电子产品上市基本逻辑； 3. 具备良好的数据分析能力，熟练使用Excel等办公工具，有相关课程或项目经验优先； 4. 在校期间有学生会、社团组织或市场类实习经历，具备活动策划或项目协调经验优先； 5. 逻辑清晰，沟通表达能力强，具备较强的学习能力和团队协作意识； 6. 英语听说读写流利。",
+      "jobRequirements": "",
+      "JD": "岗位职责： 1.亚太中东地区的订单支持，CRM系统操作； 2.客户合同、商务关系的维护； 3.与物流配合，实现客户订单发货； 4.产品信息的收集，以及对客户的支持。 任职资格： 1. 2026届&2027届统招全日制本科及以上学历，市场营销、工商管理、统计学、工业设计等相关专业优先； 2. 对短交通/智能硬件行业有浓厚兴趣，了解消费电子产品上市基本逻辑； 3. 具备良好的数据分析能力，熟练使用Excel等办公工具，有相关课程或项目经验优先； 4. 在校期间有学生会、社团组织或市场类实习经历，具备活动策划或项目协调经验优先； 5. 逻辑清晰，沟通表达能力强，具备较强的学习能力和团队协作意识； 6. 英语听说读写流利。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1. 2026届&2027届统招全日制本科及以上学历，市场营销、工商管理、统计学、工业设计等相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "GTM"
+      ],
+      "skills": [
+        "英语",
+        "Excel",
+        "数据分析"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "项目",
+        "市场",
+        "数据",
+        "营销",
+        "客户",
+        "产品",
+        "商务"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "九号公司官方2027校招官网",
+      "officialURL": "https://app.mokahr.com/campus-recruitment/ninebot/45627?locale=zh-CN#/job/7ac1ad9e-7280-4257-bfc8-2e4c8afc2245",
       "publishedAt": "",
       "lastVerified": "",
       "sourceType": "official",
@@ -2061,19 +2061,20 @@
       "deadline": ""
     },
     {
-      "id": "ninebot-665318141d16",
+      "id": "ninebot-d3cba4690d32",
       "company": "九号公司",
-      "title": "营销策划专员-体验营销方向（电动车）",
+      "title": "服务管理专员（短交通）",
       "graduationYear": [
+        "2026",
         "2027"
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "1. 2026届&2027届统招全日制本科及以上学历，管理类、交通运输类、市场营销类、工科类相关专业优先",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -2083,12 +2084,14 @@
         "minorLanguageRequired": false
       },
       "location": "北京",
-      "jobDescription": "岗位职责： 1‌. 市场调研‌：收集并分析市场信息，包括竞争对手情况、客户需求、行业趋势、政策法规、市场动态等，以了解市场状况，为业务决策提供依据； 2‌. 制定营销策略‌：根据市场调研结果，制定相应的营销策略，包括产品推广、促销活动、品牌建设、定价策略等； 3. 制定品牌推广计划，利用多种渠道和平台进行品牌传播，增强品牌与消费者的互动和粘性; 4. 策划、执行营销活动‌：策划并执行制定的营销策略，包括广告、公关、促销、线上/线下活动等，涉及媒体选择、活动组织、合作协调等； 5. 效果评估‌：对营销活动的效果进行评估，包括销售额、市场份额、品牌知名度、客户满意度等，通过数据分析和指标监控，优化营销策略和活动。 任职资格： 1. 具备学生会或社团实践经历，能带队完成项目，且有管培生意愿； 2. 具备企业实习、实践项目经验；获得过国际级/国家级竞赛奖项； 3. 创新思维‌：具备创新的思维模式，能够应对市场变化，提出新的营销策略和活动方案； 4. 沟通能力‌：具有良好的口头和书面表达能力，能够与公司内部其他部门、客户和合作伙伴进行有效沟通； 5. 团队合作能力‌：具备团队精神与合作意识； 6. 自我学习能力‌：具备良好的抗压性、自驱性及主动学习能力。",
+      "jobDescription": "岗位职责： 1.负责售后网点布局及开发的，汰换等管理； 2.网点日常运营管理；流程优化管理。 任职要求： 1. 2026届&2027届统招全日制本科及以上学历，管理类、交通运输类、市场营销类、工科类相关专业优先； 2. 对服务运营、用户体验领域有兴趣，有相关实习经历、学生组织管理经验优先； 3. 具备良好的沟通表达能力与跨部门协作意识，能够快速响应业务需求； 4. 具备基础的数据分析能力，熟练使用Excel、PPT等办公软件； 5. 工作细致、责任心强，具备较强的服务意识与问题解决能力。",
       "jobRequirements": "",
-      "JD": "岗位职责： 1‌. 市场调研‌：收集并分析市场信息，包括竞争对手情况、客户需求、行业趋势、政策法规、市场动态等，以了解市场状况，为业务决策提供依据； 2‌. 制定营销策略‌：根据市场调研结果，制定相应的营销策略，包括产品推广、促销活动、品牌建设、定价策略等； 3. 制定品牌推广计划，利用多种渠道和平台进行品牌传播，增强品牌与消费者的互动和粘性; 4. 策划、执行营销活动‌：策划并执行制定的营销策略，包括广告、公关、促销、线上/线下活动等，涉及媒体选择、活动组织、合作协调等； 5. 效果评估‌：对营销活动的效果进行评估，包括销售额、市场份额、品牌知名度、客户满意度等，通过数据分析和指标监控，优化营销策略和活动。 任职资格： 1. 具备学生会或社团实践经历，能带队完成项目，且有管培生意愿； 2. 具备企业实习、实践项目经验；获得过国际级/国家级竞赛奖项； 3. 创新思维‌：具备创新的思维模式，能够应对市场变化，提出新的营销策略和活动方案； 4. 沟通能力‌：具有良好的口头和书面表达能力，能够与公司内部其他部门、客户和合作伙伴进行有效沟通； 5. 团队合作能力‌：具备团队精神与合作意识； 6. 自我学习能力‌：具备良好的抗压性、自驱性及主动学习能力。",
+      "JD": "岗位职责： 1.负责售后网点布局及开发的，汰换等管理； 2.网点日常运营管理；流程优化管理。 任职要求： 1. 2026届&2027届统招全日制本科及以上学历，管理类、交通运输类、市场营销类、工科类相关专业优先； 2. 对服务运营、用户体验领域有兴趣，有相关实习经历、学生组织管理经验优先； 3. 具备良好的沟通表达能力与跨部门协作意识，能够快速响应业务需求； 4. 具备基础的数据分析能力，熟练使用Excel、PPT等办公软件； 5. 工作细致、责任心强，具备较强的服务意识与问题解决能力。",
       "jdEvidence": {
         "source": "regex-v1",
-        "majorClauses": [],
+        "majorClauses": [
+          "1. 2026届&2027届统招全日制本科及以上学历，管理类、交通运输类、市场营销类、工科类相关专业优先"
+        ],
         "eligibilityClauses": [
           "招聘对象：2027届"
         ],
@@ -2096,26 +2099,23 @@
         "businessDuties": []
       },
       "roleFamily": [
-        "产品营销"
+        "其他"
       ],
       "skills": [
-        "数据分析"
+        "Excel",
+        "数据分析",
+        "PPT"
       ],
       "experienceKeywords": [
-        "项目",
+        "运营",
         "市场",
+        "用户",
         "数据",
         "营销",
-        "品牌",
-        "客户",
-        "产品"
+        "服务"
       ],
-      "preferenceTags": [
-        "国际业务"
-      ],
-      "riskTags": [
-        "节奏快"
-      ],
+      "preferenceTags": [],
+      "riskTags": [],
       "headcount": {
         "disclosed": false,
         "raw": "",
@@ -2147,7 +2147,7 @@
       "monthlySalary": "未披露",
       "annualSalary": "未披露",
       "source": "九号公司官方2027校招官网",
-      "officialURL": "https://app.mokahr.com/campus-recruitment/ninebot/45627?locale=zh-CN#/job/17769c44-d491-4182-81df-2226c8bcca40",
+      "officialURL": "https://app.mokahr.com/campus-recruitment/ninebot/45627?locale=zh-CN#/job/cb1de6ab-72c8-4f8c-89dd-db8ec38e9012",
       "publishedAt": "",
       "lastVerified": "",
       "sourceType": "official",
@@ -2243,20 +2243,19 @@
       "deadline": ""
     },
     {
-      "id": "ninebot-8c03b27fe2c6",
+      "id": "ninebot-665318141d16",
       "company": "九号公司",
-      "title": "PSI运营专员（短交通）",
+      "title": "营销策划专员-体验营销方向（电动车）",
       "graduationYear": [
-        "2026",
         "2027"
       ],
       "education": {
         "raw": "",
-        "min": "本科",
+        "min": "",
         "masterRequired": false
       },
       "major": {
-        "raw": "1. 2026届&2027届统招全日制本科及以上学历，供应链管理、物流管理、统计学、工商管理、工业工程等相关专业优先",
+        "raw": "",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -2265,15 +2264,13 @@
         "english": false,
         "minorLanguageRequired": false
       },
-      "location": "待核",
-      "jobDescription": "岗位职责： 1.负责新项目NPM交付跟踪及EOP信息闭环管理； 2.异常交付台账闭环管理； 3.重点市场渠道库存信息收集及数据分析。 任职资格： 1. 2026届&2027届统招全日制本科及以上学历，供应链管理、物流管理、统计学、工商管理、工业工程等相关专业优先； 2. 对供应链运营、进销存管理有基础认知，有相关实习经历或课程项目经验者优先； 3. 熟练使用Excel（函数、数据透视表等），具备基础的数据整理与分析能力； 4. 逻辑清晰，做事细致严谨，有较强的责任心和执行力； 5. 具备良好的沟通表达能力和团队协作意识，愿意主动学习新业务。",
+      "location": "北京",
+      "jobDescription": "岗位职责： 1‌. 市场调研‌：收集并分析市场信息，包括竞争对手情况、客户需求、行业趋势、政策法规、市场动态等，以了解市场状况，为业务决策提供依据； 2‌. 制定营销策略‌：根据市场调研结果，制定相应的营销策略，包括产品推广、促销活动、品牌建设、定价策略等； 3. 制定品牌推广计划，利用多种渠道和平台进行品牌传播，增强品牌与消费者的互动和粘性; 4. 策划、执行营销活动‌：策划并执行制定的营销策略，包括广告、公关、促销、线上/线下活动等，涉及媒体选择、活动组织、合作协调等； 5. 效果评估‌：对营销活动的效果进行评估，包括销售额、市场份额、品牌知名度、客户满意度等，通过数据分析和指标监控，优化营销策略和活动。 任职资格： 1. 具备学生会或社团实践经历，能带队完成项目，且有管培生意愿； 2. 具备企业实习、实践项目经验；获得过国际级/国家级竞赛奖项； 3. 创新思维‌：具备创新的思维模式，能够应对市场变化，提出新的营销策略和活动方案； 4. 沟通能力‌：具有良好的口头和书面表达能力，能够与公司内部其他部门、客户和合作伙伴进行有效沟通； 5. 团队合作能力‌：具备团队精神与合作意识； 6. 自我学习能力‌：具备良好的抗压性、自驱性及主动学习能力。",
       "jobRequirements": "",
-      "JD": "岗位职责： 1.负责新项目NPM交付跟踪及EOP信息闭环管理； 2.异常交付台账闭环管理； 3.重点市场渠道库存信息收集及数据分析。 任职资格： 1. 2026届&2027届统招全日制本科及以上学历，供应链管理、物流管理、统计学、工商管理、工业工程等相关专业优先； 2. 对供应链运营、进销存管理有基础认知，有相关实习经历或课程项目经验者优先； 3. 熟练使用Excel（函数、数据透视表等），具备基础的数据整理与分析能力； 4. 逻辑清晰，做事细致严谨，有较强的责任心和执行力； 5. 具备良好的沟通表达能力和团队协作意识，愿意主动学习新业务。",
+      "JD": "岗位职责： 1‌. 市场调研‌：收集并分析市场信息，包括竞争对手情况、客户需求、行业趋势、政策法规、市场动态等，以了解市场状况，为业务决策提供依据； 2‌. 制定营销策略‌：根据市场调研结果，制定相应的营销策略，包括产品推广、促销活动、品牌建设、定价策略等； 3. 制定品牌推广计划，利用多种渠道和平台进行品牌传播，增强品牌与消费者的互动和粘性; 4. 策划、执行营销活动‌：策划并执行制定的营销策略，包括广告、公关、促销、线上/线下活动等，涉及媒体选择、活动组织、合作协调等； 5. 效果评估‌：对营销活动的效果进行评估，包括销售额、市场份额、品牌知名度、客户满意度等，通过数据分析和指标监控，优化营销策略和活动。 任职资格： 1. 具备学生会或社团实践经历，能带队完成项目，且有管培生意愿； 2. 具备企业实习、实践项目经验；获得过国际级/国家级竞赛奖项； 3. 创新思维‌：具备创新的思维模式，能够应对市场变化，提出新的营销策略和活动方案； 4. 沟通能力‌：具有良好的口头和书面表达能力，能够与公司内部其他部门、客户和合作伙伴进行有效沟通； 5. 团队合作能力‌：具备团队精神与合作意识； 6. 自我学习能力‌：具备良好的抗压性、自驱性及主动学习能力。",
       "jdEvidence": {
         "source": "regex-v1",
-        "majorClauses": [
-          "1. 2026届&2027届统招全日制本科及以上学历，供应链管理、物流管理、统计学、工商管理、工业工程等相关专业优先"
-        ],
+        "majorClauses": [],
         "eligibilityClauses": [
           "招聘对象：2027届"
         ],
@@ -2281,22 +2278,26 @@
         "businessDuties": []
       },
       "roleFamily": [
-        "其他"
+        "产品营销"
       ],
       "skills": [
-        "Excel",
         "数据分析"
       ],
       "experienceKeywords": [
-        "运营",
         "项目",
         "市场",
         "数据",
         "营销",
-        "供应链"
+        "品牌",
+        "客户",
+        "产品"
       ],
-      "preferenceTags": [],
-      "riskTags": [],
+      "preferenceTags": [
+        "国际业务"
+      ],
+      "riskTags": [
+        "节奏快"
+      ],
       "headcount": {
         "disclosed": false,
         "raw": "",
@@ -2328,7 +2329,7 @@
       "monthlySalary": "未披露",
       "annualSalary": "未披露",
       "source": "九号公司官方2027校招官网",
-      "officialURL": "https://app.mokahr.com/campus-recruitment/ninebot/45627?locale=zh-CN#/job/7cd0b20d-8a56-429b-aec3-15aceb242a68",
+      "officialURL": "https://app.mokahr.com/campus-recruitment/ninebot/45627?locale=zh-CN#/job/17769c44-d491-4182-81df-2226c8bcca40",
       "publishedAt": "",
       "lastVerified": "",
       "sourceType": "official",
@@ -2433,9 +2434,9 @@
       "deadline": ""
     },
     {
-      "id": "ninebot-d3cba4690d32",
+      "id": "ninebot-8c03b27fe2c6",
       "company": "九号公司",
-      "title": "服务管理专员（短交通）",
+      "title": "PSI运营专员（短交通）",
       "graduationYear": [
         "2026",
         "2027"
@@ -2446,7 +2447,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "1. 2026届&2027届统招全日制本科及以上学历，管理类、交通运输类、市场营销类、工科类相关专业优先",
+        "raw": "1. 2026届&2027届统招全日制本科及以上学历，供应链管理、物流管理、统计学、工商管理、工业工程等相关专业优先",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -2455,14 +2456,14 @@
         "english": false,
         "minorLanguageRequired": false
       },
-      "location": "北京",
-      "jobDescription": "岗位职责： 1.负责售后网点布局及开发的，汰换等管理； 2.网点日常运营管理；流程优化管理。 任职要求： 1. 2026届&2027届统招全日制本科及以上学历，管理类、交通运输类、市场营销类、工科类相关专业优先； 2. 对服务运营、用户体验领域有兴趣，有相关实习经历、学生组织管理经验优先； 3. 具备良好的沟通表达能力与跨部门协作意识，能够快速响应业务需求； 4. 具备基础的数据分析能力，熟练使用Excel、PPT等办公软件； 5. 工作细致、责任心强，具备较强的服务意识与问题解决能力。",
+      "location": "待核",
+      "jobDescription": "岗位职责： 1.负责新项目NPM交付跟踪及EOP信息闭环管理； 2.异常交付台账闭环管理； 3.重点市场渠道库存信息收集及数据分析。 任职资格： 1. 2026届&2027届统招全日制本科及以上学历，供应链管理、物流管理、统计学、工商管理、工业工程等相关专业优先； 2. 对供应链运营、进销存管理有基础认知，有相关实习经历或课程项目经验者优先； 3. 熟练使用Excel（函数、数据透视表等），具备基础的数据整理与分析能力； 4. 逻辑清晰，做事细致严谨，有较强的责任心和执行力； 5. 具备良好的沟通表达能力和团队协作意识，愿意主动学习新业务。",
       "jobRequirements": "",
-      "JD": "岗位职责： 1.负责售后网点布局及开发的，汰换等管理； 2.网点日常运营管理；流程优化管理。 任职要求： 1. 2026届&2027届统招全日制本科及以上学历，管理类、交通运输类、市场营销类、工科类相关专业优先； 2. 对服务运营、用户体验领域有兴趣，有相关实习经历、学生组织管理经验优先； 3. 具备良好的沟通表达能力与跨部门协作意识，能够快速响应业务需求； 4. 具备基础的数据分析能力，熟练使用Excel、PPT等办公软件； 5. 工作细致、责任心强，具备较强的服务意识与问题解决能力。",
+      "JD": "岗位职责： 1.负责新项目NPM交付跟踪及EOP信息闭环管理； 2.异常交付台账闭环管理； 3.重点市场渠道库存信息收集及数据分析。 任职资格： 1. 2026届&2027届统招全日制本科及以上学历，供应链管理、物流管理、统计学、工商管理、工业工程等相关专业优先； 2. 对供应链运营、进销存管理有基础认知，有相关实习经历或课程项目经验者优先； 3. 熟练使用Excel（函数、数据透视表等），具备基础的数据整理与分析能力； 4. 逻辑清晰，做事细致严谨，有较强的责任心和执行力； 5. 具备良好的沟通表达能力和团队协作意识，愿意主动学习新业务。",
       "jdEvidence": {
         "source": "regex-v1",
         "majorClauses": [
-          "1. 2026届&2027届统招全日制本科及以上学历，管理类、交通运输类、市场营销类、工科类相关专业优先"
+          "1. 2026届&2027届统招全日制本科及以上学历，供应链管理、物流管理、统计学、工商管理、工业工程等相关专业优先"
         ],
         "eligibilityClauses": [
           "招聘对象：2027届"
@@ -2475,16 +2476,15 @@
       ],
       "skills": [
         "Excel",
-        "数据分析",
-        "PPT"
+        "数据分析"
       ],
       "experienceKeywords": [
         "运营",
+        "项目",
         "市场",
-        "用户",
         "数据",
         "营销",
-        "服务"
+        "供应链"
       ],
       "preferenceTags": [],
       "riskTags": [],
@@ -2519,7 +2519,7 @@
       "monthlySalary": "未披露",
       "annualSalary": "未披露",
       "source": "九号公司官方2027校招官网",
-      "officialURL": "https://app.mokahr.com/campus-recruitment/ninebot/45627?locale=zh-CN#/job/cb1de6ab-72c8-4f8c-89dd-db8ec38e9012",
+      "officialURL": "https://app.mokahr.com/campus-recruitment/ninebot/45627?locale=zh-CN#/job/7cd0b20d-8a56-429b-aec3-15aceb242a68",
       "publishedAt": "",
       "lastVerified": "",
       "sourceType": "official",
@@ -2700,6 +2700,101 @@
       "annualSalary": "未披露",
       "source": "九号公司官方2027校招官网",
       "officialURL": "https://app.mokahr.com/campus-recruitment/ninebot/45627?locale=zh-CN#/job/57235922-4888-433f-b54d-a235ce72731b",
+      "publishedAt": "",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "ninebot-194030f9def0",
+      "company": "九号公司",
+      "title": "备件运营专员（短交通）",
+      "graduationYear": [
+        "2026",
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1. 2026届&2027届统招全日制本科及以上学历，管理类、交通运输类、市场营销类、工科类相关专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "待核",
+      "jobDescription": "岗位职责： 1.交期确认：依据备件计划团队的滚动备件计划，对接售后工厂确认备件交付日期； 2.交付协调：根据销区备件需求紧急程度，协调工厂产出、调拨不同销区库存，制定欠发备件满足方案； 3.交付流程：优化售后工厂备件交付流程，评估和协调备件交付风险； 4.销售价格：参与备件销售价格核价规则制定，评审备件销售价格合理性； 5.备件主数据系统维护、修改； 6.指标监控：监控库存周转天数、备件交付达成率，对接备件计划及销区，推动制定改善方案； 7.销售订单：下达销售订单、监督仓库发货； 8.对接物流部门，追踪物流询价，监控订舱、运输进度。 任职资格： 1. 2026届&2027届统招全日制本科及以上学历，管理类、交通运输类、市场营销类、工科类相关专业优先； 2.售后备件相关经验，了解备件计划运行机制，售后备件计划、海外备件服务、备件流程搭建经验优先； 3.熟练的英文口语、读写能力，最好可作为工作语言； 4.积极、乐观、良好的处事及沟通能力。",
+      "jobRequirements": "",
+      "JD": "岗位职责： 1.交期确认：依据备件计划团队的滚动备件计划，对接售后工厂确认备件交付日期； 2.交付协调：根据销区备件需求紧急程度，协调工厂产出、调拨不同销区库存，制定欠发备件满足方案； 3.交付流程：优化售后工厂备件交付流程，评估和协调备件交付风险； 4.销售价格：参与备件销售价格核价规则制定，评审备件销售价格合理性； 5.备件主数据系统维护、修改； 6.指标监控：监控库存周转天数、备件交付达成率，对接备件计划及销区，推动制定改善方案； 7.销售订单：下达销售订单、监督仓库发货； 8.对接物流部门，追踪物流询价，监控订舱、运输进度。 任职资格： 1. 2026届&2027届统招全日制本科及以上学历，管理类、交通运输类、市场营销类、工科类相关专业优先； 2.售后备件相关经验，了解备件计划运行机制，售后备件计划、海外备件服务、备件流程搭建经验优先； 3.熟练的英文口语、读写能力，最好可作为工作语言； 4.积极、乐观、良好的处事及沟通能力。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1. 2026届&2027届统招全日制本科及以上学历，管理类、交通运输类、市场营销类、工科类相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "物流执行"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语"
+      ],
+      "experienceKeywords": [
+        "海外",
+        "运营",
+        "市场",
+        "数据",
+        "营销",
+        "服务"
+      ],
+      "preferenceTags": [
+        "国际业务"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "九号公司官方2027校招官网",
+      "officialURL": "https://app.mokahr.com/campus-recruitment/ninebot/45627?locale=zh-CN#/job/86f09a39-fd56-470b-adf7-c58cd3ce52f9",
       "publishedAt": "",
       "lastVerified": "",
       "sourceType": "official",
@@ -2892,101 +2987,6 @@
       "annualSalary": "未披露",
       "source": "九号公司官方2027校招官网",
       "officialURL": "https://app.mokahr.com/campus-recruitment/ninebot/45627?locale=zh-CN#/job/804c6706-0f21-47f6-bf5b-ea24cf102867",
-      "publishedAt": "",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "ninebot-194030f9def0",
-      "company": "九号公司",
-      "title": "备件运营专员（短交通）",
-      "graduationYear": [
-        "2026",
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "本科",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "1. 2026届&2027届统招全日制本科及以上学历，管理类、交通运输类、市场营销类、工科类相关专业优先",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "待核",
-      "jobDescription": "岗位职责： 1.交期确认：依据备件计划团队的滚动备件计划，对接售后工厂确认备件交付日期； 2.交付协调：根据销区备件需求紧急程度，协调工厂产出、调拨不同销区库存，制定欠发备件满足方案； 3.交付流程：优化售后工厂备件交付流程，评估和协调备件交付风险； 4.销售价格：参与备件销售价格核价规则制定，评审备件销售价格合理性； 5.备件主数据系统维护、修改； 6.指标监控：监控库存周转天数、备件交付达成率，对接备件计划及销区，推动制定改善方案； 7.销售订单：下达销售订单、监督仓库发货； 8.对接物流部门，追踪物流询价，监控订舱、运输进度。 任职资格： 1. 2026届&2027届统招全日制本科及以上学历，管理类、交通运输类、市场营销类、工科类相关专业优先； 2.售后备件相关经验，了解备件计划运行机制，售后备件计划、海外备件服务、备件流程搭建经验优先； 3.熟练的英文口语、读写能力，最好可作为工作语言； 4.积极、乐观、良好的处事及沟通能力。",
-      "jobRequirements": "",
-      "JD": "岗位职责： 1.交期确认：依据备件计划团队的滚动备件计划，对接售后工厂确认备件交付日期； 2.交付协调：根据销区备件需求紧急程度，协调工厂产出、调拨不同销区库存，制定欠发备件满足方案； 3.交付流程：优化售后工厂备件交付流程，评估和协调备件交付风险； 4.销售价格：参与备件销售价格核价规则制定，评审备件销售价格合理性； 5.备件主数据系统维护、修改； 6.指标监控：监控库存周转天数、备件交付达成率，对接备件计划及销区，推动制定改善方案； 7.销售订单：下达销售订单、监督仓库发货； 8.对接物流部门，追踪物流询价，监控订舱、运输进度。 任职资格： 1. 2026届&2027届统招全日制本科及以上学历，管理类、交通运输类、市场营销类、工科类相关专业优先； 2.售后备件相关经验，了解备件计划运行机制，售后备件计划、海外备件服务、备件流程搭建经验优先； 3.熟练的英文口语、读写能力，最好可作为工作语言； 4.积极、乐观、良好的处事及沟通能力。",
-      "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [
-          "1. 2026届&2027届统招全日制本科及以上学历，管理类、交通运输类、市场营销类、工科类相关专业优先"
-        ],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
-        "technicalDuties": [],
-        "businessDuties": [
-          "物流执行"
-        ]
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [
-        "英语"
-      ],
-      "experienceKeywords": [
-        "海外",
-        "运营",
-        "市场",
-        "数据",
-        "营销",
-        "服务"
-      ],
-      "preferenceTags": [
-        "国际业务"
-      ],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "九号公司官方2027校招官网",
-      "officialURL": "https://app.mokahr.com/campus-recruitment/ninebot/45627?locale=zh-CN#/job/86f09a39-fd56-470b-adf7-c58cd3ce52f9",
       "publishedAt": "",
       "lastVerified": "",
       "sourceType": "official",

@@ -1,7 +1,7 @@
 {
   "company": "万兴科技",
-  "count": 32,
-  "updatedAt": "2026-10-30T01:58:48.081Z",
+  "count": 33,
+  "updatedAt": "2026-10-30T15:51:29.867Z",
   "jobs": [
     {
       "id": "beisen-8dcc210b99c3",
@@ -204,7 +204,7 @@
       "hasAssessmentEvidence": "E2 | 万兴科技校招FAQ官方页 | https://www.wondershare.cn/campus-faq.html | 2026-09-17"
     },
     {
-      "id": "beisen-6022bdf72952",
+      "id": "beisen-88b42078717b",
       "company": "万兴科技",
       "title": "产品策划经理",
       "graduationYear": [
@@ -230,7 +230,7 @@
       "jobRequirements": "1. 2027届毕业生，统招本科及以上学历； 2. 精通办公工具使用并熟练掌握数据分析工具，具有良好的数据分析能力； 3. 精通产品PRD文档撰写，熟悉产品原型交互设计； 4. 具备产品市场定位的判断及分析能力，了解如何分析用户群行为特征及产品发布流程； 5. 具备目标优先级的判断与决策能力； 6. 具备产品迭代中的项目管理能力以及与团队成员的沟通协调能力。",
       "JD": "1.围绕AI创新相关业务目标和产品定位，独立负责相关产品的策划和落地，并对产品的业务目标负责； 2.根据版本计划，完成产品的详细需求分析、原型设计，推进设计、开发、运营等将迭代计划及时落地并拿到结果； 3.定期进行视频图像工具类产品市场调研、竞争分析、用户分析等工作，独立完成新产品的策划和可行性分析。\n1. 2027届毕业生，统招本科及以上学历； 2. 精通办公工具使用并熟练掌握数据分析工具，具有良好的数据分析能力； 3. 精通产品PRD文档撰写，熟悉产品原型交互设计； 4. 具备产品市场定位的判断及分析能力，了解如何分析用户群行为特征及产品发布流程； 5. 具备目标优先级的判断与决策能力； 6. 具备产品迭代中的项目管理能力以及与团队成员的沟通协调能力。",
       "jdEvidence": {
-        "source": "llm:deepseek:deepseek-flash",
+        "source": "llm:gemini-free:gemini-3.5-flash-lite",
         "majorClauses": [
           "统招本科及以上学历"
         ],
@@ -287,8 +287,8 @@
       "monthlySalary": "2.5万–3万/月",
       "annualSalary": "30万–36万/年（按12薪推算）",
       "source": "公司官方北森校招官网",
-      "officialURL": "https://wondersharecampus.zhiye.com/campus/detail?jobAdId=83bb4fe8-8399-4d7a-bd77-9c93bd0f65dc",
-      "publishedAt": "2026-09-15",
+      "officialURL": "https://wondersharecampus.zhiye.com/campus/detail?jobAdId=0626f64f-07fa-4fef-94cf-462d2dd0dadc",
+      "publishedAt": "2026-10-30",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "",
@@ -1472,6 +1472,102 @@
       "source": "公司官方北森校招官网",
       "officialURL": "https://wondersharecampus.zhiye.com/campus/detail?jobAdId=c6cfad53-43ee-4dc0-acd4-83bcb19ee93d",
       "publishedAt": "2026-08-18",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "秋招直招：网申/内推→在线测评→面试(3-4轮)→Offer速递→三方签约；实习转正通道另含实习入职/答辩",
+      "recruitmentProcessEvidence": "E3 | 兰州大学/南开大学就业网校招简章 | https://job.lzu.edu.cn/html/22/article/2026/91240.html | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | 万兴科技校招FAQ官方页 | https://www.wondershare.cn/campus-faq.html | 2026-09-17"
+    },
+    {
+      "id": "beisen-18306abce6ba",
+      "company": "万兴科技",
+      "title": "售前工程师",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1.27届全日制本科或硕士在读，计算机科学、软件工程、信息管理、信息系统等相关专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "深圳",
+      "jobDescription": "岗位职责 1.客户需求调研与资料整理：协助梳理客户需求信息，整理客户背景及使用场景，配合完成售前需求分析与跟进记录。 2.技术支持与方案协助：协助销售参与客户技术沟通会议，配合完成产品演示准备、系统演示支持及基础技术答疑。 3.方案材料制作支持：协助制作解决方案PPT、产品对比材料、技术说明文档等，支持售前方案讲解准备。 4.项目支持与跨部门协作：配合销售及相关部门完成资料收集、信息整理和内部沟通协调，保障项目推进效率。 5.培训与知识整理：协助整理产品培训资料，支持内部培训及客户培训准备工作，沉淀常见问题及技术知识库。",
+      "jobRequirements": "任职要求 1.27届全日制本科或硕士在读，计算机科学、软件工程、信息管理、信息系统等相关专业优先。 2.对B2B软件产品、SaaS、数字化解决方案等领域感兴趣，具备基础的技术理解能力。 3.具备良好的逻辑思维能力和结构化表达能力，能够将需求转化为清晰的方案材料。 4.熟练使用Office办公软件（尤其PPT），具备基础的数据整理能力；有演示或项目汇报经验优先。 5.英语需要作为工作语言者（可阅读英文资料、参与英文会议）。 6.沟通表达能力良好，责任心强，执行力高，具备团队协作意识。",
+      "JD": "岗位职责 1.客户需求调研与资料整理：协助梳理客户需求信息，整理客户背景及使用场景，配合完成售前需求分析与跟进记录。 2.技术支持与方案协助：协助销售参与客户技术沟通会议，配合完成产品演示准备、系统演示支持及基础技术答疑。 3.方案材料制作支持：协助制作解决方案PPT、产品对比材料、技术说明文档等，支持售前方案讲解准备。 4.项目支持与跨部门协作：配合销售及相关部门完成资料收集、信息整理和内部沟通协调，保障项目推进效率。 5.培训与知识整理：协助整理产品培训资料，支持内部培训及客户培训准备工作，沉淀常见问题及技术知识库。\n任职要求 1.27届全日制本科或硕士在读，计算机科学、软件工程、信息管理、信息系统等相关专业优先。 2.对B2B软件产品、SaaS、数字化解决方案等领域感兴趣，具备基础的技术理解能力。 3.具备良好的逻辑思维能力和结构化表达能力，能够将需求转化为清晰的方案材料。 4.熟练使用Office办公软件（尤其PPT），具备基础的数据整理能力；有演示或项目汇报经验优先。 5.英语需要作为工作语言者（可阅读英文资料、参与英文会议）。 6.沟通表达能力良好，责任心强，执行力高，具备团队协作意识。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1.27届全日制本科或硕士在读，计算机科学、软件工程、信息管理、信息系统等相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "跨文化沟通",
+          "资料/流程"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语",
+        "PPT"
+      ],
+      "experienceKeywords": [
+        "项目",
+        "数据",
+        "营销",
+        "客户"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "15K-25K 元/月",
+        "monthlyMin": 15000,
+        "monthlyMax": 25000,
+        "annualMin": 180000,
+        "annualMax": 300000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "1.5万–2.5万/月",
+        "annualDisplay": "18万–30万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "15K-25K 元/月 公司官方北森校招岗位；识别关键词：英语、PPT"
+      },
+      "salary": "15K-25K 元/月",
+      "monthlySalary": "1.5万–2.5万/月",
+      "annualSalary": "18万–30万/年（按12薪推算）",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://wondersharecampus.zhiye.com/campus/detail?jobAdId=19335a92-00cd-4562-abc5-97ea29d55628",
+      "publishedAt": "2026-10-30",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "",

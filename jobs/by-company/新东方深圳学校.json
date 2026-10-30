@@ -1,7 +1,7 @@
 {
   "company": "新东方深圳学校",
-  "count": 474,
-  "updatedAt": "2026-10-30T01:58:48.081Z",
+  "count": 475,
+  "updatedAt": "2026-10-30T15:51:29.867Z",
   "jobs": [
     {
       "id": "beisen-123667d26f64",
@@ -4137,6 +4137,89 @@
       "source": "公司官方北森校招官网",
       "officialURL": "https://xdf.zhiye.com/campus/detail?jobAdId=57642ba1-9cc7-40f1-9fa2-d57790027e55",
       "publishedAt": "2026-08-26",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-d075fafebdb8",
+      "company": "新东方深圳学校",
+      "title": "27校招-HRBP（大学事业部）(J67767)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "全日制统招本科及以上学历",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "北京",
+      "jobDescription": "1、负责所⽀持业务部门的招聘需求对接、协同招聘团队，精准把握业务用人标准，主导或深度参与关键岗位的招聘，确保优质人才持续供给； 2、负责所支持业务部门的人力成本管控、编制管控； 3、负责所支持业务部门的绩效过程管理、反馈与复盘、人员汰换； 4、关于新人的融入与留存、协同业务部门提升新人培养的有效性； 5、挖掘和发现潜力员工纳入关注视野，帮助团队进行梯队搭建； 6、有效管理员工关系，提升员工敬业度。",
+      "jobRequirements": "1、全日制统招本科及以上学历，有全职岗位招聘全流程经验优先； 2、优秀的沟通能力及独立解决问题的能力，有用户意识； 3、⾃我驱动，结果导向，抗压力强。",
+      "JD": "1、负责所⽀持业务部门的招聘需求对接、协同招聘团队，精准把握业务用人标准，主导或深度参与关键岗位的招聘，确保优质人才持续供给； 2、负责所支持业务部门的人力成本管控、编制管控； 3、负责所支持业务部门的绩效过程管理、反馈与复盘、人员汰换； 4、关于新人的融入与留存、协同业务部门提升新人培养的有效性； 5、挖掘和发现潜力员工纳入关注视野，帮助团队进行梯队搭建； 6、有效管理员工关系，提升员工敬业度。\n1、全日制统招本科及以上学历，有全职岗位招聘全流程经验优先； 2、优秀的沟通能力及独立解决问题的能力，有用户意识； 3、⾃我驱动，结果导向，抗压力强。",
+      "jdEvidence": {
+        "source": "llm:gemini-free:gemini-3.5-flash-lite",
+        "majorClauses": [
+          "全日制统招本科及以上学历"
+        ],
+        "eligibilityClauses": [],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "HR"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "用户"
+      ],
+      "preferenceTags": [],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "10K-15K 元/月",
+        "monthlyMin": 10000,
+        "monthlyMax": 15000,
+        "annualMin": 120000,
+        "annualMax": 180000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "1万–1.5万/月",
+        "annualDisplay": "12万–18万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "10K-15K 元/月 公司官方北森校招岗位；投递前请打开官方职位页确"
+      },
+      "salary": "10K-15K 元/月",
+      "monthlySalary": "1万–1.5万/月",
+      "annualSalary": "12万–18万/年（按12薪推算）",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://xdf.zhiye.com/campus/detail?jobAdId=5ef500f7-e1c5-4037-9535-cd6928bfc3ea",
+      "publishedAt": "2026-10-30",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": ""

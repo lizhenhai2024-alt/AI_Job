@@ -1,7 +1,7 @@
 {
   "company": "中国路桥",
   "count": 170,
-  "updatedAt": "2026-10-30T01:58:48.081Z",
+  "updatedAt": "2026-10-30T15:51:29.867Z",
   "jobs": [
     {
       "id": "beisen-fef4dd791a1e",
@@ -3350,6 +3350,94 @@
       "deadline": ""
     },
     {
+      "id": "beisen-fb90838a880e",
+      "company": "中国路桥",
+      "title": "2027届校招华杰公司助理勘察设计咨询设计师岗位(J48338)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "2027届硕士研究生，土木工程、桥梁与隧道工程、岩土工程等相关专业",
+        "hardRestriction": true,
+        "hardClauses": [
+          "土木工程、桥梁与隧道工程、岩土工程等相关专业"
+        ]
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "北京",
+      "jobDescription": "1. 参与道路工程、桥隧工程、市政工程的现场勘察、方案设计、施工图编制及技术咨询工作。 2. 协助完成项目前期资料收集、数据分析、图纸绘制及设计文件编制等专业技术支持工作。 3. 配合项目团队开展技术交底、现场服务及设计变更等相关工作。",
+      "jobRequirements": "1. 2027届硕士研究生，土木工程、桥梁与隧道工程、岩土工程等相关专业； 2. 具备扎实的专业基础知识，熟悉AutoCAD、Office等常用办公及设计软件者优先； 3. 具有良好的沟通协调能力、团队协作意识和学习能力； 4. 能适应出差及项目现场踏勘工作。",
+      "JD": "1. 参与道路工程、桥隧工程、市政工程的现场勘察、方案设计、施工图编制及技术咨询工作。 2. 协助完成项目前期资料收集、数据分析、图纸绘制及设计文件编制等专业技术支持工作。 3. 配合项目团队开展技术交底、现场服务及设计变更等相关工作。\n1. 2027届硕士研究生，土木工程、桥梁与隧道工程、岩土工程等相关专业； 2. 具备扎实的专业基础知识，熟悉AutoCAD、Office等常用办公及设计软件者优先； 3. 具有良好的沟通协调能力、团队协作意识和学习能力； 4. 能适应出差及项目现场踏勘工作。",
+      "jdEvidence": {
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "2027届硕士研究生，土木工程、桥梁与隧道工程、岩土工程等相关专业"
+        ],
+        "eligibilityClauses": [
+          "2027届硕士研究生"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "数据分析"
+      ],
+      "experienceKeywords": [
+        "项目",
+        "数据"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://ccccltd.zhiye.com/campus/detail?jobAdId=ab3c7e1b-d4bc-4504-a610-8b1342cfa524",
+      "publishedAt": "2026-10-30",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
       "id": "beisen-d316915c8278",
       "company": "中国路桥",
       "title": "2027届校招振华南通分公司文秘综合岗(J48738)",
@@ -5121,94 +5209,6 @@
       "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://ccccltd.zhiye.com/campus/detail?jobAdId=86bd6c18-41f6-40cf-8dcf-23333a73e54f",
-      "publishedAt": "2026-08-28",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "beisen-fb90838a880e",
-      "company": "中国路桥",
-      "title": "2027届校招华杰公司助理勘察设计咨询设计师岗位(J48338)",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "2027届硕士研究生，土木工程、桥梁与隧道工程、岩土工程等相关专业",
-        "hardRestriction": true,
-        "hardClauses": [
-          "土木工程、桥梁与隧道工程、岩土工程等相关专业"
-        ]
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "北京",
-      "jobDescription": "1. 参与道路工程、桥隧工程、市政工程的现场勘察、方案设计、施工图编制及技术咨询工作。 2. 协助完成项目前期资料收集、数据分析、图纸绘制及设计文件编制等专业技术支持工作。 3. 配合项目团队开展技术交底、现场服务及设计变更等相关工作。",
-      "jobRequirements": "1. 2027届硕士研究生，土木工程、桥梁与隧道工程、岩土工程等相关专业； 2. 具备扎实的专业基础知识，熟悉AutoCAD、Office等常用办公及设计软件者优先； 3. 具有良好的沟通协调能力、团队协作意识和学习能力； 4. 能适应出差及项目现场踏勘工作。",
-      "JD": "1. 参与道路工程、桥隧工程、市政工程的现场勘察、方案设计、施工图编制及技术咨询工作。 2. 协助完成项目前期资料收集、数据分析、图纸绘制及设计文件编制等专业技术支持工作。 3. 配合项目团队开展技术交底、现场服务及设计变更等相关工作。\n1. 2027届硕士研究生，土木工程、桥梁与隧道工程、岩土工程等相关专业； 2. 具备扎实的专业基础知识，熟悉AutoCAD、Office等常用办公及设计软件者优先； 3. 具有良好的沟通协调能力、团队协作意识和学习能力； 4. 能适应出差及项目现场踏勘工作。",
-      "jdEvidence": {
-        "source": "llm:deepseek:deepseek-flash",
-        "majorClauses": [
-          "2027届硕士研究生，土木工程、桥梁与隧道工程、岩土工程等相关专业"
-        ],
-        "eligibilityClauses": [
-          "2027届硕士研究生"
-        ],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [
-        "数据分析"
-      ],
-      "experienceKeywords": [
-        "项目",
-        "数据"
-      ],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "面议",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": "面议"
-      },
-      "salary": "面议",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://ccccltd.zhiye.com/campus/detail?jobAdId=ab3c7e1b-d4bc-4504-a610-8b1342cfa524",
       "publishedAt": "2026-08-28",
       "lastVerified": "",
       "sourceType": "official",

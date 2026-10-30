@@ -1,7 +1,7 @@
 {
   "company": "国科微电子股份有限公司",
-  "count": 2,
-  "updatedAt": "2026-10-30T01:58:48.081Z",
+  "count": 3,
+  "updatedAt": "2026-10-30T15:51:29.867Z",
   "jobs": [
     {
       "id": "beisen-22e86b6a0764",
@@ -163,6 +163,93 @@
       "source": "公司官方北森校招官网",
       "officialURL": "https://goke1.zhiye.com/campus/detail?jobAdId=5b4c971a-6ffd-4bea-bc59-47a8c84dd43b",
       "publishedAt": "2026-08-06",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-1f6210804278",
+      "company": "国科微电子股份有限公司",
+      "title": "（2027届）模拟设计（DDR）工程师-成都",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "硕士学历，模拟IC设计方向",
+        "hardRestriction": true,
+        "hardClauses": [
+          "模拟IC设计方向"
+        ]
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "成都",
+      "jobDescription": "1.设计DDR PHY中的高速模拟电路（如DDR I/O、PLL、DLL、均衡器EQ）； 2.优化接收端（RX）与发送端（TX）的SI/PI性能； 3.指导版图设计，确保匹配性（八边形法则）及抗ESD能力。",
+      "jobRequirements": "1.硕士学历，模拟IC设计方向，精通Cadence、Virtuoso/Spectre。 2.深入理解高速电路设计，有过DDR PHY项目经验者优先 3.沟通学习能力强，工作细致。",
+      "JD": "1.设计DDR PHY中的高速模拟电路（如DDR I/O、PLL、DLL、均衡器EQ）； 2.优化接收端（RX）与发送端（TX）的SI/PI性能； 3.指导版图设计，确保匹配性（八边形法则）及抗ESD能力。\n1.硕士学历，模拟IC设计方向，精通Cadence、Virtuoso/Spectre。 2.深入理解高速电路设计，有过DDR PHY项目经验者优先 3.沟通学习能力强，工作细致。",
+      "jdEvidence": {
+        "source": "llm:gemini-free:gemini-3.5-flash-lite",
+        "majorClauses": [
+          "硕士学历，模拟IC设计方向"
+        ],
+        "eligibilityClauses": [
+          "（2027届）模拟设计（DDR）工程师-成都"
+        ],
+        "technicalDuties": [
+          "开发实现"
+        ],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "项目"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 1.设计DDR PHY中的高速模拟电路（如DDR I/O、PLL、DLL、均衡器E"
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "15K-25K 元/月",
+        "monthlyMin": 15000,
+        "monthlyMax": 25000,
+        "annualMin": 180000,
+        "annualMax": 300000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "1.5万–2.5万/月",
+        "annualDisplay": "18万–30万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "15K-25K 元/月 公司官方北森校招岗位；投递前请打开官方职位页确"
+      },
+      "salary": "15K-25K 元/月",
+      "monthlySalary": "1.5万–2.5万/月",
+      "annualSalary": "18万–30万/年（按12薪推算）",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://goke1.zhiye.com/campus/detail?jobAdId=2b4168b5-0cec-424f-9b4f-7d5717f50baa",
+      "publishedAt": "2026-10-30",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": ""

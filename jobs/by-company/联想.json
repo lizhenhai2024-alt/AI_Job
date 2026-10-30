@@ -1,7 +1,7 @@
 {
   "company": "联想",
   "count": 24,
-  "updatedAt": "2026-10-30T01:58:48.081Z",
+  "updatedAt": "2026-10-30T15:51:29.867Z",
   "jobs": [
     {
       "id": "lenovo-97d2f880a143",
@@ -1693,6 +1693,100 @@
       "deadline": ""
     },
     {
+      "id": "lenovo-7a44567bbd3b",
+      "company": "联想",
+      "title": "战略分析",
+      "graduationYear": [
+        "2026",
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1.毕业时间为2026年9月至2027年8月期间的海内外应届毕业生，专业不限",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "北京",
+      "jobDescription": "1.持续跟踪行业动态，系统收集并整理关键信息，为团队提供实时可视化的行业趋势分析\n 2.运用数据分析方法，深入诊断业务运营中的潜在问题，为战略规划制定提供数据支持和决策建议\n 3.根据公司业务发展需求，针对特定战略议题开展专项研究，独立完成高质量分析报告，为高层决策提供专业见解\n 4.参与跨部门战略项目，协助完成市场调研、竞争分析和机会评估，推动研究成果转化为实际业务策略",
+      "jobRequirements": "1.毕业时间为2026年9月至2027年8月期间的海内外应届毕业生，专业不限\n 2.具备快速学习能力，能够持续跟踪并掌握新兴行业趋势与前沿技术知识\n 3.拥有扎实的研究基本功，包括行业研究框架搭建、典型案例深度分析和独立撰写报告/PPT的能力\n 4.对数据有敏锐的洞察力，能从复杂信息中提炼有价值的内容并形成洞察\n 5.具备优秀的逻辑思维和书面表达能力，善于将专业内容以简洁易懂的方式呈现",
+      "JD": "1.持续跟踪行业动态，系统收集并整理关键信息，为团队提供实时可视化的行业趋势分析\n 2.运用数据分析方法，深入诊断业务运营中的潜在问题，为战略规划制定提供数据支持和决策建议\n 3.根据公司业务发展需求，针对特定战略议题开展专项研究，独立完成高质量分析报告，为高层决策提供专业见解\n 4.参与跨部门战略项目，协助完成市场调研、竞争分析和机会评估，推动研究成果转化为实际业务策略\n1.毕业时间为2026年9月至2027年8月期间的海内外应届毕业生，专业不限\n 2.具备快速学习能力，能够持续跟踪并掌握新兴行业趋势与前沿技术知识\n 3.拥有扎实的研究基本功，包括行业研究框架搭建、典型案例深度分析和独立撰写报告/PPT的能力\n 4.对数据有敏锐的洞察力，能从复杂信息中提炼有价值的内容并形成洞察\n 5.具备优秀的逻辑思维和书面表达能力，善于将专业内容以简洁易懂的方式呈现",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1.毕业时间为2026年9月至2027年8月期间的海内外应届毕业生，专业不限"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届",
+          "毕业时间窗口：2026-09 至 2027-08"
+        ],
+        "technicalDuties": [
+          "质量技术"
+        ],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "数据分析",
+        "PPT"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "内容",
+        "项目",
+        "市场",
+        "数据"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "联想官方2027校招官网",
+      "officialURL": "https://talent.lenovo.com.cn/position/detail?id=2380",
+      "publishedAt": "",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
       "id": "lenovo-a46cb9b0de37",
       "company": "联想",
       "title": "硬件产品经理",
@@ -1876,100 +1970,6 @@
       "annualSalary": "未披露",
       "source": "联想官方2027校招官网",
       "officialURL": "https://talent.lenovo.com.cn/position/detail?id=2376",
-      "publishedAt": "",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "lenovo-7a44567bbd3b",
-      "company": "联想",
-      "title": "战略分析",
-      "graduationYear": [
-        "2026",
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "1.毕业时间为2026年9月至2027年8月期间的海内外应届毕业生，专业不限",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "北京",
-      "jobDescription": "1.持续跟踪行业动态，系统收集并整理关键信息，为团队提供实时可视化的行业趋势分析\n 2.运用数据分析方法，深入诊断业务运营中的潜在问题，为战略规划制定提供数据支持和决策建议\n 3.根据公司业务发展需求，针对特定战略议题开展专项研究，独立完成高质量分析报告，为高层决策提供专业见解\n 4.参与跨部门战略项目，协助完成市场调研、竞争分析和机会评估，推动研究成果转化为实际业务策略",
-      "jobRequirements": "1.毕业时间为2026年9月至2027年8月期间的海内外应届毕业生，专业不限\n 2.具备快速学习能力，能够持续跟踪并掌握新兴行业趋势与前沿技术知识\n 3.拥有扎实的研究基本功，包括行业研究框架搭建、典型案例深度分析和独立撰写报告/PPT的能力\n 4.对数据有敏锐的洞察力，能从复杂信息中提炼有价值的内容并形成洞察\n 5.具备优秀的逻辑思维和书面表达能力，善于将专业内容以简洁易懂的方式呈现",
-      "JD": "1.持续跟踪行业动态，系统收集并整理关键信息，为团队提供实时可视化的行业趋势分析\n 2.运用数据分析方法，深入诊断业务运营中的潜在问题，为战略规划制定提供数据支持和决策建议\n 3.根据公司业务发展需求，针对特定战略议题开展专项研究，独立完成高质量分析报告，为高层决策提供专业见解\n 4.参与跨部门战略项目，协助完成市场调研、竞争分析和机会评估，推动研究成果转化为实际业务策略\n1.毕业时间为2026年9月至2027年8月期间的海内外应届毕业生，专业不限\n 2.具备快速学习能力，能够持续跟踪并掌握新兴行业趋势与前沿技术知识\n 3.拥有扎实的研究基本功，包括行业研究框架搭建、典型案例深度分析和独立撰写报告/PPT的能力\n 4.对数据有敏锐的洞察力，能从复杂信息中提炼有价值的内容并形成洞察\n 5.具备优秀的逻辑思维和书面表达能力，善于将专业内容以简洁易懂的方式呈现",
-      "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [
-          "1.毕业时间为2026年9月至2027年8月期间的海内外应届毕业生，专业不限"
-        ],
-        "eligibilityClauses": [
-          "招聘对象：2027届",
-          "毕业时间窗口：2026-09 至 2027-08"
-        ],
-        "technicalDuties": [
-          "质量技术"
-        ],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [
-        "数据分析",
-        "PPT"
-      ],
-      "experienceKeywords": [
-        "运营",
-        "内容",
-        "项目",
-        "市场",
-        "数据"
-      ],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "联想官方2027校招官网",
-      "officialURL": "https://talent.lenovo.com.cn/position/detail?id=2380",
       "publishedAt": "",
       "lastVerified": "",
       "sourceType": "official",
