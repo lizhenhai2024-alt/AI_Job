@@ -181,6 +181,10 @@ export const sourceRegistry = [
     "company": "杭州伸美品牌管理有限公司"
   },
   {
+    "provider": "moka",
+    "company": "广东博迈医疗"
+  },
+  {
     "provider": "beisen",
     "company": "科大讯飞"
   },

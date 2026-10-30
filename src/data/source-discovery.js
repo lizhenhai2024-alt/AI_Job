@@ -41,8 +41,8 @@ export const sourceDiscovery = [
     "officialUrl": "https://anton.hotjob.cn/",
     "reason": "已发现公司官方招聘入口，但当前站点 anton.hotjob.cn 尚无自动抓取适配器",
     "attempts": 0,
-    "lastCheckedAt": "2026-10-30T15:51:20.049Z",
-    "nextCheckAfter": "2026-10-31T15:51:20.053Z"
+    "lastCheckedAt": "2026-10-30T20:01:19.605Z",
+    "nextCheckAfter": "2026-10-31T20:01:19.612Z"
   },
   {
     "name": "百度",
@@ -265,6 +265,17 @@ export const sourceDiscovery = [
     "nextCheckAfter": "2026-09-16T05:31:20.646Z"
   },
   {
+    "name": "广东博迈医疗",
+    "status": "高校自动发现",
+    "state": "source_registered",
+    "provider": "moka",
+    "officialUrl": "https://app.mokahr.com/m/campus-recruitment/brosmed/146155?locale=zh-CN",
+    "reason": "高校详情页明确给出Moka校园招聘入口",
+    "attempts": 0,
+    "lastCheckedAt": "2026-10-30T20:01:19.605Z",
+    "nextCheckAfter": ""
+  },
+  {
     "name": "广东欧加通信科技有限公司",
     "status": "高校自动发现",
     "state": "needs_adapter",
@@ -349,7 +360,7 @@ export const sourceDiscovery = [
     "officialUrl": "https://app.mokahr.com/m/campus-recruitment/shinemage/146829?locale=zh-CN",
     "reason": "高校详情页明确给出Moka校园招聘入口；等价官方源已存在",
     "attempts": 0,
-    "lastCheckedAt": "2026-10-30T15:51:20.049Z",
+    "lastCheckedAt": "2026-10-30T20:01:19.605Z",
     "nextCheckAfter": ""
   },
   {
@@ -789,8 +800,8 @@ export const sourceDiscovery = [
     "officialUrl": "https://campus.pingan.com/pabbj/position",
     "reason": "已发现公司官方招聘入口，但当前站点 campus.pingan.com 尚无自动抓取适配器",
     "attempts": 0,
-    "lastCheckedAt": "2026-10-30T15:51:20.049Z",
-    "nextCheckAfter": "2026-10-31T15:51:20.053Z"
+    "lastCheckedAt": "2026-10-30T20:01:19.605Z",
+    "nextCheckAfter": "2026-10-31T20:01:19.608Z"
   },
   {
     "name": "奇安信",
@@ -1110,6 +1121,17 @@ export const sourceDiscovery = [
     "attempts": 1,
     "lastCheckedAt": "2026-09-19T07:49:09.810Z",
     "nextCheckAfter": "2026-09-22T07:49:09.810Z"
+  },
+  {
+    "name": "医疗器械研发工程师（材料、机械、生物医学）-广东博迈医疗科技股份有限公司",
+    "status": "高校自动发现",
+    "state": "source_registered",
+    "provider": "moka",
+    "officialUrl": "https://app.mokahr.com/m/campus-recruitment/brosmed/146155?locale=zh-CN",
+    "reason": "高校详情页明确给出Moka校园招聘入口；等价官方源已存在",
+    "attempts": 0,
+    "lastCheckedAt": "2026-10-30T20:01:19.605Z",
+    "nextCheckAfter": ""
   },
   {
     "name": "银泰商机集团",
@@ -1598,7 +1620,7 @@ export const sourceDiscovery = [
 ];
 
 export const sourceDiscoveryMeta = {
-  "updatedAt": "2026-10-30T19:22:11.866Z",
+  "updatedAt": "2026-10-30T20:01:19.605Z",
   "lastRun": {
     "processed": 12,
     "sourcesAdded": 0,

@@ -1,0 +1,829 @@
+{
+  "company": "广东博迈医疗",
+  "count": 10,
+  "updatedAt": "2026-10-30T20:27:02.634Z",
+  "jobs": [
+    {
+      "id": "moka-003c49356715",
+      "company": "广东博迈医疗",
+      "title": "【27届校招】人力资源管培生",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "待核",
+      "jobDescription": "广东博迈医疗科技股份有限公司 职能类 松山湖高新技术产业开发区沉香街1号",
+      "jobRequirements": "",
+      "JD": "广东博迈医疗科技股份有限公司 职能类 松山湖高新技术产业开发区沉香街1号",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "HR"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方Moka校招官网",
+      "officialURL": "https://app.mokahr.com/m/campus-recruitment/brosmed/146155?locale=zh-CN#/job/054ce75c-e1f1-4b85-b54a-f9c4421795e1",
+      "publishedAt": "2026-10-09",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "moka-c88f4c8ebf7e",
+      "company": "广东博迈医疗",
+      "title": "【27届校招】营销管培生（武汉）",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "武汉",
+      "jobDescription": "广东博迈医疗科技股份有限公司 营销类",
+      "jobRequirements": "",
+      "JD": "广东博迈医疗科技股份有限公司 营销类",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "营销"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方Moka校招官网",
+      "officialURL": "https://app.mokahr.com/m/campus-recruitment/brosmed/146155?locale=zh-CN#/job/3c3c8bf2-e7a5-440e-b458-0e11917cd4d2",
+      "publishedAt": "2026-10-09",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "moka-e72b752b3422",
+      "company": "广东博迈医疗",
+      "title": "【27届校招】生产计划工程师",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1.本科及以上学历，供应链管理专业优先，英语CET4及以上，熟悉 Word、Excel、PPT 等办公软件的操作",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "东莞",
+      "jobDescription": "发布于 2026-10-09 广东博迈医疗科技股份有限公司 广东博迈医疗科技股份有限公司 | 全职 全职 | 智造类 智造类 | 广东·东莞市 广东·东莞市 岗位职责1.依据订单情况，科学规划生产顺序和时间节点，制定合理的生产计划，确保产品按时交付给客户，保障订单履约率。2.实时跟踪生产进展，密切关注生产过程中的各类问题，如设备故障、物料短缺等，第一时间协调相关部门解决，保障生产流程顺畅推进。3.深入分析生产过程中的瓶颈环节和不足之处，针对性地制定并实施改进措施，持续提升车间的生产能力和整体效率。4.控制在制品数量，提高周转率。岗位要求1.本科及以上学历，供应链管理专业优先，英语CET4及以上，熟悉 Word、Excel、PPT 等办公软件的操作。2.拥有良好的逻辑思维能力和数据分析能力，对数字敏感，能主动积极地解决工作中遇到的问题。3.沟通协调能力强，能与生产、采购、设备等部门高效协作；抗压能力突出，有较强的上进心，且能够适应加班。 岗位职责 1.依据订单情况，科学规划生产顺序和时间节点，制定合理的生产计划，确保产品按时交付给客户，保障订单履约率。 2.实时跟踪生产进展，密切关注生产过程中的各类问题，如设备故障、物料短缺等，第一时间协调相关部门解决，保障生产流程顺畅推进。 3.深入分析生产过程中的瓶颈环节和不足之处，针对性地制定并实施改进措施，持续提升车间的生产能力和整体效率。 4.控制在制品数量，提高周转率。 岗位要求 1.本科及以上学历，供应链管理专业优先，英语CET4及以上，熟悉 Word、Excel、PPT 等办公软件的操作。 2.拥有良好的逻辑思维能力和数据分析能力，对数字敏感，能主动积极地解决工作中遇到的问题。 3.沟通协调能力强，能与生产、采购、设备等部门高效协作；抗压能力突出，有较强的上进心，且能够适应加班。 允许3个月内投递3个职位，请选择适合的职位进行投递 立即投递",
+      "jobRequirements": "",
+      "JD": "发布于 2026-10-09 广东博迈医疗科技股份有限公司 广东博迈医疗科技股份有限公司 | 全职 全职 | 智造类 智造类 | 广东·东莞市 广东·东莞市 岗位职责1.依据订单情况，科学规划生产顺序和时间节点，制定合理的生产计划，确保产品按时交付给客户，保障订单履约率。2.实时跟踪生产进展，密切关注生产过程中的各类问题，如设备故障、物料短缺等，第一时间协调相关部门解决，保障生产流程顺畅推进。3.深入分析生产过程中的瓶颈环节和不足之处，针对性地制定并实施改进措施，持续提升车间的生产能力和整体效率。4.控制在制品数量，提高周转率。岗位要求1.本科及以上学历，供应链管理专业优先，英语CET4及以上，熟悉 Word、Excel、PPT 等办公软件的操作。2.拥有良好的逻辑思维能力和数据分析能力，对数字敏感，能主动积极地解决工作中遇到的问题。3.沟通协调能力强，能与生产、采购、设备等部门高效协作；抗压能力突出，有较强的上进心，且能够适应加班。 岗位职责 1.依据订单情况，科学规划生产顺序和时间节点，制定合理的生产计划，确保产品按时交付给客户，保障订单履约率。 2.实时跟踪生产进展，密切关注生产过程中的各类问题，如设备故障、物料短缺等，第一时间协调相关部门解决，保障生产流程顺畅推进。 3.深入分析生产过程中的瓶颈环节和不足之处，针对性地制定并实施改进措施，持续提升车间的生产能力和整体效率。 4.控制在制品数量，提高周转率。 岗位要求 1.本科及以上学历，供应链管理专业优先，英语CET4及以上，熟悉 Word、Excel、PPT 等办公软件的操作。 2.拥有良好的逻辑思维能力和数据分析能力，对数字敏感，能主动积极地解决工作中遇到的问题。 3.沟通协调能力强，能与生产、采购、设备等部门高效协作；抗压能力突出，有较强的上进心，且能够适应加班。 允许3个月内投递3个职位，请选择适合的职位进行投递 立即投递",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1.本科及以上学历，供应链管理专业优先，英语CET4及以上，熟悉 Word、Excel、PPT 等办公软件的操作"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语",
+        "Excel",
+        "数据分析",
+        "PPT"
+      ],
+      "experienceKeywords": [
+        "数据",
+        "供应链",
+        "客户"
+      ],
+      "preferenceTags": [],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方Moka校招官网",
+      "officialURL": "https://app.mokahr.com/campus-recruitment/brosmed/146155?locale=zh-CN#/job/5b4866eb-0cae-4770-8b68-ad4666e3c339",
+      "publishedAt": "",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "moka-2d763683e446",
+      "company": "广东博迈医疗",
+      "title": "【27届校招】营销管培生（太原）",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "待核",
+      "jobDescription": "广东博迈医疗科技股份有限公司 营销类",
+      "jobRequirements": "",
+      "JD": "广东博迈医疗科技股份有限公司 营销类",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "营销"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方Moka校招官网",
+      "officialURL": "https://app.mokahr.com/m/campus-recruitment/brosmed/146155?locale=zh-CN#/job/b1a9c362-5082-4840-9f2a-6b40153506be",
+      "publishedAt": "2026-10-15",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "moka-d1bcc76962b6",
+      "company": "广东博迈医疗",
+      "title": "【27届校招】营销管培生（济南）",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "待核",
+      "jobDescription": "广东博迈医疗科技股份有限公司 营销类",
+      "jobRequirements": "",
+      "JD": "广东博迈医疗科技股份有限公司 营销类",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "营销"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方Moka校招官网",
+      "officialURL": "https://app.mokahr.com/m/campus-recruitment/brosmed/146155?locale=zh-CN#/job/1363a478-5418-487f-aff1-bb8c379008a7",
+      "publishedAt": "2026-10-09",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "moka-e97746dcd05d",
+      "company": "广东博迈医疗",
+      "title": "【27届校招】采购工程师",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1.本科及以上学历，国际贸易、英语专业相关专业",
+        "hardRestriction": true,
+        "hardClauses": [
+          "国际贸易、英语专业相关专业"
+        ]
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "东莞",
+      "jobDescription": "发布于 2026-10-09 广东博迈医疗科技股份有限公司 广东博迈医疗科技股份有限公司 | 全职 全职 | 智造类 智造类 | 广东·东莞市 广东·东莞市 岗位职责1.负责下单及跟进采购流程，确保物资按时到货；2.挖掘新供应商，评估并引入优质供应商，监督其服务质量；3.处理采购中的价格谈判、合同签订及对账付款等商务事务。岗位要求1.本科及以上学历，国际贸易、英语专业相关专业；2.学习主动性强，能快速掌握采购相关知识与技能；​3.具备出色的沟通能力，善于协调内外部资源；​4.综合素质较高，有良好的责任心和问题解决能力。 岗位职责 1.负责下单及跟进采购流程，确保物资按时到货； 2.挖掘新供应商，评估并引入优质供应商，监督其服务质量； 3.处理采购中的价格谈判、合同签订及对账付款等商务事务。 岗位要求 1.本科及以上学历，国际贸易、英语专业相关专业； 2.学习主动性强，能快速掌握采购相关知识与技能；​ 3.具备出色的沟通能力，善于协调内外部资源；​ 4.综合素质较高，有良好的责任心和问题解决能力。 允许3个月内投递3个职位，请选择适合的职位进行投递 立即投递",
+      "jobRequirements": "",
+      "JD": "发布于 2026-10-09 广东博迈医疗科技股份有限公司 广东博迈医疗科技股份有限公司 | 全职 全职 | 智造类 智造类 | 广东·东莞市 广东·东莞市 岗位职责1.负责下单及跟进采购流程，确保物资按时到货；2.挖掘新供应商，评估并引入优质供应商，监督其服务质量；3.处理采购中的价格谈判、合同签订及对账付款等商务事务。岗位要求1.本科及以上学历，国际贸易、英语专业相关专业；2.学习主动性强，能快速掌握采购相关知识与技能；​3.具备出色的沟通能力，善于协调内外部资源；​4.综合素质较高，有良好的责任心和问题解决能力。 岗位职责 1.负责下单及跟进采购流程，确保物资按时到货； 2.挖掘新供应商，评估并引入优质供应商，监督其服务质量； 3.处理采购中的价格谈判、合同签订及对账付款等商务事务。 岗位要求 1.本科及以上学历，国际贸易、英语专业相关专业； 2.学习主动性强，能快速掌握采购相关知识与技能；​ 3.具备出色的沟通能力，善于协调内外部资源；​ 4.综合素质较高，有良好的责任心和问题解决能力。 允许3个月内投递3个职位，请选择适合的职位进行投递 立即投递",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1.本科及以上学历，国际贸易、英语专业相关专业"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语"
+      ],
+      "experienceKeywords": [],
+      "preferenceTags": [
+        "国际业务"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方Moka校招官网",
+      "officialURL": "https://app.mokahr.com/campus-recruitment/brosmed/146155?locale=zh-CN#/job/e024e4f8-aaac-42e5-bf6c-0f3fa064cb81",
+      "publishedAt": "",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "moka-29b927428658",
+      "company": "广东博迈医疗",
+      "title": "【27届校招】仓库管理工程师（WMS系统方向）",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "东莞",
+      "jobDescription": "发布于 2026-10-09 广东博迈医疗科技股份有限公司 广东博迈医疗科技股份有限公司 | 全职 全职 | 智造类 智造类 | 广东·东莞市 广东·东莞市 岗位职责1. 协助完善仓储管理制度、作业流程，配合推进仓储标准化、数字化管理及系统优化工作。2. 协助开展仓库5S管理、现场布局及动线优化，维护仓储环境、实物及消防安全。3. 负责日常库存管控、定期盘点，核对账物卡一致性，跟进库存差异整改；监控物料库存及有效期，及时提报采购预警。4. 负责物料编码、批号管理及资料存档，保障物料全程可追溯。5. 跟进出入库单据制作、收发料执行及单据流转，配合保障生产物料正常供应。6. 协助管理管理退货及不合格品处理流程，协调跨部门解决库存呆滞、破损等异常问题。7. 协助开展仓储作业培训及现场规范管理，完成上级交办的其他工作。岗位要求1. 本科及以上学历，物流管理、供应链、工业工程、仓储相关专业应届毕业生。2. 了解仓储基本作业流程，愿意深耕仓储管理、流程优化方向。3. 熟练使用Office办公软件，具备基础数据统计、台账整理能力，有ERP/WMS系统操作经验优先。4. 工作认真细致、责任心强，逻辑清晰，具备良好的执行力与团队协作能力，能适应工厂仓储工作环境。 岗位职责 1. 协助完善仓储管理制度、作业流程，配合推进仓储标准化、数字化管理及系统优化工作。 2. 协助开展仓库5S管理、现场布局及动线优化，维护仓储环境、实物及消防安全。 3. 负责日常库存管控、定期盘点，核对账物卡一致性，跟进库存差异整改；监控物料库存及有效期，及时提报采购预警。 4. 负责物料编码、批号管理及资料存档，保障物料全程可追溯。 5. 跟进出入库单据制作、收发料执行及单据流转，配合保障生产物料正常供应。 6. 协助管理管理退货及不合格品处理流程，协调跨部门解决库存呆滞、破损等异常问题。 7. 协助开展仓储作业培训及现场规范管理，完成上级交办的其他工作。 岗位要求 1. 本科及以上学历，物流管理、供应链、工业工程、仓储相关专业应届毕业生。 2. 了解仓储基本作业流程，愿意深耕仓储管理、流程优化方向。 3. 熟练使用Office办公软件，具备基础数据统计、台账整理能力，有ERP/WMS系统操作经验优先。 4. 工作认真细致、责任心强，逻辑清晰，具备良好的执行力与团队协作能力，能适应工厂仓储工作环境。 允许3个月内投递3个职位，请选择适合的职位进行投递 立即投递",
+      "jobRequirements": "",
+      "JD": "发布于 2026-10-09 广东博迈医疗科技股份有限公司 广东博迈医疗科技股份有限公司 | 全职 全职 | 智造类 智造类 | 广东·东莞市 广东·东莞市 岗位职责1. 协助完善仓储管理制度、作业流程，配合推进仓储标准化、数字化管理及系统优化工作。2. 协助开展仓库5S管理、现场布局及动线优化，维护仓储环境、实物及消防安全。3. 负责日常库存管控、定期盘点，核对账物卡一致性，跟进库存差异整改；监控物料库存及有效期，及时提报采购预警。4. 负责物料编码、批号管理及资料存档，保障物料全程可追溯。5. 跟进出入库单据制作、收发料执行及单据流转，配合保障生产物料正常供应。6. 协助管理管理退货及不合格品处理流程，协调跨部门解决库存呆滞、破损等异常问题。7. 协助开展仓储作业培训及现场规范管理，完成上级交办的其他工作。岗位要求1. 本科及以上学历，物流管理、供应链、工业工程、仓储相关专业应届毕业生。2. 了解仓储基本作业流程，愿意深耕仓储管理、流程优化方向。3. 熟练使用Office办公软件，具备基础数据统计、台账整理能力，有ERP/WMS系统操作经验优先。4. 工作认真细致、责任心强，逻辑清晰，具备良好的执行力与团队协作能力，能适应工厂仓储工作环境。 岗位职责 1. 协助完善仓储管理制度、作业流程，配合推进仓储标准化、数字化管理及系统优化工作。 2. 协助开展仓库5S管理、现场布局及动线优化，维护仓储环境、实物及消防安全。 3. 负责日常库存管控、定期盘点，核对账物卡一致性，跟进库存差异整改；监控物料库存及有效期，及时提报采购预警。 4. 负责物料编码、批号管理及资料存档，保障物料全程可追溯。 5. 跟进出入库单据制作、收发料执行及单据流转，配合保障生产物料正常供应。 6. 协助管理管理退货及不合格品处理流程，协调跨部门解决库存呆滞、破损等异常问题。 7. 协助开展仓储作业培训及现场规范管理，完成上级交办的其他工作。 岗位要求 1. 本科及以上学历，物流管理、供应链、工业工程、仓储相关专业应届毕业生。 2. 了解仓储基本作业流程，愿意深耕仓储管理、流程优化方向。 3. 熟练使用Office办公软件，具备基础数据统计、台账整理能力，有ERP/WMS系统操作经验优先。 4. 工作认真细致、责任心强，逻辑清晰，具备良好的执行力与团队协作能力，能适应工厂仓储工作环境。 允许3个月内投递3个职位，请选择适合的职位进行投递 立即投递",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "资料/流程"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "数据",
+        "供应链"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方Moka校招官网",
+      "officialURL": "https://app.mokahr.com/campus-recruitment/brosmed/146155?locale=zh-CN#/job/e0f05906-373d-4d83-acb4-0d046db996c6",
+      "publishedAt": "",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "moka-0422b6ef66e5",
+      "company": "广东博迈医疗",
+      "title": "【27届校招】包装工程师",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "待核",
+      "jobDescription": "制造工程部 智造类 松山湖园区工业北四路1号15栋",
+      "jobRequirements": "",
+      "JD": "制造工程部 智造类 松山湖园区工业北四路1号15栋",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方Moka校招官网",
+      "officialURL": "https://app.mokahr.com/m/campus-recruitment/brosmed/146155?locale=zh-CN#/job/01f63376-1a8e-46a1-ae13-ca6c43775348",
+      "publishedAt": "2026-10-09",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "moka-8c0baa7b4854",
+      "company": "广东博迈医疗",
+      "title": "【27届校招】采购助理工程师",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "待核",
+      "jobDescription": "采购部 智造类 菖塘路88号创业创新园B8栋",
+      "jobRequirements": "",
+      "JD": "采购部 智造类 菖塘路88号创业创新园B8栋",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方Moka校招官网",
+      "officialURL": "https://app.mokahr.com/m/campus-recruitment/brosmed/146155?locale=zh-CN#/job/24846915-a095-41c6-a34c-e4afea7bad4b",
+      "publishedAt": "2026-10-09",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "moka-5cc8c8712be7",
+      "company": "广东博迈医疗",
+      "title": "【27届校招】计划助理工程师",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "待核",
+      "jobDescription": "计划仓储部 智造类 菖塘路88号创业创新园B8栋",
+      "jobRequirements": "",
+      "JD": "计划仓储部 智造类 菖塘路88号创业创新园B8栋",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方Moka校招官网",
+      "officialURL": "https://app.mokahr.com/m/campus-recruitment/brosmed/146155?locale=zh-CN#/job/40e1300b-d0c2-4340-ac55-7013779f60d7",
+      "publishedAt": "2026-10-09",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    }
+  ]
+}

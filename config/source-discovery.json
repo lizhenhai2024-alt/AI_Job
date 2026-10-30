@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-30T19:22:11.866Z",
+  "updatedAt": "2026-10-30T20:01:19.605Z",
   "companies": {
     "lazada": {
       "name": "Lazada",
@@ -2757,7 +2757,7 @@
         "sourceUrl": "https://career.gdufs.edu.cn/web/Index/job-detail?id=11340",
         "graduationYear": "2027"
       },
-      "lastCheckedAt": "2026-10-30T15:51:20.049Z",
+      "lastCheckedAt": "2026-10-30T20:01:19.605Z",
       "nextCheckAfter": ""
     },
     "平安银行北京分行": {
@@ -2772,8 +2772,8 @@
         "sourceUrl": "https://jobs.blcu.edu.cn/front/zpxx.jspa?tid=2114565025103048706",
         "graduationYear": "2027"
       },
-      "lastCheckedAt": "2026-10-30T15:51:20.049Z",
-      "nextCheckAfter": "2026-10-31T15:51:20.053Z"
+      "lastCheckedAt": "2026-10-30T20:01:19.605Z",
+      "nextCheckAfter": "2026-10-31T20:01:19.608Z"
     },
     "安东石油": {
       "name": "安东石油技术（集团）有限公司",
@@ -2787,8 +2787,8 @@
         "sourceUrl": "https://jobs.blcu.edu.cn/front/zpxx.jspa?tid=2113150980995117057",
         "graduationYear": "2027"
       },
-      "lastCheckedAt": "2026-10-30T15:51:20.049Z",
-      "nextCheckAfter": "2026-10-31T15:51:20.053Z"
+      "lastCheckedAt": "2026-10-30T20:01:19.605Z",
+      "nextCheckAfter": "2026-10-31T20:01:19.612Z"
     },
     "算法工程师北京中关村科金": {
       "name": "算法工程师-北京中关村科金技术有限公司",
@@ -2819,6 +2819,36 @@
       },
       "lastCheckedAt": "2026-10-29T16:08:24.293Z",
       "nextCheckAfter": ""
+    },
+    "广东博迈医疗": {
+      "name": "广东博迈医疗",
+      "status": "高校自动发现",
+      "state": "source_registered",
+      "provider": "moka",
+      "officialUrl": "https://app.mokahr.com/m/campus-recruitment/brosmed/146155?locale=zh-CN",
+      "reason": "高校详情页明确给出Moka校园招聘入口",
+      "universityEvidence": {
+        "school": "南开大学",
+        "sourceUrl": "https://career.nankai.edu.cn/correcruit/content/id/120284.html",
+        "graduationYear": "2027"
+      },
+      "lastCheckedAt": "2026-10-30T20:01:19.605Z",
+      "nextCheckAfter": ""
+    },
+    "医疗器械研发工程师广东博迈医疗": {
+      "name": "医疗器械研发工程师（材料、机械、生物医学）-广东博迈医疗科技股份有限公司",
+      "status": "高校自动发现",
+      "state": "source_registered",
+      "provider": "moka",
+      "officialUrl": "https://app.mokahr.com/m/campus-recruitment/brosmed/146155?locale=zh-CN",
+      "reason": "高校详情页明确给出Moka校园招聘入口；等价官方源已存在",
+      "universityEvidence": {
+        "school": "南开大学",
+        "sourceUrl": "https://career.nankai.edu.cn/correcruit/content/id/120283.html",
+        "graduationYear": "2027"
+      },
+      "lastCheckedAt": "2026-10-30T20:01:19.605Z",
+      "nextCheckAfter": ""
     }
   },
   "lastRun": {
@@ -2829,10 +2859,10 @@
     "forceRetry": false
   },
   "lastUniversityBridge": {
-    "candidates": 6,
-    "sourcesAdded": 0,
+    "candidates": 8,
+    "sourcesAdded": 1,
     "sourcesRepaired": 0,
     "queued": 2,
-    "updatedAt": "2026-10-30T15:51:20.049Z"
+    "updatedAt": "2026-10-30T20:01:19.605Z"
   }
 }
