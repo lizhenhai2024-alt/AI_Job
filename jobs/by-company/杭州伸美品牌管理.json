@@ -1,8 +1,350 @@
 {
   "company": "杭州伸美品牌管理有限公司",
-  "count": 6,
-  "updatedAt": "2026-10-29T20:13:50.453Z",
+  "count": 10,
+  "updatedAt": "2026-10-30T01:58:48.081Z",
   "jobs": [
+    {
+      "id": "university-1e2187868df91e",
+      "company": "杭州伸美品牌管理有限公司",
+      "title": "2027届管培生【电商运营方向 E-commerce MT】",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "本科及以上，电商/市营/统计/工商管理相关专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "广州",
+      "jobDescription": "广东外语外贸大学就业信息网发现的招聘信息。该渠道用于岗位发现与交叉取证；正式投递前仍需回公司官方校招官网核验具体岗位、届别与要求。",
+      "jobRequirements": "",
+      "JD": "广东外语外贸大学就业信息网发现的招聘信息。该渠道用于岗位发现与交叉取证；正式投递前仍需回公司官方校招官网核验具体岗位、届别与要求。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "本科及以上，电商/市营/统计/工商管理相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "产品营销",
+        "电商运营"
+      ],
+      "skills": [
+        "Excel",
+        "数据分析",
+        "电商"
+      ],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "二手岗位来源，待官网复核",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "二手岗位来源，待官网复核",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "广东外语外贸大学就业信息网",
+      "officialURL": "https://career.gdufs.edu.cn/web/Index/job-detail?id=11342",
+      "publishedAt": "2027-07-01",
+      "lastVerified": "",
+      "sourceType": "secondary",
+      "deadline": ""
+    },
+    {
+      "id": "university-d505be8e97f286",
+      "company": "杭州伸美品牌管理有限公司",
+      "title": "2027届管培生【产品供应链方向 Product & Sup",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "本科及以上，化妆品技术/应用化学/生物/食品/药学/包装相关专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "广州",
+      "jobDescription": "广东外语外贸大学就业信息网发现的招聘信息。该渠道用于岗位发现与交叉取证；正式投递前仍需回公司官方校招官网核验具体岗位、届别与要求。",
+      "jobRequirements": "",
+      "JD": "广东外语外贸大学就业信息网发现的招聘信息。该渠道用于岗位发现与交叉取证；正式投递前仍需回公司官方校招官网核验具体岗位、届别与要求。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "本科及以上，化妆品技术/应用化学/生物/食品/药学/包装相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "跨文化沟通"
+        ]
+      },
+      "roleFamily": [
+        "产品营销",
+        "项目管理"
+      ],
+      "skills": [
+        "电商"
+      ],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "二手岗位来源，待官网复核",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "二手岗位来源，待官网复核",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "广东外语外贸大学就业信息网",
+      "officialURL": "https://career.gdufs.edu.cn/web/Index/job-detail?id=11343",
+      "publishedAt": "2027-07-01",
+      "lastVerified": "",
+      "sourceType": "secondary",
+      "deadline": ""
+    },
+    {
+      "id": "university-01fb0b55746fca",
+      "company": "杭州伸美品牌管理有限公司",
+      "title": "2027届管培生【市场营销方向 Brand Marketin",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "本科及以上，市营/广告/新传/汉语言相关专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "广州",
+      "jobDescription": "广东外语外贸大学就业信息网发现的招聘信息。该渠道用于岗位发现与交叉取证；正式投递前仍需回公司官方校招官网核验具体岗位、届别与要求。",
+      "jobRequirements": "",
+      "JD": "广东外语外贸大学就业信息网发现的招聘信息。该渠道用于岗位发现与交叉取证；正式投递前仍需回公司官方校招官网核验具体岗位、届别与要求。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "本科及以上，市营/广告/新传/汉语言相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "GTM",
+        "产品营销",
+        "HR",
+        "市场"
+      ],
+      "skills": [
+        "文案",
+        "电商"
+      ],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "二手岗位来源，待官网复核",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "二手岗位来源，待官网复核",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "广东外语外贸大学就业信息网",
+      "officialURL": "https://career.gdufs.edu.cn/web/Index/job-detail?id=11341",
+      "publishedAt": "2027-07-01",
+      "lastVerified": "",
+      "sourceType": "secondary",
+      "deadline": ""
+    },
+    {
+      "id": "university-386f8c8eb8ed51",
+      "company": "杭州伸美品牌管理有限公司",
+      "title": "2027届管培生【直播内容方向 Live & Content",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "广州",
+      "jobDescription": "广东外语外贸大学就业信息网发现的招聘信息。该渠道用于岗位发现与交叉取证；正式投递前仍需回公司官方校招官网核验具体岗位、届别与要求。",
+      "jobRequirements": "",
+      "JD": "广东外语外贸大学就业信息网发现的招聘信息。该渠道用于岗位发现与交叉取证；正式投递前仍需回公司官方校招官网核验具体岗位、届别与要求。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "产品营销"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "二手岗位来源，待官网复核",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "二手岗位来源，待官网复核",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "广东外语外贸大学就业信息网",
+      "officialURL": "https://career.gdufs.edu.cn/web/Index/job-detail?id=11340",
+      "publishedAt": "2027-07-01",
+      "lastVerified": "",
+      "sourceType": "secondary",
+      "deadline": ""
+    },
     {
       "id": "moka-6f09d50f921a",
       "company": "杭州伸美品牌管理有限公司",
