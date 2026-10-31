@@ -1,7 +1,7 @@
 {
   "company": "TCL华星光电",
   "count": 78,
-  "updatedAt": "2026-10-30T20:27:02.634Z",
+  "updatedAt": "2026-10-31T01:51:13.638Z",
   "jobs": [
     {
       "id": "hotjob-779fe73e5dfa",
@@ -6381,7 +6381,7 @@
       "publishedAt": "2026-09-23",
       "lastVerified": "",
       "sourceType": "official",
-      "deadline": "2026-11-04",
+      "deadline": "2026-11-07",
       "recruitmentProcess": "在线网申→在线测评→简历筛选→笔试（研发岗）→一面→二面→offer",
       "recruitmentProcessEvidence": "E2 | TCL招聘官网琥珀计划页 | https://zhaopin.tcl.com/campus/amber.html | 2026-09-17",
       "hasAssessment": "有",
@@ -7050,96 +7050,6 @@
       "hasAssessmentEvidence": "E2 | TCL官方校招门户 | https://campus.tcl.com/campus/spring.html | 2026-09-17"
     },
     {
-      "id": "hotjob-d44b9106d930",
-      "company": "TCL华星光电",
-      "title": "EHS助理工程师",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "本科",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "本科及以上学历，安全工程相关专业",
-        "hardRestriction": true,
-        "hardClauses": [
-          "安全工程相关专业"
-        ]
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "天津",
-      "jobDescription": "1、协助建立并维护公司EHS管理体系，确保符合国家环保、安全法规及行业标准要求； 2、参与日常现场安全巡查与环境监测，识别潜在风险并推动隐患整改，形成闭环管理； 3、协助组织EHS相关培训、应急演练及合规性检查； 4、负责EHS相关数据的收集、统计与报告编制，支撑管理决策。",
-      "jobRequirements": "1、本科及以上学历，安全工程相关专业，熟悉国家及地方环保、安全法律法规，了解 ISO14001,OHSAS18001等管理体系优先； 2、具备良好的沟通协调能力与问题解决能力,能独立完成基础EHS现场工作。",
-      "JD": "1、协助建立并维护公司EHS管理体系，确保符合国家环保、安全法规及行业标准要求； 2、参与日常现场安全巡查与环境监测，识别潜在风险并推动隐患整改，形成闭环管理； 3、协助组织EHS相关培训、应急演练及合规性检查； 4、负责EHS相关数据的收集、统计与报告编制，支撑管理决策。\n1、本科及以上学历，安全工程相关专业，熟悉国家及地方环保、安全法律法规，了解 ISO14001,OHSAS18001等管理体系优先； 2、具备良好的沟通协调能力与问题解决能力,能独立完成基础EHS现场工作。",
-      "jdEvidence": {
-        "source": "llm:deepseek:deepseek-flash",
-        "majorClauses": [
-          "本科及以上学历，安全工程相关专业"
-        ],
-        "eligibilityClauses": [],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [],
-      "experienceKeywords": [
-        "数据",
-        "沟通"
-      ],
-      "preferenceTags": [
-        "国际业务"
-      ],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "公司官方HotJob校招官网",
-      "officialURL": "https://wecruit.hotjob.cn/SU64893571bef57c16d356b99e/mc/detail?postId=6ac85115f0cfabf2b4e6e68b&recruitType=1",
-      "publishedAt": "2026-10-09",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "2027-10-09",
-      "recruitmentProcess": "在线网申→在线测评→简历筛选→笔试（研发岗）→一面→二面→offer",
-      "recruitmentProcessEvidence": "E2 | TCL招聘官网琥珀计划页 | https://zhaopin.tcl.com/campus/amber.html | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E2 | TCL官方校招门户 | https://campus.tcl.com/campus/spring.html | 2026-09-17"
-    },
-    {
       "id": "hotjob-9c20b4be82dc",
       "company": "TCL华星光电",
       "title": "助理工程师 环境安全",
@@ -7221,7 +7131,7 @@
       "publishedAt": "2026-10-09",
       "lastVerified": "",
       "sourceType": "official",
-      "deadline": "2026-11-06",
+      "deadline": "2026-11-07",
       "recruitmentProcess": "在线网申→在线测评→简历筛选→笔试（研发岗）→一面→二面→offer",
       "recruitmentProcessEvidence": "E2 | TCL招聘官网琥珀计划页 | https://zhaopin.tcl.com/campus/amber.html | 2026-09-17",
       "hasAssessment": "有",
@@ -7309,6 +7219,96 @@
       "annualSalary": "未披露",
       "source": "公司官方HotJob校招官网",
       "officialURL": "https://wecruit.hotjob.cn/SU64893571bef57c16d356b99e/mc/detail?postId=6ac85116f0cfabf2b4e6e68e&recruitType=1",
+      "publishedAt": "2026-10-09",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "2027-10-09",
+      "recruitmentProcess": "在线网申→在线测评→简历筛选→笔试（研发岗）→一面→二面→offer",
+      "recruitmentProcessEvidence": "E2 | TCL招聘官网琥珀计划页 | https://zhaopin.tcl.com/campus/amber.html | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | TCL官方校招门户 | https://campus.tcl.com/campus/spring.html | 2026-09-17"
+    },
+    {
+      "id": "hotjob-d44b9106d930",
+      "company": "TCL华星光电",
+      "title": "EHS助理工程师",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "本科及以上学历，安全工程相关专业",
+        "hardRestriction": true,
+        "hardClauses": [
+          "安全工程相关专业"
+        ]
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "天津",
+      "jobDescription": "1、协助建立并维护公司EHS管理体系，确保符合国家环保、安全法规及行业标准要求； 2、参与日常现场安全巡查与环境监测，识别潜在风险并推动隐患整改，形成闭环管理； 3、协助组织EHS相关培训、应急演练及合规性检查； 4、负责EHS相关数据的收集、统计与报告编制，支撑管理决策。",
+      "jobRequirements": "1、本科及以上学历，安全工程相关专业，熟悉国家及地方环保、安全法律法规，了解 ISO14001,OHSAS18001等管理体系优先； 2、具备良好的沟通协调能力与问题解决能力,能独立完成基础EHS现场工作。",
+      "JD": "1、协助建立并维护公司EHS管理体系，确保符合国家环保、安全法规及行业标准要求； 2、参与日常现场安全巡查与环境监测，识别潜在风险并推动隐患整改，形成闭环管理； 3、协助组织EHS相关培训、应急演练及合规性检查； 4、负责EHS相关数据的收集、统计与报告编制，支撑管理决策。\n1、本科及以上学历，安全工程相关专业，熟悉国家及地方环保、安全法律法规，了解 ISO14001,OHSAS18001等管理体系优先； 2、具备良好的沟通协调能力与问题解决能力,能独立完成基础EHS现场工作。",
+      "jdEvidence": {
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科及以上学历，安全工程相关专业"
+        ],
+        "eligibilityClauses": [],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "数据",
+        "沟通"
+      ],
+      "preferenceTags": [
+        "国际业务"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方HotJob校招官网",
+      "officialURL": "https://wecruit.hotjob.cn/SU64893571bef57c16d356b99e/mc/detail?postId=6ac85115f0cfabf2b4e6e68b&recruitType=1",
       "publishedAt": "2026-10-09",
       "lastVerified": "",
       "sourceType": "official",
